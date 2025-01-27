@@ -1,0 +1,831 @@
+Consiglio Regionale della Valle d'Aosta - Oggetto del Consiglio n. 4134 del 20 novembre 2024 - Resoconto
+Vai al contenuto principale
+Oggetti del Consiglio
+Invia
+Stampa
+Documenti
+Verbale
+Resoconto
+Collegamenti
+Iter atto
+Classificazione
+INFORMAZIONE
+Radiotelecomunicazioni
+Precedente
+Successivo
+Resoconto integrale del dibattito dell'aula. I documenti allegati sono reperibili nel link "iter atto".
+Oggetto del Consiglio n. 4134 del 20 novembre 2024 - Resoconto
+OGGETTO N. 4134/XVI - Reiezione di mozione: "Impegno della
+Giunta regionale ad avviare uno studio sulle conseguenze delle
+emissioni delle reti 5G e delle nuove infrastrutture".
+Bertin (Presidente) -
+Per illustrare la mozione, il
+consigliere Manfrin ne ha facoltà.
+Manfrin (LEGA VDA) -
+La prossima introduzione della
+tecnologia di telefonia mobile di quinta generazione, di seguito
+ovviamente chiameremo 5G, darà luogo a nuovi scenari di esposizione
+della popolazione a campi elettromagnetici a radiofrequenza, che
+saranno messi in bandi di frequenza, 694-790 MHz, 3,6-3,8 GHz e
+26,5-27,5 GHz, diverse da quelle utilizzate attualmente per la
+telefonia mobile, da 800 MHz a 2,6 GHz.
+Uno degli aspetti di particolare novità del 5G consiste nel
+fatto che non sarà finalizzato solo alla comunicazione tra persone,
+ma anche al cosiddetto Internet delle cose, in cui i vari
+dispositivi wireless comunicano direttamente tra loro, utilizzando
+in particolare onde elettromagnetiche di frequenza appartenente
+alla banda 26,5-27,5 GHz, indicate spesso come onde millimetriche,
+anche se queste ultime corrispondono più precisamente alle
+frequenze comprese tra 30 e 300 GHz, lunghezza d'onda comprese tra
+1 e 10 mm..
+Onde elettromagnetiche di così elevata frequenza, durante la
+loro propagazione, non riescono a penetrare attraverso gli edifici
+o comunque a superare ostacoli e inoltre vengono facilmente
+assorbite dalla pioggia e dalle foglie.
+Per questo motivo sarà necessario utilizzare, in maggiore misura
+rispetto alle attuali tecnologie di telefonia mobile, le cosiddette
+Small Cells, aree di territorio coperte dal segnale a
+radiofrequenza le cui dimensioni, che possono andare da una decina
+di metri indoor a qualche centinaio di metri outdoor, sono molto
+inferiori a quelle delle macro celle, che possono essere estese
+anche a diversi chilometri.
+Ciò comporterà l'installazione di numerose antenne e questa
+proliferazione di antenne è una delle principali cause di
+preoccupazione della popolazione circa possibili rischi per la
+salute connessi alle emissioni elettromagnetiche del 5G.
+In seguito alla valutazione della IARC del 2013, che aveva
+definito i campi elettromagnetici a radiofrequenze come possibili
+cancerogeni per gli effetti su tumori della testa legati all'uso
+prolungato del cellulare, sono stati condotti numerosi studi che
+hanno indagato le associazioni tra l'esposizione a lungo termine a
+campi elettromagnetici e vari problemi di salute, oncologici e
+non.
+Le esposizioni derivanti non dall'uso del telefono cellulare ma
+da altri sorgenti, quali le stazioni radio base SRB, sono di natura
+diverse, soprattutto perché i possibili effetti non sono limitati
+alla testa e, come appare da studi di monitoraggio, sono di minore
+intensità.
+A oggi, gli studi sugli effetti sulla salute delle esposizioni
+alle sezioni radio base forniscono risultati contrastanti.
+Peraltro, a causa dei limiti di emissione, il 62% dei siti
+esistenti nelle aree urbane risulterebbe non aggiornabile al 5G e
+gli extra costi, per realizzare le coperture, ammonterebbero a 1,3
+miliardi di euro circa per operatore.
+Per mantenere i 6 Volt al metro, si stima una spesa di circa 4
+miliardi di euro all'anno, un costo decisamente elevato per le
+compagnie di telefonia.
+Occorre anche sottolineare che le emissioni del 5G si combinano
+ad altre forme di emissioni elettromagnetiche, tutte con le
+conseguenze che tali emissioni possono avere sia sulla salute che
+sull'ambiente.
+Un gruppo di ricercatori svedesi ha pubblicato il primo studio
+al mondo che documenta gli effetti immediati sulla salute umana
+delle radiazioni 5G, si tratta di gruppi di persone che, tra il
+2023 e il 2024, hanno iniziato a stare male subito dopo
+l'installazione delle nuove antenne 5G vicino alle loro abitazioni,
+precisamente a una distanza compresa fra i 3 e i 538 metri.
+In alcuni casi i sintomi sarebbero stati così gravi da
+costringere le persone a trasferirsi altrove.
+La ricerca è stata condotta dall'oncologo dottor Lennart Hardell
+della Fondazione svedese per l'ambiente e la ricerca sul cancro,
+noto per gli studi epidemiologici sui tumori tra gli utilizzatori
+del cellulare, in collaborazione con Mona Nilsson della Fondazione
+svedese per la protezione delle radiazioni.
+I ricercatori hanno misurato il campo elettromagnetico nelle
+abitazioni di coloro che lamentavano problemi di salute correlati
+al 5G e hanno documentato che il 5G comporta un notevole aumento
+della radiazione a radiofrequenza pulsata rispetto alle generazioni
+precedenti della telefonia mobile.
+Le persone oggetto dello studio abitavano da anni vicino a
+ripetitori della telefonia mobile, ma non avevano mai lamentato
+disturbi con le reazioni del 2G, 3G e 4G, ma hanno iniziato a stare
+male entro le 24 ore successive all'attivazione del 5G.
+Lo studio svedese è particolarmente innovativo, perché documenta
+gli effetti sulla salute delle radiazioni del 5G nelle reali
+condizioni d'uso, mentre fino ad oggi c'erano soltanto studi sugli
+effetti biologici delle diverse frequenze del 5G.
+Gli effetti biologici delle radiazioni non sono legati soltanto
+alla densità di potenza, che dà informazioni sulla sua intensità ed
+è responsabile del riscaldamento, ma sono determinati anche dalla
+qualità delle radiazioni, ovvero dalla sua pulsazione,
+polarizzazione e rimodulazione.
+I sintomi più comuni che sono stati trovati appunto nelle
+persone in questione erano disturbi del sonno, stanchezza, mal di
+testa, irritabilità, problemi di concentrazione, compromissione
+della memoria a breve termine e problemi della pelle.
+Questi sono gli stessi sintomi descritti più di 50 anni fa come
+sindrome da microonde o malattia da radiofrequenza.
+In tutti i casi osservati, i livelli di radiazione erano
+inferiori ai livelli considerati sicuri dagli standard
+internazionali; questi proteggono infatti solo dagli effetti del
+riscaldamento immediato delle radiazioni, ovvero dagli effetti
+termici, e non dagli altri effetti biologici che sono dovuti
+all'interferenza del campo elettromagnetico esterno con quello dei
+sistemi viventi, e quindi effetti non termici.
+A conferma del ruolo delle radiazioni del 5G c'è anche
+l'osservazione che i soggetti irradiati, una volta trasferiti in
+un'altra casa con livelli di radiazioni più bassi, stavano meglio;
+i sintomi si attenuavano e nella maggior parte dei casi
+scomparivano completamente dopo un breve periodo.
+In Italia i limiti di esposizione sono misurati su una media di
+24 ore e non di 6 minuti, come avviene invece in tutto il mondo.
+L'intervallo di 6 minuti è il tempo biologico necessario alle
+cellule a dissipare il calore prodotto dalla radiazione di
+radiofrequenza attraverso la circolazione sanguigna.
+Si tratta quindi di un tempo necessario per proteggere le
+cellule dagli effetti del riscaldamento prodotto dal campo
+elettromagnetico.
+Questa scelta è stata fatta nel 2012 dal Governo Monti che ha
+portato la media di misurazione della radiazione da radiofrequenza
+da 6 minuti a 24 ore, con lo scopo di diluire i valori misurati e
+aumentare di fatto i limiti delle radiazioni da radiofrequenza.
+È evidente quindi che, con il crescente utilizzo di queste
+tecnologie, si rendono necessari studi condotti da enti terzi
+rispetto all'Amministrazione regionale, all'insegna della
+trasparenza e della piena accessibilità dell'informazione alla
+comunità, al fine di garantire alla popolazione un'informazione
+chiara, soprattutto in caso di installazione di nuove antenne
+vicino a scuole, ospedali e aree residenziali.
+Peraltro, lo stesso Consiglio europeo, con raccomandazione del
+12 luglio 1999, nell'atto 519 EC, ha previsto al punto 6 che gli
+Stati membri dovrebbero promuovere programmi di ricerca al fine di
+migliorare la conoscenza degli effetti dei campi elettromagnetici
+sulla salute umana, tenendo conto delle raccomandazioni e degli
+sforzi di ricerca comunitaria e internazionale.
+Con questa mozione, chiediamo quindi al Governo regionale di
+attivare, attraverso un finanziamento da prevedere esplicitamente a
+tal fine, un sistema di studio e monitoraggio complessivo di
+sistema dell'impatto sulla salute umana e su quella ambientale
+dell'intero sistema di infrastrutture, reti e loro emissioni che si
+otterrà con l'aggiunta delle nuove infrastrutture reti 5G, al fine
+di garantire e tutelare la salute dei Valdostani.
+Presidente -
+Il Consigliere Manfrin ha illustrato la
+mozione, la discussione generale è aperta. Consigliera Minelli, ne
+ha facoltà.
+Minelli (PCP) -
+Il nostro gruppo condivide la necessità
+di digitalizzazione che c'è per il nostro Paese e ovviamente anche
+per la nostra regione.
+La diffusione della banda ultralarga su tutto il territorio
+nazionale, sia con la fibra, sia con il 5G, laddove non è possibile
+un'alternativa, può servire a colmare una lacuna, quella del
+Digital Divide che è indubbiamente una lacuna del nostro
+territorio.
+Ma questo deve avvenire, a nostro avviso - o meglio, doveva
+avvenire - senza modifiche dei limiti di esposizione e di
+attenzione cautelativi a fronte di rischi o potenziali rischi
+sanitari che, con l'aumento, possono ovviamente manifestarsi.
+Attualmente il limite è stato fissato a 15 Volt al metro, dal
+decreto concorrenza nel 2023, e precedentemente era di 6 Volt al
+metro, quindi parliamo di un più che raddoppio, ed è un limite che
+ha generato non poche polemiche, perché non esiste nessun motivo
+valido per innalzare il valore di attenzione per i campi
+elettromagnetici generati dalle alte frequenze, se non quello
+economico, da parte ovviamente dei gestori delle telecomunicazioni,
+che intendono risparmiare sui costi delle loro infrastrutture.
+È una soglia che è stata assunta senza un vero fondamento
+scientifico e ci sono forti preoccupazioni che sono state
+manifestate da più parti, veramente molte; ne cito soltanto una,
+perché è quella che, fra le tante che ho letto, mi è sembrata anche
+più convincente e che è quella della dottoressa Belpoggi che è
+stata a lungo direttrice scientifica dell'Istituto Ramazzini di
+Bologna che, come sappiamo, è un istituto che si occupa di
+prevenzione del cancro.
+Attualmente è responsabile scientifico dell'ISDE, l'Associazione
+dei medici per l'ambiente.
+La dottoressa Belpoggi, in una recente pubblicazione, affermava:
+"A cambiare sarà la densità di potenza, cioè l'energia assorbita
+dal nostro corpo, che aumenterà di sei volte tanto. Oggi l'Italia
+ha voluto allinearsi agli altri Paesi europei, innalzando il suo
+limite, ma allora perché non si è allineata anche nei tempi di
+misurazione? É vero che il limite considerato sicuro è di 61 Volt
+al metro, quindi noi siamo a 15, che è molto al di sotto, quindi
+dovremmo teoricamente stare tranquilli, ma il fatto è che negli
+altri Stati europei, che hanno anche limiti superiori a quello
+italiano, questi valori sono stati misurati sui picchi massimi. In
+Italia, invece, sono misurati su tutta la giornata, giorno e notte,
+quindi a fare la media ci sono anche le ore notturne, dove il
+traffico di telecomunicazioni, lo sappiamo, è, se non azzerato,
+quasi azzerato".
+Che cosa succede quindi? Che i dati, in qualche modo, risultano
+falsati.
+Da questa cosa è chiaro che il nostro corpo, o di chi si espone
+a questi picchi, ha una frequenza più elevata, su questo credo che
+non ci piova.
+Quello delle onde elettromagnetiche, al momento, resta un
+argomento che è ancora, a nostro avviso, troppo poco indagato. Sono
+stati fatti degli approfondimenti, ma riteniamo che non siano - a
+livello generale, intendo - sufficienti, perché essere esposti 24
+ore su 24, soprattutto per alcune categorie di persone, penso ai
+bambini, agli anziani, alle donne incinte, può essere pericoloso;
+uso il "Può" perché non abbiamo dati certissimi, però è una cosa
+che tutta una serie di scienziati ci dice, e allora perché non
+sostituire, per esempio, le grandi antenne - che hanno una
+concentrazione - con una serie di antenne più piccole anche per
+diluire questa esposizione?
+Si poteva mantenere i 6 Volt che avevamo fino a prima del
+cambiamento della situazione, ma per mantenerli che cosa occorreva?
+Occorreva una spesa molto alta, che è stata stimata tra i 3 e i 4
+miliardi all'anno, un costo che gli operatori non vogliono
+sostenere.
+Ben venga quindi l'impegno di questa mozione, che
+sostanzialmente che cosa chiede? Chiede un approfondimento e un
+monitoraggio dell'impatto sulla salute.
+Noi riteniamo che sia corretto che si attivi, anche nella nostra
+regione, un'attività di questo tipo, proprio perché quest'impatto
+della tecnologia 5G è considerato in maniera controversa dagli uni
+e dagli altri, ma avere un approfondimento può comunque aiutare a
+fare chiarezza.
+Voteremo quindi la mozione.
+Presidente -
+Si è prenotato il consigliere Baccega, a
+seguire il consigliere Lucianaz. Consigliere Baccega, ne ha
+facoltà.
+Baccega (FI) -
+Abbiamo letto con grande attenzione la
+mozione che è stata presentata dai due gruppi di opposizione e che
+ci hanno riportati alla mozione che noi abbiamo posto
+all'attenzione della Giunta nel maggio scorso, individuando nei
+percorsi di Terna la volontà e la necessità di fare una verifica e
+una serie di approfondimenti.
+Anche nel Comune di Gignod, avevamo valutato due diverse
+situazioni, una che attraversava i Comuni da Charvensod fino ad
+Aymavilles e l'altra che riguardava appunto l'antenna che dovrà
+essere posizionata nel Comune di Gignod; in quella mozione avevamo
+proprio chiesto un approfondimento, individuando in ARPA il
+soggetto che poteva darci delle importanti informazioni rispetto a
+uno studio che deve, secondo noi, essere fatto.
+L'impegno quindi che la mozione pone all'attenzione del
+Consiglio, ovvero di fare un approfondimento sulla salute
+dell'intero sistema d'infrastrutture e di reti e delle loro
+emissioni, che si otterrà con l'aggiunta delle nuove infrastrutture
+reti 5g, è sicuramente in linea con quello che è il nostro
+pensiero.
+Si tratta sicuramente di approfondire e si tratta soprattutto di
+dare un minimo di sicurezza anche alle popolazioni che in qualche
+modo sono vicine a questi impianti e che talvolta sono sollecitate
+da informazioni che possono anche essere fuorvianti.
+Che la scienza ci dia delle risposte concrete rispetto a questi
+percorsi.
+Voteremo con convinzione questa mozione.
+Presidente -
+Consigliere Lucianaz, ne ha facoltà.
+Lucianaz (RV) -
+Ho apprezzato gli interventi dei
+consiglieri Manfrin e Minelli, segno che si sono preparati con
+attenzione su questo tema complicato, e sarebbe il caso che tanti
+Consiglieri qui in quest'aula se ne occupassero almeno un poco.
+Ringrazio per l'intervento anche Baccega.
+Ho sostenuto questa mozione - non poteva essere diversamente - e
+facendolo mi rivolgo in particolare alla maggioranza del Consiglio,
+che è così sensibile ai temi della salute e dell'ecosistema, così
+resiliente a combattere la loro battaglia in nome di un ambiente
+più pulito e più sano; in particolare i padri di famiglia
+responsabili che si preoccupano per il domani delle future
+generazioni.
+Volevo dirvi che i campi elettromagnetici rappresentano uno
+degli inquinanti ambientali più diffusi, in rapido aumento
+nell'ambiente, e che sono capaci di modificazioni biologiche su
+cellule e organismi viventi, gli uomini compresi.
+I campi magnetici sono naturali, come sappiamo, controllano
+tutti i processi vitali degli esseri viventi, quindi i movimenti
+molecolari, oscillazioni cellulari, interazioni ioniche.
+I campi elettromagnetici sono prodotti dalla natura, e parlo di
+raggi cosmici, energia luminosa, geomagnetismo della terra e degli
+esseri viventi stessi.
+Il fatto è che fino al 1940 il fondo naturale pulsato era di
+0,0002 Volt/metro, ma nel secolo scorso c'è stato un enorme
+ingresso di campi artificiali a bassa e alta frequenza, quindi
+antenne radio, telefoni, cavi elettrici, lampade, elettrodomestici,
+elettrodotti eccetera eccetera, ad alta frequenza, a bassa
+frequenza, a bassa frequenza ma alta intensità, eccetera eccetera,
+l'argomento è molto complesso.
+Il livello di radiazioni radiofrequenza dal 1940, anzi,
+facciamola più breve, dal 1985 al 2005, in 20 anni, il livello di
+radiazioni radiofrequenza nei paesi industrializzati è aumentato di
+5 mila volte, quindi 5 mila volte in più radiazioni che l'essere
+umano, come tutti gli esseri viventi, riceve. Farà bene?
+Il sistema 5G nasce nel secolo scorso negli USA da una ricerca
+dell'industria militare per la guida dei carri armati, droni,
+missili, visualizzazioni di immagini 3D, funziona con elementi
+emittenti onde ad alta frequenza, nelle bande 700 MHz e 27 GHz, ma
+si arriverà presto a 86 GHz, cose impressionanti, con antenne
+Phased array, che sono vettori a schiera di fase, non sto a farla
+più difficile, ma qui c'è il problema che ci sarebbe da
+approfondire la geometria fissa delle reti 3G attualmente
+esistenti, mentre la rete 5G richiede una geometria diversa.
+Tutto questo per dire che stiamo installando una 5G sulla
+geometria fissa della 3G, questo è naturalmente sottoutilizzato, ma
+questi sono argomenti che speriamo di affrontare in sede con i
+tecnici.
+In tutto questo, il 5G opererà con frequenze molto più elevate
+di quelle finora utilizzate e si sommerà ai campi delle attuali 2G,
+3G e 4G, rendendo tra l'altro difficile la misurazione del campo
+elettromagnetico da parte delle ARPA.
+Si renderà necessaria l'installazione di numerosissimi micro
+ripetitori in aree urbane: si calcola 250 antenne per miglio
+quadrato, il che corrisponde a un'antenna ogni 100 m² circa,
+ricordiamo, ci sarà un'antenna ogni 100 m².
+Notizia di oggi: a Milano mille lampioni vedranno
+l'installazione di small cell, di cui parlava il collega Manfrin,
+installate sui pali dell'illuminazione pubblica, se ne occuperà
+l'A2A.
+Cosa succede? Che le piccole celle sui lampioni saranno
+all'inizio di un processo che porterà alla rete, naturalmente più
+potente, più diffusa per migliorare la connessione, ma i residenti
+stanno già raccogliendo firme, perché questo è il primo passo verso
+un modello di Smart City, naturalmente questo per migliorare la
+qualità della vita dei suoi abitanti.
+Ma cosa avviene altrove? Ad Arezzo l'8 ottobre 2024, quindi
+parlo di poco più di un mese fa, il Comune ha fatto
+dietrofront.
+Il Comune di Arezzo ha proceduto alla redazione di un
+provvedimento di annullamento d'ufficio in autotutela riguardo
+l'installazione della nuova stazione radio base per telefonia
+cellulare. L'atto è stato conseguentemente affidato al parere
+tecnico che ha evidenziato la prevalenza della tutela della salute
+pubblica sull'erogazione di servizi di telefonia mobile, peraltro
+l'area era già coperta.
+"L'antenna va smontata", queste le parole del Comune, sono state
+evidenziate le mancate indifferibilità e urgenza, quali presupposti
+per il rilascio dell'autorizzazione e l'indisponibilità della ditta
+a individuare una diversa soluzione li ha costretti appunto a
+questa decisione.
+Si determina quindi di procedere all'annullamento d'ufficio
+dell'atto autorizzativo precedentemente accordato e,
+conseguentemente, di disporre il ripristino dello stato dei luoghi.
+L'antenna è stata presa e portata via.
+In seguito l'esempio del Sindaco di Cassano Ionio, è bene
+ricordarlo: ha emesso un'ordinanza con cui chiedeva lo stop ai
+lavori, in attesa che venissero effettuate tutte le verifiche atte
+ad assicurare la tutela della salute della popolazione.
+In Toscana, lo saprete bene, il 22 settembre scorso, quindi
+neppure due mesi fa, la delibera di Giunta regionale, a firma
+dell'Assessore all'ambiente e dell'Assessore alla sanità, ripeto:
+l'Assessore all'ambiente e l'Assessore alla sanità regionali,
+sicuramente più attenti alla salute dei loro concittadini di altre
+realtà montane che conosciamo bene, hanno stanziato una cifra di
+222 mila euro per condurre quella che forse è la prima ricerca
+scientifica condotta a livello pubblico, almeno in Italia.
+La Toscana ha deciso uno studio sui 5G, sei città capoluogo di
+circa 100 mila abitanti, Pisa, Livorno, Lucca, Firenze, Prato e
+Arezzo, anzi, qualcuna di molto più di 100 mila, cercheranno di
+capire quale legame c'è tra i tumori accusati dalla popolazione,
+soprattutto infantile, e i campi elettromagnetici generati dalle
+stazioni radio base che stanno sorgendo un po' dappertutto in
+Toscana.
+Finora la comunità scientifica, come sostenevano i colleghi che
+mi hanno preceduto, ha indagato solo sull'aspetto dei campi
+elettromagnetici, cioè l'aspetto termico. Ben diverso è l'aspetto
+sui tessuti biologici.
+Ci saranno le due agenzie regionali che sono coinvolte.
+ARPA Toscana è incaricata di misurare l'esposizione
+all'inquinamento da banda larga superveloce; tra i suoi compiti:
+analizzare i limiti e gli scenari di sviluppo della rete 5G;
+elaborare un modello matematico che consenta la previsione su scala
+urbana dei livelli di esposizione presenti nei capoluoghi; misurare
+l'esposizione con le centraline già in dotazione e acquistarne
+altre; svolgere controlli sugli impianti 5G esistenti,
+possibilmente di gestori diversi, e su quelli in costruzione che si
+stanno installando; applicare agli impianti dei dosimetri speciali
+per la banda larga per misurare l'esposizione e valutare i livelli
+di esposizione dove questa è più alta e dove la densità della
+popolazione è maggiore, questo in particolare nelle zone dove ci
+sono scuole, con la presenza di bambini.
+All'ARS, invece, l'Agenzia Regionale di Sanità, spetterà: il
+monitoraggio della salute e la sorveglianza epidemiologica sulle
+città in cui si registrano livelli di campo elettromagnetico un po'
+più alti, le stime potranno essere perfezionate anche all'interno
+di abitazioni e scuole; fare una stima delle possibili associazioni
+tra esposizione ai campi elettromagnetici e malattie.
+"Sulla base della scarsa letteratura scientifica disponibile",
+dice l'ARS, "si prevede di focalizzare l'attenzione sulla
+popolazione infantile, in quanto più suscettibile agli effetti
+dell'inquinamento elettromagnetico".
+Cosa succede ai bambini? Succede che i CEM, cioè i campi
+elettromagnetici, non hanno problemi ad attraversare il corpo
+umano, lo dimostrano le immagini ottenute dalle apparecchiature
+radiologiche a risonanza magnetica, che mostrano l'ingresso del
+campo nella scatola cranica umana al contatto, ad esempio, di un
+cellulare.
+Questa dinamica è alla base della patogenesi dei tumori del
+nervo acustico e delle aree del tessuto cerebrale esposte al lato
+del contatto con il telefono mobile.
+La cosa impressionante è che nell'adulto, la penetrazione è di
+pochi centimetri, mentre in un bambino attraversa quasi
+completamente il cervello, naturalmente avendo una base più
+fragile, più leggera.
+Il dottor Gandus, che è stato in collegamento poco tempo fa con
+Aosta, in occasione di una serata dedicata proprio all'argomento,
+sosteneva che l'aumento dei tumori cerebrali infantili si sta
+riscontrando negli anni 2000 e probabilmente una delle cause
+potrebbero essere proprio le onde elettromagnetiche.
+Gli studi - sono stati citati dal collega - sono infiniti, si
+parla di più di 10 mila studi, e citiamo l'Agenzia internazionale
+per la ricerca sul cancro, lo studio del prof.Hardell, il National
+Toxicology Program, l'Istituto Ramazzini è stato pure citato,
+eccetera eccetera, ma abbiamo anche in sede giudiziali le sentenze:
+il Tar del Lazio nel 2019 e il Tar di Monza nel marzo 2019 hanno
+attestato il nesso tra campi elettromagnetici e cancro oltre ogni
+ragionevole dubbio.
+Che cosa succede qui in Valle d'Aosta, invece? Per ben due
+volte, l'Assessore all'ambiente mi ha risposto che i dati
+corrispondono a quanto la letteratura e i recenti studi hanno
+documentato, però il problema è che c'è quest'istituto che ha
+effettuato questi rilevamenti, l'ICNIRP, International Commission
+on non-ionizing radiation protection, e ha stabilito a 61
+Volt/metro il livello non preoccupante, ed è la misura adottata a
+livello europeo.
+Il problema è che quest'istituto è considerato un'autorità
+soltanto dalla Commissione Europea, la quale ha conferito
+l'incarico a questa piccola associazione privata della Baviera di
+redigere le linee guida per la limitazione all'esposizione.
+L'incarico è stato assegnato nel 1997 e nel 1998 sono già state
+diramate queste misure, cioè 61 Volt/metro, ma gli studi - ho
+parlato di più di 10 mila studi a livello mondiale - sostengono una
+cosa ben diversa, e cioè che già a 0,2 Volt/metro c'è interazione
+con il tessuto umano, quindi sicuramente c'è da fare parecchio, c'è
+da approfondire parecchio.
+La deriva è che, oltre a questo disastro sulla terraferma, il
+progetto 5G arriverà anche dallo spazio. É previsto un lancio in
+orbita di almeno 20 mila satelliti che dalla stratosfera copriranno
+la terra con fasce orientabili, ognuno emetterà 5 milioni di watt
+sul suolo che si collegheranno ai miliardi di oggetti dell'Internet
+delle cose, parliamo di automobili, televisori, sensori, computer e
+tablet, si stima che già nel 2020 erano oltre 20 miliardi questi
+oggetti collegati, rendendo l'ambiente dove viviamo un vero forno a
+microonde 24 ore su 24, senza scampo, senza possibilità di
+spegnerlo o di nascondersi da qualche altra parte.
+Ben venga quindi, speriamo in un pochino, un po' - non si
+pretende tanto - di buon senso da parte di questo Governo, ben
+venga un approfondimento: devo ammettere che il Presidente della
+III Commissione, a cui ho chiesto la possibilità di ottenere delle
+audizioni da parte del mondo scientifico in quest'aula, si è
+attivato e a breve dovremmo concordare questi incontri.
+La richiesta è che venga ascoltato il mondo scientifico e non
+solo i rispettabilissimi tecnici dell'ARPA, per i quali abbiamo
+tutto il doveroso rispetto, però qui abbiamo scienziati che hanno
+dedicato la vita intera a queste ricerche.
+Abbiamo scienziati, abbiamo medici, che quotidianamente si
+confrontano con questo problema.
+Vorrei proprio capire quale può essere l'impedimento ad
+approfondire seriamente questa tematica.
+Presidente -
+Ci sono altri interventi nella discussione
+generale? Non vedo altre richieste, chiudo la discussione generale.
+Per il Governo, replica l'assessore Caveri.
+Caveri (UV) -
+Stavolta tocca a me perché si parla di
+tralicci, oltre che a parlare della tecnologia del 5G.
+Ho sentito esposte le teorie ben note di coloro che sono contro
+il 5G, è un movimento interessante, antimodernista, che si collega
+ad altre teorie antimoderniste.
+Ricordo quella che diceva che chi si faceva il vaccino sarebbe
+morto, adesso, facendo le corna, non vorrei morire alla fine del
+mio intervento, ma è del tutto evidente che esistono delle
+contraddizioni che vorrei subito dire.
+Io capisco la posizione del consigliere Lucianaz, che da sempre
+si è battuto, e va dato atto anche della competenza tecnica che
+farebbe invidia alla laurea in fisica del collega Lavevaz, ma io
+trovo che ci sia una contraddizione nei colleghi della Lega e nei
+colleghi di Forza Italia, perché sono stati i vostri Governi, e in
+particolare il Governo Meloni, ad aumentare il tasso di
+elettromagnetismo - lo ha ricordato con la data del 2023 la collega
+Minelli - così come è il vostro Governo che si è rimangiato un
+decreto legislativo che avrebbe dato qualche chances ai Comuni
+almeno di spostare quei tralicci che verranno messi anche in Valle
+d'Aosta.
+Devo correggere solo la consigliera Minelli: il 5G sono piccoli
+impianti, è molto diversa la tecnologia. Ci saranno più piccoli
+tralicci rispetto ai grandi tralicci che abbiamo oggi.
+Allora è difficile oggi, consigliere Manfrin, sentire che la
+Lega valdostana - immagino in una logica di federalismo, che
+apprezzo - dica delle cose contrarie a quello che dice il
+Governo.
+Il Governo ha, di fatto, liberalizzato il posizionamento dei
+tralicci, oggi nessuno può fare nulla, né la Regione, né i piani
+regolatori comunali, e vedremo come andrà a finire la questione di
+Arezzo, perché è nelle mani della giustizia amministrativa Con le
+ultime normative che da una parte hanno aumentato i limiti dei
+campi elettromagnetici in Italia, che restano - dico anche questo
+alla consigliera Minelli - inferiori a quelli della media europea,
+ma soprattutto con la legge di conversione di un recente decreto
+legge, c'è questa previsione: al fine di consentire il tempestivo
+raggiungimento di obiettivi di trasformazione digitale per gli
+interventi del Piano Italia 5G di realizzazione di nuove
+infrastrutture di rete idonee praticamente non si può fare più
+niente.
+Noi non abbiamo i Comuni che oggi dicono: "Al posto di mettere
+il traliccio lì, lo mettiamo là", non hanno alcuna facoltà.
+Questa era una chiarezza di tipo politico. Ripeto, chi è contro
+il 5G, lo fa legittimamente, mi stupisce che chi oggi con legge
+dello Stato ha favorito una massiccia movimentazione di questi
+tralicci, oggi in quest'aula dica il contrario.
+Poi, per carità, ripeto, io immagino che ci sia un rispetto
+localistico e non vorrei che fosse solo uno schiacciare l'occhio a
+chi è contro il 5G.
+Perché non c'è bisogno che si faccia uno studio specifico,
+questo non lo dico io, io ovviamente ho approfondito con i tecnici
+del Dipartimento, ma soprattutto con l'ARPA, che è quella che deve
+fare le misurazioni, che devono corrispondere a quei limiti che,
+come dicevo prima, sono aumentati. Secondo l'ARPA è inutile, perché
+lei stessa fa parte di un sistema di ARPA italiano che continua ad
+avere un costante scambio d'informazioni rispetto alle ricerche
+scientifiche che sono fatte e come voi sapete c'è anche un
+organismo centrale che si chiama ISPRA, anch'esso in connessione
+con tutti gli istituti che stanno facendo le ricerche e che in gran
+parte negano alcune cose che voi avete detto oggi, perché sono a
+tutt'oggi le risultanze ufficiali quelle che regolamentano la
+legislazione nazionale e noi non abbiamo, come autonomia, una
+possibilità di cambiare delle norme tecniche che hanno addirittura
+una valenza europea. Secondo l'ARPA è più che sufficiente far parte
+di questo sistema, sarebbero oggi degli studi specifici in Valle
+d'Aosta e soldi buttati via, perché tutti gli istituti di cui fa
+parte, con collaborazioni molto ampie, la nostra ARPA, lo stanno
+facendo con grande efficacia, quindi ci asterremo.
+Presidente -
+Consigliere Baccega, per dichiarazione di
+voto, ne ha facoltà.
+Baccega (FI) -
+Ovviamente manterremo il voto.
+Se nel mese di maggio la risposta che arrivava dalla Giunta
+fosse stata di questo tenore, noi certamente avremmo approfondito,
+ma non abbiamo avuto questa risposta da parte della Giunta, o c'è
+stato un passaggio successivo al mese di maggio, oppure...
+Comunque noi qui chiediamo, ai fini della salute delle persone,
+se quello che sta succedendo sia un percorso fattibile. Lei mi dice
+che non si può più fare niente, ne prendiamo atto, però secondo noi
+un approfondimento rispetto alle popolazioni che hanno il
+Superphénix che gli passa sul tetto... qualcosa si dovrà vedere e
+fare perché, secondo me, qualche problema ci sarà. Faremo degli
+approfondimenti anche noi.
+Io non ho parlato e non ho detto che Forza Italia è contro il
+5G, questo non può mettermelo in bocca, ho semplicemente detto che
+ai fini della salute della popolazione sarebbe opportuno fare degli
+approfondimenti, ed ecco perché noi vogliamo votare questa
+mozione.
+Presidente -
+Consigliere Manfrin, ne ha facoltà. Il
+Consigliere Manfrin è promotore della mozione, per cui non 5 minuti
+bensì...
+Manfrin (LEGA VDA) -
+Grazie, assessore Caveri, per la sua
+risposta che, per una volta, sinceramente, mi aspettavo differente,
+proprio per il fatto che so che lei è una persona che si prepara e
+che approfondisce i temi; invece è caduto obiettivamente in una
+risposta che è più scontata delle battute di Topolino, e di questo
+me ne dispiaccio per due ordini di motivi.
+Il primo è che lei ha tentato di provare a dipingere le persone
+che sollevano una richiesta, che non è di tornare all'età della
+pietra, di vivere come i mormoni, ma è una richiesta - come è stato
+detto correttamente dai colleghi di Forza Italia, così come dagli
+altri colleghi che mi hanno preceduto durante l'illustrazione di
+quest'iniziativa, durante la discussione generale - di avere delle
+tutele e di fare degli approfondimenti dal punto di vista della
+salute.
+Io non sono noto per essere uno di quelli che vogliono piantare
+le margherite in autostrada, quindi non mi si può accusare di
+essere uno che odia la modernità, di certo odio le imposizioni, lei
+sa che io e lei la pensiamo in maniera differente sugli obblighi
+vaccinali per esempio, io sono per la libertà, lei è per obbligare
+a forza le persone, pena la morte sociale e lavorativa, sono
+questioni di scelta: era felicissimo che ci fossero degli obblighi
+per le persone che facevano o non facevano un determinato
+trattamento sanitario e questo segna la differenza tra noi che è
+assolutamente legittima, come lei ha evidenziato.
+Se però lei avesse avuto un approccio meno ideologico e più nel
+merito - perché lei è capace di fare questo tipo di analisi,
+assolutamente, sicuramente molto più del sottoscritto che ha fatto
+meno politica di lei - e si fosse limitato a leggere il testo,
+avrebbe visto che qui non c'è nessuna teoria complottista, nessun
+terrapiattismo, nessuna ipotesi di cancellare qualsiasi rete
+tecnologica della nostra regione, ma una richiesta molto semplice,
+cioè fare degli studi e approfondire appunto il tema dei potenziali
+rischi della rete.
+Lei ha sollevato la questione politica e sono felice che l'abbia
+fatto, le risponderò ovviamente in due parti.
+La prima è che se lei va a vedere, nonostante l'aumento di cui
+lei ha parlato, che è assolutamente corretto, l'Italia rimane uno
+dei Paesi europei con le più basse emissioni, con i limiti più
+bassi, quindi evidentemente questo aumento è stato fatto, ma
+tenendo a mente che bisognava rimanere in certi standard,
+ovviamente rimediando critiche, che giustamente ha ricordato - e
+penso che non debba spiegare a lei, soprattutto che ha avuto una
+coabitazione in Giunta con movimenti politici, con idee che non
+condivideva - però a volte, quando si governa, si deve trovare
+anche una quadra e a volte si condividono cose che magari non si
+condividono, non sto dicendo che sia successo ma sto parlando in
+generale.
+Devo dirle però anche un'altra cosa, assessore Caveri, che sulla
+questione politica lei però dimentica un piccolo passaggio, cioè
+che questo stesso impegno e questo stesso approfondimento è stato
+deliberato dalla Regione Toscana e non con una mozione, ma con una
+delibera di Giunta.
+L'ultima volta che ho controllato, e controllo tutte le mattine,
+anche la Regione Toscana aveva la sua agenzia regionale per il
+controllo.
+Nel momento in cui lei ci dice che i controlli dell'ARPA sono
+sufficienti, ci dice che la Regione Toscana è una Regione di pazzi
+scriteriati - che hanno un'agenzia regionale che non funziona,
+terrapiattisti, probabilmente vanno in giro anche con la carta
+stagnola sulla testa per non essere manipolati psicologicamente...
+- oppure possiamo accettare il fatto che forse, avere uno studio
+ulteriore e un approfondimento ulteriore, non possa che fare del
+bene, perché magari va anche a favore di quello che dice lei,
+magari conferma che non c'è nessun problema, che è tutto a posto, o
+magari no. Questo mi riporta un po' alla memoria quello che è
+accaduto questa mattina e quello che è accaduto la settimana scorsa
+durante la Commissione: abbiamo chiesto di fare un'audizione con le
+categorie imprenditoriali per avere il loro parere, ma no, si è
+detto di no, perché si preferisce evitare che magari ci sia il
+rischio che qualcuno possa smentire quello che dici o metterlo in
+dubbio, e qui mi sembra di essere esattamente nello stesso alveo.
+Si ha paura di fare un approfondimento perché magari i risultati
+non sono quelli attesi.
+Ora vede, Assessore, noi abbiamo affrontato il dibattito con la
+massima apertura, penso che lei me ne possa dare atto, non ho fatto
+questioni politiche, non ho fatto questioni, crociate
+terrapiattiste, ho semplicemente posto una questione che è quella
+che lei vede, c'è da qualche parte sollevata un'evidente
+possibilità che questo possa nuocere alla salute, perché o
+immaginiamo che vada sempre tutto bene, oppure, se vogliamo
+mettere, come giustamente lei ha fatto più volte su più temi, la
+scienza al primo posto, possiamo immaginare che spesso la scienza
+si interroga e ha dei dubbi - è l'essenza di una dimostrazione -
+quindi avendo questa tecnologia da poco, anche gli effetti di lungo
+periodo di questa tecnologia non sono noti.
+Se effettivamente quello che lei dice è vero, allora non avrebbe
+alcun senso la raccomandazione del Consiglio europeo del 12 luglio
+1999, dove si chiede di promuovere programmi di ricerca al fine di
+migliorare la conoscenza degli effetti dei campi elettromagnetici
+sulla salute umana, tenendo conto della raccomandazione degli
+sforzi di ricerca comunitari internazionali, probabilmente sarà
+stata un'Europa terrapiattista che non crede nel progresso e che ci
+vuole ridurre tutti a riportare l'età della pietra o forse ci sono
+delle giuste preoccupazioni.
+Forse, a questo punto, la Regione, che è governata peraltro dal
+Partito Democratico, sarà effettivamente una Regione scriteriata, e
+allora io le consiglio magari di comunicarlo ai colleghi, dicendo
+che i vostri colleghi della Toscana sono tutti dei pazzi e non
+capiscono nulla o forse magari porsi dei dubbi. Mettere dei dubbi,
+avere dei dubbi probabilmente porta anche ad avere dei risultati
+che ci possono confermare o smentire quello che ipotizziamo, da una
+parte e dall'altra.
+Io credo che questo sia un dubbio che può venire a tutti.
+Lei ritiene di avere la scienza infusa e di dire: "No, non è
+così", ci dispiace per lei, però per noi non è così.
+Noi ovviamente non ritireremo questa mozione, chiaramente siamo
+ansiosi di vedere come verrà distribuito il voto, noi la nostra
+posizione l'abbiamo espressa e penso sia chiara.
+Presidente -
+Altri interventi? Consigliere Lucianaz che è
+tra i firmatari.
+Lucianaz (RV) -
+Questa volta non mi indirizzo
+esclusivamente all'assessore Caveri con cui abbiamo aperto un
+dibattito su quest'argomento, ma alla Giunta intera, cioè io devo
+ammettere che l'Union Valdôtaine mi demoralizza sempre di più, un
+partito del quale sottoscriverei ogni riga del proprio Statuto, ma
+purtroppo qui vi state comportando in modo assurdo, non solo non vi
+interessa il francoprovenzale, e lo dimostrate a ogni iniziativa,
+non solo non vi interessate della salute dei Valdostani, quando
+affrontiamo il discorso dell'Ospedale, che voi giustamente
+considerate dal vostro punto di vista; c'è qualcuno che invece la
+vede in modo diametralmente opposto, ma, su questo punto, non
+riesco proprio a capire dove sia il vostro senso di
+amministratori.
+Siete, a mio parere naturalmente, e sottoscrivo quello che dico,
+la delusione di un popolo, perché chiedere di approfondire una
+tematica come quella delle onde elettromagnetiche, sulla quale
+tutte le comunità... vi ho citato la volta scorsa le comunità del
+Levante ligure, in cui l'ANCI ligure si è attivata per chiedere
+approfondimenti, e, tra l'altro, il Presidente della Regione
+Liguria ha avuto delle difficoltà proprio su questi aspetti. Vi
+chiediamo almeno di discuterne in Commissione, che tra l'altro sono
+secretate, quindi non si può neppure diffondere i dati, neppure
+quello... vi ho citato l'articolo 191 del Trattato europeo, tanto
+caro all'assessore Caveri, che antepone la protezione della salute
+agli interessi economici; questo lo sappiamo tutti, ci sono
+interessi economici grandi, enormi, bene, cerchiamo di tutelarli,
+qualcuno è più convinto di altri, forse nessuno è contrario al
+progresso. Poi se io partecipo alle manifestazioni con i No Vax lo
+faccio ben volentieri, non vado a vedere chi frequentate voi, e
+comunque non me ne frega assolutamente nulla.
+Il senso è che sostengo la libertà di ogni cittadino valdostano
+di esprimersi e vado anche ad ascoltarlo, guardate un po'.
+Il fatto che si continui a citare recenti studi, asseverati,
+eccetera... io continuo a ribadirvi che l'Istituto della ICNIRP,
+Commissione internazionale per la protezione dalle radiazioni non
+ionizzanti di cui vi ho detto prima, è un'agenzia privata, con
+ridotta attività, costituita da una Commissione non istituzionale
+di dodici membri, bavarese, nella quale peraltro non era presente
+nessun medico - e mi rivolgo al Consigliere collega Barmasse, che
+mi ha detto che non c'è nessun medico in questa audizione. Neanche
+qui in questa Commissione c'è un medico, guardate un po', eppure
+l'ARPA, come tutti gli altri Governi politici, si affida a questo
+studio.
+Voi forse non sapete, vi dico anche questo: nel 2020 la Corte
+d'appello di Torino ha denunciato il conflitto d'interessi
+dell'ICNIRP bavarese di cui vi ho detto prima, definendola
+"Organizzazione privata, le cui linee guida hanno una grande
+importanza economica e strategica per l'industria delle
+telecomunicazioni", con la quale diversi membri dell'ICNIRP hanno
+legami attraverso rapporti di consulenza. Dice sempre la Corte
+d'appello di Torino, sentenza del 2020: "Appare evidente che questi
+soggetti dovrebbero astenersi dal valutare l'effetto sulla salute,
+che l'ICNIRP stesso ha dichiarato sicuro e non nocivo alla salute".
+Queste sono sentenze di tribunali italiani.
+Voi sorridete, come al solito continuate con questo spirito.
+Siete una vera delusione.
+Presidente -
+Consigliera Minelli per dichiarazioni di
+voto.
+Minelli (PCP) -
+Per dichiarazione di voto e per
+confermare quanto avevo detto in precedenza, cioè che sosterremo
+questa mozione, ma anche per fare una considerazione più che altro
+sulla risposta data dall'assessore Caveri, cioè proprio il cuore
+della mozione, vale a dire la necessità o meno di fare uno studio
+specifico.
+Dice l'Assessore: "Non c'è bisogno che si faccia uno studio
+specifico, non lo dico io, lo dice ARPA, è del tutto inutile perché
+ARPA è all'interno di un sistema nazionale di cui fa parte anche
+ISPRA e quindi ci sono già studi che parlano, che documentano una
+serie di cose".
+Credo che tutti noi sappiamo che ARPA stia all'interno del
+sistema SNPA, cioè del sistema federativo che comprende ventuno
+agenzie per l'ambiente, perché ci sono le due Province autonome di
+Trento e di Bolzano, e che comprende giustamente anche ISPRA, ma
+che cosa fa questo sistema? È un sistema che raccoglie gli studi
+che fanno le singole agenzie, e poi elabora ovviamente anche delle
+linee, dà delle indicazioni alle altre agenzie, ma non capisco bene
+il motivo per cui la nostra ARPA non potrebbe, sul nostro
+territorio, fare in piccolo uno studio con le caratteristiche che
+abbiamo evidenziato e poi ovviamente condividerlo, all'interno del
+sistema, ragionare con gli altri, perché normalmente questo è ciò
+che fanno, con la supervisione di ISPRA, con i rapporti che ci sono
+tra le varie agenzie.
+A me la motivazione lascia un po' perplessa, che poi noi non
+possiamo cambiare le cose va bene, può essere assolutamente
+accettato, ma contribuire a un approfondimento di tipo scientifico
+su un territorio che è circoscritto (che forse si potrebbe anche
+prestare a fare delle valutazioni da condividere e magari da
+validare o non validare attraverso le altre agenzie che sul loro
+stesso territorio possono fare la stessa azione) a me sembrerebbe
+una cosa abbastanza sensata. Sinceramente è qualche cosa che mi ha
+lasciato un po' perplessa come motivazione.
+Vorrei poi fare anche una precisazione, ma credo che
+l'Assessore, quando ha parlato, non si riferisse tanto a noi, poi
+mi sembra che lui lo abbia anche abbastanza esplicitato riguardo
+alla questione che ci sono persone che sono contrarie al 5G.
+Io ho specificato, intervenendo, che dal nostro punto di vista
+questa è una tecnologia che non deve essere demonizzata, che sia la
+fibra che il 5G possono essere utili per colmare la lacuna che c'è,
+cioè il fatto che il nostro Paese sia scarsamente ancora
+digitalizzato, però questo non deve essere fatto a scapito di
+quella che potrebbe essere la tutela della salute dei
+cittadini.
+Non pretendo di dire che sia assolutamente negativo, io ho
+riportato opinioni che sono opinioni di scienziati, e credo che
+abbiano anche un curriculum di tutto rispetto, ma poi, proprio per
+arrivare a una definizione e a una chiusura del cerchio, tutti gli
+studi che possono essere fatti, a mio avviso, sono utili e possono
+essere utilizzati anche per un dibattito più ampio che ovviamente
+non coinvolge soltanto la nostra regione. È ovvio che noi ci
+troviamo all'interno di un sistema Paese che è molto complesso,
+certamente invece condivido quanto detto dall'Assessore sul fatto
+che, a livello di decisioni governative, quella di spostare i
+limiti da 6 Volt/metro a 15 è una decisione che è stata presa a
+livello centrale, quindi è ovvio che su questo sono state fatte
+delle scelte. Poi ognuno può avere delle preoccupazioni, che sono
+assolutamente legittime, e voler approfondire, mi sembra che sia
+stato spiegato, ciò non toglie che il nostro Paese era in una
+situazione, rispetto agli altri Paesi europei - sicuramente dal mio
+punto di vista - migliore, perché quei 6 Volt al metro erano, dal
+punto di vista della tutela della salute, migliori del 15, così non
+è stato, si è deciso diversamente e su questo ci sono ovviamente
+delle responsabilità.
+Presidente -
+Ci sono altre dichiarazioni di voto? Non
+vedo altre richieste, passiamo pertanto alla votazione. La
+votazione è aperta. La votazione è chiusa.
+Presenti: 35
+Votanti: 16
+Favorevoli: 16
+Astenuti: 19 (Barmasse, Bertin, Bertschy, Carrel, Caveri,
+Chatrian, Cretier, Di Marco, Grosjacques, Guichardaz Jean-Pierre,
+Jordan, Lavevaz, Malacrinò, Marguerettaz, Marzi, Padovani, Rosaire,
+Sapinet e Testolin).
+La mozione non è approvata.
+Con questo chiudiamo i lavori del Consiglio di oggi, i lavori
+riprenderanno domani alle ore 09:00.
+---
+La seduta termina alle ore 19:56.
+Informativa cookies
+Consiglio Regionale della Valle d'Aosta © 2025
+Questo sito utilizza cookies propri e di terze parti. Continuando ad usare questo sito, acconsenti all'utilizzo di questa tecnologia.
+Consulta la nostra
+informativa
+per maggiori informazioni e per istruzioni su come disattivare i cookies.
+OK
