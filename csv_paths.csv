@@ -1,13 +1,2 @@
-ID_file,path_src,path_clean,object,legislature,class
-47970,./downloads/47970.txt,./clean/47970.txt,4122,XVI,"ORDINE PUBBLICO - FORZE ARMATE, Pubblica sicurezza, STATUTO"
-47971,./downloads/47971.txt,./clean/47971.txt,4123,XVI,"CONSIGLIO REGIONALE, Attività consiliare d'aula"
-47981,./downloads/47981.txt,./clean/47981.txt,4124,XVI,"CONSIGLIO REGIONALE, Attività consiliare d'aula"
-47982,./downloads/47982.txt,./clean/47982.txt,4125,XVI,"CONSIGLIO REGIONALE, Attività consiliare d'aula"
-47983,./downloads/47983.txt,./clean/47983.txt,4126,XVI,"CONSIGLIO REGIONALE, Attività consiliare d'aula"
-47984,./downloads/47984.txt,./clean/47984.txt,4127,XVI,"CONSIGLIO REGIONALE, Costituzione e funzionamento degli organi consiliari"
-47985,./downloads/47985.txt,./clean/47985.txt,4128,XVI,AMMINISTRAZIONE REGIONALE
-47986,./downloads/47986.txt,./clean/47986.txt,4129,XVI,BILANCIO E CONTABILITA' REGIONALE
-47987,./downloads/47987.txt,./clean/47987.txt,4130,XVI,BILANCIO E CONTABILITA' REGIONALE
-47988,./downloads/47988.txt,./clean/47988.txt,4131,XVI,BILANCIO E CONTABILITA' REGIONALE
-47989,./downloads/47989.txt,./clean/47989.txt,4132,XVI,AGRICOLTURA
-47990,./downloads/47990.txt,./clean/47990.txt,4133,XVI,"ENTI LOCALI, Comuni"
+ID_file,path_src,path_clean,language,object,legislature,class
+47990,./downloads/47990.txt,./clean/47990.txt,it,4133,XVI,"ENTI LOCALI, Comuni"
