@@ -1,0 +1,839 @@
+Consiglio Regionale della Valle d'Aosta - Oggetto del Consiglio n. 3902 del 18 settembre 2024 - Resoconto
+Vai al contenuto principale
+Oggetti del Consiglio
+Invia
+Stampa
+Documenti
+Verbale
+Resoconto
+Collegamenti
+Iter atto
+Classificazione
+INFORMAZIONE
+Sistema informativo
+Precedente
+Successivo
+Resoconto integrale del dibattito dell'aula. I documenti allegati sono reperibili nel link "iter atto".
+Oggetto del Consiglio n. 3902 del 18 settembre 2024 - Resoconto
+OGGETTO N. 3902/XVI - Approvazione del Piano pluriennale
+2024-2026, per lo sviluppo del sistema informativo regionale, di
+cui alla l.r. 16/1996. Attualizzazione delle linee guida per
+l'agenda digitale in Valle d'Aosta.
+Bertin (Presidente) -
+Punto n. 9 all'ordine del
+giorno.
+Assessore Caveri ne ha facoltà.
+Caveri (UV) -
+L'occasione è utile, da una parte per
+presentare l'insieme di contenuti che ci sono in questo Piano
+pluriennale, ma soprattutto quella che viene chiamata, anche dalla
+legge di riferimento, come l'agenda digitale.
+Quel che è indubbio è che la rivoluzione digitale assomiglia ad
+alcune grandi scoperte dell'umanità, che sia il fuoco, il libro, la
+rivoluzione industriale, anzi, a essere precisi, la rivoluzione
+digitale è, in fondo, una nuova rivoluzione industriale, che ha
+impattato sulle diverse generazioni, e sarebbe molto interessante
+capire fra di noi come ci siano delle differenze fra i baby Boomer,
+come il sottoscritto, la Generazione X, i Millennials, la
+Generazione Z e i giovanissimi della Generazione Alpha.
+Purtroppo, come per ogni evoluzione, ci sono anche aspetti
+oscuri ma ci sono anche aspetti per fortuna molto positivi. L'esame
+che farò molto rapidamente di questi documenti, quindi, serve per
+capire dove vogliamo andare come Regione Autonoma, sapendo che la
+questione del digitale è una questione mondiale, globale; si vede
+dalla legislazione del Parlamento europeo come tutta una serie di
+questioni, penso all'intelligenza artificiale, finiscano per dover
+essere regolati nel rapporto fra una realtà molto grande, come
+l'Unione europea, e dei player del settore che sono, come si diceva
+una volta, delle multinazionali che, in realtà, hanno talvolta dei
+bilanci e un'incisività che è quella di grandi Stati, di Stati
+importanti, pertanto il tentativo di regolare in qualche maniera il
+mercato del digitale è uno dei compiti più difficili; lo si vede da
+alcune polemiche recenti, ad esempio sui social, che cosa
+significhi avere una specie di posto non fisico all'interno del
+quale si finisce per trovare di tutto: il caso di Telegram - e la
+scelta dei Francesi di arrestare il fondatore di Telegram - deriva
+proprio dal fatto che oggi si è molto in difficoltà a regolare
+alcuni settori del digitale.
+Questo documento che viene presentato in Consiglio è un lavoro
+che è stato svolto dal Dipartimento dell'innovazione, assieme a
+In.Va., che è la nostra società in house, e con la collaborazione
+di Easy Gov, che è una costola del Politecnico di Milano, che ci ha
+aiutato soprattutto a mettere a fuoco alcune questioni che
+riguardano proprio gli aspetti dell'innovazione.
+L'innovazione corre, per cui noi ci troviamo sempre un po'
+all'inseguimento; nel momento in cui le Amministrazioni pubbliche
+decidono di cristallizzare la loro attenzione su alcune tecnologie,
+il rischio è che queste tecnologie siano così rapidamente in
+movimento da trovarsi in qualche maniera in difficoltà, quindi tu
+scegli una certa tecnologia e questa tecnologia all'indomani
+rischia già un invecchiamento anzitempo.
+Il confronto ha riguardato non solo gli Enti locali, con cui
+abbiamo discusso di questo documento, ma ha interessato anche i
+diversi Dipartimenti dell'Amministrazione, che hanno presentato
+nella discussione dell'ultima parte del documento circa 95
+progettualità; abbiamo poi dovuto sintetizzarle, anche perché uno
+degli aspetti che troverete nelle schede conclusive è che si fa
+riferimento, rispetto alle problematiche, anche alla loro copertura
+finanziaria che avviene con risorse proprie, con risorse del PNRR,
+quindi all'orizzonte del giugno del 2026, sempre che poi questa
+data non venga in qualche modo rinviata per poter spendere tutti
+questi soldi di provenienza europea, poi ci sono gli altri fondi
+comunitari che alimentano anch'essi il settore del digitale.
+Troverete anche una scheda, la S4.E, a pagina 68, in cui si dà
+atto proprio di quanto dicevo precedentemente, cioè del fatto che
+bisogna essere flessibili in quanto potrebbe essere che nel corso
+della realizzazione ci debbano essere dei cambiamenti, anche
+repentini e improvvisi, dovuti alla trasformazione del quadro
+tecnologico a cui accennavo precedentemente.
+È stata molto importante un'interlocuzione con il Dipartimento
+della Presidenza del Consiglio che si occupa di innovazione;
+approfitto dell'occasione per ringraziare il sottosegretario Butti,
+che si è sempre dimostrato molto attento, e in particolare il
+direttore generale Borrelli, con il quale abbiamo affrontato tutta
+una serie di problemi concreti che riguardano questo settore. Va
+detto con oggettività che da parte del Dipartimento c'è stato un
+cambio di passo, che è stato accolto positivamente da tutte le
+Regioni, compresa la nostra, perché per la prima volta, al posto
+d'immaginare una logica esclusivamente dirigistica, nella visione
+nazionale sul digitale c'è stata un'interlocuzione positiva sui
+principali dossier.
+Esiste però naturalmente anche una prospettiva di tipo europeo;
+ricordo a questo proposito che la Valle d'Aosta all'interno della
+Macro Regione alpina è capofila proprio del settore del digitale e
+questo offre degli spunti molto interessanti che in qualche maniera
+vengono sintetizzati anche all'interno del documento alla vostra
+attenzione, che abbiamo chiamato non a caso "Montagna digitale",
+perché è ovvio che il digitale, che ha caratteristiche
+generalistiche, deve essere poi applicato in diversi territori e
+alle situazioni socio-economiche e riteniamo che quest'Osservatorio
+alpino che ci vede come protagonisti sia davvero uno strumento
+utile per poter fare in modo che ci sia un incastro fra le cose che
+noi dobbiamo fare e le tecnologie che si possono applicare.
+Se uno dovesse proprio ricordare i temi che vengono affrontati,
+aggiungerei ancora che i servizi, i dati sono l'elemento più
+prezioso: i big data non si chiamano così per caso, ma perché chi
+oggi detiene i dati e sa utilizzarli ha una ricchezza nella propria
+tasca.
+Competenze, infrastrutture e connettività, cybersicurezza e
+governance responsabile nella logica di quella che viene chiamata,
+con un termine alla moda, "Transizione", in questo caso transizione
+digitale.
+Che cosa c'è all'interno di questo documento che è volutamente,
+per così dire, sintetico? Si sarebbero potuti fare dei grossi
+libroni, ma abbiamo preferito declinare gli obiettivi in maniera
+sintetica:
+il miglioramento della qualità della vita, il digitale serve
+nella misura in cui incide sui cittadini;
+la parità di accesso alle tecnologie, per non lasciare nessuno
+indietro. Quando citavo precedentemente le generazioni che si
+succedono, è chiaro che è molto diverso l'atteggiamento che mio
+figlio, che ha 13 anni, ha nei confronti di tecnologie, essendo un
+nativo digitale, rispetto invece all'inseguimento continuo che può
+riguardare una generazione come la mia degli anni 50;
+la cooperazione istituzionale.
+Risponderò più avanti a un'interrogazione che riguarda proprio
+la necessità di fare sistema, cioè sarebbe assurdo che noi
+decidessimo non di adeguare le tecnologie alle specificità della
+Valle d'Aosta, ma decidessimo di prescindere da un mercato dove ci
+sono delle grandissime eccellenze, ed è la ragione per la quale
+personalmente ho avuto contatti con grandi società come Google,
+come Amazon, come Accenture, è molto importante interloquire con
+chi si occupa di queste vicende al vertice, quindi cercando di
+capire, non con soggezione, ma anche tenendo conto delle nostre
+specificità, con questi grandi Player che si occupano del
+mercato.
+In fondo, il riassunto vero e proprio lo si trova a pagina 4, in
+quello che abbiamo chiamato "Il dizionario della montagna
+digitale", che declina, dalla A alla Z, l'insieme di argomenti che
+trattiamo all'interno del documento stesso.
+Cito, da questo punto di vista, alcuni esempi che ritengo
+significativi all'interno di quelle infografiche che abbiamo deciso
+di mettere all'interno del documento, proprio per renderlo più
+leggibile e più facilmente comprensibile:
+L'aggiornamento degli applicativi. Questa è una lotta quotidiana
+e continua: migliorare le esperienze di accessibilità ai servizi.
+L'idea- su cui stiamo lavorando - di avere una piattaforma unica,
+un nuovo sito della Regione che sia più comprensibile serve proprio
+per fare in modo che ci sia un'accessibilità per cittadini e
+imprese;
+uno sviluppo dei servizi a favore degli Enti locali. Questa
+mattina si è ricordato - purtroppo in senso negativo per una
+sentenza della Corte costituzionale - questo legame forte che,
+grazie alla competenza esclusiva sull'ordinamento degli Enti
+locali, la Valle d'Aosta ha con gli Enti locali, che sono una
+componente essenziale della democrazia valdostana, rispetto alla
+quale, ad esempio, la scelta in passato di fornire tutti i Comuni
+della Valle d'Aosta della fibra ottica, ben prima che questo
+avvenisse a livello nazionale, fa sì che oggi ci sia una rete
+accessibile, utile; il susseguirsi di nuove tecnologie deve essere
+calato anche sull'insieme del pubblico in Valle d'Aosta, avendo
+sempre attenzione anche ai Comuni e sapendo che ogni cambiamento
+comporta dei sacrifici, e non si deve, rispetto a queste
+tecnologie, avere un atteggiamento luddistico o conservativo. Ogni
+volta che viene cambiato un software, sono in tantissimi che si
+fanno vivi con me per dire: "Non funziona, non va". L'aspetto della
+formazione continua a essere un elemento essenziale perché è sempre
+più facile mantenere gli strumenti che si conoscono rispetto che
+affrontare, talvolta anche in maniera difficile, delle nuove
+sfide;
+favorire la dematerializzazione degli archivi regionali. Noi
+oggi abbiamo interi palazzi di archivi cartacei, e anche qui esiste
+una forte resistenza a dire: "No, ma io trovo più facilmente perché
+so che il fascicolo che è in alto a destra contiene i documenti che
+mi interessano". È ovvio che tutto questo oggi deve essere
+trasformato in file, deve essere facilmente consultabile, anche in
+una logica democratica di accesso;
+il sistema delle conoscenze territoriali. All'interno del
+progetto "Bandiera", che è uno dei capisaldi per i prossimi anni,
+esiste una conoscenza specifica del territorio che si rivelerà
+preziosa, in particolare per le conseguenze del cambiamento
+climatico, e inciderà moltissimo sul territorio, e oggi avere una
+conoscenza perfetta, attraverso l'uso anche di tecnologie che
+sembravano un tempo quasi dei giocattoli, come i droni, oppure
+l'utilizzo, che già avviene nell'amministrazione, dei satelliti;
+tutto questo fa parte del sistema, e soprattutto lo scambio
+d'informazioni, che vuole anche dire un peso minore per i cittadini
+che oggi molto spesso, nel passare da un Assessorato all'altro,
+devono farsi riconoscere, devono portare dei documenti che
+l'Amministrazione ha già nel proprio seno;
+l'utilizzo di banche dati da una parte, e anche di nuove
+piattaforme. Stiamo sperimentando alcune piattaforme con l'utilizzo
+dell'intelligenza artificiale, che è questione molto interessante,
+perché l'intelligenza artificiale, accompagnata sempre dal
+mantenimento per alcune generazioni di logiche di sportello, oggi è
+in grado di fornirti moltissime risposte. Certo, bisogna educare le
+competenze digitali, bisogna farlo per entrare nel mercato del
+lavoro, bisogna farlo nell'impiego pubblico, bisogna avere - e
+questo è uno sforzo che stiamo cercando di fare anche con
+l'Università - figure professionali con competenze digitali
+elevate, perché non si tratta solo di avere, come in passato, degli
+informatici che potessero saper programmare, ma oggi ci vogliono
+anche persone che siano in grado di fare la manutenzione e di
+essere rapidi nell'utilizzo e nella facilitazione;
+la facilitazione è uno dei progetti in corso del PNRR per
+consentire alle fasce di popolazione più in difficoltà
+l'ottenimento di uno Speed, la comprensione di come funzioni la
+posta elettronica. Questi sono argomenti essenziali, pensiamo alle
+difficoltà di una persona anziana di poter entrare nel fascicolo
+sanitario. Il fascicolo sanitario è un'altra di quelle strutture e
+di quegli strumenti che miglioreremo nel tempo, fino ad arrivare a
+situazioni molto favorevoli: la capacità di presentarsi al Pronto
+Soccorso e avere, nel momento in cui si fa il triage, da parte del
+personale sanitario una piccola scheda rapidissima che ti dice la
+vita di quella persona, che magari arriva al Pronto Soccorso dopo
+un incidente stradale. Oggi, l'abbiamo visto, ad esempio da Google,
+che ci sono tecnologie che, in quattro righe, ti fanno una
+fotografia esatta, che consente anche di decidere immediatamente a
+quale terapia sottoporre al malato.
+Aggiungerei alcune cose ancora, i cablaggi sono importanti: noi
+stiamo seguendo, dopo aver subìto Open Fiber, la seconda fase della
+cablatura della Valle d'Aosta attraverso quel meccanismo che si
+chiama "Un giga" che è gestito da TIM, e ne seguirà un altro. Con
+il Ministero abbiamo lamentato più di una volta l'incoerenza di
+alcune scelte che a suo tempo sono state fatte e che sono state
+centralistiche; oggi nella definizione dei nuovi percorsi della
+fibra ottica, finalmente con TIM - anzi si chiama Fibercop, perché,
+come sapete, oramai la rete si è scissa dall'aspetto della
+telefonia - c'è un atteggiamento diverso: abbiamo dei fondi del
+FESR che consentiranno di rafforzare quelle nervature di fibra
+ottica che la Valle d'Aosta ha cominciato a realizzare all'inizio
+degli anni '90, e, se oggi il territorio valdostano è abbastanza
+servito dalla fibra ottica, questo lo si deve a queste nervature
+che sono state costruite, senza le quali assai probabilmente noi
+saremmo, come la maggior parte dei territori alpini, non serviti
+dalla fibra.
+E ancora il Piano 5G, la connettività, tutta una serie di
+argomenti che ci portano a riflettere su un tema fondamentale, che
+è quello della cybersicurezza.
+La Regione sceglierà, con dei provvedimenti, un'agevolazione ad
+esempio dello smart working, che è un tema molto importante, anche
+per il ripopolamento dei Comuni più piccoli, consentendo alle
+persone di venire in ufficio poche volte rispetto all'abitudine
+attuale e di lavorare di più in una logica di progettualità e di
+risultati, che possono essere raggiunti anche magari in luoghi
+fisici di coworking, che possono consentire di lavorare in questo
+modo.
+Tutte queste vicende, cioè il fatto che ci sia una diffusione di
+strumenti informatici, ci hanno obbligato a intervenire - e con il
+PNRR c'è una fortissima azione sulla cybersicurezza - sapendo che
+oggi la maggior parte dei dati finiscono in iCloud, nelle nuvole,
+quindi bisogna fare in modo che non ci siano intromissioni e rischi
+di ricatti.
+Non la voglio far lunga perché, come tutti i documenti, questi
+sono documenti che vanno letti piuttosto che illustrati; vorrei
+concludere quindi con due frasi che danno una fotografia della
+sfida di fronte alla quale ci troviamo - che è riassunta molto
+modestamente all'interno dell'agenda digitale e del Piano
+pluriennale - perché, come dicevo precedentemente, queste questioni
+vanno a toccare vicende umane, sociali, economiche molto
+delicate.
+C'è uno psichiatra, che si chiama Tonino Cantelmi, che ha detto:
+"La rivoluzione digitale è tale perché la tecnologia è divenuta un
+ambiente da abitare, un'estensione della mente umana, un mondo che
+s'intreccia con il mondo reale e che determina vere e proprie
+ristrutturazioni cognitive, emotive e sociali dell'esperienza,
+capace di rideterminare la costruzione dell'identità e delle
+relazioni, nonché il vissuto dell'esperire", cioè sperimentare,
+mettere in opera; pensiamo a come le tecnologie impatteranno sulle
+generazioni più giovani.
+Chi vive nel mondo della scuola sa perfettamente che esiste
+questo busillis. Facciamo il proibizionismo dei telefonini o
+insegniamo ad adoperare i telefonini? Diciamo ai ragazzi di non
+usare il telefonino e poi chi ha dei figli si accorge che i compiti
+vengono messi oramai su map dei telefonini. Insomma, ci sono degli
+interrogativi che, in qualche maniera, vanno sciolti.
+Un grande giurista, Stefano Rodotà, diceva: "L'accesso alla
+conoscenza va garantito nella maniera più larga, qui le grandi
+opportunità offerte dalla tecnologia della creazione di
+quell'immenso spazio pubblico che è Internet" - ricordo che Rodotà
+è stato anche Presidente dell'authority che si occupa della
+questione della privacy, che è un tema fondamentale -
+"Rappresentano una risorsa grande per la crescita della persona, in
+relazione a ciò devono trovare la loro misura".
+Il digitale, quindi, è una sfida democratica molto importante:
+ciascuno di noi la vive anche nel proprio privato. Io scrivo su X,
+ex Twitter, che è uno degli strumenti social più interessanti, e un
+po' mi inquieta che questo social sia nelle mani di una personalità
+bizzarra come Elon Musk; quando entriamo, come capita a me,
+nell'ambiente Apple, ci si rende conto che si è dei prigionieri
+"Felici" di una tecnologia molto distante, i cui aspetti talvolta
+sono anche un po' inquietanti, perché noi sappiamo perfettamente
+che, ogni volta che entriamo in Internet, noi diamo dei dati, delle
+informazioni. Io ogni tanto vado a vedere negli Spam ed è
+divertentissimo, perché, evidentemente, quelli che fanno le
+pubblicità conoscono la mia età, quindi ci sono le pompe funebri -
+facendo le corna - e ci sono quelli che mi spiegano cosa fare per
+la prostata oppure per l'udito. Questo per dire che siamo tutti
+classificati, siamo tutti come dei soldatini di piombo nel mondo
+digitale, però, come tutte le grandi scoperte, dalla clava in poi -
+la clava poteva essere usata in senso positivo o per tirare una
+mazzata in testa a qualcuno, un coltello può servire per tagliare
+il salame oppure per accoltellare una persona - c'è sempre una
+specie di moneta a due facce e penso che da parte nostra, nel
+nostro piccolo, avere una programmazione possa essere considerato
+una cosa utile.
+Presidente -
+Apriamo la discussione generale sul punto,
+la discussione generale è aperta. Si è prenotato il consigliere
+Aggravi, ne ha facoltà.
+Aggravi (RV) -
+Soltanto per rappresentare la posizione di
+voto del gruppo di Rassemblement Valdôtain e per fare alcune
+considerazioni che sono poi quelle che in Commissione sono già
+state oggetto anche d'interlocuzione con l'assessore Caveri.
+Io, quando sento parlare di utilizzo del digitale nella pubblica
+amministrazione, penso sempre ai contenuti di un importante
+libretto di Ludwing von Mises che si chiama "Burocrazia".
+Io mi auguro che l'utilizzo del digitale nella P.A. non finisca
+per aumentare la pervasiva espansione della burocrazia, e non lo
+dico da luddista ma, anzi, lo dico quasi da nerd, perché utilizzo
+molto la tecnologia, so anche che spesso non è democratica, a
+differenza dell'auspicio, o forse più del sogno, dell'Assessore,
+però purtroppo dipende dal provider, perché, se su X c'è un
+bizzarro personaggio, su Facebook ci siamo trovati il Governo
+americano direttamente, per non dire quelli che non sappiamo.
+Purtroppo, laddove c'è un punto di ingresso e il perimetro è
+definito, e tale è il sistema tecnologico, sappiamo che la
+democrazia sta nella benevolenza dei suoi attori; al massimo si
+cambia anche social, per quanto io condivida la passione di X con
+l'assessore Caveri, come lui ben sa. Era molto meglio quando alcuni
+twitt erano ridotti, in modo tale che era più facile, ma questo va
+anche nelle possibilità di ognuno.
+Quello che noi abbiamo espresso in Commissione e che mi sento di
+rappresentare anche qui è questo: sicuramente da un lato la
+tecnologia ci consente di efficientare, di rendere più rapide e più
+corte le filiere della burocrazia, e secondo me è importante che su
+molti progetti, se non tutti, si tenga anche conto poi dell'utenza,
+cioè dell'effetto che l'applicazione, il progetto, il nuovo portale
+hanno sull'utenza, non soltanto in termini di praticità, perché
+sappiamo che in alcuni casi c'è la necessaria azione che deve fare
+lo stesso utente che utilizza - quindi ha una visione diversa dal
+burocrate che rende disponibile la piattaforma - e quindi in tal
+senso è anche importante che ci sia una comunicazione attiva e la
+tecnologia dovrebbe servire anche e soprattutto su questo, anche
+perché problemi tecnologici, magari piccoli, possono essere risolti
+in maniera molto più rapida rispetto al passato, e questo è anche
+un vantaggio.
+Ben venga quindi che i nostri operatori siano formati e
+conoscano le evoluzioni tecnologiche, però che ci sia anche la
+possibilità per l'utenza di non trovarsi degli ulteriori costi
+sull'applicazione.
+Io ho già rappresentato un caso molto pratico - in realtà poi
+c'è un'iniziativa che discuterò proprio con l'Assessore - cioè se
+io devo pagare un tributo, o una tassa, una tariffa o quello che è,
+(e quindi sono obbligato, non è che posso scegliere di pagarla o no
+sennò ho delle giuste conseguenze) non mi si può obbligare a pagare
+una commissione per l'intermediario, perché dovrebbe sostenerla
+colui che mi obbliga a sostenere questa tariffazione, questo costo;
+oggettivamente lo vedo come un principio di democrazia fiscale o
+tributaria, nel senso che, se mi obblighi a utilizzare una
+piattaforma per assolvere un'obbligazione tributaria, non vedo
+perché io debba anche sostenere il costo dell'intermediario se sono
+obbligato a utilizzare quell'intermediario.
+Lo dico da ex fornitore di alcuni di questi intermediari,
+perché, checché se ne dica, si crea tanta tecnologia e tanta
+efficienza però alla fine, se andiamo a vedere nei fatturati degli
+intermediari bancari, finanziari e non soltanto, le Commissioni sui
+servizi sono ancora molto importanti, quindi in realtà non abbiamo
+ridotto il costo per l'utenza.
+Quello che mi auguro è che, in tutta una serie di questi
+progetti che implicano ovviamente una ricaduta sull'utenza, ci
+possa anche essere un minor aggravio (il mio cognome è spesso
+utilizzato a sproposito in tal senso) per l'utenza finale.
+Sicuramente sono dei percorsi anche complessi, in realtà con
+altre iniziative e con lo stesso Assessore abbiamo già avuto modo
+di parlarne: laddove si cambia magari un applicativo che viene
+utilizzato da un sacco di anni, è già difficile per chi in realtà è
+appassionato di tecnologia, figurarsi per chi non lo è.
+Io penso che il tema degli archivi sia uno dei misteri
+dell'uomo, perché abbiamo tanti archivi e poi alla fine però
+chiediamo sempre le stesse cose, abbiamo tanti archivi e poi
+chiediamo ogni volta l'autorizzazione all'utilizzo del dato perché
+sennò, giustamente, il garante privacy ci crea dei problemi.
+Lei faceva l'esempio - e poi ne avevamo anche discusso in
+Commissione - della scheda dal Pronto Soccorso ovunque sia, però
+poi il garante della privacy giustamente dice: "Attenzione che...".
+Parliamo di Case della Salute e di possibilità che i medici possano
+lavorare in sinergia e poi la normativa impedisce l'utilizzo...
+Sull'utilizzo del dato, si potrebbe aprire un grande paniere,
+poi lei giustamente diceva: "Alla fine poi io vado sul social e mi
+trovo delle pubblicità veicolate".
+Sappiamo che se io adesso vado a cercare un paio di scarpe sul
+motore di ricerca, da qui in avanti mi troverò tutte pubblicità di
+scarpe nell'ambito dei siti Internet, e poi ci preoccupiamo di dire
+se siamo maschi, femmine o quando siamo nati ogni volta che
+compiliamo un'autocertificazione o una dichiarazione.
+Questo è il grande mistero della tecnologia.
+Quello che ci auguriamo è che ci possa essere per l'utenza
+sempre un punto di riguardo, anche perché spesso e volentieri è
+un'utenza obbligata a utilizzare un certo strumento.
+L'altro elemento che avevamo portato in Commissione e che oggi
+vorrei ribadire è il fatto che giustamente si fa una grande
+pianificazione, si dà tutta una serie di dati e quant'altro, ma è
+necessario, se non funzionale alla buona prassi, anche monitorare
+non soltanto gli stati di avanzamento delle progettualità, ma anche
+quelli che possono poi essere effettivamente i GOL che vengono
+raggiunti nell'ambito di questi progetti molto complessi e molto
+complicati.
+Concludo con una considerazione finale che riguarda anche il
+tema trasversale delle fonti di finanziamento: il PNRR - al di là
+del fatto che continuo a ritenerlo un Piano di riforme con degli
+investimenti, perché noi ci stiamo dimenticando tutta una serie di
+passaggi, le grandi concessioni di derivazione idroelettrica lo
+insegnano - è qualcosa di più rispetto a un piano d'investimenti,
+io mi auguro che molti di questi investimenti generino anche una
+produttività o una ricaduta positiva, perché il rischio è che molti
+di questi investimenti, sostenuti da una finanza di debito in gran
+parte, e non soltanto, poi in realtà abbiano una produttività
+limitata.
+Sulla pubblica amministrazione la produttività è augurarsi che
+diminuiscano i costi e aumenti l'efficienza, sia per la P.A. sia
+per gli utenti.
+Sul sistema nel complesso, io mi auguro che ci siano
+progettualità che possano aumentare la produttività e che
+determinino la funzionalità della spesa a un aspetto
+produttivo.
+Rifare un sito Internet è sicuramente utile per l'utenza e
+quant'altro, il suo livello di produttività o di resa sulla
+comunità è da bilanciare rispetto a rifare un ponte. Adesso faccio
+due esempi che, in realtà, non sono poi così distanti da quello che
+spesso e volentieri... Vicino all'Assessore competente ci sono due
+Assessori, di cui uno è molto sensibile a certe infrastrutture,
+perché ovviamente la produttività di rifare un'infrastruttura forse
+è maggiore rispetto a quella di efficientare un percorso digitale;
+ci va l'una e l'altra, per carità, però se devo indebitarmi,
+ovviamente personalmente consiglierei di rendere un... però non
+dipende neanche totalmente da noi, lo subiamo molto.
+In tal senso però questi progetti non devono essere visti
+soltanto come un elenco di cose, lei l'ha anche spiegato in
+Commissione, bensì poi con delle ricadute che sono onerose ma
+devono generare un ritorno.
+Per quello che riguarda il gruppo, si asterrà in vigile attesa
+per vedere quale sarà l'evoluzione dei singoli progetti, di cui tra
+l'altro alcuni saranno sicuramente oggetto di ulteriori iniziative
+e quest'iniziativa sarà utile a comprendere magari lo stato di
+avanzamento - sul progetto "Bandiera" è già successo - e tra poco
+poi ci occuperemo anche di un altro aspetto.
+Ci auguriamo che gli effetti sull'utenza possano essere positivi
+dal punto di vista della sopportazione mentale - senza dover
+rifarsi a degli psichiatri, è singolare che ci sia uno psichiatra
+che parla del tema - e soprattutto che non ci alleggerisca le
+tasche.
+Presidente -
+Consigliere Baccega, ne ha facoltà.
+Baccega (FI) -
+Grazie, Assessore, per la sua esposizione
+che ha toccato tanti temi. L'agenda digitale guarda a 360 gradi
+rispetto a un futuro tecnologico; lei ha parlato di tecnologie
+importanti, di potenziamento della rete e della cybersicurezza, che
+sono elementi fondamentali, ci ha parlato di tutta una serie di
+aspetti che si possono e che si dovranno affrontare, come la
+dematerializzazione dei documenti della pubblica amministrazione;
+noi avevamo a suo tempo presentato un'iniziativa in questo
+Consiglio, ci fa piacere che sia stata valutata positivamente,
+riguardo al fascicolo sanitario elettronico, che è uno degli
+elementi chiave in sanità.
+Rispetto alle sue considerazioni, lei dice "L'ambiente da
+abitare e la montagna digitale sono elementi fondamentali", è vero,
+ma c'è una madre che è l'Amministrazione regionale che ha un sito.
+Quest'intervento, che non era previsto, le risparmia anche una
+futura interrogazione, però il tema è così fascinoso che ci
+permette di dire anche queste cose: noi abbiamo l'esigenza di avere
+un sito istituzionale della Regione che deve inevitabilmente
+migliorare.
+Il progetto deve ridefinire l'albero dei contenuti del sito
+istituzionale, aggiornare e diffondere le linee editoriali di chi
+scrive i contenuti sul sito istituzionale, ma soprattutto definire
+una governance fra i vari soggetti che saranno preposti a occuparsi
+degli ambiti interessati dal sito istituzionale e mi riferisco agli
+aspetti organizzativi delle strutture preposte all'aggiornamento
+del sito: l'uniformità del linguaggio; l'uniformità dell'aspetto
+grafico, che è fondamentale, soprattutto per la fruizione dei
+contenuti in mobilità attraverso lo Smartphone è una delle esigenze
+primarie; una navigazione semplice e intuitiva su un sito web
+impostato in modo coerente in tutte le sezioni. Questi sono
+elementi che vanno assolutamente presi in considerazione.
+Anche la comprensione, rispetto a utenti meno esperti: è vero
+che i nostri figli e i nostri nipoti sono decisamente più avanti di
+noi, ma c'è ancora qualcuno che, purtroppo, è ancora dietro di
+noi.
+Tutto questo per dire che è vero che l'innovazione corre, ma
+deve comunicare meglio; attraverso il sito della Regione noi
+dovremmo cercare di comunicare meglio.
+Dal nostro punto di vista, siamo ancora un po' in ritardo e noi
+la sollecitiamo semplicemente a dare corpo a quanto si è definito
+per esempio nella delibera 868 che avete approvato il 29 luglio,
+che va nella direzione di avere come obiettivo l'approvazione di un
+progetto che vada a migliorare il sito.
+Noi ci asterremo, ma siamo molto attenti a questo percorso che
+ci coinvolge.
+Presidente -
+Consigliere Perron, ne ha facoltà.
+Perron (LEGA VDA) -
+Per esprimere l'astensione, quella
+sarà la posizione del nostro gruppo. In realtà esprimerò alcuni
+pareri un po'a contraltare della visione di fondo
+dell'Assessore.
+Il nostro gruppo è all'opposizione, io stesso posso dare atto a
+chi amministra di dover avere posizioni più pragmatiche,
+personalmente posso anche avere posizioni più radicali, poi se
+tocca amministrare ovviamente ad alcuni procedimenti e ad alcuni
+processi non si può chiudere la porta in faccia, probabilmente non
+lo faremmo nemmeno noi, ma quantomeno - e già in parte l'ha fatto
+il collega Aggravi su alcuni temi - io quello che farò nel mio
+intervento è mettere qualche punto da rovescio della medaglia a
+quello che è il tecno-ottimismo assoluto dell'Assessore che lo
+rappresenta, probabilmente rappresenta un po' tutti, perché oggi
+certi dettami non possono più essere messi in discussione o,
+quantomeno, sono delle direzioni che ci vengono in qualche modo
+imposte: vediamo appunto l'organizzazione del PNRR che è basata su
+alcuni presupposti, tra cui la digitalizzazione forzata, quindi un
+procedimento che viene considerato come inevitabile, mentre in
+realtà la tecnica non è inevitabile, è comunque una scelta.
+Ho ascoltato la posizione legittima, ben rappresentata a livello
+sovranazionale, ci mancherebbe, dell'esaltazione, diciamo un po'
+della tecnica sovrana, noi oggi siamo, in realtà, al passaggio tra
+il mondo dell'umano a quello del mondo post-umano. Un giorno gli
+storici guarderanno indietro e vedranno che, con l'avvento
+dell'intelligenza artificiale e di processi che stiamo vedendo,
+stiamo traghettando l'essere umano verso nuove frontiere.
+Vero che il progresso c'è sempre stato, ma questo processo
+implicherà degli elementi che mai erano stati toccati dall'essere
+umano.
+Abbiamo dei giovani, io lavoro a scuola, lavoravo a scuola,
+rilavorerò a scuola, parlo con i miei colleghi, mi parlano di
+generazioni che io posso dire tranquillamente anche invalidate
+dall'uso meccanico, dall'uso continuo dei cellulari; lo sappiamo,
+chi ha i figli lo sa ma questo è un problema, e sicuramente c'è una
+relazione anche quantomeno con le diagnosi di ADHD, [f1] [f2] ad
+esempio. Lasciamo perdere tutto il campo della dislessia, che lì è
+un campo dedicato, ma ci sono deficit dei disturbi dell'attenzione
+che stanno aumentando in maniera esponenziale con l'utilizzo del
+digitale, tanto che ci sono nazioni considerate più progredite in
+genere, ad esempio i paesi nordici e la Svezia, dove abbiamo visto
+che stanno tornando indietro sull'utilizzo di dispositivi digitali
+nelle scuole.
+Bisogna fare quindi delle riflessioni assolutamente anche a
+contraltare dall'esaltazione continua del digitale, soprattutto, io
+dico, nella scuola; poi un conto è quando si formano dei lavoratori
+altamente specializzati che devono avere a che fare con un tessuto
+produttivo che deve essere iper performante, ma ci mancherebbe, ma
+sull'utilizzo in generale di questi strumenti e sul fatto che i
+vecchi libri abbiano un qualcosa che non va, quando siamo andati
+avanti per centinaia di anni e abbiamo prodotto come civiltà
+occidentale altissimi livelli, penso che dire che oggi siamo tutti
+più intelligenti, rispetto ai fondatori della nostra civiltà che
+non avevano gli strumenti digitali, sia una falsità palese.
+L'esempio della scuola quindi ce l'abbiamo, l'esempio
+dell'aumento della burocrazia che citava anche il collega
+assolutamente, io ho il dubbio fortissimo che la burocrazia non
+stia diminuendo, in realtà stia aumentando sotto altre forme. Tutti
+noi abbiamo pagine piene di codici di password dappertutto perché
+stanno aumentando con il digitale, anche questa è una riflessione
+che andrebbe fatta.
+Io sono assolutamente scettico sul fatto che un maggior utilizzo
+del digitale significherà o stia significando meno utilizzo della
+burocrazia.
+È vero, non è materiale, non è cartacea, ma da qualche parte
+c'è, perché il digitale è un mondo parallelo che però esiste, che
+si è aperto e che potenzialmente non ha un limite, perché il
+digitale non ha un limite, potremmo continuare a produrre
+scartoffie burocratiche digitali potenzialmente all'infinito.
+Questo è un altro elemento, in più avremo già un mondo che è
+totalmente controllato e controllante, stiamo creando strumenti di
+controllo che mai sono stati detenuti dal peggiore tiranno che
+l'umanità possa ricordare, quindi si creano degli strumenti nuovi
+di controllo sugli individui che, se girati malamente, porteranno a
+conseguenze potenzialmente terrificanti.
+Lei ha citato il caso di Telegram, vero, non ha citato il caso
+di Zuckerberg il quale ha ammesso di aver ricevuto pressioni dal
+Governo USA sulla policy delle sue attività su Facebook, quindi
+anche su questo c'è il contraltare.
+Non le sfuggirà, Assessore, che i grandi potentati economici
+digitali come Google e come tutti questi attori hanno un legame di
+fondo molto profondo anche con tutto quello che riguarda i servizi
+segreti americani, quindi c'è un controllo sotterraneo di tutte le
+nostre attività.
+Quello che io voglio dire - poi chiaramente non lo dico io che
+sono il "Signor nessuno" ma semplicemente mi attacco, leggo e
+guardo teorie esposte da un pensiero divergente, che è l'altro lato
+della medaglia di quello che definisco il "Tecno ottimismo" - è che
+è la tecnica ormai che usa noi e non viceversa.
+Questa è una riflessione che è stata fatta ad esempio da Martin
+Heidegger, da Ernst Jünger, abbiamo Oswald Spengler, che hanno già
+previsto ampiamente, alla fine dell'800-primi del 900, processi che
+oggi chiaramente stiamo vedendo inverarsi.
+Io pongo il contraltare contrario, le do atto che comunque un
+tentativo di cercare di controllare questi processi, che si veda in
+positivo o in negativo, è il doppio lato della medaglia.
+È giusto che vengano fatti, quindi gliene do atto poiché
+l'Amministrazione questo deve fare. Ripeto, io posso fare una
+critica più radicale perché sono all'opposizione, posso dedicarmi a
+questo, ma le do atto quantomeno di quello.
+Noi ci asterremo ma io ho l'impressione che qui noi non
+controlleremo più nulla, la stessa intelligenza artificiale creerà
+dei meccanismi per cui - e penso ad esempio nell'arte - non potremo
+più assolutamente capire quando un prodotto ha una qualità o quando
+è contraffatto, saremo invasi da quantità enorme di materiale
+digitale, penso ad esempio quello musicale, per cui la qualità
+finirà sotto il tappeto e saremo sommersi da quello che è stato
+definito da altri pensatori, certamente non da me, il "Regno della
+quantità", ed è quello a cui stiamo andando incontro.
+Noi ci asterremo. Ripeto, le do atto del tentativo di
+controllare queste cose, è giusto che ci sia, ci saranno aspetti
+positivi, ma l'impressione è che siamo dentro a un meccanismo molto
+più grande di noi e che essere ottimisti su questo abbia parecchie
+lacune.
+Presidente -
+Consigliere Jordan ne ha facoltà.
+Jordan (UV) -
+Molto è già stato detto in tema
+d'innovazione digitale e condivido l'impostazione del piano e la
+presentazione che ha fatto l'Assessore, così come condivido
+parzialmente gli interventi di chi mi ha preceduto.
+Viviamo in un'epoca in cui nel tema dell'informatizzazione la
+velocità è l'elemento più importante, nel nostro vivere ce ne
+rendiamo conto, avete già fatto in aula degli esempi
+significativi.
+Il processo di alfabetizzazione informatica in qualche modo -
+anche grazie ai social, e questo nel bene e nel male - è stato
+portato avanti, e lo vediamo ogni giorno, e questo è un elemento
+fondamentale, importante, c'è una dimestichezza nell'utilizzare gli
+strumenti, soprattutto gli smartphone e le applicazioni.
+In aggiunta a quanto è stato detto, credo che sia necessario, e
+mi riferisco al rapporto tra il cittadino e le Amministrazioni
+pubbliche - qualunque queste siano, regionali, statali o enti
+locali - sia necessario mettere più attenzione allo sviluppo di
+procedure e procedimenti che utilizzino pienamente le potenzialità
+degli strumenti informatici.
+Troppo spesso, e lo avete già ripetuto in aula, ci tocca fornire
+dei dati che sono già presenti in centinaia di archivi
+dell'Amministrazione e di tutte le Amministrazioni, troppo spesso
+ci vengono richieste informazioni che possono essere facilmente
+ricavate da altri archivi e non lo si fa perché non c'è
+l'interscambio, che nel passato era un problema tecnologico, adesso
+non lo è più: non è un problema tecnologico ma un problema di
+procedura, un problema anche culturale.
+Molte volte non si sa neanche che i dati sono già in altri
+archivi, quindi il problema non è lo sviluppo tecnologico: gli
+strumenti a disposizione ci sono, ce ne sono veramente tanti, il
+problema è la capacità di fare innovazione, bisogna essere formati
+per fare un'innovazione, bisogna essere formati per voler fare
+innovazione, bisogna essere formati per immaginare procedure e
+procedimenti che siano innovativi.
+È un processo culturale il cui percorso di ammodernamento è
+iniziato, ma c'è ancora tanto da fare, e deve essere decisamente
+sviluppato; quindi un focus, forse è questo, più che concentrarsi
+sugli strumenti, concentriamoci sui procedimenti, su un problema
+culturale di volere informatizzazione.
+Bisogna quindi essere aiutati nel migliorare le procedure e i
+procedimenti.
+L'ultimo elemento, forse è ancora più difficile, bisogna volerlo
+il cambiamento, perché il
+dit-on
+"Si è sempre fatto così" è
+frequente, soprattutto nelle amministrazioni, perché facendo così
+si sa di non sbagliare, cercando di innovare chiaramente presenta
+delle incognite.
+Qui sta la vera e propria rivoluzione dell'Amministrazione.
+Abbiamo la fortuna, come Valle d'Aosta, di avere dei numeri, delle
+potenzialità, delle strutture, delle risorse umane, che ci
+permettono di fare la differenza per poter creare un sistema
+informatico a misura del cittadino in Valle d'Aosta, quindi questo
+ci deve permettere di fare dei veri e propri processi
+amministrativi che siano riorganizzati e che siano in grado di
+raccogliere l'informazione, metterla a disposizione e permettere di
+ridurre, se possibile - sembra utopistico dirlo - il carico
+burocratico, per permettere di semplificare i nostri adempimenti;
+questo proprio con l'obiettivo di razionalizzare le banche dati, di
+disporre di queste banche dati e di farle utilizzare.
+Sovente, nelle analisi politiche, nelle predisposizioni di
+legge, ci mancano le informazioni; le informazioni ci sono, sono
+solo raccolte in archivi che probabilmente non sono
+sufficientemente integrati.
+Concludendo, quindi, bene che ci sia lo sviluppo informatico ma
+attenzione a garantire l'efficacia e l'efficienza di questo
+sviluppo, perché l'informatizzazione non è un processo fine a se
+stesso, l'obiettivo di fare un'App non è capire quanto sia bella
+l'App, ma quanto quest'applicazione, questa App, sia in grado di
+aiutarci nel nostro vivere quotidiano e nelle nostre attività.
+L'informatica è uno strumento di base, così come ce ne sono
+altri che possono aiutarci e supportarci nelle attività che ognuno
+di noi fa, quindi credo che si possa mettere attenzione su
+quest'elemento.
+Presidente -
+Consigliere Lucianaz, ne ha facoltà.
+Lucianaz (RV) -
+Sarò rapidissimo, solo perché un elemento
+che ritengo molto interessante e dall'aspetto salutistico non è
+stato citato in questa discussione: non abbiamo assolutamente
+approfondimenti su tutta una serie di evoluzioni di questa
+tecnologia.
+Ho personalmente richiesto ai Presidenti delle Commissioni
+competenti di riunirsi e di affrontare anche questo tema in futuro,
+perché naturalmente l'aspetto dell'innovazione tecnologica non può
+assolutamente non prevedere un'attenzione particolare alla salute
+di chi, come noi - anche io che personalmente non sono avvezzo a
+utilizzare questi modi - è 24 ore su 24 bombardato da onde
+elettromagnetiche, da sistemi satellitari, da continue emissioni di
+radio-telecomunicazione che probabilmente, a mio avviso, non sono
+state sufficientemente approfondite.
+Prova ne è l'approvazione in Parlamento dell'elevamento a 15
+volt/metro delle emissioni che non hanno nessun supporto della
+Commissione e del Ministero della salute. Ho chiesto, e spero che
+al più presto ci sia modo di discuterne nelle Commissioni
+competenti.
+Grazie a tutti per l'esposizione.
+Presidente -
+Vi sono altri interventi? Chiudiamo la
+discussione generale. Assessore per la replica, ne ha facoltà.
+Caveri (UV) -
+Sarò molto rapido. Temo che non si tratti
+di essere né ottimisti né pessimisti rispetto a queste tecnologie,
+bisogna essere - a mio avviso - realisti, cioè è molto difficile
+oggi immaginare un atteggiamento di rifiuto, ci deve essere invece
+un atteggiamento di attenzione.
+Personalmente sono ottimista rispetto ad alcuni versanti, per
+esempio sulla burocrazia credo di poter dire al collega Aggravi che
+tutta una serie di riflessioni, che sono fatte più nelle schede che
+nella parte più prosaica della prima parte, dimostra - avendolo
+visto anche sul campo nell'incontro con grandi aziende che si
+occupano di questa questione - che se c'è la volontà - e lo
+ricordava anche il collega Jordan come sia poi un elemento di
+volontà - molte delle pratiche che ci sono oggi potranno essere
+eliminate.
+Quando ne abbiamo discusso in Giunta, giustamente il presidente
+Testolin, che è una persona pragmatica, ci ha detto: "Ma quante
+piattaforme farete?".
+Almeno per semplificare dobbiamo farne una, perché il rapporto
+deve essere una piattaforma, poi è indubbio che quella piattaforma
+possa spostarti a un altro link, ma oggi come oggi è del tutto
+evidente che siamo di fronte a una situazione che è ancora molto
+complessa.
+Ad esempio, nel rapporto con lo Stato, lo dico sempre al collega
+Aggravi, una grande novità potrà venire dalla App Io. Noi abbiamo
+interlocuzioni su questo Wallet pubblico, che comincia a essere
+interessante, e c'è la disponibilità del Dipartimento di fare una
+parte dedicata alla Valle d'Aosta come sperimentazione.
+Per capirci il Wallet pubblico ci consentirà, ad esempio, di
+avere tutti i documenti lì sopra, la patente dovrebbe essere messa
+da qui alla fine dell'anno e si possono pensare delle applicazioni
+che riguardino la Valle d'Aosta.
+Sul monitoraggio - ce ne occupiamo a pagina 39, 40 e 41 - sono
+d'accordo: c'è molto da fare anche per migliorare la qualità di
+approccio al digitale della popolazione valdostana.
+Il collega Baccega ha ricordato la delibera che, dopo molta
+fatica, siamo riusciti a partorire rispetto al fatto di uscire
+dall'attuale sito.
+L'attuale sito sembra una torta multistrato, cioè nel tempo si
+sono talmente messe tante cose da essere una specie di souk
+medio-orientale in cui c'è di tutto. Bisogna semplificarlo e questa
+semplificazione passa anche attraverso la necessità di avere però
+del personale nell'Amministrazione che sappia, con rapidità,
+caricare i dati e mettere le notizie.
+Questo vale anche per l'utilizzo dei social della pubblica
+amministrazione, ormai è un fatto del tutto indispensabile.
+Rispetto al collega Perron, ci sono tutti gli elementi per
+essere pessimisti: penso alle grandi attese che nel secondo
+dopoguerra c'erano per un controllo dell'energia nucleare. Oggi
+sappiamo perfettamente che il controllo dell'energia nucleare - mi
+riferisco alle bombe atomiche - è andato a farsi friggere, perché
+sono più gli Stati che continuano a incrementare la loro potenza
+nucleare e cercano di fare la bomba di quelli che non lo fanno.
+Personalmente però penso che spetti al diritto, cioè spetti alla
+politica, fissare delle regole. Ad esempio, molti se la sono presa
+con il regolamento europeo sull'intelligenza artificiale, che però
+per il momento è un unicum e fissa dei paletti che, secondo me,
+sono molto interessanti, perché l'intelligenza artificiale può far
+paura. Io appartengo a una generazione che ha visto i robot nei
+film di fantascienza che prima o poi sarebbero diventati
+prevaricatori della razza umana; io non credo che sarà così, però è
+vero che molti scienziati, anche nei mesi scorsi, hanno fatto un
+appello per cercare di trovare delle modalità che facciano in modo
+che non si venga superati ma che si abbiano degli strumenti che
+possano essere utili.
+Sull'intelligenza artificiale bisogna essere, secondo me,
+realisti. Io fossi un praticante avvocato, sarei spaventato
+dall'intelligenza artificiale, perché quando il tuo avvocato capo
+ti dice: "Fai una ricerca di determinate materie", l'intelligenza
+artificiale è in grado di trovare tutte le sentenze sul tema e
+dargli un elemento di sistematicità.
+Molto diverso è in altri casi, perché l'intelligenza artificiale
+può essere manipolatrice: vediamo già questi video che vengono
+costruiti con autorità di vario genere che vengono reinterpretati
+nelle cose che hanno detto, pensiamo a cosa può avvenire in un
+processo in cui tu porti un filmato in cui con la tua voce esatta
+viene ricostruito un elemento totalmente falso, però penso che
+questa sia veramente una questione di diritto, una questione di
+regolamentazione, cercando poi sempre di non esagerare, perché, per
+esempio, al Parlamento europeo, la discussione sull'intelligenza
+artificiale è stata interessante, perché da una parte c'erano
+quelli assolutamente rigoristi che avrebbero voluto porre dei
+limiti molto cogenti, dall'altra avevi quelli che dicevano: "Sì,
+però poi c'è una concorrenza internazionale, non possiamo neanche
+immaginare che chiudiamo l'intelligenza artificiale rispetto alla
+possibilità che hanno negli Stati Uniti o Paesi anche non
+democratici come la Cina. Sono argomenti quindi importanti.
+Molto più modestamente noi nella nostra agenda digitale fissiamo
+questi sessanta progetti e cerchiamo di essere curiosi; curiosi
+nell'applicazione del digitale in una realtà alpina come la Valle
+d'Aosta.
+Presidente -
+Possiamo mettere in votazione il Piano? Non
+vedo altre richieste, mettiamo in votazione. La votazione è aperta.
+La votazione è chiusa.
+Presenti: 35
+Votanti: 19
+Favorevoli: 19
+Astenuti: 16 (Aggravi, Baccega, Brunod, Distort, Foudraz, Ganis,
+Guichardaz Erika, Lavy, Lucianaz, Manfrin, Marquis, Minelli,
+Perron, Planaz, Restano, Sammaritani).
+Il Piano è approvato.
+Informativa cookies
+Consiglio Regionale della Valle d'Aosta © 2025
+Questo sito utilizza cookies propri e di terze parti. Continuando ad usare questo sito, acconsenti all'utilizzo di questa tecnologia.
+Consulta la nostra
+informativa
+per maggiori informazioni e per istruzioni su come disattivare i cookies.
+OK

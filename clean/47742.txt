@@ -1,0 +1,193 @@
+Classificazione
+AMMINISTRAZIONE REGIONALE
+
+
+
+Oggetto del Consiglio n. 3915 del 18 settembre 2024 - Resoconto
+OGGETTO N. 3915/XVI - Interrogazione: "Ricadute positive per
+la Pubblica Amministrazione e per gli utenti-cittadini della
+realizzazione del progetto denominato 'VDAPay'".
+Bertin (Presidente) -
+Punto n. 16 all'ordine del giorno.
+Risponde l'assessore Caveri.
+Caveri (UV) -
+Rispondo volentieri a questa sollecitazione
+partendo dal presupposto che questo è un tema molto significativo,
+perché si tratta sostanzialmente di modernizzare, per così dire, il
+sistema con il quale noi ci occupiamo del rapporto con il
+cittadino, è uno dei vari filoni con il quale ci rapportiamo con i
+cittadini. La logica è sempre quella di guardare a delle soluzioni
+valide senza avere la presunzione di inventare dei propri
+software home made
+, perché questo è sempre un rischio molto,
+molto grande, per cui noi ci siamo appoggiati per la
+modernizzazione nel solco del filone obbligatorio del PagoPA e ci
+siamo legati a un sistema interregionale che si chiama SPAC
+(Software Partecipato Aperto Condiviso), che è stato definito con
+grande intelligenza e con grande capacità dalla Regione Veneto e
+consente alla Regione di poter capitalizzare e riusare strumenti,
+esperienze e
+best practice
+in diversi ambiti tecnologici,
+quindi non soltanto relativamente alla tematica della riscossione
+delle entrate.
+Credo che il consigliere Aggravi mi capisca, nel senso che non
+c'è niente di meglio che confrontarsi con gli altri, soprattutto
+quando gli altri, per varie ragioni, talvolta anche di scala, hanno
+sviluppato delle soluzioni tecnologiche che sono particolarmente
+valide. L'obiettivo appunto è quello di aumentare la
+collaborazione, ma vorrei dire anche che non è un elemento di poco
+conto che queste competenze si aggiungono anche a una diminuzione
+dei costi, perché più si condividono dei sistemi più i costi di
+manutenzione diminuiscono e soprattutto si hanno delle idee per
+l'evoluzione della piattaforma. Vorrei dire che l'adesione a questa
+SPAC consentirà di riutilizzare parte del sistema che già avevamo,
+il MyPay, che è stato utilizzato da molte Regioni ed è la
+piattaforma di riferimento che si lega alla piattaforma unitaria
+nazionale del PagoPA. Il progetto si pone l'obiettivo di
+razionalizzare e semplificare le interazioni fra i sistemi
+informativi degli Enti locali e quelli della Regione con il sistema
+PagoPA.
+Con riferimento agli aspetti positivi che la nuova piattaforma
+sarà in grado di generare, vorrei evidenziare che ci sarà una
+semplificazione della gestione delle entrate regionali; di
+conseguenza, un risparmio sulle attività manuali degli uffici. Come
+sempre, il problema in questi casi è l'interoperabilità fra i
+diversi sistemi di software coinvolti nella gestione delle entrate
+regionali, cioè il sistema PagoPA e, come ricorderà anche sulla
+base della sua esperienza assessorile, i nostri sistemi informatici
+Affi e SICER e i sistemi periferici di gestione di singole entrate
+regionali. Il sistema nuovo consentirà di sollevare tutte le
+strutture periferiche regionali dalla doppia gestione meramente
+manuale e di complessa attuazione su diverse tipologie di software
+che richiedono la transcodifica dei dati contabili, cioè evitare di
+dover trasferire manualmente i dati da un sistema di software
+all'altro. Contestualmente si garantisce la correttezza e
+l'affidabilità della situazione creditoria della Regione nei
+confronti della cittadinanza, riducendo al minimo il margine di
+errore dei dati. Le ricadute positive sulle risorse umane sono fra
+gli obiettivi principali di questo progetto, che ha l'ambizione di
+migliorare l'efficienza, l'equità, l'efficacia, l'economicità e la
+trasparenza nel rispetto delle esigenze di razionalizzazione e di
+semplificazione degli adempimenti amministrativi e contabili della
+Regione e degli utenti, partendo dal presupposto che esistono - e
+naturalmente condividiamo quest'idea - degli obblighi di
+trasformazione digitale della Pubblica Amministrazione. Una parte
+dell'Agenda digitale che oggi abbiamo presentato va proprio in quel
+senso.
+I costi di integrazione per ciascun ente sono sempre stati, per
+rispondere alla domanda n. 3, a carico degli enti stessi fin
+dall'avviamento della piattaforma dei pagamenti.
+Nel progetto "VDAPay" è prevista la costituzione di un centro
+servizi presso la nostra società
+in house
+INVA, che
+consentirà un supporto operativo a tutti gli Enti locali nelle
+varie fasi del progetto.
+È inutile dire che negli incontri con il CELVA emerge la solita
+problematica, cioè noi abbiamo un vecchio sistema e avremo un nuovo
+sistema, nell'interregno c'è il rischio di perdere dei pezzi, ci
+sono dei precedenti che lei conosce, che un po' si rifanno a chi è
+nostalgico del vecchio sistema, ma anche talvolta, con i nuovi
+software, a elementi oggettivi di difficoltà e abbiamo garantito
+agli Enti locali che ci sarà una piena assistenza per evitare che
+ci siano dei
+bug
+nel cambiamento del sistema.
+Il progetto "Il risparmio", un tema che già questa mattina lei
+ha affrontato, consentirà una semplificazione per gli utenti e i
+cittadini nella gestione dei pagamenti. La Regione e gli enti
+territoriali creditori non possono - io qui le do un dispiacere -
+intervenire sull'applicazione delle commissioni, i cui importi sono
+stabiliti da ciascun prestatore di servizi di pagamento, il codice
+PSP, del circuito interbancario aderente al sistema PagoPA. Sul
+sistema PagoPA gli utenti e i cittadini possono scegliere quale
+prestatore di servizi di pagamento utilizzare per effettuare il
+pagamento e le commissioni possono variare in base al canale
+scelto, ad esempio, un pagamento attraverso l'
+home banking
+,
+punti di vendita fisici,
+App
+di pagamento, dando quindi la
+facoltà di scegliere l'intermediario che offre il vantaggio con le
+condizioni e le commissioni che si ritengono più vantaggiose.
+L'interoperabilità dei sistemi contabili coinvolti garantisce - e
+questo è molto importante - la correttezza dei dati circa le
+posizioni debitorie dei cittadini. L'aggiornamento e il
+monitoraggio dei dati permettono all'Amministrazione di poter
+garantire l'affidabilità dei dati circa gli accertamenti contabili
+anche in sede di procedure particolarmente gravose di recupero
+crediti. Mediante la procedura di riconciliazione automatica dei
+pagamenti effettuati dagli utenti sul circuito PagoPA
+l'Amministrazione ha la certezza che le somme dovute siano state
+pagate e anche correttamente incassate al bilancio regionale.
+Pertanto per i cittadini il vantaggio è rappresentato dalla
+conoscenza mediante processi che assicurano una fruizione semplice
+e affidabile dei dati circa le proprie posizioni debitorie verso
+l'Amministrazione e le relative scadenze.
+Aggiungerei che questo insieme di scelte che sono state operate
+non hanno visto come protagonisti esclusivamente i bravi tecnici
+del Dipartimento innovazione e quelli dell'INVA, ma va dato merito
+anche a chi si occupa delle entrate nell'Assessorato delle finanze,
+perché questo ci ha consentito di tarare in maniera esatta
+l'inserimento di questo nuovo sistema all'interno dei sistemi della
+Regione.
+Direi che l'altro aspetto è che i periodici incontri che i
+nostri tecnici hanno con la Regione Veneto e con l'insieme di
+Regioni e di Enti locali che si occupano di questo, spinge sempre
+più in là l'orizzonte, e quindi consentirà assai probabilmente un
+utilizzo di questa piattaforma anche per altri rapporti con i
+cittadini e rientra in un processo. Visto che lei questa mattina
+giustamente evocava il rischio della burocrazia, dal punto di vista
+almeno teorico, quest'insieme di nuovi strumenti dovrebbe
+consentire di rendere più semplice la vita non sono alla Pubblica
+Amministrazione, ma anche ai cittadini utenti.
+Presidente -
+Per la replica, la parola al consigliere
+Aggravi.
+Aggravi (RV) -
+Ringrazio l'Assessore per le informazioni
+ulteriori che sono state fornite.
+Io inizio questa replica con un auspicio: mi auguro che la
+semplificazione delle operazioni contabili - per semplificare gli
+ardui passaggi che ha fatto giustamente nel rappresentare
+l'evoluzione - possano liberare risorse finanziarie e risorse umane
+da poter destinare a finalità più efficienti e diciamo più
+produttive. Ho semplificato e spero che l'auspicio sia buono.
+Effettivamente, andando poi ad analizzare nel dettaglio la
+delibera di riferimento e poi anche riprendendo in particolare la
+prima risposta che ha dato, ben venga la sinergia con altre realtà,
+soprattutto laddove le cose funzionano bene. Devo dire che la prima
+volontà era quella di comprendere meglio effettivamente di cosa si
+parlava, perché, dalle comunicazioni che erano uscite sul VDAPay,
+sembrava quasi che fosse effettivamente un
+(incomprensibile)
+software
+, invece poi, andando a vedere, si è capito meglio.
+Per quanto concerne le ricadute positive o negative, penso che
+la risposta sia stata più che esaustiva, sarà estremamente
+complicato - in parte l'abbiamo detto prima all'altro punto
+all'ordine del giorno e lo diciamo ancora adesso - il passaggio dal
+vecchio al nuovo e soprattutto da ente a ente, perché poi ognuno
+ovviamente ha le sue problematiche non soltanto da parte
+dell'utente, ma anche e soprattutto dell'organizzazione dei
+sistemi. Vedremo come si evolverà anche il coordinamento gestito
+dalla società
+in house
+.
+Per quello che riguarda poi le ricadute sui cittadini, che dire?
+Meno male che c'è il mercato delle commissioni, quindi potremo
+scegliere l'intermediario che ci fa la commissione migliore -
+prendiamola come consolazione - sperando che poi l'operazione di
+pagamento vada a buon fine, perché chi, purtroppo, ha dimestichezza
+con i PagoPA vede che ogni tanto alcune operazioni finiscono nel
+nulla e quindi bisogna poi finire per scegliere gli intermediari
+diversi con delle condizioni diverse, ma questa non è né colpa del
+sottoscritto, né sua, né nostra, è un sistema che subiamo molto più
+grande, nel senso che più che PagoPA potevamo dargli un nome
+proprio che richiamasse magari anche lo sceriffo di Nottingham,
+perché oggettivamente, oltre a dover pagare il tributo, devo anche
+pagarmi una commissione per la gestione del tributo.
+Detto questo, prendiamo atto e andiamo avanti e vedremo
+soprattutto l'evoluzione del progetto.

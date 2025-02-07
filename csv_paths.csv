@@ -116,3 +116,26 @@ ID_file,path_src,path_clean,language,object,legislature,date,class
 48023,./downloads/48023.txt,./clean/48023.txt,it,4166,XVI,21/11/2024,"ASSISTENZA SOCIALE, Politiche giovanili"
 48024,./downloads/48024.txt,./clean/48024.txt,it,4167,XVI,21/11/2024,"ISTRUZIONE PUBBLICA, Personale docente e non docente"
 48025,./downloads/48025.txt,./clean/48025.txt,it,4168,XVI,21/11/2024,ACQUE
+48026,./downloads/48026.txt,./clean/48026.txt,it,4169,XVI,21/11/2024,"ENERGIA, Risparmio energetico e fonti alternative"
+48027,./downloads/48027.txt,./clean/48027.txt,it,4170,XVI,21/11/2024,"COMMERCIO, INFORMAZIONE, Sistema informativo"
+48028,./downloads/48028.txt,./clean/48028.txt,it,4171,XVI,21/11/2024,SPORT E TEMPO LIBERO
+48029,./downloads/48029.txt,./clean/48029.txt,it,4172,XVI,21/11/2024,EDILIZIA
+48030,./downloads/48030.txt,./clean/48030.txt,it,4173,XVI,21/11/2024,"AMBIENTE, Stoccaggio e smaltimento rifiuti"
+48031,./downloads/48031.txt,./clean/48031.txt,it,4174,XVI,21/11/2024,"TRASPORTI E VIABILITÀ, Viabilità, Strade di interesse regionale"
+48032,./downloads/48032.txt,./clean/48032.txt,it,4175,XVI,21/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Personale medico e paramedico"
+48033,./downloads/48033.txt,./clean/48033.txt,it,4176,XVI,21/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Igiene e sanità pubblica"
+48034,./downloads/48034.txt,./clean/48034.txt,it,4177,XVI,21/11/2024,"ASSISTENZA SOCIALE, Famiglia, tutela dell'infanzia"
+48035,./downloads/48035.txt,./clean/48035.txt,it,4178,XVI,21/11/2024,"COMMERCIO, INFORMAZIONE, TURISMO E INDUSTRIA ALBERGHIERA"
+48036,./downloads/48036.txt,./clean/48036.txt,it,4179,XVI,21/11/2024,"TURISMO E INDUSTRIA ALBERGHIERA, Ricettività turistica"
+48037,./downloads/48037.txt,./clean/48037.txt,it,4180,XVI,21/11/2024,"SPORT E TEMPO LIBERO, Infrastrutture ricreativo-sportive"
+48038,./downloads/48038.txt,./clean/48038.txt,it,4181,XVI,21/11/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula"
+48041,./downloads/48041.txt,./clean/48041.txt,it,4182,XVI,09/12/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula"
+48042,./downloads/48042.txt,./clean/48042.txt,it,4183,XVI,09/12/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula"
+48043,./downloads/48043.txt,./clean/48043.txt,it,4184,XVI,09/12/2024,"BILANCIO E CONTABILITA' REGIONALE, OPERE PUBBLICHE"
+48044,./downloads/48044.txt,./clean/48044.txt,it,4185,XVI,09/12/2024,"FINANZA REGIONALE E LOCALE, Partecipazioni azionarie regionali"
+48045,./downloads/48045.txt,./clean/48045.txt,it,4186,XVI,09/12/2024,"EDILIZIA, Edilizia residenziale"
+48046,./downloads/48046.txt,./clean/48046.txt,it,4187,XVI,09/12/2024,"ASSISTENZA SOCIALE, Disabili, TRASPORTI E VIABILITÀ, Trasporti"
+48047,./downloads/48047.txt,./clean/48047.txt,it,4188,XVI,09/12/2024,"ACQUE, Acque minerali e termali"
+48048,./downloads/48048.txt,./clean/48048.txt,it,4189,XVI,09/12/2024,EDILIZIA
+48049,./downloads/48049.txt,./clean/48049.txt,it,4190,XVI,09/12/2024,ASSISTENZA SANITARIA E OSPEDALIERA
+48050,./downloads/48050.txt,./clean/48050.txt,it,4191,XVI,09/12/2024,BILANCIO E CONTABILITA' REGIONALE

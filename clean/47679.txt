@@ -1,0 +1,131 @@
+Classificazione
+AMBIENTE
+Parchi, riserve naturali, aree protette e attrezzate
+INFORMAZIONE
+Sistema informativo
+
+
+
+Oggetto del Consiglio n. 3867 del 24 luglio 2024 - Resoconto
+OGGETTO N. 3867/XVI - Interpellanza: "Approfondimenti in
+merito all'attacco malware subito dal sito web dell'Ente Parco
+Mont-Avic".
+Bertin (Presidente) -
+Punto n. 45. Consigliere Brunod, ne
+ha facoltà.
+Brunod (RV) -
+Il 7 maggio 2024, sulle pagine social
+network ufficiali, pagina Facebook e Instagram dell'ente Parco Mont
+Avic, sono state pubblicate le seguenti informazioni: "Attenzione,
+il sito web del Parco non è accessibile a causa di un attacco
+malware. I tecnici stanno lavorando per ripristinare la sua
+funzionalità, nel frattempo non tentare di accedere. Torneremo
+online il prima possibile".
+Tenendo conto che sul sito dell'ente vi sono tutta una serie di
+sezioni, informazioni, contenuti relativi alle bellezze e alle
+eccellenze offerte da questa stupenda area naturalistica presente
+in Bassa Valle (intendiamo cosa si può trovare nel Parco, come
+conoscere il Parco, come raggiungerlo, i vari sentieri guidati, le
+carte, le attività didattiche e tante altre informazioni),
+evidenziamo che nel sito, oltre alle sezioni sopra menzionate, vi è
+anche tutta una serie di sezioni e informazioni relative alla
+fruizione dell'area naturalistica: norme di comportamento e
+quant'altro intendiamo.
+Ricordiamo anche le diverse iniziative presentate nel corso
+della legislatura, volte a mettere in risalto le particolarità ed
+eccellenze del Parco naturale Mont Avic, in modo particolare per
+quanto riguarda le sue potenzialità e anche per il suo importante
+ruolo nel contribuire al rilancio turistico della Bassa Valle.
+Tenuto conto che ci troviamo in un periodo dell'anno dove,
+grazie alla bella stagione, aumenta l'affluenza e, di conseguenza,
+anche le richieste di informazioni e contenuti tecnici relativi
+all'offerta presente nell'area naturalistica, interpelliamo
+l'Assessore competente per conoscere se siano stati fatti
+approfondimenti in merito all'attacco malware subito dall'ente
+Parco, quale sia l'entità del danno e la gravità di questo attacco,
+visto il lungo periodo di non disponibilità del sito. Alla terza
+domanda con la quale chiedevamo "Con quali tempistiche si intende
+risolvere la problematica affinché tutti i contenuti che erano
+presenti sul sito possano nuovamente essere a disposizione dei
+possibili utenti dell'area naturalistica" nel frattempo abbiamo già
+trovato la risposta, perché ovviamente si tratta di un'iniziativa
+presentata in data 28 giugno 2024 - il 7 maggio vi è stato
+quest'attacco - e, casualmente immaginiamo, sempre il 28 giugno, il
+giorno della presentazione delle iniziative, durante il pomeriggio
+è stato riattivato il sito dall'Ente Parco, quindi sicuramente è
+una notizia che ci fa molto piacere ed è stata una concomitanza
+sicuramente non casuale; immaginiamo che ci sia stato qualcosa di
+importante, sicuramente, a motivare questi quasi due mesi
+d'inattività e di non disponibilità.
+Aggiungiamo anche che in questi giorni abbiamo appreso -
+leggendo e documentandoci attraverso la relazione organica sulle
+attività svolte dall'ente nel corso del 2023 - che il sito web del
+Parco è gestito interamente da personale interno con evidenti
+difficoltà, anche di ordine tecnico, che nel corso del 2023 non è
+stato più possibile accedere alle informazioni di visualizzazioni
+sul sito web istituzionale dell'ente e che, anche a seguito delle
+problematiche recentemente accorse, nel 2024, s'intende dare corso
+a incarico per il rifacimento del sito web.
+Dopo queste iniziative e le domande che abbiamo chiesto,
+chiediamo all'Assessore se può fornirci ulteriori dettagli e
+approfondimenti in merito.
+Presidente -
+Risponde l'assessore Sapinet.
+Sapinet (UV) -
+Grazie, collega, dell'iniziativa, grazie
+anche dell'attenzione che pone sempre verso l'area protetta della
+Bassa Valle.
+In merito a tale evento, l'ente Parco, che ci fornisce la
+risposta, ha comunicato che nei giorni scorsi il sito web
+istituzionale dell'ente è stato oggetto, come ricordava giustamente
+lei, di un attacco fraudolento a opera di ignoti che, tramite
+malware, hanno modificato il codice del sito web rendendolo
+completamente irraggiungibile e rendendo inutilizzabili le copie di
+backup disponibili, con conseguente impossibilità di procedere al
+ripristino del sito web con le procedure ordinarie.
+È stato quindi necessario incaricare società esterne
+specializzate per determinare le esatte dinamiche di quanto
+accaduto e gli interventi necessari.
+Sono stati quindi ricostruiti i contenuti danneggiati e la
+struttura del sito web.
+Si è poi provveduto al reset e alla messa in sicurezza dello
+spazio di hosting e successivamente sono stati ricaricati tutti i
+contenuti e la struttura del sito web.
+Dopo la verifica della funzionalità del sito, si è poi proceduto
+nuovamente alla messa on-line del sito.
+L'ente ha provveduto inoltre a effettuare le dovute
+comunicazioni formali alla responsabile della privacy dell'ente, al
+garante della privacy e alla commissione indipendente di
+valutazione della performance per gli aspetti connessi
+all'accessibilità e all'aggiornamento della sezione amministrazione
+trasparente.
+Si è inoltre data notizia dell'accaduto alla polizia
+postale.
+Riguardo al secondo quesito sull'entità del danno e la gravità,
+i tempestivi interventi che sono stati messi in atto dall'ente
+Parco, hanno limitato considerevolmente i danni dell'azione
+fraudolenta che possono essere quindi considerati piuttosto
+limitati in quanto il sito è stato interamente recuperato così
+com'era nella sua versione originale antecedente all'attacco.
+Sul terzo quesito si è già dato la risposta, effettivamente il
+sito è nuovamente e completamente on-line dal 28 giugno, quindi del
+ripristino della funzionalità è stata data comunicazione all'utenza
+anche tramite i canali Social del Parco.
+Presidente -
+Per la replica, consigliere Brunod.
+Brunod (RV) -
+Ringraziamo l'Assessore per questi
+approfondimenti tecnici in merito a questo attacco malware.
+Ovviamente qui è giusto dire che c'è sempre una corsa molto
+frettolosa nei confronti della tecnologia, digitalizzazione e
+quant'altro, poi ovviamente scopriamo che purtroppo sempre più
+spesso accadono anche questi incidenti di percorso che dovrebbero
+farci riflettere: magari bisogna andare verso una certa direzione
+ma neanche correre sempre troppo perché, sì va bene la tecnologia,
+quando la tecnologia non funziona però siamo completamente fermi,
+quindi qualche valutazione in merito ogni tanto dovremmo anche
+farla su questi argomenti.
+Ringraziamo sicuramente il personale e l'ente Parco Mont Avic
+per l'impegno che mette in tutte le sue attività. Ovviamente quello
+che ci fa piacere è che nel pieno della stagione turistica adesso
+il sito sia di nuovo attivo.
