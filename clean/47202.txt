@@ -1,0 +1,147 @@
+Classificazione
+ASSISTENZA SOCIALE
+Disabili
+TRASPORTI E VIABILITÀ
+Trasporti
+
+
+
+Oggetto del Consiglio n. 3496 del 3 aprile 2024 - Resoconto
+OGGETTO N. 3496/XVI - Interpellanza: "Risoluzioni alle
+criticità relative agli annunci vocali a bordo degli autobus al
+fine di garantire l'accessibilità universale".
+Bertin (Presidente) -
+Punto n. 37. Consigliere Marquis,
+ha facoltà di intervenire.
+Marquis (FI) -
+Torniamo sulle criticità riscontrate circa
+gli annunci vocali a bordo degli autobus: è un argomento, questo,
+che era già sottoposto in Consiglio regionale dal collega Lucianaz
+con un'iniziativa ai primi dell'anno 2024.
+In quell'occasione, l'Assessore si era assunto l'impegno di
+risolvere questa problematica e riteniamo che, soprattutto in un
+momento in cui non abbiamo la possibilità di utilizzare la
+ferrovia, che tutto il trasporto pubblico locale è un trasporto
+pubblico su gomma, il fatto che ci siano delle situazioni in essere
+come queste credo che non vadano bene e diano anche, al di là di
+una disfunzionalità, una cattiva immagine di quello che è la
+pubblica Amministrazione della Valle d'Aosta.
+Sono sostanzialmente degli annunci che sono inascoltabili in
+tutta una serie di situazioni, non stiamo parlando solo di accento;
+faccio due esempi: Corso XXVI Febbraio viene annunciato Corso X, X,
+V, I Novembre; via IV Novembre a Pont-Saint-Martin è Via I, V
+Novembre.
+Chi sale sul pullman, ascolta delle cose così e credo che dica:
+"Ma cosa sta succedendo qui?".
+Non credo che sia una questione che abbia delle così grosse
+difficoltà e soprattutto c'è anche un problema di inclusione
+sociale. Ci sono delle casistiche, ad esempio, dove ci sono degli
+ipovedenti che si dovrebbero avvalere di questi annunci per poter
+avere facilitata la fruizione del mezzo, ma non sono neanche in
+grado di capire qual è la fermata.
+Sì, è solo un accento però cambia sostanzialmente poi il
+significato della parola, in quel caso.
+Dopo tre mesi che è stata fatta quest'iniziativa, che era stato
+preso un impegno specifico di affrontare questo problema, si chiede
+come mai ancora oggi non ci sia nessun segnale sul campo di una
+correzione di queste situazioni che porterebbero comunque a
+migliorare quantomeno la qualità del servizio.
+Presidente -
+Risponde l'assessore Bertschy.
+Bertschy (AV-VdA Unie) -
+Capisco che si tenda di far
+passare l'idea che il problema non sia stato preso in carico,
+invece il problema è stato preso in carico: per dare una soluzione
+completa e non intervenire puntualmente, è stato richiesto
+dall'Assessore, per conto dell'Amministrazione regionale, di
+ripartire; ci sono circa 2.200 fermate in salita e in discesa da
+considerare, l'80% di queste fermate ha una pronuncia in francese,
+il 15% in italiano, il 5% in tedesco per semplificare. La richiesta
+che è stata fatta è stata quella di ripensare, dare un servizio
+ottimale, aderente alle aspettative e all'esigenza che abbiamo
+immaginato e rappresentata prima dal consigliere Lucianaz, poi
+dalla consigliera Minelli e oggi da lei. Quello che è stato
+richiesto di fare è ovviamente una pronuncia corretta dei toponimi
+e una pronuncia per esteso in forma completa. Raccontava adesso lei
+diciamo ironizzando dei toponimi che, per esigenza di sintesi, sono
+normalmente gestiti dai sistemi con varie forme di abbreviazione,
+acronimi e sintesi, "INF" al posto di inferiore, "PSM" al posto di
+Pont-Saint-Martin e via di seguito.
+Questa soluzione è stata ristudiata, sono state individuate le
+modalità per provare a dare una soluzione completa, che si sta
+mettendo in esercizio; si confida che questo lavoro si completi
+nelle due-tre settimane a venire.
+L'attuale modello è basato su un concetto di vocalizzazione
+equivalente: in altre parole, ogni toponimo sarà gestito attraverso
+una codifica a sé stante, campo aggiuntivo del DB, in cui la forma
+scritta delle fermate, anche se ortograficamente distorta, possa
+essere interpretata dal sistema di digitalizzazione in forma
+corretta, sotto il profilo della pronuncia e della completezza di
+scrittura.
+Tale accorgimento ha comportato una rivisitazione estesa e
+invasiva verticale della piattaforma del sistema al fine di
+preservarne immutate le caratteristiche di elevata integrazione e
+automazione, unitamente ad altre caratteristiche lo rendono
+estremamente evoluto e, speriamo, nella forma attesa da tutti.
+È stato ripensato in maniera intera, perché ci saranno poi delle
+manutenzioni nel tempo da fare, quindi va adottato un modello che
+possa essere poi completamente mantenuto, perché ci saranno magari
+poi da inserire nuove fermate, e farlo indicazione per indicazione
+avrebbe comportato una differente pronuncia e differente, magari,
+anche vocalità nel tempo.
+Ricordo che ad oggi la Regione non ha né pagato completamente
+quello che è l'impegno dell'opera, che non è collaudata, quindi
+stiamo lavorando per risolvere anche questi problemi nella maniera
+migliore.
+L'informazione che posso dare è che sono in corso di risoluzione
+e speriamo che nelle prossime due o tre settimane questo vada nella
+direzione di dare soddisfazione a tutti quanti.
+Nel tempo, non mi ricordo chi allora seguiva queste attività, ma
+ricordo bene che semplicemente per far pronunciare nella maniera
+giusta qualche stazione ferroviaria in Valle d'Aosta, era dovuto
+passare molto tempo.
+Qui sicuramente c'è un problema, un problema che è dato dalla
+peculiarità del nostro territorio e che soprattutto la SIT, in
+rappresentanza delle aziende, e l'azienda che sta realizzando il
+servizio, si è presa in carico per cercare di dare la migliore
+risposta.
+Presidente -
+Consigliere Marquis.
+Marquis (FI) -
+Nell'illustrazione, quando si è detto che
+il problema non è preso in carico, è perché sostanzialmente non è
+stato risolto: questa era la deduzione a cui si è arrivati, perché
+si ritiene che non sia una questione di così rilevanza da non poter
+essere affrontata nell'arco di un trimestre.
+È vero quello che ha detto lei, che non è stato né pagato ancora
+né collaudato, però c'è già un'evidenza, perché parliamo anche noi
+non solo con i fruitori dei servizi, però anche chi utilizza i
+mezzi, chi esercita l'attività, riferisce delle situazioni che
+vengono vissute.
+Sono state installate due cose: questa cosa qui audio e
+l'emettitrice dei biglietti.
+Le emettitrici dei biglietti le hanno montate sottosopra,
+l'audio non funziona, quindi c'è già un primo elemento di rilievo,
+al di là se è stato pagato o non pagato, se è stato collaudato o
+non collaudato. Vuol dire che su due cose che sono state installate
+sul sistema di trasporto pubblico sui pullman, tutte e due hanno
+dei grossi problemi.
+Una non pronuncia, non si riesce neanche a capire quali siano le
+fermate, e l'altra - come le dicevo - montata sottosopra; ancora
+adesso mi risulta che non sempre queste validatrici siano in
+servizio sulla linea, ci sono anche dei momenti in cui non
+funzionano, quindi ci sono dei problemi che sono dei problemi
+seri.
+Il problema serio non è che si risolva dicendo: "Non abbiamo
+collaudato", perché fa strano che si comprino due cose e ce ne
+siano due che non funzionano, una comprata in Turchia, questa non
+so se è la medesima ditta fornitrice. Certo è che se parliamo di
+bilinguismo in Valle d'Aosta e poi andiamo a fare delle
+acquisizioni ancora di
+software
+da persone che non parlano
+nemmeno l'italiano, questo diventa ancora tutto più complicato.
+Pertanto, aspettiamo che venga risolto il problema, monitoreremo
+ancora con attenzione, speriamo che le sue parole trovino
+attuazione e che nell'arco delle prossime settimane si possa
+definitivamente superare questa questione.

@@ -1,0 +1,1958 @@
+Classificazione
+AMBIENTE
+ENERGIA
+
+
+
+Oggetto del Consiglio n. 3357 del 6 marzo 2024 - Resoconto
+OGGETTO N. 3357/XVI - Inizio della discussione generale
+sull'approvazione del Piano Energetico Ambientale Regionale della
+Valle d'Aosta al 2030 (PEAR VDA 2030), ai sensi della legge
+regionale 25 maggio 2015, n. 13.
+Bertin (Presidente) -
+Sono stati presentati su questo
+oggetto quattro emendamenti del gruppo PCP, sei ordini del giorno
+del gruppo RV e quattro ordini del giorno del gruppo della Lega.
+Per illustrare il piano, ha chiesto la parola l'assessore Bertschy,
+ne ha facoltà.
+Bertschy (AV-VdA Unie) -
+Il piano energetico ambientale
+regionale costituisce lo strumento di pianificazione energetica a
+livello regionale. L'obbligo di redazione del piano energetico
+ambientale regionale da parte di Regioni e Province autonome è
+stato introdotto a livello normativo dalla legge 10/1991 ed è
+richiamato a livello regionale dalla legge 13/2015. Il PEAR rientra
+tra i piani e i programmi che possono avere effetti significativi
+sull'ambiente, sul patrimonio culturale ed è quindi soggetto a
+valutazione ambientale strategica, la procedura di VAS
+metodologicamente e proceduralmente integrata nell'iter di
+costruzione del PEAR è dunque funzionale al perseguimento della
+sostenibilità ambientale attraverso l'individuazione, la
+descrizione e la valutazione degli effetti significativi che le
+azioni di piano potrebbero avere sull'ambiente, sull'uomo, sul
+patrimonio culturale e su quello paesaggistico, nonché proponendo
+eventuali misure di mitigazione ove necessario.
+La pianificazione ha durata decennale. Il primo PEAR della Valle
+d'Aosta è stato approvato dal Consiglio regionale nel 1998, il
+secondo nel 2003, il terzo nel 2014 ed è stato relativo al periodo
+2011-2020, quindi la presente proposta costituisce il quarto PEAR e
+il periodo di pianificazione arriva al 2030, per questo l'abbiamo
+denominato PEAR VDA 2030.
+La costruzione del PEAR VDA 2030 si inserisce in un ampio
+articolato contesto di piani e strategie a livello internazionale,
+europeo e nazionale, a cui sono dedicati una parte consistente dei
+capitoli iniziali del documento e dai quadri discendono a cascata
+le pianificazioni a livello nazionale regionale. Ne ricordiamo
+alcuni, a livello internazionale l'Agenda 2030 delle Nazioni Unite
+sullo sviluppo sostenibile, l'accordo di Parigi del 2015, la legge
+europea sul clima del 2021. In parallelo agli sforzi volti alla
+mitigazione dei cambiamenti climatici è emersa la necessità di
+adattamento agli stessi attraverso lo sviluppo di sistemi
+resilienti e il miglioramento delle capacità di prevedere e gestire
+i cambiamenti in corso. Per far fronte a questi sfidanti obiettivi,
+sono stati attivati fondi specifici di finanziamento gestiti
+direttamente dalla Commissione europea attraverso programmi
+tematici orientati alla crescita, all'occupazione, allo sviluppo
+rurale, alla cooperazione, alla ricerca e all'innovazione, che
+trovano copertura nel piano nazionale di ripresa e resilienza,
+nelle missioni M2 "Rivoluzione Verde e Transizione ecologica", M3
+"Infrastrutture per una mobilità sostenibile" e rivestono
+complessivamente un ruolo preponderante. In tale contesto a livello
+nazionale è stato predisposto il Piano Nazionale Integrato per
+l'Energia e per il Clima (il PNIEC), aggiornato a giugno del 2023 e
+attualmente in fase di procedura VAS, che costituisce lo strumento
+di indirizzo e pianificazione energetica a livello nazionale. A
+livello regionale ricordiamo la
+Road map
+per una Valle
+d'Aosta
+fossil fuel free
+al 2040, le Linee guida per la
+decarbonizzazione approvata nel 2021 che si è posta l'obiettivo di
+riduzione delle emissioni di gas climalteranti al 2040 del 75%
+rispetto ai valori del 2017 e, sempre nel 2021, la Strategia
+regionale di adattamento ai cambiamenti climatici, infine nel 2023
+la Strategia regionale di sviluppo sostenibile. Sono tutti
+strumenti ai quali si ispira e con i quali si raccorda il PEAR VDA
+2030.
+Passiamo a una rapida analisi del sistema energetico regionale
+che ha costituito una base fondamentale di informazioni per la
+redazione del PEAR VDA 2030 e che utilizza dei bilanci energetici
+regionali aggiornati al 2019 che forniscono informazioni sui flussi
+energetici del territorio, ovvero produzioni, importazioni,
+esportazioni, trasformazioni e consumi suddivisi per vettori e per
+differenti settori di utilizzo. Il sistema energetico valdostano è
+caratterizzato da alcune peculiarità che lo rendono unico nel
+panorama nazionale. Al 2019 la produzione complessiva è pari a
+circa 3.514 Gigawatt/ora costituita per il 100% da fonti
+energetiche rinnovabili, di cui il 90,7% derivante da fonti
+energetiche rinnovabili elettriche e il restante 9,3% da fonti
+energetiche rinnovabili termiche, quali la biomassa, il solare
+termico, la quota rinnovabile delle pompe di calore e il biogas.
+Una quota importante di energia elettrica viene esportata, circa il
+63%, in quanto mediamente solo il 37% dell'energia elettrica
+prodotta viene consumata sul territorio regionale.
+Nonostante l'elevata produzione locale di energia da fonti
+energetiche rinnovabili, il territorio regionale ha comunque la
+necessità di ricorrere all'importazione per poter soddisfare i
+propri fabbisogni energetici, circa 3.807 Gigawatt/ora al 2019.
+Vengono importati i prodotti petroliferi, il gasolio per il 41%, la
+benzina all'8%, il GPL al 6% e gas naturale 26%, ma anche energia
+elettrica al 12%, e biomassa al 7%. L'importazione di energia
+elettrica, anche se la Valle d'Aosta ne produce complessivamente
+più di quanta ne consumi, si rende necessaria sia per esigenze
+della rete elettrica, sia perché in determinati periodi dell'anno
+in specifiche aree del territorio non si presenta una contestualità
+tra utilizzo e produzione.
+I consumi finali lordi, 4.796 Gigawatt/ora al 2019, sono coperti
+per circa 63% da fonti energetiche non rinnovabili e per il 37% da
+fonti energetiche rinnovabili. Nello specifico sono costituiti per
+il 44% da prodotti petroliferi, gasolio, GPL e benzine; 17% da gas
+naturale; 25% dall'energia elettrica; 11% da fonti energetiche
+rinnovabili e 3% calore della centrale di teleriscaldamento. I
+consumi finali netti per settori: 4.515 Gigawatt/ora sono
+imputabili per il 50% al settore civile, residenziale terziario,
+per il 24% all'industria e all'agricoltura e per il 26% ai
+trasporti. I consumi hanno generato al 2017 circa 873.078
+tonnellate di CO2, equivalenti in immissioni di gas
+climalteranti.
+La costruzione del PEAR VDA 2030 è partita dall'analisi
+dell'ampio contesto energetico a livello internazionale, europeo e
+nazionale, a cui sono dedicati una parte consistente, come dicevamo
+in premessa, dei capitoli iniziali del piano. Come anticipato, il
+PEAR VdA 2030 ha tenuto conto nella sua definizione dell'obiettivo
+che la Valle d'Aosta si è posta con la
+Road map fossil fuel
+free e non può prescindere da una complessa architettura di piani,
+programmi e strategie che concorrono in modo coordinato e omogeneo
+allo sviluppo sostenibile di territori come delineati dall'Agenda
+2030.
+Lo sviluppo del documento di piano, di cui è responsabile il
+nostro Assessorato, l'Assessorato dello sviluppo economico,
+formazione e lavoro, trasporti e mobilità sostenibile, è stato
+seguito dalla struttura regionale competente insieme al COA,
+Energia di Finaosta, in collaborazione con l'Energy Centre del
+Politecnico di Torino, che, oltre a fornire supporto per
+l'elaborazione degli scenari energetici e delle ricadute ambientali
+a esso correlate, ha effettuato approfondimenti su specifiche
+tematiche quali l'utilizzo del vettore idrogeno e la sua
+applicabilità su territori alpini, come la Valle d'Aosta, come da
+specifico documento legato al piano.
+La costruzione del PEAR VDA 2030, che per sua natura è
+trasversale a diversi settori, per i quali funge da documento
+strategico e di indirizzo, ha comportato numerosi confronti con le
+varie strutture regionali competenti su specifiche tematiche a esso
+correlate, oltre che con i principali portatori di interesse locali
+per coordinare e condividere azioni e obiettivi. Tali confronti
+sono avvenuti sia a livello formale nella procedura di VAS, sia a
+livello informale, nelle varie fasi di costruzione e documento di
+piano e di tutta la documentazione richiesta nell'ambito della VAS,
+a partire dall'estate 2021 fino all'estate 2023.
+Un nuovo approccio rispetto al passato è stato seguito nella
+costruzione del piano, finalizzato a rendere il documento oggetto
+di richiami e correlazioni in tutte le sue parti attraverso
+collegamenti ipertestuali, attraverso un completo elenco delle
+definizioni e degli acronimi in esso contenuti, nonché attraverso
+la redazione di documenti riassuntivi che potessero consentire una
+più immediata percezione e lettura dei principali elementi che lo
+costituiscono anche per un pubblico meno tecnico ed esperto del
+settore, rinviando per approfondimenti più dettagliati ai documenti
+complessivi necessari e obbligatori in quanto previsti dalle stesse
+procedure di valutazione ambientale e strategica alla quale il PEAR
+deve essere obbligatoriamente assoggettato.
+Abbiamo fatto, nel periodo di pubblicazione della VAS, degli
+incontri pubblici, lo richiameremo più tardi e si è trattato del
+primo passo di un percorso di condivisione e di diffusione dei
+principi e degli obiettivi del PEAR con il territorio, che per la
+prima volta dal 1998 ad oggi è diventato parte integrante del piano
+stesso e si svilupperà per tutta la sua durata.
+Dal punto di vista prettamente tecnico, per la costruzione delle
+PEAR VDA 2030, è stato definito uno scenario libero, ovvero la
+probabile evoluzione del sistema energetico regionale sulla base
+dei
+trend
+registrati con le politiche energetiche esistenti,
+che costituisce lo scenario di riferimento della pianificazione
+energetica. Sono stati individuati in seguito due scenari
+denominati "Scenario moderato" e "Scenario accelerato" che, in
+funzione a degli obiettivi da raggiungere al 2030 e a partire
+dall'analisi di ricaduta ambientale, hanno condotto alla
+definizione dello scenario di piano vero e proprio.
+Ripercorro rapidamente il percorso di costruzione del PEAR: il
+processo è stato avviato a fine 2020 attraverso la redazione della
+relazione metodologica preliminare, a ottobre 2021 ha preso
+formalmente avvio la procedura ambientale strategica del PEAR VDA
+2030 attraverso la relazione metodologica preliminare della
+struttura competente del Dipartimento Ambiente, che a novembre 2021
+ha trasmesso il proprio parere con riportate le osservazioni e i
+contributi alla relazione metodologica preliminare da parte dei
+soggetti competenti in materia territoriale, che non sto ad
+elencare, ma sono tutti i soggetti che hanno contribuito alla
+realizzazione della fase di confronto del piano. Le osservazioni
+che sono pervenute da parte di questi enti sono state tenute in
+considerazione per l'elaborazione degli scenari energetici e le
+analisi delle relative ricadute ambientali da inserire nella
+documentazione del PEAR VDA 2030. A gennaio 2022 è stato presentato
+in IV Commissione consiliare il monitoraggio del PEAR del 2019, che
+avrebbe costituito le basi per la costruzione del nuovo PEAR e sono
+state riportate le linee di indirizzo del nuovo PEAR con obiettivi,
+scenari e principali assi di riferimento con la finalità di
+aggiornare sul lavoro in corso. Da gennaio 2022 ad aprile 2023 è
+stata elaborata la ricca e articolata documentazione che compone il
+PEAR predisposta secondo quanto richiesto dalla normativa in
+materia di VAS. Fra i vari elementi che secondo tale normativa
+costituiscono parte integrante dei documenti di piano ricordiamo
+uno dei principali, ovvero il rapporto ambientale che accompagna
+l'intero processo di elaborazione e approvazione dando evidenza
+dell'integrazione dei fattori ambientali e del processo
+decisionale, descrivendo in quale modo si è tenuto conto degli
+effetti sull'ambiente delle azioni previste. La Giunta regionale ha
+preso atto con propria deliberazione dell'avvio della procedura di
+valutazione ambientale strategica del PEAR, che attraverso la
+pubblicazione sul BUR della proposta di PEAR VDA 2030 e di tutta la
+documentazione di VAS, ha dato l'avvio ai 45 giorni di
+consultazione pubblica della documentazione. Proprio in questa
+fase, nel maggio 2023 abbiamo dato la possibilità a tutti i
+cittadini, imprese e a tutti coloro che hanno voluto interessarsi a
+questa fase di pubblicazione di incontrare le strutture
+dell'Assessorato e del COA Energia con quattro incontri pubblici
+sul territorio ad Aosta, Pont-Saint-Martin, Châtillon e
+Pré-Saint-Didier che ci hanno permesso di presentare in maniera
+semplificata gli obiettivi del piano. Le Commissioni consiliari III
+e IV sono state anch'esse coinvolte nello stesso mese con la
+presentazione dell'inquadramento energetico del territorio
+regionale e degli obiettivi quantitativi e qualitativi, oltre che
+delle azioni ipotizzate del PEAR. Al termine della consultazione
+pubblica è stato formulato il parere motivato da parte della
+struttura competente, a partire da tutte le osservazioni pervenute
+nella fase di concertazione pubblica da parte di soggetti con
+competenze territoriali e ambientali, dieci soggetti, e da parte di
+soggetti terzi, che sono nel numero di cinque.
+Il parere motivato ha dato esito positivo e ricorda che non sono
+stati evidenziati nelle osservazioni pervenute rilevanti elementi
+di incoerenza o di incompatibilità rispetto ai settori di
+competenza e con la pianificazione regionale e che nel complesso
+non sono stati rilevati effetti negativi significativi derivanti
+dall'attuazione delle azioni di piano indicati tali da rendere
+l'attuazione al PEAR VDA 2030 complessivamente non compatibile con
+l'ambiente. Il parere motivato rimanda alla dichiarazione di
+sintesi, il documento conclusivo che la procedura di VAS prevede
+venga redatto per procedere alla presentazione al Consiglio
+regionale la proposta di piano e che contiene l'analisi, da parte
+della struttura proponente, di tutte le osservazioni pervenute e
+l'indicazione di eventuali integrazioni e modifiche dei documenti
+di piano. La Giunta ha quindi provveduto a trasmettere la proposta
+di PEAR VDA 2030 e tutta la documentazione di VAS al Consiglio
+regionale per la sua discussione.
+Il piano PEAR VDA 2030 indica tre obiettivi quantitativi di qui
+al 2030: il primo è l'obiettivo efficienza energetica, che si
+propone appunto di ridurre i consumi finali netti del 12% al 2030
+rispetto ai valori del 2019; il secondo è l'obiettivo d'incremento
+della produzione da FER e l'incremento che si propone di
+raggiungere è la produzione del 12% in più di FER di qui al 2030
+rispetto ai valori del 2019 attraverso la nuova installazione sia
+di FER termine, sia di FER elettriche; il terzo obiettivo è di
+riduzione delle emissioni dei gas climalteranti.
+Il PEAR VDA 2030 costituisce un traguardo intermedio rispetto
+agli obiettivi di decarbonizzazione di progressivo abbandono dei
+combustibili fossili che la Valle d'Aosta si è posta al 2040.
+L'impatto del settore energetico principalmente correlato all'uso
+di combustibili fossili è predominante sul totale del quadro
+emissivo regionale ed è responsabile del 78% delle emissioni
+complessive rilevate al 2017. Rispetto pertanto a tali missioni,
+l'obiettivo è ottenere al 2030 una riduzione del 34%. Il
+raggiungimento di tali obiettivi e quantitativi andrà perseguito
+attraverso un
+mix
+di azioni che includono alcuni
+driver
+di sviluppo qualitativi più volte richiamati nel
+piano che possiamo ricordare brevemente: il primo di questi è la
+sostenibilità, ovvero la transizione energetica non deve essere
+vista come fine a sé stessa, ma rientra in un ampio concetto di
+transizione ecologica di sviluppo sostenibile da declinare su scala
+locale. Occorre pertanto valutare le forti interconnessioni del
+sistema energetico con la sfera ambientale, economica e sociale,
+introducendo modelli di crescita più sostenibili e applicando nello
+sviluppo delle azioni il concetto di economia circolare. Vi è poi
+il concetto di resilienza, è importante un adattamento ai
+cambiamenti climatici attraverso lo sviluppo di sistemi resilienti,
+migliorando la capacità di prevedere e gestire i cambiamenti in
+corso. Occorre poi parlare di sfida globale e accelerazione verso
+il 2040 in quanto la pianificazione energetica regionale risente e
+beneficia di strategie e misure a livello sovraregionale, benché
+siamo di fronte a sfide globali di cui la Valle d'Aosta deve dare
+una risposta locale, basata sulla specificità del proprio
+territorio, tenendo in considerazione gli sviluppi del sistema
+energetico a scala internazionale, europea e nazionale, nonché i
+fondi a esso destinati. Non dimentichiamo poi il concetto già
+accennato di trasversalità, cioè il PEAR non si sostituisce alle
+singole pianificazioni di settore, ma vuole indicare nei diversi
+ambiti d'intervento il contributo necessario da parte di tale
+settore per il raggiungimento degli obiettivi delineati. Un altro
+tema importante è quello dell'elettrificazione, poiché la
+progressiva transizione dei consumi termici verso il vettore
+elettrico, trainata dalla diffusione delle pompe di calore e dalla
+mobilità elettrica, può rappresentare un elemento rilevante
+nell'attuazione del PEAR. In tale ottica potrà essere valorizzato
+l'asse strategico costituito dal comparto idroelettrico e dalle
+nuove FER installate, in grado di coprire la progressiva
+elettrificazione dei consumi.
+Si parla anche di autosufficienza energetica dal momento che lo
+sviluppo della generazione distribuita e l'elettrificazione dei
+consumi devono essere accompagnati da misure volte a migliorare la
+contestualità tra produzione e utilizzo, al fine di tendere a una
+maggiore autosufficienza energetica del territorio. In tale ottica
+un ruolo rilevante potrà essere svolto dalle nuove configurazioni
+di autoconsumo collettivo e dalle nascenti comunità di energia
+rinnovabile, prima importante azione che verrà sviluppata
+immediatamente a valle dell'approvazione di questo piano. Per
+proseguire poi con la ricerca e l'innovazione, che costituiscono un
+elemento chiave per creare sul territorio competenze e conoscenze,
+in particolare verso quei settori dove è difficile ridurre i
+consumi, oltre che per sviluppare un nuovo tessuto economico in
+linea con le mutate esigenze del mercato che verranno.
+Il nuovo PEAR VDA 2030, oltre agli obiettivi quantitativi, pone
+anche particolare attenzione su reti e infrastrutture, che
+rappresentano un elemento cardine del processo di transizione
+energetica in quanto il loro sviluppo è una condizione abilitante
+per il processo di decarbonizzazione dell'economia, prendendo in
+considerazione le reti direttamente a servizio della transizione
+energetica. Quali: le reti elettriche, che devono far fronte sia ai
+maggiori carichi derivanti dalla progressiva elettrificazione dei
+consumi termici, sia alla crescente penetrazione delle fonti
+energetiche rinnovabili non programmabili e decentralizzate, le
+reti di ricarica dei veicoli elettrici, necessari alla diffusione
+della mobilità elettrica, le reti del gas naturale, che in una
+visione di più lungo periodo potranno veicolare progressivamente
+quote crescenti di gas di origine non fossile quali il biometano o
+l'idrogeno, infine le reti di teleriscaldamento che consentono
+l'allaccio e la conversione di impianti termici alimentati da
+prodotti petroliferi generando maggiore efficienza energetica. Sono
+anche comunque state considerate, anche se non direttamente
+correlate al settore energetico, le reti che hanno un ruolo
+importante per la transizione energetica, come le reti digitali e
+la rete risorsa idrica.
+Un
+driver
+di fondamentale importanza è il driver che
+riguarda il coinvolgimento delle persone. Lo abbiamo inserito in
+maniera forte sottolineando la differenza che le persone potranno
+avere nello sviluppo delle azioni del piano rispetto al passato,
+soprattutto l'approccio diverso che la politica e le strutture
+tecniche dovranno avere nei confronti delle persone. Abbiamo
+provato in quei primi quattro incontri a dare un primo segnale ma
+sarà fondamentale, a piano approvato, continuare a lavorare insieme
+alle persone nei vari ruoli che poi ognuno di noi da cittadino
+rappresenta, da amministratore, da responsabile d'impresa, da
+dipendente delle nostre imprese, della Pubblica Amministrazione,
+per i giovani, per i ragazzi, però sarà fondamentale spiegare alla
+comunità e alle persone appunto che ognuno di noi dovrà giocare un
+ruolo per cercare di raggiungere questi risultati. Non è lavorando
+e pianificando la strategia che potremo raggiungere obiettivi, ma
+lo potremo fare se saremo capaci di coinvolgere e di spiegare le
+nostre azioni, di renderle credibili e di rendere capace la
+comunità di seguirle.
+La Pubblica Amministrazione gioca un ruolo chiave come esempio e
+punto di partenza della transizione energetica ed è importante che
+la scala della pianificazione energetica si esplichi sia a livello
+regionale, attraverso questo PEAR, sia a livello locale con la
+costruzione dei PAESC che sono importanti per creare un
+coinvolgimento attivo della cittadinanza guidato dagli Enti
+locali.
+Le sfide del PEAR sono tante, sono sicuramente obiettivi
+sfidanti in quanto c'è una necessità di imprimere una forte
+accelerazione al settore energia attraverso un vero e proprio
+cambio di paradigma, convogliando investimenti pubblici e privati
+verso un obiettivo comune di transizione energetica.
+Il piano deve inoltre contribuire al raggiungimento
+dell'obiettivo nazionale di sviluppo delle fonti energetiche
+rinnovabili, ancora in fase di definizione, previsto dal decreto
+legislativo 199/2021, che potrebbe prevedere obiettivi ancora più
+sfidanti rispetto a quelli indicati e per i quali potremmo dover
+prevedere revisioni del documento prima della naturale scadenza
+decennale dello stesso.
+Per quanto il ruolo della Regione sia fondamentale e le azioni
+da intraprendere rapidamente ed efficacemente siano molte, ritengo
+tuttavia opportuno sottolineare come l'effettivo raggiungimento
+dell'obiettivo al 2040 non possa dipendere solo dalle azioni che,
+come Regione, vorremmo sostenere e condividere con i cittadini, ma
+sarà correlato anche da una serie di fattori esterni come le azioni
+messe in campo a livello nazionale per raggiungere la neutralità
+carbonica al 2050, il grado di decarbonizzazione raggiunto dalla
+rete di gas metano al 2040 attraverso la miscelazione di biometano
+e idrogeno, la capacità di sviluppare in tempi rapidi nuove
+infrastrutture energetiche e filiere logistiche necessarie a
+sostenere l'introduzione di nuovi vettori idrogeno e ammodernare o
+ripotenziare quelli esistenti nel caso delle reti elettriche, la
+capacità di adattare le tecnologie a degli usi finali attraverso
+l'efficientamento energetico, l'utilizzo di combustibili neutrali o
+verdi attraverso anche il recupero o la circolarità dei materiali e
+delle materie prime impiegate nei processi produttivi e negli usi
+finali.
+La Valle d'Aosta si trova pertanto di fronte a una sfida enorme
+e la buona riuscita dipenderà dalla capacità di creare sinergie,
+richiede uno sforzo importante di pianificazione, autorizzazione e
+realizzazione degli investimenti. La sfida ambientale potrà essere
+in ogni caso uno straordinario volano per l'economia,
+l'occupazione, l'innovazione tecnologica e uno sviluppo pienamente
+sostenibile e autosufficiente.
+Gli obiettivi di riduzione delle emissioni climalteranti tra il
+2030 e il 2040 potranno essere quindi raggiunti unicamente
+attraverso contributi a tutti i livelli e se verranno messe in
+campo azioni che comportano crescita economica, resilienza
+ambientale al cambiamento climatico e soddisfazione sociale.
+Data la complessità delle azioni da porre in essere e la
+trasversalità delle tematiche trattate, per dare applicazione alla
+transizione energetica, nonché la numerosità e l'eterogeneità dei
+soggetti coinvolti, si ritiene strategico rafforzare la regia e il
+coordinamento sulle diverse tematiche, per utilizzare in modo
+efficiente le risorse e garantire l'efficacia delle misure. In
+particolare si ritiene fondamentale avviare prontamente un tavolo
+di lavoro interassessorile volto a definire periodicamente un piano
+di azione che consenta di identificare le priorità d'intervento, le
+necessità di aggiornamento della legislazione regionale e la
+possibilità di implementare nuove misure, quantificando i fondi
+pubblici necessari per mettere in atto le azioni di piano,
+attingendo laddove possibile anche forme di finanziamento previste
+a livello nazionale ed europeo; coordinare le azioni previste negli
+specifici piani settoriali, aventi una ricaduta sui consumi
+energetici e lo sviluppo delle FER, monitorandone l'andamento;
+verificare, sulla base del monitoraggio del PEAR VDA 2030, il
+raggiungimento degli obiettivi prefissati. Parallelamente si
+procederà all'istituzione di tavoli di lavoro su specifiche
+tematiche energetiche, coinvolgendo, oltre alle strutture regionali
+e agli Enti locali, i principali
+stakeholder
+regionali,
+finalizzati a un confronto in merito all'andamento al sistema
+energetico e all'avanzamento delle azioni del PEAR; all'impatto
+delle stesse sul sistema socio-economico regionale, alla ricerca di
+sinergie, collaborazione e coordinamento con altri piani e
+strategie del territorio. Tali gruppi di lavoro risultano
+fondamentali per l'azione del PEAR VDA 2030 per dialogare anche con
+gli osservatori previsti a livello nazionale.
+Il periodo di pianificazione al 2030 deve quindi porre le basi
+anche infrastrutturali per permettere un'ulteriore successiva
+accelerazione nel decennio seguente.
+Tra le prime azioni già avviate in corso, che dovranno
+concretizzarsi nel corso del 2024, vi sono senza dubbio quelle in
+tema di CER, come ho detto, e quelle relative all'efficientamento
+energetico e lo sviluppo delle FER attraverso l'avvio delle misure
+previste nell'ambito della programmazione FESR 2021-2027, ma anche
+con il coinvolgimento delle strutture responsabili di azioni
+afferenti ad altri piani ma aventi ricadute sul PEAR, che saranno
+analizzate e pianificate nell'ambito del tavolo di prossima
+costituzione.
+Ci attende dunque un lavoro intenso, che dovrà tenere il passo
+con la rapida evoluzione della normativa del settore, coinvolgere
+imprese, cittadini, Pubblica Amministrazione, per uno sviluppo del
+nostro territorio più sostenibile e condiviso.
+In conclusione ringrazio tutti voi colleghi per l'attenzione,
+per il lavoro che abbiamo potuto fare insieme nelle Commissioni III
+e IV, per il lavoro che faremo oggi e credo di portare il
+ringraziamento di tutto il Consiglio alle Strutture dell'energia
+coordinate da Tamara Cappellari e alle strutture del COA di
+Finaosta per il grande lavoro che hanno fatto di preparazione di
+questo piano. Un ringraziamento ancora ai colleghi di Commissioni
+III e IV per aver permesso l'analisi dei documenti proposti e a
+disposizione per un confronto durante le prossime ore su
+quest'importante pianificazione.
+Presidente -
+Ha chiesto la parola il consigliere Cretier,
+ne ha facoltà.
+Cretier (FP-PD) -
+Un breve intervento vista la relazione
+che ha fatto l'Assessore molto precisa, puntuale e ha dato un bel
+po' di informazioni.
+Anch'io ringrazio gli uffici perché nelle audizioni ci hanno
+chiarito, anche successivamente alle nostre richieste, e hanno
+portato documentazione per capire e comprendere quest'importante
+piano energetico che deve essere approvato. Un documento di
+pianificazione importante e soprattutto un obbligo dettato da legge
+nazionali e da leggi regionali. Era necessario un aggiornamento
+periodico ed è soggetto alla VAS per i suoi effetti importanti
+sull'ambiente, per dire semplicemente a chi ci ascolta che è
+funzionale la sostenibilità ipotizzando anche gli effetti
+proponendo delle mitigazioni, valutate anche con misure di
+monitoraggio per il controllo e il raggiungimento degli obiettivi,
+e il passaggio più importante è la valutazione degli effetti
+futuri, dati che andremo a leggere nei prossimi anni.
+La basilare programmazione passa attraverso l'analisi del
+contesto regionale con il monitoraggio del sistema energetico del
+2019 che rileva il bilancio, la produzione, la difformità interna e
+i consumi; questi ultimi sono suddivisi per i settori economici,
+proprio per comprendere l'incidenza specifica, la loro evoluzione e
+prospettare azioni di mitigazione sostenibili e mirate. È evidente
+che nel bilancio sono considerate la produzione delle fonti
+energetiche rinnovabili elettriche, circa il 91%, e quelle termiche
+- sono dei dati che aveva già presentato l'Assessore ma mi sembra
+importante riportarli all'opinione pubblica -; quelle termiche
+circa il 9%, di cui la somma finale è un buon 63% che viene
+esportato e il restante è consumato in regione e in loco entro i
+confini valdostani.
+Quali sono gli obiettivi del PEAR e come agire? Il principale
+obiettivo, anche in funzione della
+Road map
+, è l'abbandono
+progressivo delle fonti fossili al 2040 che contempla la
+connessione di vari fattori complementari, l'efficienza energetica
+che passa attraverso la riduzione dei consumi netti. Già molto si è
+fatto per la riqualificazione degli edifici, in particolare quelli
+delle classi peggiori a cui tutti devono concorrere, privati
+cittadini e Pubblica Amministrazione; l'utilizzo del trasporto
+pubblico locale su gomma e ferrovia. Questi sono alcuni esempi ma
+gli obiettivi di sostituzione delle vecchie caldaie che utilizzano
+ancora fonti fossili, credo siano interessanti e direi anche
+diretti e sostenibili.
+Punto 2: l'incremento della produzione di fonti energetiche
+rinnovabili attraverso la nuova estrazione sia di FER termiche che
+elettriche. Diventa necessario incrementare la produzione di FER,
+un'attenta analisi del comparto può ancora dare delle risposte. La
+tecnologia risponde giorno dopo giorno a sfruttamenti, a degli
+sprechi ancora in atto nel territorio e il perfezionamento di
+impianti datati può realizzare sfruttamenti potenzialmente
+efficienti ricordando le priorità, il consumo umano, l'agricoltura
+e la produzione di energia. Anche nel settore della produzione di
+fotovoltaico abbiamo ancora un'interessante potenzialità, con ampi
+margini di aumento; importante è anche la produzione delle pompe di
+calore nel settore civile, con nuovi impianti da sostituire e
+mettere in funzione. Qualche dubbio rimane sulla biomassa, non
+tanto per la disponibilità e potenzialità locale ma sui costi di
+lavorazione e approvvigionamento della filiera legno. L'orografia,
+le pendenze, la viabilità la fanno da padrona su molti boschi della
+Valle d'Aosta.
+Punto 3: reti e infrastrutture. L'efficientamento delle reti
+esistenti, oltre alla nascita di nuove reti che contemplino il
+vecchio sistema di distribuzione, sono condizioni basilari per
+ottenere la transizione energetica, che sia rete elettrica, di gas
+naturale, ricariche di auto elettriche, teleriscaldamento ma anche
+idrica e digitale, sono considerati indispensabili per il
+raggiungimento degli obiettivi finali.
+Punto 4: le persone. Questo è il punto focale, ma non solo i
+cittadini, va inteso al meglio come tutti coloro che possono
+incidere sul contesto finale a ogni livello della comunità stessa e
+anche a ogni età, infatti una delle azioni è quella di entrare
+nelle scuole, chiarire e prospettare un po' di azioni sul lungo
+periodo. Molta formazione concreta e puntuale per creare un
+contesto positivo e con misure attuabili, favorendo la ricerca e lo
+sviluppo specifico mirato allo sviluppo di tecnologie proprie e
+possibili applicazioni industriali. La riduzione dell'emissione, il
+dato della riduzione del 34% dell'emissione al 2030 è molto
+ambizioso ma sostenibile e percorribile, un abbattimento sostenuto
+ma necessario, la strada da percorrere è molta ma il tempo
+trascorre inesorabile e diventa impellente e urgente attuare tutte
+le misure utili allo scopo e all'obiettivo n. 1 che è
+l'approvazione del PEAR. Il PEAR è un obbligo ma un momento di
+confronto necessario che c'è stato sul territorio ma anche un
+traguardo intermedio al 2040, una sfida globale a tutti i livelli
+per dare delle risposte alla Valle d'Aosta e alla sua possibile
+autosufficienza energetica. Insomma, un sistema Valle d'Aosta che
+deve cambiare gradualmente per raggiungere gli obiettivi
+programmati, al centro le persone e i cittadini, consapevoli delle
+misure messe in atto, richiamando la loro buona volontà attorno
+alla tecnologia, l'innovazione e gli investimenti per ridurre i
+consumi da una parte e dall'altra l'aumento della produzione di
+fonti energetiche rinnovabili, e sopra la politica con le sue
+iniziative, con il suo sostegno e con la sua pianificazione per
+mettere in atto e approvare questo PEAR.
+Presidente -
+Ha chiesto la parola la consigliera Minelli,
+ne ha facoltà.
+Minelli (PCP) -
+La proposta di deliberazione che
+esaminiamo oggi è senz'altro un documento di grande importanza, non
+lo consideriamo soltanto un obbligo e un mero adempimento formale e
+da parte nostra cercheremo di dare un contributo alla discussione e
+al miglioramento dei testi, se possibile, su cui ci dobbiamo
+esprimere.
+Faccio due premesse: questo è il terzo piano energetico
+regionale. Il primo venne approvato nel 1998, in ritardo di sette
+anni, perché nel 1991 era stato introdotto un obbligo nazionale di
+programmazione; il secondo PEAR è stato approvato nel 2014, ha
+coperto il periodo 2011-2020 e ora siamo al terzo, che teoricamente
+dovrebbe coprire il periodo 2021-2030 ma siamo appunto nel
+2024.
+Questo ritardo non è un fatto positivo ma, come ho avuto già
+modo di dire altre volte, fa parte di una difficoltà che abbiamo,
+come Regione, a programmare. Il piano territoriale paesistico è
+arrivato a 38 anni dall'approvazione della legge del 1960 che lo ha
+previsto, il piano regionale dei trasporti che stiamo aspettando è
+in ritardo di 27 anni rispetto alla legge regionale che lo ha
+prefigurato, che è una legge del 1997, il piano territoriale delle
+acque, che viene richiamato anche in qualche ordine del giorno, è
+scaduto da tempo ed è fermo in Commissione. Insomma, questi anni di
+ritardo nella programmazione di documenti importanti e del PEAR in
+questo caso non sono un'unicità. Non è però un dettaglio questo
+ritardo e non è una pignoleria, perché i temi dell'energia, della
+sua produzione e del suo consumo hanno acquisito una crescente
+importanza, anche perché gli attuali sistemi di produzione e
+consumo hanno degli impatti ambientali rilevanti; è grande in
+particolare la preoccupazione sull'effetto serra, determinato
+dall'uso di combustibili fossili climalteranti e ci sono degli
+indirizzi nazionali ed europei che impongono di intervenire in
+maniera significativa anche a livello locale.
+Fatta questa prima premessa sulla tempistica, ne voglio fare
+un'altra sui testi che oggi vengono portati alla nostra
+approvazione. La delibera di Giunta ha proposto all'esame del
+Consiglio, leggo: "Di approvare il PEAR di cui agli allegati alla
+presente deliberazione..." e segue l'elenco degli allegati che sono
+cinque: la relazione tecnico-illustrativa, a sua volta con due
+appendici e un allegato, che ha 368 pagine; il rapporto ambientale
+con due appendici e due allegati, e sono 591 pagine; la sintesi non
+tecnica che è di 221 pagine; poi c'è la dichiarazione di sintesi,
+che, in realtà, ha un contenuto che non corrisponde al titolo ed è
+di 99 pagine - su questo avevo chiesto una precisazione che mi è
+stata data in audizione da parte degli uffici e mi è stato detto
+che questa è la dicitura che viene prevista dalla documentazione di
+VAS; va bene, però, secondo me, si poteva mettere almeno un
+sottotitolo, perché così è fuorviante e c'è qualcuno che pensa che
+lì ci sia la sintesi del piano ma così non è -; poi c'è il parere
+di VAS, che è di 48 pagine. Il totale è di 1.327 pagine. È una mole
+di informazioni grandissima. Noi crediamo che se ci fosse un
+documento di 100-200 pagine, più sintetico, che è il PEAR vero e
+proprio, quello che contiene le linee fondamentali, sarebbe
+apprezzabile, perché non va bene, non è utile avere 1.327 pagine
+dove non si capisce esattamente qual è il PEAR, qual è il nucleo
+fondamentale, cogente e che cosa è invece un documento di
+accompagnamento. Non è una cosa che diciamo oggi in aula, abbiamo
+fatto anche, come gruppo consiliare, una specifica osservazione nel
+mese di giugno 2023 nell'ambito di procedura di VAS, ma non è stata
+recepita e la risposta che ci è stata data, a nostro avviso, non è
+soddisfacente. Comunque la documentazione è questa e arriviamo
+all'esame e all'approvazione del Consiglio con queste 1.300 pagine
+ed è un'enormità anche per chi vuole capire il nocciolo del PEAR. È
+stato detto che sono stati fatti degli incontri per avvicinare la
+popolazione, gli incontri vanno bene, però poi ci deve essere lo
+strumento che è accessibile e comprensibile a tutti. Mi si dirà che
+anche nel PEAR precedente il sistema era quello, può darsi, però,
+secondo me, non è un buon sistema e forse bisognerebbe pensare di
+apportare delle correzioni.
+Veniamo agli obiettivi e ai contenuti del PEAR: il PEAR si pone
+sicuramente obiettivi significativi di maggiore efficienza
+energetica, di aumento della produzione di energia da fonti
+rinnovabili e di riduzione delle emissioni inquinanti. I numeri ci
+dicono che sono individuati gli obiettivi di una riduzione dei
+consumi finali netti fra il 2019 e il 2030 del 12%, di un aumento
+della produzione da fonti energetiche rinnovabili nello stesso
+periodo sempre del 12% e una riduzione delle emissioni inquinanti
+del 37% rispetto al 2017, che hanno preso come riferimento. Sono
+degli obiettivi interessanti e in parte condivisibili che
+presentano però alcune criticità e soprattutto - ed è questa la
+cosa che notiamo maggiormente - non sono sorretti da un'adeguata
+programmazione di azioni tali da renderli effettivamente
+raggiungibili.
+Mi concentro su alcune questioni, parto dai trasporti: una
+criticità molto rilevante è costituita dal settore della mobilità
+dei mezzi di trasporto che si utilizzano. Oggi la stragrande
+maggioranza - lo sappiamo - della mobilità privata e pubblica
+avviene utilizzando benzina e gasolio, cioè combustibili fossili,
+nel PEAR si prevede una riduzione modesta dei consumi per la
+mobilità e soprattutto c'è uno scenario di piano che prevede che al
+2030 il 90% dei consumi energetici nel settore dei trasporti si
+baserà su combustibili fossili, così è scritto nel grafico 112 a
+pagina 201 della relazione illustrativa. Tale riduzione del resto,
+nel suo limite, non è coerente con le disposizioni della legge
+regionale 16/2019 per promuovere la mobilità sostenibile, che
+indica al 2030 l'obiettivo del raggiungimento di una quota del 50%
+di mobilità sostenibile.
+Nella parte che riguarda l'aumento della produzione di energia
+da fonti rinnovabili si prevede sostanzialmente una stabilità nella
+produzione di energia idroelettrica; è una stabilità che è però il
+risultato di due fattori diversi: da una parte, la riduzione di
+produzione assicurata dagli impianti esistenti a causa della minore
+disponibilità di acqua determinata dai cambiamenti climatici;
+dall'altra, una compensazione a tale riduzione ricercata attraverso
+il potenziamento di impianti esistenti, in particolare il
+revamping
+di Chavonne e di Hône 2 e la realizzazione di un
+nuovo impianto idroelettrico a Morgex; interventi che comunque
+presentano delle problematicità. I due potenziamenti vanno valutati
+nella loro compatibilità rispetto alle esigenze complessive di
+acqua delle comunità locali, e non sono soltanto quelle
+idroelettriche, e il progetto di una nuova centrale a Morgex appare
+incompatibile con la tutela dei quantitativi di acqua in un tratto
+della Dora Baltea su cui si svolgono attività sportive di interesse
+generale turistico e ci sono delle esigenze già evidenziate dal
+Comune di Morgex. A noi pare evidente che non è in questo momento
+ad un aumento del settore idroelettrico che bisogna puntare per un
+incremento della produzione; nel settore idroelettrico c'è il
+problema di un maggiore utilizzo in loco della produzione visto che
+il 63% di essa, e forse anche di più, viene esportata e consumata
+fuori Valle, eppure la legge 20/2000 che ha avviato la costituzione
+della Compagnia valdostana delle acque prevedeva esplicitamente di
+privilegiare il consumo della produzione nel territorio
+regionale.
+Un settore in cui invece è possibile l'aumento di produzione a
+cui giustamente il PEAR dedica una particolare attenzione è quello
+del fotovoltaico. Gli studi per predisporre il PEAR e riportati nei
+documenti dicono che in Valle d'Aosta c'è una potenzialità di 400
+megawatt installando nelle coperture che sono state censite e
+ritenute idonee pannelli fotovoltaici. Di questi 400 megawatt solo
+50 potrebbero essere installati ad Aosta, è quello che si legge a
+pagina 212 della relazione illustrativa nella figura 39. La
+mappatura fatta per il PEAR è una mappatura accurata, è stato fatto
+un lavoro accurato, e ci indica una possibilità di sviluppo del
+fotovoltaico che è molto interessante e il PEAR stesso indica
+l'obiettivo di arrivare al 2030 con 120 megawatt di potenza
+installata nel fotovoltaico - sempre a pagina 216 della relazione
+-, che significa una produzione annua di circa 200 gigawatt/ora. Se
+consideriamo che al 2019 la produzione di energia da fotovoltaico
+era di 27 gigawatt/ora, ci rendiamo conto di quanto c'è da fare e
+di quanto la Regione deve agire e promuovere in questo settore nel
+quale un ruolo importante può essere svolto dalle comunità di
+energia rinnovabile, ma su questa questione delle CER torno più
+avanti.
+Vengo alla questione della rete per il gas naturale, passando
+appunto a questo asse 3, che è quello delle reti delle
+infrastrutture. Un'attenzione particolare va dedicata al capitolo
+sulla rete di distribuzione del gas, ai cosiddetti "metanodotti e
+gasdotti" di cui si prevede un ulteriore sviluppo nella regione. Il
+metano è un potente gas serra, produce un effetto di circa 25-30
+volte maggiore dell'anidride carbonica e la sua concentrazione in
+atmosfera continua ad aumentare senza sosta. Proprio per
+contrastare questo fenomeno, l'Unione europea persegue l'obiettivo
+di eliminare gradualmente le caldaie a gas entro il 2040 e quindi
+anche i metanodotti esistenti dovranno essere o abbandonati o
+riconvertiti. È del tutto evidente che estendere in questo momento
+la rete di utilizzo del metano è in contrasto con quell'obiettivo
+che ci si è dati della Valle d'Aosta
+fossil fuel free
+al
+2040. Il PEAR ha infatti ben presente la contraddizione, ritiene
+però di risolverla come? Affermando - ed è quello che c'è nel PEAR
+- che in futuro i metanodotti potranno essere utilizzati per
+trasportare idrogeno o, meglio, miscele con una parte di idrogeno.
+In realtà, la questione non è così semplice, io non sono un'esperta
+in materia, ho soltanto cercato di studiare un po' le cose, magari
+il consigliere Lavevaz, che è un fisico, potrebbe aiutarci, ma, se
+ho capito bene, i metanodotti come sono attualmente non potrebbero
+trasportare idrogeno, andrebbero infatti profondamente
+riconvertiti, quindi il problema è comunque notevole e certo su
+questo, come anche su altre tre questioni, presenteremo un
+emendamento.
+Vengo alla questione idrogeno: abbiamo proposto recentemente - e
+il Consiglio l'ha approvata - una mozione per un adeguato
+approfondimento in Commissione della convenienza e
+dell'utilizzabilità dell'idrogeno verde in Valle d'Aosta. Quello
+che però già conosciamo ci porta a dire che la previsione delle
+Linee guida per lo sviluppo per l'idrogeno in Valle d'Aosta, che è
+un allegato alla relazione illustrativa, di utilizzare idrogeno
+verde per alimentare una parte degli autobus del trasporto pubblico
+locale non è ragionevole. Gli studi e le sperimentazioni fatte
+dimostrano che l'utilizzo dell'idrogeno nel TPL comporta dei costi
+maggiori nell'acquisto dei mezzi, nella loro manutenzione e nel
+consumo di energia. I dati scientifici sono a favore della
+riconversione del parco autobus funzionanti a diesel con degli
+autobus elettrici. L'argomentazione del piano energetico che stiamo
+discutendo per cui gli autobus elettrici - è anche una delle
+controdeduzioni - andrebbero bene solo in ambito urbano ma non per
+le linee delle vallate non è, a nostro avviso, un'argomentazione
+fondata, perché è vero che in salita il consumo è sicuramente
+maggiore, ma le batterie degli autobus elettrici in discesa si
+ricaricano, quindi alla fine gli autobus consumano, facendo il
+bilancio, sostanzialmente come se viaggiassero in pianura, e anche
+su questo punto abbiamo presentato un emendamento.
+Vengo alle CER: l'Assessore ha fatto nella sua illustrazione un
+accenno alle CER, su cui c'è da fare poi un ragionamento ma a valle
+del piano, però nel piano un ragionamento e una proposta sulle CER
+non ci sono. Finché il decreto attuativo non era approvato, si
+poteva anche comprendere la difficoltà a fare una proposta, però
+adesso c'è tutto, c'è il decreto attuativo, c'è il regolamento del
+GSE, la fase lunghissima che c'è stata di definizione del quadro
+giuridico e regolamentare si è conclusa. Il 23 gennaio scorso è
+stato pubblicato il decreto attuativo validato a livello europeo,
+un mese dopo, il 23 febbraio, è stato reso noto il regolamento del
+GSE, quindi il quadro è definito, anche il regolamento di dettaglio
+è varato. A questo punto, secondo noi, occorre che la Regione dica
+qual è il suo progetto sulle comunità di energia rinnovabile,
+perché sarebbe poco sensato approvare un piano energetico per i sei
+anni che restano, da qui al 2030, senza dire quale ruolo avranno in
+questo periodo queste realtà, anche perché ci sono dei fondi
+europei che sono da utilizzare entro il 2026, quindi prima della
+fine dell'orizzonte del piano, e c'è un obiettivo del PEAR, seppure
+indicato genericamente come dicevo prima, di installare nei
+prossimi quattro anni 180 megawatt di fotovoltaico in Valle
+d'Aosta. Sappiamo, perché vi abbiamo partecipato, che c'è anche un
+tavolo che sta lavorando con un tavolo interistituzionale, il
+CELVA, la Regione, gli uffici, eccetera, e qui faccio un inciso: il
+Dipartimento energia, il COA, stanno dando un contributo
+fondamentale, come anche altri soggetti, però bisogna delineare nel
+piano qual è l'obiettivo politico, dobbiamo dire che cosa vogliamo
+fare in questo settore. A questo scopo noi presentiamo un
+emendamento con una proposta e siamo disponibili e pronti ad
+accogliere anche altre proposte concrete purché siano però
+organiche e incisive.
+Un altro tema di estrema rilevanza che non è stato affrontato
+nel PEAR, che è il piano energetico della Regione Valle d'Aosta, è
+il ruolo della Compagnia Valdostana delle Acque. Anche qui non
+possiamo fare un piano energetico che prescinda dall'attività e dai
+programmi della principale società di produzione di energia in
+Valle d'Aosta, che è una società totalmente di proprietà regionale
+ed è il braccio operativo della Regione Valle d'Aosta per la
+politica energetica. La CVA è stata creata dalla Regione Autonoma
+all'inizio degli anni Duemila per gestire le principali centrali
+idroelettriche presenti in Valle d'Aosta, indirizzando la
+produzione, come afferma la legge 20/2000, verso impieghi sul
+territorio valdostano e per perseguire una politica mirata a
+sostituire l'utilizzo di energia da fonti fossili con energia da
+fonti pulite e rinnovabili. Questo indirizzo di politica energetica
+è stato poi precisato e implementato anche dall'ordine del giorno
+approvato dall'intero Consiglio nel 2018, che ha indicato
+l'obiettivo della Valle d'Aosta fossil fuel free al 2040. Per
+realizzare efficacemente il percorso di decarbonizzazione della
+Valle d'Aosta, è fondamentale il ruolo della CVA, che, oltre alla
+gestione delle risorse elettriche, deve, a nostro avviso,
+sviluppare in Valle d'Aosta la produzione da altre fonti
+rinnovabili, in particolare poi nel fotovoltaico. L'obiettivo da
+perseguire è quello di avere un sistema in grado di produrre,
+tramite le FER (le Fonti Energetiche Rinnovabili), tutta la
+quantità di energia elettrica necessaria per garantire il
+soddisfacimento dei fabbisogni energetici della comunità
+valdostana, sia degli abitanti, sia delle attività economiche. CVA
+quindi, come bene comune, bene della collettività, strumento
+fondamentale per l'autonomia energetica, per la transizione
+energetica e l'abbandono dei combustibili fossili nella nostra
+regione. Questi concetti, a nostro avviso, vanno espressi a chiare
+lettere nel PEAR e anche su questo abbiamo presentato uno specifico
+emendamento. Tutto il Consiglio regionale di allora del 2018 -
+anche molti dei colleghi che erano qui, anche i colleghi che
+siedono di fronte a me - ha approvato un ordine del giorno che
+impegna il Governo a operare appunto per la liberazione dai
+combustibili fossili della Valle entro il 2040. Quest'ordine del
+giorno - l'ha ricordato anche l'Assessore - è stato poi declinato
+con la
+Road map
+approvata dalla Giunta regionale nel
+febbraio del 2021, e nel PEAR l'opzione fossil fuel free è ben
+presente e richiamata più volte, viene indicata nei documenti come
+un obiettivo da perseguire e noi questo lo apprezziamo e lo
+condividiamo, però bisogna fare attenzione, se vogliamo raggiungere
+l'obiettivo al 2040 e con sedici anni a disposizione e le
+potenzialità di produzione FER che abbiamo in Valle d'Aosta, allora
+l'obiettivo è raggiungibile, ma il traguardo intermedio che
+dobbiamo porci con il 2030, e cioè con la scadenza del PEAR, deve
+essere un traguardo ambizioso per forza, perché altrimenti non ci
+si riesce.
+Allora, se noi andiamo a prendere le conclusioni della relazione
+illustrativa, a pagina 275 c'è il grafico n. 141, che ci dice che
+nel 2019 oltre il 60% dei consumi energetici valdostani si basava
+su prodotti petroliferi e metano e lo scenario del PEAR per il 2030
+è di scendere al 45,6, però 45,6% al 2030 non è un buon
+posizionamento per arrivare ad azzerare il consumo dei combustibili
+fossili al 2040, i tempi non possono dirci che funziona questa
+questione. La previsione del PEAR al 2030 quindi non è
+complessivamente adeguata e, come ho detto all'inizio, secondo noi,
+non è adeguata in particolare nel settore dei trasporti, dove si
+prevede che il 90% dei consumi nel 2030 sarà ancora basato sui
+prodotti petroliferi, ma è troppo.
+Allora la nostra conclusione conclusiva sui documenti che stiamo
+analizzando si può riassumere in questo modo: noi crediamo e siamo
+convinti che il Dipartimento energia dell'Amministrazione
+regionale, il Centro Osservazione Attività sull'energia (il COA),
+gli esperti che hanno supportato la Regione negli studi e
+nell'elaborazione del PEAR abbiano fatto un notevole e buon lavoro
+di analisi. Ci sono tanti dati che sono assolutamente interessanti,
+c'è dietro della competenza tecnica che è fondamentale; quello che,
+secondo noi, manca è l'impronta politica o, meglio, l'impronta
+politica c'è ma è un'impronta al ribasso, lo si vede nella
+debolezza dello scenario sui trasporti, lo si vede soprattutto
+nella carenza di capitoli importanti come quello riguardante la CVA
+e quello sulle comunità energetiche. Riteniamo comunque che è il
+Consiglio regionale il principale organo politico che poi deve
+deliberare, quindi c'è ancora il tempo, se si vuole, di migliorare
+il testo; è il motivo per cui abbiamo presentato quattro
+emendamenti, sono quattro ma sono degli emendamenti ovviamente
+significativi e di peso che illustrerò poi nel prosieguo dei
+lavori, sono emendamenti che riguardano la rete per la fornitura
+del gas, le CER, il ruolo di CVA e lo sviluppo del vettore
+idrogeno.
+La valutazione conclusiva sul PEAR la daremo alla luce di quanto
+emergerà nella discussione che si sta sviluppando questa mattina e
+alla luce delle risposte che verranno anche date a questi
+emendamenti e ad altri emendamenti e ordini del giorno che sono
+stati presentati. Faremo a quel punto una valutazione complessiva
+sul PEAR.
+Presidente -
+Prima di passare la parola al consigliere
+Aggravi, propongo di fare una pausa per arieggiare i locali.
+Riprendiamo a breve con il consigliere Aggravi. Il Consiglio è
+sospeso.
+La seduta è sospesa dalle ore 11:10 alle ore 11:29.
+Bertin (Presidente) -
+Riprendiamo i lavori dopo la
+sospensione, si era prenotato il consigliere Aggravi a cui passo la
+parola.
+Aggravi (RV) -
+Prima di passare al mio contributo a
+questa discussione generale, penso che dobbiamo giustamente, come
+ha fatto già l'Assessore, ringraziare le strutture e tutto il
+personale che ha lavorato alla stesura di questo corposissimo
+documento, il cui lavoro non si limita soltanto a queste pagine ma
+anche a tutte le analisi e a tutti i documenti di costruzione
+funzionali a questo imponente lavoro, e anche per la disponibilità
+che c'era stata in un incontro informale che era stato giustamente
+organizzato per iniziare a trattare gli argomenti poi presenti nel
+piano, perché comunque sia, al di là delle valutazioni politiche
+finali, gli obiettivi e quant'altro, è un piano dove la tecnica è
+pesantemente presente.
+Il mio intervento vuole essere legato non tanto ai contenuti
+diretti del piano ma ai suoi effetti, io penso che all'interno
+delle misure di mitigazione, ma non soltanto, il rapporto
+ambientale, ci sono tutta una serie di aspetti che vorrei
+commentare; aspetti che, come si dice spesso, sono anche frutto, o
+comunque governati, da... ormai non si contano più i piani, le
+strategie, le direttive, tutto quello che è un corpo non soltanto
+regionale ma nazionale e comunitario che è stato ben rappresentato
+e analizzato all'interno del piano.
+In molti di questi documenti di programmazione, di
+pianificazione o quant'altro, che poi successivamente andrò in
+parte a commentare, soprattutto per dei passaggi che ritengo,
+almeno dal mio modesto punto di vista, meritevoli di commento... un
+po' parafrasando quello che diceva l'economista Galbraith... diceva
+appunto che le previsioni economiche sono state inventate per
+rivalutare l'astrologia. In questa situazione, in tanti di questi
+piani, di cui qualcuno ne fa quasi una professione di fede, spesso
+e volentieri gli obiettivi, o comunque il raggiungimento di
+determinati risultati, assomiglia molto a previsioni economiche,
+quindi fa a pugni e a gara con la stessa astrologia, perché
+sappiamo benissimo che i piani più sono di lungo periodo, ma non
+tanto i piani ma la definizione di obiettivi soprattutto, sono
+molto incerti. Sono però contento di chi ha una fede in cui credere
+anche laddove si parla di numeri e di realtà.
+All'interno del rapporto ambientale si rappresentano - in un suo
+passaggio anche il collega Cretier ne ha fatta menzione - le misure
+di mitigazione dello scenario di piano, io cerco di commentare
+quelli che possono essere o che si pensa siano gli effetti poi
+degli obiettivi e in conclusione poi mi soffermerò sugli obiettivi
+di piano e sui quattro assi che sono riportati. È vero, sono
+tantissime pagine, però io penso che nella dichiarazione di sintesi
+della VAS si possa avere un quadro generale di almeno gli obiettivi
+e le misure che si vogliono adottare.
+Nelle misure di mitigazione si fa un passaggio sugli elementi
+del nostro ecosistema, quindi si inizia sui cambiamenti climatici e
+la qualità dell'aria. In questo passaggio ci sono due aspetti su
+cui ho focalizzato l'attenzione: uno è quello di indirizzare la
+filiera legno energia verso una gestione sostenibile a cascata
+della biomassa locale e l'utilizzo di impianti maggiormente
+efficienti dal punto di vista energetico ed emissivo. La filiera
+legno è spesso stata oggetto di attenzione in quest'aula, ci sono
+tutta una serie di eventuali valutazioni che sono state fatte,
+studi e quant'altro, e mi permette però di fare una considerazione
+tornando sui piani di cui parlavo prima. Nel rapporto ambientale
+viene fatta una valutazione di coerenza esterna, cioè io definisco
+il mio scenario di piano e cerco di capire se è coerente. Spesso e
+volentieri noi abbiamo una parola di cui ci dimentichiamo, che è
+"convenienza"; nell'ambito dei piani - e lo so perché, dal punto di
+vista etico, noi forse perché abbiamo un'influenza un po' del
+nostro passato in cui l'etica aveva una funzione anche molto
+moralista, il discorso della convenienza non è una cosa negativa, e
+poi continuerò a parlarne in realtà indirettamente successivamente
+-, quando si critica un vettore energetico piuttosto che l'altro,
+si critica una scelta piuttosto che l'altra, ci sono due paroline
+magiche: una è "convenienza", faccio una cosa perché conviene, e
+non è una cosa negativa, è una cosa ovvia, perché ogni agente
+economico razionale fa giustamente un'azione o mette in opera un
+investimento se gli conviene; l'altra è "coercizione", ma io mi
+auguro che in un sistema democratico ancora come il nostro, non ci
+sia coercizione. In Cina possono permettersi di fare quello, da noi
+ancora, grazie a Dio, non è possibile farlo. Queste due paroline
+non sono banali, perché ovviamente quando si vanno a definire
+obiettivi, piani e pianificazioni, sono queste due i
+driver
+con i quali si possono fare le cose, io preferisco la convenienza.
+Questo lo dico - ripeto - perché all'interno di tutta una serie di
+scelte ad oggi una reale convenienza non è ancora ben definita.
+Vi è poi, riguardando sempre la qualità dell'aria, un'ulteriore
+misura di mitigazione che è quella della mitigazione degli impatti
+del cantiere nelle fasi operative. Ci sono due principi: uno è
+quello legato allo spostamento dei mezzi d'opera e del progressivo
+fuel switching
+, quindi il cambiamento del vettore con il
+quale si muove la macchina di cantiere. Su quest'aspetto io
+sottolineerei il fatto che giustamente, al di là degli obiettivi,
+c'è un problema di costi. Oggi ovviamente cambiare il parco delle
+macchine d'opera ha un costo di un certo tipo, posto il fatto che
+bisogna anche trovarle, perché è vero che esistono gli autobus
+elettrici, ma, quando parliamo di pale meccaniche, di camion o
+comunque di edilizia più o meno pesante, bisogna fare un altro tipo
+di valutazioni, e soprattutto - ne abbiamo parlato durante la
+trattazione del disegno di legge che toccava la stazione unica
+appaltante - abbiamo un tema di costi soprattutto nei trasporti e
+nella movimentazione, non soltanto in tema di cantieristica, ma poi
+lo anticipo già, anche in tema di rifiuti, perché comunque per il
+trasporto dei rifiuti abbiamo un unico impianto, soprattutto i
+rifiuti urbani, e hanno ovviamente un effetto.
+Per quello che riguarda invece le acque superficiali, ci sono
+due passaggi molto importanti nelle misure di mitigazione: quello
+di interventi sulla rete di gestione della risorsa idrica volti a
+ridurre gli sprechi e razionare gli usi plurimi - io penso che su
+quest'aspetto bisognerà interfacciarsi forse di più, l'ho anche
+riportato successivamente con chi oggi guida i grandi investimenti
+che si prospetta di fare sulla rete idrica... quindi in particolare
+BIM e SEV penso che su quest'aspetto debbano essere coinvolti di
+più nella definizione del piano, ma soprattutto poi nella sua
+attuazione - e poi un tema più generale - ma lo cito qua - quando
+si parla appunto degli impatti normativi. Ci sono stati incontri
+importanti promossi sia da Elettricità Futura, sia anche da La
+Chambre, sul discorso che noi possiamo ipotizzare la realizzazione
+di qualsiasi impianto ma poi ci scontriamo con la burocrazia, con
+quelle che sono le procedure di
+permitting
+, tra l'altro, la
+stessa Legambiente che mi permetto di citare - e spero che non si
+offendano - ne fa una questione anche legata alle pastoie
+burocratiche nella realizzazione degli impianti. Poi sappiamo che
+in alcuni casi ci si mette anche del proprio, però il tema della
+possibilità di andare ad avere delle procedure più snelle e più
+rapide per la realizzazione degli impianti è fondamentale, perché
+sennò questi obiettivi possiamo darceli quanto vogliamo ma non li
+raggiungiamo. Ricordo un'interrogazione scritta che feci tempo fa
+proprio per capire quali fossero le procedure di autorizzazione di
+impianti FER e l'interrogazione scritta è sintetica ma è
+importante.
+Per quello che riguarda invece il suolo, si sottolinea
+l'importanza di ridurre l'impatto sui suoli sani, privilegiando
+l'utilizzo di suoli già compromessi e infrastrutturali, come si
+sottolinea la necessità di bonificare siti contaminati, suoli
+degradati; su questo la domanda da farsi è quali azioni, perché
+comunque sia ben venga il recupero di siti che hanno delle
+problematiche pregresse, però sappiamo che sono misure che costano
+molto, sono misure soggette a determinate procedure e quindi siamo
+di nuovo nel tema dei costi.
+Per quello che riguarda invece l'habitat, la flora e la fauna,
+qui torniamo al discorso precedente, ci sono importanti obiettivi,
+in particolare uno degli obiettivi che si dà il piano è quello di
+aumentare del 12% la produzione locale da FER rispetto al 2019,
+l'aumento della produzione, al di là dei repowering, sono nuovi
+impianti, dopo parlerò anche del decreto aree idonee, che è un
+altro mistero delle logiche di pianificazione, però se vogliamo
+arrivare a determinati obiettivi, dobbiamo raggiungerli nei tempi e
+in tempi anche rapidi. Per quello che riguarda la realizzazione di
+nuovi impianti eolici, idroelettrici, fotovoltaici e quant'altro,
+nelle misure di mitigazione si rappresentano tutta una serie di
+valutazioni da fare in fase di progettazione, autorizzazione e
+realizzazione, però dobbiamo anche conciliarli con gli obiettivi,
+perché altrimenti l'Ente pubblico si dà degli obiettivi e poi è il
+primo che mette delle "pastoie", perché è un termine che penso ben
+rappresenti la spirale nella quale si finisce, e non si raggiungono
+questi obiettivi.
+C'è un passaggio molto interessante nelle misure di mitigazione
+che riguarda gli interventi di isolamento termico degli edifici,
+quindi penso che il fenomeno del Superbonus ci ha fatto diventare
+tutti degli esperti in lana vetro, plasticume o quant'altro. Questo
+è un tema molto interessante che ha anche delle ricadute non
+soltanto come riportato, secondo me, nelle misure di mitigazione
+dello scenario di piano relativamente alle colonie riproduttive,
+penso che sia legato alla popolazione della fauna dei volatili, il
+vero problema è che ha anche degli effetti e soprattutto
+un'incidenza in tema di rifiuti e in tema anche poi di suo efficace
+funzionamento, perché sappiamo che l'isolamento termico, se lo fai
+solo su tre mura invece che quattro  - adesso semplifico -,
+poco isola e quindi ho fatto un investimento che poco
+interessa.
+Sul tema dei rifiuti, è interessante la misura che parla di
+implementazione dei sistemi di raccolta dati più specifici per
+l'identificazione e la quantificazione di diverse tipologie di
+rifiuti correlati agli interventi energetici, a me quello che
+preoccupa non è soltanto il tema dei costi di trasporto, anche
+della tariffazione e anche di un altro fatto: qui forse più che in
+altre situazioni emergono le scelte più ideologiche che pratiche.
+Quando si parla di riciclo, si sa benissimo che il prodotto
+riciclato non è tutto uguale, perché, per essere venduto,
+riutilizzato o quant'altro, deve essere un prodotto valorizzabile
+da quel punto di vista, non valorizzabile in termine termico -
+questo lo dico perché sennò non vorrei essere ripreso -, però
+sappiamo benissimo che a volte - e lo dimostrano alcuni sistemi
+alternativi di raccolta - è più facile raccogliere e dividere
+successivamente, cioè trattare successivamente nell'impianto il
+materiale, piuttosto che raccoglierlo già lavato e trattato dal
+semplice cittadino, perché ovviamente se non è della qualità
+adeguata, sappiamo che finisce poi nel termovalorizzatore con costi
+ed effetti sull'ambiente. Io penso quindi che sul tema dei rifiuti
+occorra fare una valutazione. Non parlo delle tariffazioni perché
+oggettivamente io trovo una cosa ridicola basare le tariffazioni
+sulle volte in cui io apro il cassonetto e non sull'effettiva
+quantità piuttosto che io apporto, perché altrimenti accumulo,
+diciamo che uso delle logiche più simili di altre parti del
+mondo... accumulo tutto insieme, lo apro una sola volta al mese,
+però nel frattempo ho creato non pochi problemi e non soltanto
+ambientali.
+Riguardo ai grandi piani di cui parlavo precedentemente, ci sono
+alcuni passaggi che vorrei cercare di rendere più su base locale.
+Il più grande piano da dove nasce tutto, l'Agenda 2030 per lo
+sviluppo sostenibile, ha alcune considerazioni, soprattutto
+nell'analisi di coerenza, che riguardano il fatto che - e questa è
+emblematica - "la coerenza è rispettata se le azioni di riduzione
+dei consumi e aumento delle FER raggiungono anche le fasce più
+deboli della popolazione". Penso che sia una considerazione
+scontata, perché se tutta la popolazione deve concorrere allo
+sforzo, è ovvio e lo sappiamo - e qui torniamo in termini di
+convenienza - che ci sono tecnologie che non sono accessibili a
+tutta la popolazione, bisogna capire cosa farne, perché anche tutto
+il tema degli incentivi sappiamo che è un gatto che si morde la
+coda, perché, da un lato, incentiviamo per arrivare a un obiettivo
+e, dall'altro, riprendiamo con gli oneri di sistema, oppure, com'è
+successo in altre situazioni, prima o poi qualcuno deve pagare e
+quindi rischiamo di caricare in termini di debito per incentivare
+magari tecnologie che sono sicuramente performanti ma non in tutte
+le situazioni.
+C'è poi un passaggio che riguarda la coerenza relativamente
+all'utilizzo delle FER nel settore agricolo, io penso che noi non
+abbiamo la stessa modalità di fare agricoltura, non voglio rubare
+il mestiere a un collega di gruppo, che ne sa sicuramente più di
+me, però il fatto di capire gli effetti che ha il nostro settore
+agricolo o la transizione energetica ed ecologica sul settore
+agricolo è importante. Ci sono dei passaggi sui mezzi
+off
+road
+o non
+road
+, in quel caso lì il trattore elettrico
+oggettivamente sappiamo che oggi non è performante come il trattore
+invece a metano, ma tornerò anche sul metano.
+C'è poi un passaggio che si ripete nel
+Clean energy
+package
+, che riguarda le azioni di sviluppo dell'infrastruttura
+elettrica. Abbiamo presentato più di un ordine del giorno sul tema
+dell'infrastruttura elettrica, però io penso che sia spesso la
+grande sottovalutata di tutta la grande tematica della transizione
+ecologica energetica, che per me è una transizione industriale
+prima di tutto, perché sappiamo che non è solo un problema di
+produzione, di come lo produco, ma soprattutto di come e di quanto
+trasporto, perché ovviamente se aumento i consumi di energia
+elettrica, devo avere un'infrastruttura che regge, devo avere un
+sistema elettrico che regge tutta una serie... e non è solo una
+questione di banali colonnine, ma anche di consumi e di come viene
+consumata l'energia e di come viene trasmessa, perché non c'è rete
+più interconnessa di quella elettrica e non sto parlando soltanto
+di Valle d'Aosta o d'Italia, ma sto parlando di tutta Europa.
+Sul tema invece delle comunità energetiche citate proprio dal
+Clean energy package
+tornerò poi più tardi, abbiamo anche
+voluto presentare un ordine del giorno che si propone un cammino
+meno ideologico, cioè quello di dire: noi oggi abbiamo due testi di
+legge, cerchiamo di farne uno, magari anche tutti insieme, ma che
+si tenga conto sempre del tema fondamentale, cioè la convenienza,
+perché purtroppo con l'ideologia facciamo poco
+business
+e
+soprattutto poco
+business green
+.
+Sul quadro strategico nazionale - e qui si torna sul discorso
+delle infrastrutture di trasmissione e distribuzione -, mettendo in
+remarking
+, insieme anche al PNIEC, ormai la sua versione è
+più o meno definitiva, però anche qui abbiamo sempre un'incertezza
+e io mi chiedo tutti questi piani come si fa ad avere l'obiettivo a
+portata di mano se sono tutte bozze o comunque cambiano ogni uno
+per due... su questo punto, in particolare laddove si considera
+l'infrastruttura di trasmissione di energia, si parla non soltanto
+della distribuzione di energia elettrica ma anche del gas, perché
+gas, metano, syngas o quant'altro sappiamo che è stato visto, poi
+io capisco che qualcuno tiri l'acqua o, meglio, gas al suo
+impianto, però sappiamo che in alcuni settori è necessario ancora
+per arrivare a una transizione, perché purtroppo su questi
+meccanismi e su queste procedure non possiamo accendere e spegnere
+l'impianto, ci dobbiamo arrivare per gradi, perché purtroppo non
+siamo in condizioni per fare le cose, a meno che su alcuni vettori
+e alcuni modi di fare economia o di vivere decidiamo di non
+perseguirli dall'oggi al domani con tutte le conseguenze che ci
+sono.
+Sul PTA tornerò poi con l'ordine del giorno.
+Sul discorso invece del piano regionale dei rifiuti - l'ho detto
+già prima ma lo voglio sottolineare, guardo in particolare
+l'Assessore all'ambiente - una valutazione, secondo noi, deve
+essere fatta, perché il trattamento dei rifiuti urbani di fatto
+oggi è in un unico impianto, ci sono delle problematiche e le
+abbiamo già viste quando siamo stati a fare il sopralluogo, io mi
+auguro che ci possa essere una regia o un cambio comunque di
+strategia che vada dall'ideologico al realistico. Se ho dei
+problemi nella gestione soprattutto nell'avere un prodotto da
+portare a riciclo che sia effettivamente riciclabile, io non posso
+pensare che sia una questione banalmente morale, quindi devo fare
+della catechesi nei confronti delle persone, ma forse il tema della
+convenienza - e soprattutto il tema anche della valorizzazione di
+quelle che possono essere tecnologie di smistamento e quant'altro -
+forse ci riducono sia i costi di trasporto, sia soprattutto
+aumentano forse la quota che possiamo portare in riciclo o comunque
+in vendita, e non sto parlando di cose lontane dalla realtà perché
+c'è chi le fa, invece io temo che la strada che fu perseguita sia
+più ideologia che realismo.
+Sul piano regionale dei trasporti ovviamente le nostre
+considerazioni si rimanderanno quando arriverà in Commissione,
+certo è che una valutazione complessiva deve essere fatta, non si
+può ridurre il tutto ad autobus elettrici sì, autobus a idrogeno
+no, autobus a gas "Boh, vedremo", però dobbiamo essere realisti,
+qualcuno parla di Finlandia, di Norvegia, di grandi Paesi che sono
+avanti, sì, è vero, però comunque ogni volta si fanno delle
+considerazioni che dobbiamo stare attenti a livello di
+chilometraggio, dobbiamo valutare i trasporti, i costi e
+quant'altro perché - ripeto - gli incentivi rendono convenienti
+ogni cosa, però poi rischiamo di pagarne le conseguenze, quindi,
+prima di essere certi di determinate cose, forse è il caso di
+capirle. Poi non ho capito, ma rimando questo passaggio a quando
+discuteremo un emendamento delle colleghe di PCP, perché il metano
+è brutto e cattivo, però quando serve per colpire l'idrogeno, va
+benissimo, ma questa è una nota di colore.
+Il discorso del piano regionale delle attività estrattive, che
+era già stato oggetto di una mia interpellanza all'assessore
+Sapinet, si collega con il decreto aree idonee. Ora, io so che ci
+sono state delle osservazioni in Conferenza delle Regioni che
+chiedono per l'appunto un ruolo rilevante delle Regioni nella
+definizione dell'iter decisionale perché questo è un esempio
+pratico di piani che statuiscono degli obiettivi di cui uno non sa
+come sono stati definiti o quant'altro, forse in replica
+l'Assessore sulle osservazioni ci potrà dire qualcosa di più,
+perché anche qua siamo
+in itinere
+e siamo effettivamente già
+in ritardo, però le cose non si risolvono per decreto.
+Sui quattro assi voglio soltanto fare un paio di considerazioni
+complessive visto che il tempo scorre: da un certo punto di vista,
+la mia preoccupazione è il fatto che ci si dà degli obiettivi ma
+poi bisogna concretizzarli in misure e con qualche ordine del
+giorno abbiamo provato a fare delle proposte, perché in particolare
+sul cambiamento di consumo e di produzione, sia per quello che
+riguarda le abitazioni, le attività produttive e quant'altro, è
+vero che abbiamo un'eredità, soprattutto sul residenziale, che
+arriva dal 110%, ma dobbiamo mettere mano - e se fossi l'erede di
+quell'eredità, rinuncerei all'eredità - e bisogna definire anche a
+livello regionale quale riqualificazione vogliamo dare, e lo dico
+soprattutto verso i settori produttivi, perché sappiamo che lì è
+anche per venire incontro a una grossa problematica che c'è oggi,
+perché alcune tipologie di produzione hanno un costo dell'energia
+maggiore rispetto ad altri e hanno meno mezzi nella transizione
+ecologica, non tutti possono ovviamente portare avanti grandi
+progetti.
+C'è un grosso punto interrogativo - e mi riservo di tornarci -
+che riguarda il teleriscaldamento, ne abbiamo già parlato varie
+volte, in quell'area si prospetta la creazione di grandi
+investimenti, anche legati all'idrogeno verde. Sul
+teleriscaldamento non voglio rubare il mestiere al collega Lavevaz,
+né le certezze alla collega Minelli, però una valutazione in più va
+fatta e credo sia doverosa, non soltanto in termini di convenienza
+economica, ma quello che in prospettiva si può fare, soprattutto
+per l'utilizzo eventualmente dell'idrogeno.
+Per quello che riguarda invece la risorsa idrica, sul tema
+dell'idroelettrico è ovvio che noi oggi partiamo da una situazione
+in cui si prospettano investimenti di
+repowering
+delle
+grandi derivazioni idroelettriche, sappiamo anche che è vero, sono
+utili e funzionali le piccole e medie concessioni e centraline, ma
+i numeri grossi e pesanti in termini di produzione lo fanno le
+grandi derivazioni idroelettriche. È ovvio che oggi noi avremo
+delle grosse difficoltà e sono limitato a dire: "Chiudiamo una
+valle per fare un nuovo sbarramento idroelettrico", però io penso e
+faccio una provocazione non soltanto agli operatori, perché poi
+tornerò anche su questo tema, c'è un emendamento delle colleghe che
+mi permetterà di fare ulteriori considerazioni... ma anche come
+Ente pubblico, in particolare anche legato al percorso del PTA...
+magari a fare delle valutazioni di dove si potrebbero realizzare
+ancora delle grandi derivazioni, perché noi oggi partiamo da un
+dato certo: i grandi impianti che abbiano, un dato che sarà un po'
+più certo quando termineranno gli investimenti di repowering, però
+domani sappiamo che da lì non possiamo, almeno
+sic stantibus
+rebus,
+evolverci e quindi forse delle valutazioni dobbiamo
+farle, perché da qualche parte l'energia elettrica la dobbiamo
+produrre, con qualche vettore la dobbiamo produrre. Non nasce dal
+nulla e soprattutto non è la manna dal cielo, è un'opera dell'uomo,
+quindi su questo bisogna fare una valutazione complessiva.
+L'Assessore nella sua relazione ha usato un passaggio che si usa
+spesso sulla tradizione ecologica, che è il "cambio di paradigma".
+Io so che ci sono delle realtà politiche e associative che vedono
+gli incontri pubblici che sono stati organizzati come una sorta di
+catechesi nei confronti delle persone per dire loro che cosa devono
+fare, per dire loro che obiettivi devono rispettare, per dire loro
+che sono brutte e cattive perché stanno inquinando il pianeta, c'è
+un tema però - e mi fa tornare all'inizio - sui grandi piani: in
+Europa dobbiamo finirla di pensare di essere al centro del mondo,
+noi possiamo fare tutta una serie di considerazioni, tutta una
+serie di piani, ma non siamo al centro del mondo. Negli anni Venti
+forse l'Europa era al centro del mondo perché dominava tre quarti o
+forse l'intero globo terracqueo, ma oggi non siamo al centro del
+mondo, perché Cina, l'area mediorientale, non solo gli Stati Uniti
+e anche il Sud America, hanno i loro effetti; questo non vuol dire
+che noi dobbiamo fare meno, ma dobbiamo stare molto attenti a
+segarci le gambe nel momento in cui gli altri invece stanno facendo
+determinate considerazioni, perché la guerra in Ucraina non si
+vince con la transizione ecologica, non si vince con tutta una
+serie di politiche che ci dicono come ci dobbiamo comportare in
+casa, e questo lo dobbiamo dire, perché gli altri sicuramente non
+stanno a guardare le nostre politiche, anzi, forse le guardano come
+occasione di
+business
+e come occasione di depauperamento e
+di deficit della nostra autonomia strategica. Sto parlando in
+questo caso come cittadino di un'Europa che, secondo me, si è persa
+completamente sotto quest'aspetto, perché il pericolo è alle porte
+e noi siamo convinti di cambiare il mondo con quattro pagine di
+regolamento. Sono molto preoccupato sotto questo aspetto, perché
+gli altri si stanno occupando di tutt'altro mentre noi ci stiamo
+"bambanando" dietro a obiettivi e a una sorta quasi di
+colpevolizzazione di quello che siamo stati e soprattutto ci stiamo
+perdendo altri obiettivi che ci dovrebbero guidare. In questo senso
+io mi auguro che tutti questi piani e anche questo piano non
+facciano venir meno la libera impresa, la libera iniziativa delle
+persone. Io sono sempre preoccupato nei confronti delle
+pianificazioni e delle programmazioni, perché sono una sorta di
+meccanismo coercitivo in campo economico e sociale. Quello che mi
+auguro è che ci siano misure e meccanismi di convenienza, di
+incentivazione, ma non di coercizione. Questi programmi devono
+aiutare le imprese e i cittadini a evolversi, a diventare un
+qualcosa d'altro, ovviamente devono essere accompagnati da delle
+misure che glielo consentano di fare, perché definire obiettivi
+come il filtro Fit for 55 è una cosa, creare e costruire una
+transizione industriale è tutt'altra cosa. Ci sono delle
+rivoluzioni, come ad esempio quella industriale, che non è durata
+un anno, né un'ora, è durata molto di più e forse è ancora in
+corso. In questo senso io mi auguro che ci sia un po' di realismo,
+soprattutto nelle misure attuative. Noi abbiamo cercato di dare un
+piccolo contributo, ovviamente coscienti che anche la Regione
+Autonoma Valle d'Aosta non è il centro del mondo, quindi può fare
+la sua parte, ma non basta una mozione, che, per carità, abbiamo
+votato tutti e in cui crediamo, per risolvere il problema della
+crisi climatica che sta diventando sempre di più una crisi
+ideologica di qualcuno che sta cercando una nuova battaglia perché
+ha perso l'altra.
+Presidente -
+Ha chiesto la parola il consigliere Jordan,
+ne ha facoltà.
+Jordan (AV-VdA Unie) -
+Nous sommes en train d'examiner
+aujourd'hui l'un des thèmes les plus importants sur lesquels la
+communauté internationale est appelée à se mesurer : le changement
+climatique, comme a été déjà bien dit, constitue une des plus
+grandes menaces auxquelles le monde doit faire face. Enfin, nous
+avons pris conscience de la priorité que nous lui devons donner
+pour résoudre ce grand défi. La neutralité climatique, c'est-à-dire
+le passage à une société à économie à zéro émissions, constitue non
+seulement un enjeu pour la société dans son ensemble, mais aussi
+une question transversale et concerne une multitude de domaines qui
+vont du développement durable à la protection du bien-être et de la
+santé des citoyens jusqu'à la définition d'un nouveau modèle de
+développement économique mondial, mais aussi - et c'est notre cas -
+un modèle qui puisse réduire au minimum l'impact sur
+l'environnement en tenant compte de nos particularités
+territoriales. Tout cela s'est transformé dans un contexte qui
+change très rapidement, une évolution significative des stratégies,
+des règles et des objectifs qui ont permis d'aligner les objectifs
+énergétiques avec une démarche de prospective, non seulement à
+moyen terme, mais aussi dans une vision plus à long terme. Les
+politiques de lutte contre le changement climatique
+œuvrent étroitement en synergie avec les
+politiques énergétiques pour ce qui concerne le mode de production,
+le stockage, la distribution mais aussi la consommation de
+l'énergie. Même dans notre réalité territoriale le système
+énergétique est décisif dans la production et dans la réduction des
+gaz responsables du changement climatique.
+Il nostro piano energetico ambientale regionale è un importante
+tassello per la transizione energetica, mentre, da un lato, occorre
+pianificare un intenso e graduale passaggio dalle fonti fossili
+alle fonti rinnovabili disponibili per il contesto territoriale,
+così da attivare una generazione di energia da fonte rinnovabile;
+dall'altro, però occorre prioritariamente intervenire
+sull'abbattimento e sulla razionalizzazione dei consumi
+dell'energia attraverso un marcato incremento dell'efficienza in
+edilizia, nei processi di produzione, nel trasporto, con la
+conseguente riduzione delle emissioni di gas climalteranti.
+Questi sono in sintesi i tre obiettivi e le azioni quantitative
+che sono sviluppate molto bene nel documento che andiamo a
+esaminare oggi e che sono stati illustrati dall'Assessore, tre
+obiettivi, come si diceva, che discendono dai dieci
+driver
+di sviluppo, che sono alla base di questa pianificazione: dobbiamo
+fare in modo di orientare le scelte di consumo e i cittadini verso
+l'autoproduzione, l'adozione di sistemi di accumulo, la
+partecipazione alle comunità energetiche, la gestione efficiente
+dei consumi, il miglioramento dell'efficienza energetica delle
+proprie abitazioni, la mobilità sostenibile. Dobbiamo farlo però
+senza usare la demagogia, senza essere utopistici, senza che questo
+sia terreno di scontro politico, senza avere la presunzione e la
+saccenza, che si è sentita durante le audizioni, rispetto a
+proposte di facili soluzioni che però riguardano temi assolutamente
+complessi. Sia chiaro che il PEAR non è e non deve essere solo un
+atto amministrativo, ma una sorta di piattaforma in cui visioni
+politiche, competenze tecniche, portatori di interessi e società
+civile concorrono in un processo decisionale, che porti a decisioni
+strategiche per lo sviluppo della nostra Regione. Gli obiettivi di
+PEAR sono e devono essere conformi e coerenti agli indirizzi dei
+diversi piani e livelli programmatori della Regione, sono stati già
+citati: il programma di sviluppo regionale, il piano paesistico, il
+piano dei trasporti, il piano di tutela delle acque, solo per
+citare i principali.
+È apprezzabile nell'analisi del piano ed è da segnalare il
+risultato della concertazione svolta, l'Assessore ne ha parlato
+prima, questa concertazione ha permesso di coinvolgere una
+molteplicità di soggetti che hanno avuto la possibilità di
+contribuire fattivamente alla costruzione di questo piano.
+Coerentemente con l'approccio moderno alla pianificazione, il
+PEAR deve affrontare con un livello di dettaglio crescente le
+problematiche, partendo dalla definizione della visione che la
+Regione desidera perseguire passando alla definizione degli
+obiettivi generali, per poi dettagliare gli obiettivi specifici e
+gli ambiti di azione; tutti elementi che troviamo in modo molto
+dettagliato nel documento.
+Tralascio in quest'intervento i dati numerici, in parte già
+abbondantemente indicati, però sono dati estremamente significativi
+e positivi, in termini di produzione di energia rinnovabile, il
+91%. Meno virtuosi siamo nei consumi, le fonti fossili
+rappresentano ancora il 60% dei consumi totali su cui dobbiamo
+raggiungere - e lo si diceva prima - una riduzione del 12%, questo
+per arrivare a una riduzione auspicata di più del 30% del gas
+climalterante.
+Nella fase di applicazione di questi tre obiettivi che ci daremo
+con l'approvazione del piano e per attuare le strategie possiamo
+suddividere queste azioni in tre grandi gruppi di strumenti: il
+primo sono le norme, che diventano obblighi - ne parlava il collega
+che mi ha preceduto - e divieti attraverso leggi, regolamenti e
+linee guida. Questo gruppo di strumenti dimostra un effetto
+piuttosto rapido ma dall'altro genera la tendenza ad aggirare, a
+non sempre rispettare le regole, funzionano bene quasi solamente in
+situazioni temporanee e di urgenza.
+Il secondo gruppo sono gli incentivi che premiano determinati
+comportamenti e ne scoraggiano altri, l'esempio classico è
+rappresentato dalle cariche scaglionate ma anche dalla cubatura
+aggiuntiva per gli edifici energeticamente autosufficienti o anche
+dalle tariffe di parcheggio differenziato. Queste misure hanno un
+effetto a medio termine ma generano molto meno resistenze rispetto
+alle norme, modificano la coscienza anche attraverso il valore
+riconosciuto. Funzionano tuttavia piuttosto su pressione che non
+grazie a convenzioni.
+Il terzo gruppo di strumenti - secondo me, il più importante - è
+quello di trasformazione dei valori culturali, significa che le
+convinzioni e i comportamenti individuali si modificano in maniera
+autonoma. Questo gruppo di misure è quello che ha maggiore durata
+nel tempo, è più coerente con l'immagine di cittadini e cittadine
+coscienti e responsabili; ha tuttavia lo svantaggio di richiedere
+dei tempi relativamente lunghi prima di produrre realmente
+effetti.
+Il cammino verso la neutralità climatica è così importante ed è
+così urgente da rendere necessari tutti e tre i gruppi di
+strumenti, il fatto che alcuni di loro richiedano dei tempi lunghi
+per produrre effetti non è motivo sufficiente a rinviarne
+l'applicazione.
+Crediamo infine - e concludo - che, a corollario degli
+strumenti, sia fondamentale che venga definita e attivata
+l'attività di formazione e comunicazione destinata a illustrare in
+modo facilmente comprensibile a tutta la cittadinanza le
+trasformazioni da fare per radicare questi comportamenti che devono
+essere sostenuti.
+Presidente -
+Ha chiesto la parola il consigliere Distort,
+ne ha facoltà.
+Distort (LEGA VDA) -
+Nel Titolo III della legge 13/2015
+si prevede di dare attuazione alla direttiva 31/2010 dell'Unione
+europea e si legge: "La Regione Valle d'Aosta disciplina la
+modalità per contribuire al raggiungimento degli obiettivi di
+risparmio energetico, di efficienza energetica e di sviluppo delle
+fonti rinnovabili, in conformità alla normativa europea e statale
+vigente in materia di energie e di cambiamenti climatici". Ora, per
+il raggiungimento di questi obiettivi, sempre la legge regionale
+citata disciplina gli strumenti di pianificazione energetica. Il
+PEAR che stiamo discutendo in questo momento, il Piano Energetico
+Ambientale della Valle d'Aosta costituisce appunto lo strumento
+pianificatorio in questione, così come stabilito dall'articolo 27,
+comma 2, della legge regionale. Il comma 3 prevede che il PEAR è
+approvato dal Consiglio regionale su proposta della Giunta
+regionale ed è aggiornato periodicamente. Questo è quanto la Giunta
+è chiamata a svolgere, così ha fatto grazie, come è stato detto - e
+aggiungo anche la mia voce -, a un imponente lavoro degli uffici,
+tra l'altro, anche con risorse scarse di mezzi, di personale.
+Questa non vuole essere una sviolinata ma vuole essere il
+riconoscimento del lavoro, perché anche il lavoro è energia spesa e
+ora noi ci esprimiamo in merito all'approvazione del piano.
+La nostra posizione in merito al voto anticipo che sarà espressa
+nello spazio dedicato alla dichiarazione di voto, sarà conseguente
+a tutta una serie di approfondimenti che emergeranno dalla
+discussione generale, nonché dalla discussione e dalle prese di
+posizione nei confronti degli ordini del giorno, vari ordini del
+giorno, alcuni redatti da noi, altri a cui aderiamo, si tratta di
+capire in che modo il Governo e la maggioranza esprimerà
+sensibilità rispetto a queste suggestioni per capire se ci sono i
+confini e gli elementi per avere una comune visione.
+In ogni caso dichiaro che inizierà da oggi, a seguito
+dell'approvazione del piano energetico ambientale regionale, che,
+tra l'altro parlo di approvazione perché è ovvio che la matematica
+rimane ancora una scienza esatta, i numeri per l'approvazione
+esistono, ci sono per cui, salvo situazioni eclatanti, si parlerà
+ovviamente di approvazione del piano in data odierna... però, per
+quanto ci riguarda, da parte nostra noi inizieremo subito dopo
+l'approvazione del piano la nostra attività di monitoraggio, un
+monitoraggio sull'applicazione del piano nei suoi passaggi
+attuativi e senza togliere assolutamente il merito a chi ha
+concepito i contenuti e gli obiettivi generali di questo strumento
+di pianificazione, bisogna dare atto che la bontà o meno - e questo
+è un elemento estremamente importante che vale per qualunque tipo
+di strumento pianificatorio - di qualunque strumento di
+pianificazione è data dai suoi passaggi attuativi e dall'attività
+fondamentale di monitoraggio. Addirittura noi possiamo dire che uno
+strumento di pianificazione sarà buono - e uso il futuro - in
+funzione di come si svolgerà la sua fase attuativa. Noi potremmo
+avere tutta una serie di indicazioni che sono sicuramente
+importanti, che tracciano una linea, definiscono una visione - e
+questo è fondamentale -, ma la capacità di fare in modo che questo
+strumento sia uno strumento duttile ai cambiamenti, all'evoluzione,
+alla ricerca, alle innovazioni tecnologiche, ai meccanismi che
+innesca - che dovranno essere monitorati... la capacità di sapersi
+modificare e adattare con velocità: questo sarà l'elemento che
+determinerà la bontà o meno dello strumento di pianificazione.
+Sicuramente dovrà essere uno strumento non regolatorio, non di
+regolamentazione, ma uno strumento dinamico, capace di modificarsi
+anche velocemente, che sappia quindi accompagnare le varie attività
+umane di ricerca, di vita sociale, di vita economica della nostra
+comunità valdostana. Questo rientra nelle competenze
+dell'opposizione e questo dichiaro che lo faremo.
+Chiarisco che questa nostra attività di monitoraggio avrà un
+obiettivo base, rispetto al quale noi confronteremo ogni passaggio
+attuativo del PEAR e che esprime la nostra visione in materia di
+energia, di ambiente e di sostenibilità. Per la nostra forza
+politica esiste una priorità: la vita economica della comunità
+valdostana, il primo criterio con cui noi eseguiremo il confronto è
+se questo strumento faciliterà o non faciliterà le attività
+produttive. Ovviamente gli auspici contenuti vanno in questa
+direzione, lo riconosciamo, ma sarà comunque parte integrante del
+nostro lavoro serio di opposizione, perché questo lo possiamo
+garantire. Noi siamo per l'economia reale - l'ha detto e lo
+riprendo dall'intervento del collega Aggravi -, siamo per
+un'economia che permetta a un'unità di vivere e di crescere e non
+siamo per un'economia di sopravvivenza e tantomeno per una
+decrescita felice, per noi decrescita felice è e continua a essere
+un ossimoro.
+L'ambiente va rispettato, questo è ovvio, va tutelato, va
+difeso, ma senza perdere per strada la sfida, perché di questo si
+tratta: di sfida. L'assessore Bertschy ha citato esattamente nella
+presentazione questo concetto di sfida, noi lo accogliamo e lo
+pungoleremo esattamente in questa linea: la sfida di un'economia
+produttiva che sappia crescere in sintonia con l'ambiente. Ricordo
+che nella direttiva europea si parla di efficienza energetica, di
+sviluppo delle fonti rinnovabili, tra l'altro, noi per "fonti
+rinnovabili" abbiamo in testa tutta una serie di luoghi comuni: il
+fotovoltaico, l'eolico, ma noi abbiamo in realtà in testa a una
+classifica l'idroelettrico. Noi vediamo questa sfida economica
+produttiva come una sfida per la crescita chiaramente in sintonia
+con l'ambiente.
+Per noi l'energia è condizione base dell'attività umana e ha la
+priorità, per noi la priorità è l'attività della società umana, che
+si alimenta, che vive, che cresce, che si sviluppa attraverso la
+disponibilità di energia. È chiaro che il tema dell'energia
+presuppone due grandi capitoli: uno è il contenimento dei consumi,
+l'altro è la nuova produzione di energia. Sul contenimento dei
+consumi, senza entrare nei dettagli, ma è chiaro che la parte del
+leone la fa l'ambito dell'edilizia: l'edilizia rimane il settore
+maggiormente responsabile nell'ambito dei consumi energetici,
+soprattutto nell'emissione di CO2 equivalente, per cui per noi sarà
+luogo di attenzione particolare attraverso due meccanismi
+fondamentali, due elementi: 1) la semplificazione burocratica; 2)
+l'accesso al credito e poi l'edilizia si muove, non ha bisogno di
+altro, ha una capacità autogenetica di attuarsi ma ci sono queste
+due condizioni fondamentali e il nostro monitoraggio andrà anche in
+questa linea.
+L'energia idroelettrica è quell'energia che riesce essere al
+tempo stretto pulita, rinnovabile e aggiungo un elemento
+fondamentale: a chilometro zero. Questo è un elemento fondamentale
+perché, nel momento in cui noi paragoniamo le varie fonti di
+energia rinnovabili, noi dobbiamo paragonare sulla base
+dell'impronta ambientale a livello globale, non certo a livello
+territoriale. È chiaro che il fotovoltaico posato sul tetto è lì e
+svolge il suo ruolo di produzione di energia, ma che cosa c'è
+dietro, qual è l'impronta ambientale di questo pannello? Passata e
+futura. Per noi l'energia idroelettrica è stata e rimarrà la
+ricchezza principale del nostro territorio e noi ci adopereremo
+affinché questo possa rimanere un punto saldo nell'applicazione del
+PEAR.
+Un'altra energia rinnovabile a chilometro zero è quella prodotta
+dalla biomassa, un settore di energia che ha delle criticità che
+vanno studiate, vanno approfondite per capire nella sua intera
+filiera quanto possa essere sostenibile, dove si deve lavorare e
+operare perché sia sostenibile, chiaramente non solo dal punto di
+vista ambientale ma anche economico, e noi continueremo a
+sostenerla.
+Un capitolo particolarmente delicato è quello dell'idrogeno.
+Sull'idrogeno la nostra visione segue la tecnologia, noi facciamo
+parlare la tecnologia, spegniamo il filtro ideologico e apriamo
+soltanto la concretezza della tecnologia e delle prove
+sperimentali. Tra l'altro, io ricordo un articolo del dicembre 2022
+del "Corriere della Sera" in cui si riferiva che la SNAM, quindi
+non un soggetto qualunque, aveva concluso con successo i test sulle
+turbine in merito all'idrogeno nei gasdotti, notizia del 2022. Oggi
+siamo nel 2024, a due anni di distanza. Certo, è una tecnologia che
+è in fase di approfondimento, di sviluppo, ovviamente si associa un
+discorso estremamente importante di rapporto di benefici-costi, ma
+è chiaro che se non ci fosse un'apertura di approfondimenti e non
+fosse insita nella natura umana, probabilmente noi oggi o saremmo
+nelle caverne al posto di essere qui in Consiglio, o magari saremmo
+vestiti con delle pelli di animali, però il concetto è questo. Se
+vogliamo avere una visione di progresso, non progressista, noi
+dobbiamo essere aperti ai discorsi e attenti a quanto ci racconta
+la tecnologia. Infine noi vogliamo chiarire che per noi la tutela
+dell'ambiente non è fine a sé stessa, non è un dogmatismo ma è il
+risultato di ricerca, di tecnica e di responsabilità. È un dialogo
+che da quando l'essere umano ha avuto il suo ruolo protagonista
+nella storia, si è espresso in rapporto, in conflittualità o in
+sintonia con la natura. La nostra civiltà è frutto di questo
+dialogo che attraversa millenni.
+Noi riteniamo che l'ambiente - ovviamente lo riconosciamo ma non
+è soltanto nostra opinione - è la dimensione in cui si svolge la
+vita di una comunità ed è chiarissimo che come tale va tutelato,
+mettendo in atto tutta la conoscenza e la responsabilità,
+patrimonio di una comunità degna di definirsi civiltà, ma non
+dimentichiamo che l'ambiente ha un parente stretto: si chiama
+paesaggio, rappresenta il punto di incontro tra la natura e
+l'attività umana e il suo patrimonio culturale identitario. Il
+concetto di paesaggio è un elemento che mi sento di poter dire è un
+po' una sorta di Cenerentola all'interno del PEAR, noi vogliamo
+invece riportare il paesaggio nella sua posizione prioritaria, il
+paesaggio è il luogo di incontro tra natura e attività umana, è
+fatto di bellezza naturale e di storia, sia passata che presente
+dell'attività umana e ha per noi una priorità imprescindibile,
+anche perché è il luogo della grande sintesi tra l'attività umana e
+il mondo naturale. Motivo per cui osserviamo semplicemente con
+attenzione, con obiettività, ma senza illusioni ideologiche le
+soluzioni del fotovoltaico, vogliamo osservarlo con realismo, non
+lo guardiamo con sospetto ma neanche con ingenuità.
+Concludo ricordando che per noi l'energia rimane il motore delle
+attività umane e l'ambiente è il contesto in cui queste attività si
+esprimono, la capacità di produrre energia è la condizione di
+sopravvivenza di qualunque sistema, tanto più se si tratta del
+sistema di vita di una comunità umana. Il PEAR dovrà dare gli
+strumenti necessari perché si realizzi questa realtà, ne ha le
+condizioni perché questo si realizzi ma, ribadisco, sarà il modo di
+attuazione del PEAR e la sua capacità di adattarsi che determinerà
+questo successo o l'insuccesso. Non dovrà essere lo strumento al
+servizio di una visione ideologica di dogmatismo ambientalista,
+nella quale noi non ci riconosciamo, portate pazienza ma non
+riusciamo a riconoscerci, ma di una visione realistica, questo
+richiamo alla realtà che riteniamo sia l'elemento più logico con il
+quale la nostra civiltà, figlia della logica dal periodo classico
+fino tutto lungo il Medioevo e poi passata attraverso l'età
+moderna, ci ha raggiunto, questa logica che parte da un rapporto
+con la realtà.
+Einstein - lo scomodo, sperando che lei non abbia a dolersi per
+il fatto di scomodare una persona del calibro di Einstein - tra le
+tante cose che lui ha detto, che tra l'altro di energia ne sapeva,
+c'è una frase che mi ha colpito - ritengo sia sua, la fonte non
+l'ho approfondita, perché è un approccio un po' diverso dalla
+visione puramente fisica scientifica dell'energia -: "Tutto è
+energia e questo è tutto quello che esiste. Sintonizzati alla
+frequenza della realtà che desideri - quindi potremmo dire della
+visione che hai in mente - e non potrai fare a meno di ottenere che
+quella realtà, passo dopo passo, si realizzi". Questo è il nostro
+auspicio per quanto riguarda il piano energetico ambientale della
+Valle d'Aosta.
+Presidente -
+La parola al consigliere Chatrian.
+Chatrian (AV-VdA Unie) -
+Non so se può attribuire ad
+Albert Einstein l'ultima dichiarazione del collega, ma penso le
+certezze non ci sono, come ha ben detto il collega Distort.
+Detto questo, è sempre bello intervenire su uno strumento, su un
+atto pianificatorio e programmatorio, che è un po' il principale
+ruolo del Consiglio regionale.
+Questa mattina l'assessore Bertschy ci ha illustrato il piano
+"volando alto" sul percorso nel redigere questo piano, ma
+dall'altra parte entrando nel merito anche numerico e cercando di
+dettagliare quali sono soprattutto le potenzialità, partendo da dei
+dati oggettivi, che è la parte più importante.
+Nelle Commissioni III e IV abbiamo avuto veramente la
+possibilità, con il collega Rosaire e con tutti i Commissari
+presenti e chi era anche interessato a quest'importante atto
+programmatorio, di entrare nel merito, organizzare delle audizioni,
+oltretutto molto interessanti, delle categorie, dei Dipartimenti
+che hanno elaborato e scritto questo piano e da chi ha voluto
+comunque fare delle osservazioni a questo piano, che è cucito su
+misura per il sistema Valle d'Aosta, ma su questo mi allaccio ai
+diversi interventi che sono stati fatti in questa mattinata.
+Facciamo attenzione a non immaginare che esista solo esclusivamente
+la Valle d'Aosta, nel senso che è corretto e doveroso, è
+culturalmente valido che dobbiamo fare la nostra parte, ma in un
+sistema assolutamente molto più ampio e, quando parlo di sistema
+molto più ampio, penso che il passaggio principale che possiamo
+riassumere per poi declinare gli obiettivi del nostro piano, per
+quanto il ruolo della Regione sia fondamentale pubblico-privato e
+le azioni da intraprendere efficacemente siano comunque numerose...
+bisogna e dobbiamo sottolineare come l'effetto raggiungimento
+dell'obiettivo al 2040 sia principalmente dipendente dalle azioni
+nazionali, europee, ma soprattutto internazionali per raggiungere
+la neutralità carbonica al 2050. Se non mettiamo al centro
+quest'elemento, noi pensiamo che non siamo onesti intellettualmente
+e anche culturalmente.
+Detto questo, come è stato detto da diversi di voi, è stata
+veramente una costruzione a più mani, è stata veramente
+un'elaborazione, partendo dall'Amministrazione pubblica, dai
+Dipartimenti e toccando veramente numerosi Dipartimenti, al centro
+di tutto indubbiamente c'è l'ambiente, c'è stata la possibilità
+comunque di confrontarsi con i cittadini tutti. Penso che questo
+sia, da un punto di vista di metodo, veramente interessante, utile
+e corretto.
+In seconda battuta probabilmente la parte più difficile è come
+trovare i giusti strumenti e i giusti obiettivi da raggiungere per
+far conciliare l'ambiente - immagino avremo modo di confrontarci
+anche con l'assessore Sapinet su questo -, che è al centro di
+questo piano energetico ambientale e come far conciliare
+l'incremento delle fonti rinnovabili. In tutto questo forse dove
+noi possiamo realmente fare la differenza è sulla riduzione dei
+consumi, su quello pensiamo che ci sia veramente la possibilità di
+poter fare la differenza.
+Vorrei declinare principalmente due ragionamenti: da parte di
+tanti è stato messo in evidenza come punto di forza, chi come punto
+di debolezza, il 110, che ormai è terminato. Questi sono i numeri
+nella nostra regione: 900 sono stati gli interventi, tanti,
+pochi... 900, di cui 350 come condomini e 550 come case o
+unifamiliari o plurifamiliari, quindi una misura, se volete,
+impattante, pesante, robusta, che forse ci ha portato anche fuori
+strada, ha dato questi risultati nel nostro territorio, per una
+cessione di credito che ammonta all'incirca a 230 milioni di euro.
+Ognuno poi tragga le conseguenze di questi indicatori, di questi
+ordini di grandezza.
+Dall'altra parte però, cercando sempre di essere onesti sul
+piano intellettuale, cercando di mettere in fila gli elementi che
+potrebbero farci ridurre il consumo, qual è la sfida per
+incrementare invece le fonti rinnovabili... la sfida però è anche
+legata a fino a dove vogliamo accompagnare l'incremento delle
+rinnovabili principalmente sull'eolico, in seconda battuta sul
+fotovoltaico e in terza battuta sull'idroelettrico. Ho sentito dire
+dalla collega Minelli che manca un posizionamento forte sul piano
+politico. Noi pensiamo che la sfida sia proprio quella invece di
+non esagerare ad andare a non poter più compensare l'ambiente, che
+è il bene più prezioso che abbiamo, ma dall'altra parte è il
+presidio del territorio e quindi la qualità della vita dei nostri
+cittadini, perché altrimenti diventa troppo semplice banalizzare
+nel poter aumentare e incrementare le fonti rinnovabili. Ci
+vorrebbe una bacchetta magica, ma, dato che non esiste la bacchetta
+magica, probabilmente c'è spazio per poter ridurre di più i consumi
+nel patrimonio esistente immobiliare, dove probabilmente noi
+possiamo fare la nostra parte come Regione, ma in minima parte,
+dove probabilmente dobbiamo essere ancora più bravi a valorizzare e
+utilizzare le risorse nazionali ed europee nell'accompagnare le
+riduzioni dei consumi nel patrimonio immobiliare, sapendo che i
+costi sono altissimi, quindi dobbiamo avere la capacità come
+Consiglio regionale non solo di informare la comunità e i
+cittadini, ma nell'informarli dobbiamo dargli...  cercare - e
+questo penso sarà la sfida con l'assessore Bertschy, con
+l'assessore Sapinet, delle Commissioni competenti e chi sarà
+interessato - quali sono gli strumenti, le azioni e le misure che
+noi potremo mettere in campo per poter accompagnare non solo chi
+già oggi ha la capacità economica nel ridurre i consumi, ma anche
+quelle fasce meno abbienti che oggi non hanno assolutamente né la
+capacità, né la possibilità ma, peggio ancora, forse anche la
+cultura di poter a questo punto ridurre i consumi, che vuol dire,
+nel budget familiare poter aumentare la qualità della vita da una
+parte e dall'altra ridurre le uscite. In tutto questo però - è lì
+che voglio allacciarmi di nuovo alla collega Minelli - ci va di
+mezzo l'economia pubblica, l'aiuto pubblico, il come poter aiutare
+da un punto di vista pubblico che il tutto sia molto equilibrato.
+Quando dico molto equilibrato, che la fascia più fragile, la fascia
+più debole o chi oggi non potrebbe mettere in campo comunque delle
+azioni sul proprio patrimonio immobiliare capisca quant'è grande e
+forte l'aiuto di natura pubblica, che sia regionale, nazionale o
+europeo per poter ridurre i costi, quindi aumentando la qualità
+della vita, tenendo conto della questione economica e dall'altra
+parte riducendo comunque il consumo da un punto di vista generale,
+a questo punto non solo per il sistema Valle d'Aosta ma per il
+sistema più largo, quindi internazionale. Penso che sia lì la parte
+veramente più difficile. Forse è banale una delle frasi e degli
+elementi che è inserita all'interno del piano: "La migliore energia
+rinnovabile è quella non consumata". Sembra scontata ma pensiamo
+che di scontato non abbia nulla ma che possa veramente poter fare
+la differenza.
+Indubbiamente la sfida è una sfida che è legata alla
+pianificazione, come dicevo prima, alle autorizzazioni e
+realizzazione di investimenti principalmente pubblici, ma che
+possano creare le condizioni ai privati, piccoli, medi o grandi di
+poter concorrere e quindi raggiungere quegli obiettivi che ci siamo
+prefissati e che sono inseriti nel piano nero su bianco 2030-2040,
+anche nell'ordine del giorno che approvò, è vero, il Consiglio
+all'unanimità, ma anche su quello penso dobbiamo avere l'onestà
+intellettuale di fare una verifica di qual è stata comunque la
+ricaduta ambientale del 110. Cito il 110 perché è stata una misura
+nazionale: la cito perché, come vi dicevo, quelli sono i numeri che
+sono stati utilizzati nella nostra regione, possono essere tanti,
+pochi, importanti o no, questa è stata la ricaduta per il tramite
+di una misura nazionale che abbiamo pagato tutti indubbiamente, su
+quello sono d'accordo con chi lo ha annunciato poc'anzi.
+La sfida quindi potrà essere in ogni caso uno straordinario
+sicuramente volano in prima battuta per l'occupazione, in seconda
+per l'ambiente, che indubbiamente va di pari passo, per un presidio
+del territorio, sapendo che i costi aggiuntivi che ci sono,
+soprattutto per poter mantenere, coltivare e presidiare un
+territorio, quindi una vivacità economica... il pubblico ha il
+dovere di dettare l'agenda insieme a chi oggi si occupa in questo
+caso di ristrutturazione, di restauri piuttosto che di trasporti,
+ma che poi l'utilizzatore finale - e scusatemi ma rimetto al centro
+le famiglie più fragili - possa averne un beneficio, senza che i
+costi siano troppo elevati. Forse la faccio semplice, ma è lì
+quello che non ha funzionato principalmente nella misura che è
+stata messa in campo tre anni fa dallo Stato. Io penso che una
+famiglia normale non abbia potuto beneficiare di quella misura
+proprio perché, da una parte, nonostante l'aiuto, i costi e i
+prezzi erano fuori mercato e, dall'altra parte, pur essendoci la
+misura, non c'è stata la possibilità di una "robustezza" della
+famiglia media di poter mettere a posto quello che è magari un bene
+di famiglia, magari le generazioni prima avevano fatto sacrifici
+enormi per poter o ristrutturare o
+bâtir
+direttamente una
+propria casa o un proprio appartamento, ma non ci sono stati gli
+elementi utili per poterla utilizzare, di conseguenza raggiungere
+l'obiettivo che c'è all'interno di questo piano: quello della
+riduzione principale dei consumi.
+Indubbiamente in tutto questo non possiamo non dimenticarci la
+riduzione delle emissioni, che è la conseguenza di elementi, di
+azioni e misure sfidanti che fanno sì che possano far conciliare a
+quel punto il giusto equilibrio fra le risorse e, di conseguenza,
+le azioni, le leggi che questo Consiglio approverà nei prossimi
+mesi e nei prossimi anni per ridurre quei consumi... ma che possano
+essere alla portata, se non di tutti, di tantissimi, in modo che
+tutti si sentano partecipi all'interno di questo strumento
+pianificatorio, che è interessante, elaborato, condiviso ma
+facciamo attenzione, come è successo un po' a livello nazionale
+quattro anni fa con il 110, che forse qualcuno ha illuso una parte
+delle famiglie, in questo caso italiane... quindi questo piano poi
+dovrà indubbiamente essere condito e arricchito di leggi, oltre che
+quelle nazionali ed europee, che possano raggiungere quegli
+obiettivi, sapendo che al centro c'è l'ambiente, che per noi è il
+bene assolutamente più prezioso. Facciamo attenzione forse al
+neanche esagerare sul secondo asse, che è quello dell'incremento
+à tout prix
+delle fonti rinnovabili, perché è lì la parte
+forse più difficile da far conciliare: la riduzione da una parte,
+l'incremento dall'altra e di mezzo però ci sono altri due elementi
+importanti: l'ambiente e quante risorse abbiamo a disposizione, che
+siano nostre, che siano nazionali, che siano europee, sono sempre
+risorse pubbliche che in questo caso penso insieme cerchiamo di
+valorizzare e utilizzare bene.
+Grazie ancora a tutti quelli che si sono dedicati a questo piano
+in questi tre anni, da quando l'iter è partito, grazie ancora
+all'Assessore che si è occupato di questo
+dossier
+e a tutti
+quelli che vorranno non solo approvarlo, ma poi il giorno dopo
+iniziare quella parte forse non più delicata, che è la seconda, di
+riempire di leggi per quanto ci riguarda, di non farci scappare
+delle opportunità nazionali ed europee e trovare quel giusto
+equilibrio.
+Presidente -
+Ha chiesto la parola il consigliere
+Lucianaz, ne ha facoltà.
+Lucianaz (RV) -
+Ritengo interessante quanto ha appena
+illustrato il collega Chatrian, due punti in particolare, la
+riduzione dei consumi, punto determinante in un piano energetico,
+ma non vedo nelle scelte del Governo regionale una volontà così
+determinante di andare in questa direzione, quindi rimarrà questo
+ideale della riduzione dei consumi; il secondo punto che ho
+apprezzato nell'esposizione del collega Chatrian è il piano cucito
+d'accordo a misura della VDA ma mettendo al centro uno scenario
+internazionale. Effettivamente non siamo soli e non possiamo
+decidere da soli le politiche energetiche, in quanto un piano
+energetico non può non essere influenzato da uno scenario
+geopolitico più grande e ci sono alcuni fatti contingenti che ci
+tengo a esporvi se il Presidente dell'Assemblea me lo lascerà fare:
+ad esempio, la scelta del Presidente del Consiglio dei ministri
+italiano di stipulare un accordo con il Presidente ucraino che
+prevede un forte impegno militare, oltre che finanziario,
+dell'Italia a sostegno della guerra in corso in Ucraina, che può
+determinare futuri scenari molto differenti da quelli a cui fa
+riferimento il PEAR in approvazione. Qualche giorno fa il
+presidente Macron non ha escluso l'invio di truppe occidentali per
+aiutare l'Esercito ucraino, 48 ore dopo il capo del Governo europeo
+Ursula Gertrud Albrecht Von Der Leyen, rivolta all'Europarlamento
+di Strasburgo, riunito in seduta plenaria, ha comunicato che "I
+rischi di una guerra non dovrebbero essere esagerati ma bisogna
+prepararsi. Tutto inizia con l'urgente necessità di ricostruire,
+rifornire, modernizzare le Forze armate degli Stati membri.
+L'Europa deve sforzarsi di sviluppare e produrre la prossima
+generazione di capacità operative, il che significa potenziare la
+nostra capacità industriale della difesa nei prossimi cinque anni".
+Praticamente l'Agenda 2030 direi, io non so quale GOL parla di
+tutti questi argomenti, forse il punto16, che parla di pace, o il
+punto 13 che parla di lotta, sì ma al cambiamento climatico. Questa
+è l'Agenda 2030, che invece detta il PEAR che la maggioranza oggi
+vuole farci approvare. Allora lo scenario è decisamente cambiato,
+perché potenziare le nostre capacità industriali della difesa nei
+prossimi cinque anni, con il sostegno della Banca europea
+naturalmente determinerà uno sconvolgimento, penso anche a livello
+locale, delle produzioni e dell'utilizzo - perché no? -
+dell'energia; questo lo vedremo con i prossimi atti di Governo che
+non tarderanno ad arrivare.
+La Russia in poche parole è di nuovo il nemico da abbattere e
+l'unica speranza che ci resta è che vinca Trump, pensate, dobbiamo
+sperare che vinca lui in America perché non ci sia una guerra,
+perché i democratici, i più guerrafondai che si siano mai
+conosciuti, "giustamente" sostengono lo sviluppo di guerre su tutto
+il pianeta. Qui la cosa è drammatica, dobbiamo sperare che l'ormai
+ottantenne Trump la spunti e si fermi questa spirale impressionante
+di violenza e di guerra sul mondo intero.
+Probabilmente, come diceva mio nonno, quando c'è una crisi
+economica, ci vuole una bella guerra perché il mondo riparta.
+Sembravano concetti legati ai secoli scorsi, vedo che sono
+applicati anche nel ventunesimo secolo.
+La Von Der Leyen si è permessa ancora di dire: "È tempo di
+discutere dell'utilizzo dei profitti inaspettati dei beni russi
+congelati per acquistare congiuntamente equipaggiamenti militari
+per l'Ucraina. Non possiamo permetterci il lusso di stare
+tranquilli con o senza
+partner
+non possiamo permettere che
+la Russia vinca", quindi qua vogliamo la guerra assolutamente, e
+pensiamo di sconfiggere la Russia. Questo è il presidente, il capo
+del Governo europeo che ha l'ardire di dire certe cose. Dice ancora
+la Von Der Leyen: "Negli ultimi due anni l'Europa ha dimostrato che
+sosterrà l'Ucraina per tutto il tempo necessario. L'Europa deve
+spendere di più, spendere meglio, spendere come si è speso con i
+vaccini e il gas naturale". Un disastro. Io non sto a riparlarvi
+dello scandalo dei vaccini, non mi sembra il caso, però questa è
+l'intenzione del Governo europeo. Spero vivamente che qualcuno li
+blocchi.
+Perché dico tutto questo? Perché l'Agenda 2030 - che non prevede
+carri armati alimentati a batteria elettrica immagino, quindi anche
+quelli andranno a complicare la questione del riscaldamento
+climatico, secondo qualcuno -, che condiziona fortemente questo
+PEAR che è in votazione, perché a questi
+target
+si è
+esplicitamente richiamato il piano energetico, ripeto, non prevede
+né guerre, né investimenti nell'industria bellica, però, secondo
+me, bisogna cominciare a mettersi in pace con la propria coscienza,
+perché creare un piano energetico sulla base di cambiamenti
+climatici, quando da che esiste il mondo il clima è sempre
+cambiato... e c'è Noè a testimoniarcelo, ma non abbiamo
+report
+dei Babilonesi o degli Egiziani che ci dicono quanto
+faceva caldo all'epoca, lo possiamo immaginare, sicuramente il
+clima è sempre cambiato. Qui abbiamo la pretesa di lottare al
+cambiamento climatico, cioè abbiamo la pretesa di dire: "Adesso
+fermiamo il cambiamento climatico", il peggio del giacobinismo
+moderno. Qua stiamo rasentando la paranoia, mi spiace dirlo, c'è
+gente che probabilmente ci crede anche. Allora, finché è
+un'opportunità politica, la si sfrutti come si vuole, ma credere di
+bloccare il cambiamento climatico che è causato dall'azione
+dell'essere umano... immagino che qui ci sia qualche problema, nel
+senso che - lo sapete bene, me lo sono andato a cercare anche su
+Google - l'atmosfera è composta per il 78% di azoto, per il 21% di
+ossigeno, per lo 0,04% di anidride carbonica. Questo 0,04% di
+anidride carbonica è prodotto dall'attività umana tra il 10 e il
+15%, tutto il resto è natura. Abbiamo emissioni vulcaniche, abbiamo
+altre fonti di emissione. Questo 0,003% prodotto dall'attività
+umana... e poi sapete meglio di me che l'Europa contribuisce
+all'incirca per l'8% di queste emissioni quando l'Asia supera
+abbondantemente il 50% delle emissioni di anidride carbonica, noi
+abbiamo la pretesa, ricondizionando il piano energetico locale,
+ricondizionamento il sistema produttivo europeo, di andare a
+condizionare il cambiamento climatico. Qui siamo pazzi, scusate se
+ve lo dico, ma siamo veramente pazzi!
+Io non vado oltre, dico che questo piano, basato sull'Agenda
+2030, è un'altra e terribile assurdità. Votatevelo voi.
+Presidente -
+Con questo potremmo andare a pranzo se siete
+d'accordo. Sospendiamo i lavori del Consiglio che riprenderanno
+alle ore 15:00.
+---
+La seduta termina alle ore 12:54.

@@ -1,141 +1,845 @@
-ID_file,path_src,path_clean,language,object,legislature,date,class
-47900,./downloads/47900.txt,./clean/47900.txt,it,4052,XVI,06/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Presidio ospedaliero, EDILIZIA, Edilizia pubblica"
-47901,./downloads/47901.txt,./clean/47901.txt,it,4053,XVI,06/11/2024,ASSISTENZA SANITARIA E OSPEDALIERA
-47902,./downloads/47902.txt,./clean/47902.txt,it,4054,XVI,06/11/2024,"SANITÀ VETERINARIA E ZOOTECNIA, Sanità veterinaria"
-47903,./downloads/47903.txt,./clean/47903.txt,it,4055,XVI,06/11/2024,"EDILIZIA, Edilizia residenziale"
-47904,./downloads/47904.txt,./clean/47904.txt,it,4056,XVI,06/11/2024,SANITÀ VETERINARIA E ZOOTECNIA
-47905,./downloads/47905.txt,./clean/47905.txt,it,4057,XVI,06/11/2024,"EDILIZIA, Edilizia pubblica, ISTRUZIONE PUBBLICA, Università"
-47906,./downloads/47906.txt,./clean/47906.txt,it,4058,XVI,06/11/2024,"AMBIENTE, Inquinamento"
-47907,./downloads/47907.txt,./clean/47907.txt,it,4059,XVI,06/11/2024,"ORDINE PUBBLICO - FORZE ARMATE, Pubblica sicurezza"
-47908,./downloads/47908.txt,./clean/47908.txt,it,4060,XVI,06/11/2024,"TRASPORTI E VIABILITÀ, Autostrade e trafori alpini"
-47909,./downloads/47909.txt,./clean/47909.txt,it,4061,XVI,06/11/2024,ASSISTENZA SANITARIA E OSPEDALIERA
-47910,./downloads/47910.txt,./clean/47910.txt,it,4062,XVI,06/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Azienda Regionale Sanitaria - U.S.L."
-47911,./downloads/47911.txt,./clean/47911.txt,it,4063,XVI,06/11/2024,"OPERE PUBBLICHE, ORDINE PUBBLICO - FORZE ARMATE, Pubblica sicurezza"
-47912,./downloads/47912.txt,./clean/47912.txt,it,4064,XVI,06/11/2024,"EDILIZIA, Centri storici"
-47913,./downloads/47913.txt,./clean/47913.txt,it,4065,XVI,06/11/2024,DEMANIO E PATRIMONIO REGIONALE
-47914,./downloads/47914.txt,./clean/47914.txt,fr,4066,XVI,06/11/2024,DEMANIO E PATRIMONIO REGIONALE
-47915,./downloads/47915.txt,./clean/47915.txt,fr,4067,XVI,06/11/2024,"CONSIGLIO REGIONALE, ORDINE PUBBLICO - FORZE ARMATE"
-47916,./downloads/47916.txt,./clean/47916.txt,it,4068,XVI,06/11/2024,"TRASPORTI E VIABILITÀ, Autostrade e trafori alpini"
-47917,./downloads/47917.txt,./clean/47917.txt,it,4069,XVI,06/11/2024,"AMMINISTRAZIONE REGIONALE, BILANCIO E CONTABILITA' REGIONALE"
-47918,./downloads/47918.txt,./clean/47918.txt,it,4070,XVI,06/11/2024,CASA DA GIOCO
-47919,./downloads/47919.txt,./clean/47919.txt,it,4071,XVI,06/11/2024,"ACQUE, NORME DI ATTUAZIONE"
-47920,./downloads/47920.txt,./clean/47920.txt,it,4072,XVI,06/11/2024,"TRASPORTI E VIABILITÀ, Autostrade e trafori alpini"
-47921,./downloads/47921.txt,./clean/47921.txt,it,4073,XVI,06/11/2024,"PROTEZIONE CIVILE, VIGILI DEL FUOCO E INTERVENTI PER CALAMITÀ NATURALI, Calamità naturali"
-47922,./downloads/47922.txt,./clean/47922.txt,it,4074,XVI,06/11/2024,"FORESTE E TERRITORI MONTANI, ISTRUZIONE PUBBLICA"
-47923,./downloads/47923.txt,./clean/47923.txt,it,4075,XVI,06/11/2024,"ENERGIA, Risparmio energetico e fonti alternative"
-47924,./downloads/47924.txt,./clean/47924.txt,it,4076,XVI,06/11/2024,"TRASPORTI E VIABILITÀ, Trasporti"
-47925,./downloads/47925.txt,./clean/47925.txt,it,4077,XVI,06/11/2024,"TRASPORTI E VIABILITÀ, Trasporti"
-47926,./downloads/47926.txt,./clean/47926.txt,it,4078,XVI,06/11/2024,"TRASPORTI E VIABILITÀ, Impianti a fune"
-47927,./downloads/47927.txt,./clean/47927.txt,it,4079,XVI,06/11/2024,"INDUSTRIA, LAVORO"
-47928,./downloads/47928.txt,./clean/47928.txt,it,4080,XVI,06/11/2024,"SPORT E TEMPO LIBERO, Infrastrutture ricreativo-sportive"
-47929,./downloads/47929.txt,./clean/47929.txt,it,4081,XVI,06/11/2024,"EDILIZIA, Edilizia residenziale"
-47930,./downloads/47930.txt,./clean/47930.txt,it,4082,XVI,06/11/2024,"TRASPORTI E VIABILITÀ, Viabilità"
-47931,./downloads/47931.txt,./clean/47931.txt,it,4083,XVI,06/11/2024,"TRASPORTI E VIABILITÀ, Viabilità"
-47932,./downloads/47932.txt,./clean/47932.txt,it,4084,XVI,06/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Piano socio-sanitario regionale"
-47933,./downloads/47933.txt,./clean/47933.txt,it,4085,XVI,06/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Personale medico e paramedico"
-47934,./downloads/47934.txt,./clean/47934.txt,it,4086,XVI,06/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Presidio ospedaliero"
-47935,./downloads/47935.txt,./clean/47935.txt,it,4087,XVI,06/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Azienda Regionale Sanitaria - U.S.L."
-47936,./downloads/47936.txt,./clean/47936.txt,it,4088,XVI,06/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Azienda Regionale Sanitaria - U.S.L., ASSISTENZA SOCIALE, Disabili"
-47937,./downloads/47937.txt,./clean/47937.txt,it,4089,XVI,07/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Personale medico e paramedico, ORDINE PUBBLICO - FORZE ARMATE, Pubblica sicurezza"
-47938,./downloads/47938.txt,./clean/47938.txt,it,4090,XVI,07/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Personale medico e paramedico, ASSISTENZA SOCIALE, Assistenza socio-sanitaria"
-47939,./downloads/47939.txt,./clean/47939.txt,it,4091,XVI,07/11/2024,"ASSISTENZA SOCIALE, Famiglia, tutela dell'infanzia"
-47940,./downloads/47940.txt,./clean/47940.txt,it,4092,XVI,07/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Personale medico e paramedico"
-47941,./downloads/47941.txt,./clean/47941.txt,it,4093,XVI,07/11/2024,ASSISTENZA SOCIALE
-47942,./downloads/47942.txt,./clean/47942.txt,it,4094,XVI,07/11/2024,CASA DA GIOCO
-47943,./downloads/47943.txt,./clean/47943.txt,it,4095,XVI,07/11/2024,"FINANZA REGIONALE E LOCALE, Finaosta"
-47944,./downloads/47944.txt,./clean/47944.txt,it,4096,XVI,07/11/2024,"AMMINISTRAZIONE REGIONALE, Ordinamento degli uffici e del personale"
-47945,./downloads/47945.txt,./clean/47945.txt,it,4097,XVI,07/11/2024,"PROTEZIONE CIVILE, VIGILI DEL FUOCO E INTERVENTI PER CALAMITÀ NATURALI, Vigili del fuoco - Difesa antincendi"
-47946,./downloads/47946.txt,./clean/47946.txt,it,4098,XVI,07/11/2024,"FINANZA REGIONALE E LOCALE, Partecipazioni azionarie regionali"
-47947,./downloads/47947.txt,./clean/47947.txt,it,4099,XVI,07/11/2024,"ISTRUZIONE PUBBLICA, Università"
-47948,./downloads/47948.txt,./clean/47948.txt,it,4100,XVI,07/11/2024,"ISTRUZIONE PUBBLICA, Personale docente e non docente"
-47949,./downloads/47949.txt,./clean/47949.txt,it,4101,XVI,07/11/2024,TURISMO E INDUSTRIA ALBERGHIERA
-47950,./downloads/47950.txt,./clean/47950.txt,it,4102,XVI,07/11/2024,"TRASPORTI E VIABILITÀ, Impianti a fune"
-47951,./downloads/47951.txt,./clean/47951.txt,it,4103,XVI,07/11/2024,"AMBIENTE, TRASPORTI E VIABILITÀ, Trasporti"
-47952,./downloads/47952.txt,./clean/47952.txt,it,4104,XVI,07/11/2024,"TRASPORTI E VIABILITÀ, Trasporti, Aeroporti"
-47953,./downloads/47953.txt,./clean/47953.txt,it,4105,XVI,07/11/2024,"TRASPORTI E VIABILITÀ, Viabilità"
-47954,./downloads/47954.txt,./clean/47954.txt,it,4106,XVI,07/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Igiene e sanità pubblica"
-47955,./downloads/47955.txt,./clean/47955.txt,it,4107,XVI,07/11/2024,"ASSISTENZA SOCIALE, Assistenza socio-sanitaria"
-47956,./downloads/47956.txt,./clean/47956.txt,it,4108,XVI,07/11/2024,"ASSISTENZA SOCIALE, Famiglia, tutela dell'infanzia"
-47957,./downloads/47957.txt,./clean/47957.txt,it,4109,XVI,07/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Azienda Regionale Sanitaria - U.S.L., Personale medico e paramedico"
-47958,./downloads/47958.txt,./clean/47958.txt,it,4110,XVI,07/11/2024,"ASSISTENZA SOCIALE, Disabili, Associazionismo - volontariato"
-47959,./downloads/47959.txt,./clean/47959.txt,it,4111,XVI,07/11/2024,"ASSISTENZA SOCIALE, Famiglia, tutela dell'infanzia"
-47960,./downloads/47960.txt,./clean/47960.txt,it,4112,XVI,07/11/2024,ASSISTENZA SANITARIA E OSPEDALIERA
-47961,./downloads/47961.txt,./clean/47961.txt,it,4113,XVI,07/11/2024,"ASSISTENZA SOCIALE, Famiglia, tutela dell'infanzia, EDILIZIA, Edilizia residenziale"
-47962,./downloads/47962.txt,./clean/47962.txt,it,4114,XVI,07/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Azienda Regionale Sanitaria - U.S.L., Personale medico e paramedico"
-47963,./downloads/47963.txt,./clean/47963.txt,it,4115,XVI,07/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Piano socio-sanitario regionale"
-47964,./downloads/47964.txt,./clean/47964.txt,it,4116,XVI,07/11/2024,"ASSISTENZA SOCIALE, Famiglia, tutela dell'infanzia"
-47965,./downloads/47965.txt,./clean/47965.txt,it,4117,XVI,07/11/2024,"ASSISTENZA SOCIALE, Assistenza socio-sanitaria"
-47966,./downloads/47966.txt,./clean/47966.txt,it,4118,XVI,07/11/2024,"AGRICOLTURA, Agriturismo, TURISMO E INDUSTRIA ALBERGHIERA, Ricettività turistica"
-47967,./downloads/47967.txt,./clean/47967.txt,it,4119,XVI,07/11/2024,"SPORT E TEMPO LIBERO, Manifestazioni sportive"
-47968,./downloads/47968.txt,./clean/47968.txt,it,4120,XVI,07/11/2024,"COMMERCIO, Disciplina, attività, professioni"
-47969,./downloads/47969.txt,./clean/47969.txt,it,4121,XVI,07/11/2024,"COMMERCIO, Disciplina, attività, professioni"
-47970,./downloads/47970.txt,./clean/47970.txt,it,4122,XVI,07/11/2024,"ORDINE PUBBLICO - FORZE ARMATE, Pubblica sicurezza, STATUTO"
-47971,./downloads/47971.txt,./clean/47971.txt,it,4123,XVI,07/11/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula"
-47981,./downloads/47981.txt,./clean/47981.txt,it,4124,XVI,20/11/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula"
-47982,./downloads/47982.txt,./clean/47982.txt,it,4125,XVI,20/11/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula"
-47983,./downloads/47983.txt,./clean/47983.txt,it,4126,XVI,20/11/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula"
-47984,./downloads/47984.txt,./clean/47984.txt,it,4127,XVI,20/11/2024,"CONSIGLIO REGIONALE, Costituzione e funzionamento degli organi consiliari"
-47985,./downloads/47985.txt,./clean/47985.txt,it,4128,XVI,20/11/2024,AMMINISTRAZIONE REGIONALE
-47986,./downloads/47986.txt,./clean/47986.txt,it,4129,XVI,20/11/2024,BILANCIO E CONTABILITA' REGIONALE
-47987,./downloads/47987.txt,./clean/47987.txt,it,4130,XVI,20/11/2024,BILANCIO E CONTABILITA' REGIONALE
-47988,./downloads/47988.txt,./clean/47988.txt,it,4131,XVI,20/11/2024,BILANCIO E CONTABILITA' REGIONALE
-47989,./downloads/47989.txt,./clean/47989.txt,it,4132,XVI,20/11/2024,AGRICOLTURA
-47990,./downloads/47990.txt,./clean/47990.txt,it,4133,XVI,20/11/2024,"ENTI LOCALI, Comuni"
-47991,./downloads/47991.txt,./clean/47991.txt,it,4134,XVI,20/11/2024,"INFORMAZIONE, Radiotelecomunicazioni"
-47992,./downloads/47992.txt,./clean/47992.txt,it,4135,XVI,21/11/2024,"FINANZA REGIONALE E LOCALE, Partecipazioni azionarie regionali"
-47993,./downloads/47993.txt,./clean/47993.txt,it,4136,XVI,21/11/2024,"ENERGIA, Risparmio energetico e fonti alternative"
-47994,./downloads/47994.txt,./clean/47994.txt,it,4137,XVI,21/11/2024,"ASSISTENZA SOCIALE, Assistenza socio-sanitaria"
-47995,./downloads/47995.txt,./clean/47995.txt,it,4138,XVI,21/11/2024,"PROTEZIONE CIVILE, VIGILI DEL FUOCO E INTERVENTI PER CALAMITÀ NATURALI, Calamità naturali, TURISMO E INDUSTRIA ALBERGHIERA, Contributi, incentivi"
-47996,./downloads/47996.txt,./clean/47996.txt,it,4139,XVI,21/11/2024,"TRASPORTI E VIABILITÀ, Autostrade e trafori alpini"
-47997,./downloads/47997.txt,./clean/47997.txt,it,4140,XVI,21/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Personale medico e paramedico"
-47998,./downloads/47998.txt,./clean/47998.txt,it,4141,XVI,21/11/2024,"CONSIGLIO REGIONALE, Costituzione e funzionamento degli organi consiliari"
-47999,./downloads/47999.txt,./clean/47999.txt,it,4142,XVI,21/11/2024,"ISTRUZIONE PUBBLICA, Università"
-48000,./downloads/48000.txt,./clean/48000.txt,it,4143,XVI,21/11/2024,"ASSISTENZA SOCIALE, Asili nido, ISTRUZIONE PUBBLICA"
-48001,./downloads/48001.txt,./clean/48001.txt,it,4144,XVI,21/11/2024,"BENI CULTURALI, Musei, biblioteche, archivi storici e aree di interesse archeologico"
-48002,./downloads/48002.txt,./clean/48002.txt,it,4145,XVI,21/11/2024,"ASSISTENZA SOCIALE, Asili nido"
-48003,./downloads/48003.txt,./clean/48003.txt,it,4146,XVI,21/11/2024,"INFORMAZIONE, Radiotelecomunicazioni"
-48004,./downloads/48004.txt,./clean/48004.txt,it,4147,XVI,21/11/2024,AGRICOLTURA
-48005,./downloads/48005.txt,./clean/48005.txt,it,4148,XVI,21/11/2024,CACCIA E PESCA
-48006,./downloads/48006.txt,./clean/48006.txt,it,4149,XVI,21/11/2024,"SPORT E TEMPO LIBERO, Sport invernali"
-48007,./downloads/48007.txt,./clean/48007.txt,it,4150,XVI,21/11/2024,"CONSULTE COMMISSIONI E ORGANI COLLEGIALI, SPORT E TEMPO LIBERO"
-48008,./downloads/48008.txt,./clean/48008.txt,it,4151,XVI,21/11/2024,"TRASPORTI E VIABILITÀ, Strade di interesse regionale"
-48009,./downloads/48009.txt,./clean/48009.txt,it,4152,XVI,21/11/2024,"ASSETTO DEL TERRITORIO, Difesa ed uso del suolo - Sistemazione idrogeologica"
-48010,./downloads/48010.txt,./clean/48010.txt,it,4153,XVI,21/11/2024,"ASSISTENZA SOCIALE, Alcolismo e tossicodipendenze, Politiche giovanili"
-48011,./downloads/48011.txt,./clean/48011.txt,it,4154,XVI,21/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Presidio ospedaliero"
-48012,./downloads/48012.txt,./clean/48012.txt,it,4155,XVI,21/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Presidio ospedaliero"
-48013,./downloads/48013.txt,./clean/48013.txt,it,4156,XVI,21/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Azienda Regionale Sanitaria - U.S.L."
-48014,./downloads/48014.txt,./clean/48014.txt,it,4157,XVI,21/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Igiene e sanità pubblica"
-48015,./downloads/48015.txt,./clean/48015.txt,it,4158,XVI,21/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Azienda Regionale Sanitaria - U.S.L."
-48016,./downloads/48016.txt,./clean/48016.txt,it,4159,XVI,21/11/2024,"SPORT E TEMPO LIBERO, Infrastrutture ricreativo-sportive"
-48017,./downloads/48017.txt,./clean/48017.txt,it,4160,XVI,21/11/2024,CREDITO
-48018,./downloads/48018.txt,./clean/48018.txt,it,4161,XVI,21/11/2024,"ENTI LOCALI, Comuni"
-48019,./downloads/48019.txt,./clean/48019.txt,fr,4162,XVI,21/11/2024,"SPORT E TEMPO LIBERO, Infrastrutture ricreativo-sportive"
-48020,./downloads/48020.txt,./clean/48020.txt,it,4163,XVI,21/11/2024,"TRASPORTI E VIABILITÀ, Autostrade e trafori alpini"
-48021,./downloads/48021.txt,./clean/48021.txt,it,4164,XVI,21/11/2024,GIUNTA REGIONALE
-48022,./downloads/48022.txt,./clean/48022.txt,it,4165,XVI,21/11/2024,"ENERGIA, Risparmio energetico e fonti alternative, TURISMO E INDUSTRIA ALBERGHIERA, Ricettività turistica"
-48023,./downloads/48023.txt,./clean/48023.txt,it,4166,XVI,21/11/2024,"ASSISTENZA SOCIALE, Politiche giovanili"
-48024,./downloads/48024.txt,./clean/48024.txt,it,4167,XVI,21/11/2024,"ISTRUZIONE PUBBLICA, Personale docente e non docente"
-48025,./downloads/48025.txt,./clean/48025.txt,it,4168,XVI,21/11/2024,ACQUE
-48026,./downloads/48026.txt,./clean/48026.txt,it,4169,XVI,21/11/2024,"ENERGIA, Risparmio energetico e fonti alternative"
-48027,./downloads/48027.txt,./clean/48027.txt,it,4170,XVI,21/11/2024,"COMMERCIO, INFORMAZIONE, Sistema informativo"
-48028,./downloads/48028.txt,./clean/48028.txt,it,4171,XVI,21/11/2024,SPORT E TEMPO LIBERO
-48029,./downloads/48029.txt,./clean/48029.txt,it,4172,XVI,21/11/2024,EDILIZIA
-48030,./downloads/48030.txt,./clean/48030.txt,it,4173,XVI,21/11/2024,"AMBIENTE, Stoccaggio e smaltimento rifiuti"
-48031,./downloads/48031.txt,./clean/48031.txt,it,4174,XVI,21/11/2024,"TRASPORTI E VIABILITÀ, Viabilità, Strade di interesse regionale"
-48032,./downloads/48032.txt,./clean/48032.txt,it,4175,XVI,21/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Personale medico e paramedico"
-48033,./downloads/48033.txt,./clean/48033.txt,it,4176,XVI,21/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Igiene e sanità pubblica"
-48034,./downloads/48034.txt,./clean/48034.txt,it,4177,XVI,21/11/2024,"ASSISTENZA SOCIALE, Famiglia, tutela dell'infanzia"
-48035,./downloads/48035.txt,./clean/48035.txt,it,4178,XVI,21/11/2024,"COMMERCIO, INFORMAZIONE, TURISMO E INDUSTRIA ALBERGHIERA"
-48036,./downloads/48036.txt,./clean/48036.txt,it,4179,XVI,21/11/2024,"TURISMO E INDUSTRIA ALBERGHIERA, Ricettività turistica"
-48037,./downloads/48037.txt,./clean/48037.txt,it,4180,XVI,21/11/2024,"SPORT E TEMPO LIBERO, Infrastrutture ricreativo-sportive"
-48038,./downloads/48038.txt,./clean/48038.txt,it,4181,XVI,21/11/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula"
-48041,./downloads/48041.txt,./clean/48041.txt,it,4182,XVI,09/12/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula"
-48042,./downloads/48042.txt,./clean/48042.txt,it,4183,XVI,09/12/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula"
-48043,./downloads/48043.txt,./clean/48043.txt,it,4184,XVI,09/12/2024,"BILANCIO E CONTABILITA' REGIONALE, OPERE PUBBLICHE"
-48044,./downloads/48044.txt,./clean/48044.txt,it,4185,XVI,09/12/2024,"FINANZA REGIONALE E LOCALE, Partecipazioni azionarie regionali"
-48045,./downloads/48045.txt,./clean/48045.txt,it,4186,XVI,09/12/2024,"EDILIZIA, Edilizia residenziale"
-48046,./downloads/48046.txt,./clean/48046.txt,it,4187,XVI,09/12/2024,"ASSISTENZA SOCIALE, Disabili, TRASPORTI E VIABILITÀ, Trasporti"
-48047,./downloads/48047.txt,./clean/48047.txt,it,4188,XVI,09/12/2024,"ACQUE, Acque minerali e termali"
-48048,./downloads/48048.txt,./clean/48048.txt,it,4189,XVI,09/12/2024,EDILIZIA
-48049,./downloads/48049.txt,./clean/48049.txt,it,4190,XVI,09/12/2024,ASSISTENZA SANITARIA E OSPEDALIERA
-48050,./downloads/48050.txt,./clean/48050.txt,it,4191,XVI,09/12/2024,BILANCIO E CONTABILITA' REGIONALE
+ID_file,path_src,path_clean,language,object,legislature,date,class,obj_pos
+47801,./downloads/47801.txt,./clean/47801.txt,it,3963.0,XVI,02/10/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",1
+47802,./downloads/47802.txt,./clean/47802.txt,fr,3964.0,XVI,02/10/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",2
+47803,./downloads/47803.txt,./clean/47803.txt,it,3965.0,XVI,02/10/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",3
+47804,./downloads/47804.txt,./clean/47804.txt,it,3966.0,XVI,02/10/2024,"PROTEZIONE CIVILE, VIGILI DEL FUOCO E INTERVENTI PER CALAMITÀ NATURALI, Vigili del fuoco - Difesa antincendi",4
+47805,./downloads/47805.txt,./clean/47805.txt,it,3967.0,XVI,02/10/2024,BILANCIO E CONTABILITA' REGIONALE,5
+47806,./downloads/47806.txt,./clean/47806.txt,it,3968.0,XVI,02/10/2024,"AMBIENTE, TRASPORTI E VIABILITÀ, Trasporti",6
+47807,./downloads/47807.txt,./clean/47807.txt,it,3969.0,XVI,02/10/2024,"LAVORO, Politica del lavoro",7
+47808,./downloads/47808.txt,./clean/47808.txt,it,3970.0,XVI,02/10/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",8
+47809,./downloads/47809.txt,./clean/47809.txt,it,3971.0,XVI,02/10/2024,"ORDINE PUBBLICO - FORZE ARMATE, Pubblica sicurezza",9
+47810,./downloads/47810.txt,./clean/47810.txt,it,3972.0,XVI,02/10/2024,"ENERGIA, Energia idroelettrica",10
+47811,./downloads/47811.txt,./clean/47811.txt,it,3973.0,XVI,02/10/2024,"TRASPORTI E VIABILITÀ, Strade di interesse regionale",11
+47812,./downloads/47812.txt,./clean/47812.txt,it,3974.0,XVI,02/10/2024,DEMANIO E PATRIMONIO REGIONALE,12
+47813,./downloads/47813.txt,./clean/47813.txt,it,3975.0,XVI,02/10/2024,"DEMANIO E PATRIMONIO REGIONALE, ISTRUZIONE PUBBLICA, Università",13
+47814,./downloads/47814.txt,./clean/47814.txt,it,3976.0,XVI,02/10/2024,"TRASPORTI E VIABILITÀ, Strade di interesse regionale",14
+47815,./downloads/47815.txt,./clean/47815.txt,it,3977.0,XVI,02/10/2024,"AMMINISTRAZIONE REGIONALE, Ordinamento degli uffici e del personale",15
+47816,./downloads/47816.txt,./clean/47816.txt,it,3978.0,XVI,02/10/2024,"ENTI LOCALI, Comuni, ORDINE PUBBLICO - FORZE ARMATE, Pubblica sicurezza",16
+47817,./downloads/47817.txt,./clean/47817.txt,it,3979.0,XVI,02/10/2024,"ENERGIA, Energia idroelettrica, NORME DI ATTUAZIONE",17
+47818,./downloads/47818.txt,./clean/47818.txt,it,3980.0,XVI,02/10/2024,"ENTI LOCALI, Comuni",18
+47819,./downloads/47819.txt,./clean/47819.txt,it,3981.0,XVI,02/10/2024,"AMBIENTE, Inquinamento, ASSISTENZA SANITARIA E OSPEDALIERA, Igiene e sanità pubblica",19
+47820,./downloads/47820.txt,./clean/47820.txt,it,3982.0,XVI,02/10/2024,"AMBIENTE, Inquinamento, TRASPORTI E VIABILITÀ",20
+47821,./downloads/47821.txt,./clean/47821.txt,it,3983.0,XVI,02/10/2024,CONSIGLIO REGIONALE,21
+47161,./downloads/47161.txt,./clean/47161.txt,it,3455.0,XVI,03/04/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",1
+47162,./downloads/47162.txt,./clean/47162.txt,it,3456.0,XVI,03/04/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",2
+47163,./downloads/47163.txt,./clean/47163.txt,it,3457.0,XVI,03/04/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",3
+47164,./downloads/47164.txt,./clean/47164.txt,it,3458.0,XVI,03/04/2024,"ORDINE PUBBLICO - FORZE ARMATE, Pubblica sicurezza",4
+47165,./downloads/47165.txt,./clean/47165.txt,it,3459.0,XVI,03/04/2024,BILANCIO E CONTABILITA' REGIONALE,5
+47166,./downloads/47166.txt,./clean/47166.txt,it,3460.0,XVI,03/04/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",6
+47167,./downloads/47167.txt,./clean/47167.txt,it,3461.0,XVI,03/04/2024,"TRASPORTI E VIABILITÀ, Trasporti",7
+47168,./downloads/47168.txt,./clean/47168.txt,it,3462.0,XVI,03/04/2024,ASSISTENZA SANITARIA E OSPEDALIERA,8
+47169,./downloads/47169.txt,./clean/47169.txt,it,3463.0,XVI,03/04/2024,"ACQUE, AMBIENTE, Inquinamento, ASSISTENZA SANITARIA E OSPEDALIERA, Igiene e sanità pubblica",9
+47170,./downloads/47170.txt,./clean/47170.txt,it,3464.0,XVI,03/04/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Presidio ospedaliero",10
+47171,./downloads/47171.txt,./clean/47171.txt,it,3465.0,XVI,03/04/2024,"SPORT E TEMPO LIBERO, Sport invernali, TURISMO E INDUSTRIA ALBERGHIERA",11
+47172,./downloads/47172.txt,./clean/47172.txt,it,3466.0,XVI,03/04/2024,"SPORT E TEMPO LIBERO, Sport invernali, TURISMO E INDUSTRIA ALBERGHIERA",12
+47173,./downloads/47173.txt,./clean/47173.txt,it,3467.0,XVI,03/04/2024,TURISMO E INDUSTRIA ALBERGHIERA,13
+47174,./downloads/47174.txt,./clean/47174.txt,it,3468.0,XVI,03/04/2024,"TRASPORTI E VIABILITÀ, Viabilità",14
+47175,./downloads/47175.txt,./clean/47175.txt,it,3469.0,XVI,03/04/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Presidio ospedaliero, EDILIZIA, Edilizia pubblica",15
+47176,./downloads/47176.txt,./clean/47176.txt,it,3470.0,XVI,03/04/2024,"INFORMAZIONE, Sistema informativo",16
+47177,./downloads/47177.txt,./clean/47177.txt,it,3471.0,XVI,03/04/2024,AMBIENTE,17
+47178,./downloads/47178.txt,./clean/47178.txt,it,3472.0,XVI,03/04/2024,"LAVORO, Politica del lavoro",18
+47179,./downloads/47179.txt,./clean/47179.txt,it,3473.0,XVI,03/04/2024,"TRASPORTI E VIABILITÀ, Trasporti",19
+47180,./downloads/47180.txt,./clean/47180.txt,it,3474.0,XVI,03/04/2024,"ENERGIA, Risparmio energetico e fonti alternative",20
+47181,./downloads/47181.txt,./clean/47181.txt,it,3475.0,XVI,03/04/2024,ASSISTENZA SANITARIA E OSPEDALIERA,21
+47182,./downloads/47182.txt,./clean/47182.txt,it,3476.0,XVI,03/04/2024,ASSISTENZA SANITARIA E OSPEDALIERA,22
+47183,./downloads/47183.txt,./clean/47183.txt,it,3477.0,XVI,03/04/2024,ASSISTENZA SANITARIA E OSPEDALIERA,23
+47184,./downloads/47184.txt,./clean/47184.txt,it,3478.0,XVI,03/04/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Azienda Regionale Sanitaria - U.S.L.",24
+47185,./downloads/47185.txt,./clean/47185.txt,it,3479.0,XVI,03/04/2024,"EDILIZIA, Edilizia residenziale",25
+47186,./downloads/47186.txt,./clean/47186.txt,it,3480.0,XVI,03/04/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Piano socio-sanitario regionale, INFORMAZIONE, Radiotelecomunicazioni",26
+47187,./downloads/47187.txt,./clean/47187.txt,it,3481.0,XVI,03/04/2024,"AMBIENTE, Stoccaggio e smaltimento rifiuti, ASSISTENZA SANITARIA E OSPEDALIERA, Presidio ospedaliero",27
+47188,./downloads/47188.txt,./clean/47188.txt,it,3482.0,XVI,03/04/2024,ASSISTENZA SANITARIA E OSPEDALIERA,28
+47189,./downloads/47189.txt,./clean/47189.txt,it,3483.0,XVI,03/04/2024,ASSISTENZA SANITARIA E OSPEDALIERA,29
+47190,./downloads/47190.txt,./clean/47190.txt,it,3484.0,XVI,03/04/2024,"CONSIGLIO REGIONALE, Costituzione e funzionamento degli organi consiliari",30
+47191,./downloads/47191.txt,./clean/47191.txt,it,3485.0,XVI,03/04/2024,"AMBIENTE, AMMINISTRAZIONE REGIONALE, Ordinamento degli uffici e del personale",31
+47192,./downloads/47192.txt,./clean/47192.txt,it,3486.0,XVI,03/04/2024,"INFORMAZIONE, Radiotelecomunicazioni",32
+47193,./downloads/47193.txt,./clean/47193.txt,it,3487.0,XVI,03/04/2024,"ENERGIA, Energia idroelettrica",33
+47194,./downloads/47194.txt,./clean/47194.txt,it,3488.0,XVI,03/04/2024,"AMMINISTRAZIONE REGIONALE, Ordinamento degli uffici e del personale",34
+47195,./downloads/47195.txt,./clean/47195.txt,it,3489.0,XVI,03/04/2024,BENI CULTURALI,35
+47196,./downloads/47196.txt,./clean/47196.txt,it,3490.0,XVI,03/04/2024,"BENI CULTURALI, Musei, biblioteche, archivi storici e aree di interesse archeologico",36
+47197,./downloads/47197.txt,./clean/47197.txt,fr,3491.0,XVI,03/04/2024,"AMMINISTRAZIONE REGIONALE, LINGUA FRANCESE",37
+47198,./downloads/47198.txt,./clean/47198.txt,it,3492.0,XVI,03/04/2024,AGRICOLTURA,38
+47199,./downloads/47199.txt,./clean/47199.txt,it,3493.0,XVI,03/04/2024,"AMBIENTE, Flora e fauna",39
+47200,./downloads/47200.txt,./clean/47200.txt,it,3494.0,XVI,03/04/2024,"AGRICOLTURA, Bonifica, miglioramenti e riordino fondiario",40
+47201,./downloads/47201.txt,./clean/47201.txt,it,3495.0,XVI,03/04/2024,"AMBIENTE, Flora e fauna",41
+47202,./downloads/47202.txt,./clean/47202.txt,it,3496.0,XVI,03/04/2024,"ASSISTENZA SOCIALE, Disabili, TRASPORTI E VIABILITÀ, Trasporti",42
+47203,./downloads/47203.txt,./clean/47203.txt,it,3497.0,XVI,03/04/2024,ARTIGIANATO,43
+47204,./downloads/47204.txt,./clean/47204.txt,it,3498.0,XVI,03/04/2024,"ASSETTO DEL TERRITORIO, Urbanistica e pianificazione territoriale",44
+47205,./downloads/47205.txt,./clean/47205.txt,it,3499.0,XVI,03/04/2024,"ASSISTENZA SOCIALE, Assistenza socio-sanitaria",45
+47206,./downloads/47206.txt,./clean/47206.txt,it,3500.0,XVI,03/04/2024,"EDILIZIA, Edilizia residenziale",46
+47822,./downloads/47822.txt,./clean/47822.txt,it,3984.0,XVI,03/10/2024,"EDILIZIA, Edilizia residenziale",1
+47823,./downloads/47823.txt,./clean/47823.txt,it,3985.0,XVI,03/10/2024,"ASSISTENZA SOCIALE, Famiglia, tutela dell'infanzia, EDILIZIA, Edilizia residenziale",2
+47824,./downloads/47824.txt,./clean/47824.txt,it,3986.0,XVI,03/10/2024,"SANITÀ VETERINARIA E ZOOTECNIA, Sanità veterinaria",3
+47825,./downloads/47825.txt,./clean/47825.txt,it,3987.0,XVI,03/10/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Azienda Regionale Sanitaria - U.S.L.",4
+47826,./downloads/47826.txt,./clean/47826.txt,it,3988.0,XVI,03/10/2024,"TURISMO E INDUSTRIA ALBERGHIERA, Ricettività turistica",5
+47827,./downloads/47827.txt,./clean/47827.txt,it,3989.0,XVI,03/10/2024,"EDILIZIA, Edilizia residenziale",6
+47828,./downloads/47828.txt,./clean/47828.txt,it,3990.0,XVI,03/10/2024,AGRICOLTURA,7
+47829,./downloads/47829.txt,./clean/47829.txt,it,3991.0,XVI,03/10/2024,"AMBIENTE, Flora e fauna, SANITÀ VETERINARIA E ZOOTECNIA, Zootecnia",8
+47830,./downloads/47830.txt,./clean/47830.txt,it,3992.0,XVI,03/10/2024,CACCIA E PESCA,9
+47831,./downloads/47831.txt,./clean/47831.txt,it,3993.0,XVI,03/10/2024,"ASSISTENZA SOCIALE, Famiglia, tutela dell'infanzia, EDILIZIA, Edilizia residenziale",10
+47832,./downloads/47832.txt,./clean/47832.txt,it,3994.0,XVI,03/10/2024,"SPORT E TEMPO LIBERO, Sport invernali",11
+47833,./downloads/47833.txt,./clean/47833.txt,it,3995.0,XVI,03/10/2024,"TRASPORTI E VIABILITÀ, Trasporti",12
+47834,./downloads/47834.txt,./clean/47834.txt,it,3996.0,XVI,03/10/2024,"TRASPORTI E VIABILITÀ, Viabilità",13
+47835,./downloads/47835.txt,./clean/47835.txt,it,3997.0,XVI,03/10/2024,INDUSTRIA,14
+47836,./downloads/47836.txt,./clean/47836.txt,it,3998.0,XVI,03/10/2024,"AMMINISTRAZIONE REGIONALE, Celebrazioni, ASSISTENZA SOCIALE, Disabili",15
+47837,./downloads/47837.txt,./clean/47837.txt,it,3999.0,XVI,03/10/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Presidio ospedaliero",16
+47838,./downloads/47838.txt,./clean/47838.txt,it,4000.0,XVI,03/10/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Personale medico e paramedico",17
+47839,./downloads/47839.txt,./clean/47839.txt,it,4001.0,XVI,03/10/2024,ISTRUZIONE PUBBLICA,18
+47840,./downloads/47840.txt,./clean/47840.txt,it,4002.0,XVI,03/10/2024,"BENI CULTURALI, Interventi vari",19
+47841,./downloads/47841.txt,./clean/47841.txt,it,4003.0,XVI,03/10/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Presidio ospedaliero, BENI CULTURALI, Musei, biblioteche, archivi storici e aree di interesse archeologico",20
+47842,./downloads/47842.txt,./clean/47842.txt,it,4004.0,XVI,03/10/2024,"ISTRUZIONE PUBBLICA, Personale docente e non docente",21
+47843,./downloads/47843.txt,./clean/47843.txt,it,4005.0,XVI,03/10/2024,"ISTRUZIONE PUBBLICA, Personale docente e non docente",22
+47844,./downloads/47844.txt,./clean/47844.txt,it,4006.0,XVI,03/10/2024,"ISTRUZIONE PUBBLICA, Personale docente e non docente",23
+47845,./downloads/47845.txt,./clean/47845.txt,it,4007.0,XVI,03/10/2024,"AMBIENTE, Flora e fauna, TRASPORTI E VIABILITÀ, Strade di interesse regionale",24
+47846,./downloads/47846.txt,./clean/47846.txt,it,4008.0,XVI,03/10/2024,"TRASPORTI E VIABILITÀ, Trasporti",25
+47847,./downloads/47847.txt,./clean/47847.txt,it,4009.0,XVI,03/10/2024,"SPORT E TEMPO LIBERO, Sport invernali",26
+47848,./downloads/47848.txt,./clean/47848.txt,it,4010.0,XVI,03/10/2024,"ASSETTO DEL TERRITORIO, Difesa ed uso del suolo - Sistemazione idrogeologica",27
+47849,./downloads/47849.txt,./clean/47849.txt,it,4011.0,XVI,03/10/2024,"EDILIZIA, Edilizia pubblica, ISTRUZIONE PUBBLICA, Università",28
+47850,./downloads/47850.txt,./clean/47850.txt,it,4012.0,XVI,03/10/2024,"EDILIZIA, Edilizia pubblica",29
+47851,./downloads/47851.txt,./clean/47851.txt,it,4013.0,XVI,03/10/2024,"ASSISTENZA SOCIALE, Famiglia, tutela dell'infanzia",30
+47852,./downloads/47852.txt,./clean/47852.txt,it,4014.0,XVI,03/10/2024,ASSISTENZA SANITARIA E OSPEDALIERA,31
+47853,./downloads/47853.txt,./clean/47853.txt,it,4015.0,XVI,03/10/2024,"ASSISTENZA SOCIALE, Disabili, Famiglia, tutela dell'infanzia",32
+47854,./downloads/47854.txt,./clean/47854.txt,it,4016.0,XVI,03/10/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Piano socio-sanitario regionale",33
+47855,./downloads/47855.txt,./clean/47855.txt,it,4017.0,XVI,03/10/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, ASSISTENZA SOCIALE, Famiglia, tutela dell'infanzia",34
+47856,./downloads/47856.txt,./clean/47856.txt,it,4018.0,XVI,03/10/2024,"COMMERCIO, Disciplina, attività, professioni",35
+47857,./downloads/47857.txt,./clean/47857.txt,it,4019.0,XVI,03/10/2024,"TURISMO E INDUSTRIA ALBERGHIERA, Professioni turistiche",36
+47858,./downloads/47858.txt,./clean/47858.txt,it,4020.0,XVI,03/10/2024,"TURISMO E INDUSTRIA ALBERGHIERA, Ricettività turistica",37
+47859,./downloads/47859.txt,./clean/47859.txt,it,4021.0,XVI,03/10/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",38
+47207,./downloads/47207.txt,./clean/47207.txt,it,3501.0,XVI,04/04/2024,"ASSISTENZA SOCIALE, Disabili",1
+47208,./downloads/47208.txt,./clean/47208.txt,it,3502.0,XVI,04/04/2024,TURISMO E INDUSTRIA ALBERGHIERA,2
+47209,./downloads/47209.txt,./clean/47209.txt,it,3503.0,XVI,04/04/2024,"SPORT E TEMPO LIBERO, Infrastrutture ricreativo-sportive",3
+47210,./downloads/47210.txt,./clean/47210.txt,it,3504.0,XVI,04/04/2024,"EDILIZIA, Edilizia residenziale, ENERGIA, Risparmio energetico e fonti alternative, UNIONE EUROPEA E RAPPORTI INTERNAZIONALI",4
+47211,./downloads/47211.txt,./clean/47211.txt,it,3505.0,XVI,04/04/2024,"ENERGIA, Energia idroelettrica, NORME DI ATTUAZIONE",5
+47212,./downloads/47212.txt,./clean/47212.txt,it,3506.0,XVI,04/04/2024,"ENERGIA, Energia idroelettrica, NORME DI ATTUAZIONE",6
+47213,./downloads/47213.txt,./clean/47213.txt,it,3507.0,XVI,04/04/2024,"EDILIZIA, Edilizia pubblica, FINANZA REGIONALE E LOCALE",7
+47214,./downloads/47214.txt,./clean/47214.txt,fr,3508.0,XVI,04/04/2024,"ATTIVITÀ CULTURALI, MINORANZE ETNICHE E MOVIMENTI MIGRATORI, Minoranze etniche",8
+47215,./downloads/47215.txt,./clean/47215.txt,it,3509.0,XVI,04/04/2024,"ORDINE PUBBLICO - FORZE ARMATE, TRASPORTI E VIABILITÀ, Trasporti",9
+47216,./downloads/47216.txt,./clean/47216.txt,it,3510.0,XVI,04/04/2024,"TRASPORTI E VIABILITÀ, Trasporti",10
+47217,./downloads/47217.txt,./clean/47217.txt,it,3511.0,XVI,04/04/2024,"EDILIZIA, Edilizia residenziale",11
+47218,./downloads/47218.txt,./clean/47218.txt,it,3512.0,XVI,04/04/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",12
+47219,./downloads/47219.txt,./clean/47219.txt,it,3513.0,XVI,04/04/2024,ASSISTENZA SANITARIA E OSPEDALIERA,13
+47220,./downloads/47220.txt,./clean/47220.txt,it,3514.0,XVI,04/04/2024,"SPORT E TEMPO LIBERO, Manifestazioni sportive",14
+47401,./downloads/47401.txt,./clean/47401.txt,it,3673.0,XVI,05/06/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",1
+47402,./downloads/47402.txt,./clean/47402.txt,it,3674.0,XVI,05/06/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",2
+47403,./downloads/47403.txt,./clean/47403.txt,it,3675.0,XVI,05/06/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",3
+47404,./downloads/47404.txt,./clean/47404.txt,it,3676.0,XVI,05/06/2024,BILANCIO E CONTABILITA' REGIONALE,4
+47405,./downloads/47405.txt,./clean/47405.txt,it,3677.0,XVI,05/06/2024,BILANCIO E CONTABILITA' REGIONALE,5
+47406,./downloads/47406.txt,./clean/47406.txt,it,3678.0,XVI,05/06/2024,BILANCIO E CONTABILITA' REGIONALE,6
+47881,./downloads/47881.txt,./clean/47881.txt,it,4033.0,XVI,05/11/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",1
+47882,./downloads/47882.txt,./clean/47882.txt,it,4034.0,XVI,05/11/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",2
+47883,./downloads/47883.txt,./clean/47883.txt,it,4035.0,XVI,05/11/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",3
+47884,./downloads/47884.txt,./clean/47884.txt,it,4036.0,XVI,05/11/2024,"CONSIGLIO REGIONALE, Costituzione e funzionamento degli organi consiliari",4
+47885,./downloads/47885.txt,./clean/47885.txt,it,4037.0,XVI,05/11/2024,FINANZA REGIONALE E LOCALE,5
+47886,./downloads/47886.txt,./clean/47886.txt,it,4038.0,XVI,05/11/2024,BILANCIO E CONTABILITA' REGIONALE,6
+47887,./downloads/47887.txt,./clean/47887.txt,it,4039.0,XVI,05/11/2024,BILANCIO E CONTABILITA' REGIONALE,7
+47888,./downloads/47888.txt,./clean/47888.txt,it,4040.0,XVI,05/11/2024,"ISTRUZIONE PUBBLICA, Istituzioni scolastiche",8
+47889,./downloads/47889.txt,./clean/47889.txt,it,4041.0,XVI,05/11/2024,"ISTRUZIONE PUBBLICA, Istituzioni scolastiche",9
+47890,./downloads/47890.txt,./clean/47890.txt,it,4042.0,XVI,05/11/2024,COOPERAZIONE,10
+47891,./downloads/47891.txt,./clean/47891.txt,it,4043.0,XVI,05/11/2024,"TURISMO E INDUSTRIA ALBERGHIERA, Contributi, incentivi",11
+47892,./downloads/47892.txt,./clean/47892.txt,it,4044.0,XVI,05/11/2024,"SPORT E TEMPO LIBERO, Enti e Società sportive",12
+47893,./downloads/47893.txt,./clean/47893.txt,it,4045.0,XVI,05/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Igiene e sanità pubblica",13
+47894,./downloads/47894.txt,./clean/47894.txt,it,4046.0,XVI,05/11/2024,"PROTEZIONE CIVILE, VIGILI DEL FUOCO E INTERVENTI PER CALAMITÀ NATURALI, Vigili del fuoco - Difesa antincendi",14
+47895,./downloads/47895.txt,./clean/47895.txt,it,4047.0,XVI,05/11/2024,"CONSIGLIO REGIONALE, Organizzazione degli uffici",15
+47896,./downloads/47896.txt,./clean/47896.txt,it,4048.0,XVI,05/11/2024,"ENERGIA, FINANZA REGIONALE E LOCALE",16
+47897,./downloads/47897.txt,./clean/47897.txt,it,4049.0,XVI,05/11/2024,(Nessuna classificazione presente),17
+47021,./downloads/47021.txt,./clean/47021.txt,it,3352.0,XVI,06/03/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",1
+47022,./downloads/47022.txt,./clean/47022.txt,it,3353.0,XVI,06/03/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",2
+47023,./downloads/47023.txt,./clean/47023.txt,it,3354.0,XVI,06/03/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",3
+47024,./downloads/47024.txt,./clean/47024.txt,it,3355.0,XVI,06/03/2024,CONSULTE COMMISSIONI E ORGANI COLLEGIALI,4
+47025,./downloads/47025.txt,./clean/47025.txt,it,3356.0,XVI,06/03/2024,BILANCIO E CONTABILITA' REGIONALE,5
+47026,./downloads/47026.txt,./clean/47026.txt,it,3357.0,XVI,06/03/2024,"AMBIENTE, ENERGIA",6
+47027,./downloads/47027.txt,./clean/47027.txt,it,3358.0,XVI,06/03/2024,"AMBIENTE, ENERGIA",7
+47028,./downloads/47028.txt,./clean/47028.txt,it,3359.0,XVI,06/03/2024,"AMBIENTE, ENERGIA",8
+47407,./downloads/47407.txt,./clean/47407.txt,it,3679.0,XVI,06/06/2024,BILANCIO E CONTABILITA' REGIONALE,1
+47408,./downloads/47408.txt,./clean/47408.txt,it,3680.0,XVI,06/06/2024,BILANCIO E CONTABILITA' REGIONALE,2
+47409,./downloads/47409.txt,./clean/47409.txt,it,3681.0,XVI,06/06/2024,"AMMINISTRAZIONE REGIONALE, Amministrazione della giustizia",3
+47410,./downloads/47410.txt,./clean/47410.txt,it,3682.0,XVI,06/06/2024,BILANCIO E CONTABILITA' REGIONALE,4
+47411,./downloads/47411.txt,./clean/47411.txt,it,3683.0,XVI,06/06/2024,BILANCIO E CONTABILITA' REGIONALE,5
+47412,./downloads/47412.txt,./clean/47412.txt,it,3684.0,XVI,06/06/2024,BILANCIO E CONTABILITA' REGIONALE,6
+47413,./downloads/47413.txt,./clean/47413.txt,it,3685.0,XVI,06/06/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",7
+47414,./downloads/47414.txt,./clean/47414.txt,it,3686.0,XVI,06/06/2024,"CONSIGLIO REGIONALE, Anagrafe patrimoniale - Indennità e previdenza",8
+47415,./downloads/47415.txt,./clean/47415.txt,it,3687.0,XVI,06/06/2024,"ENERGIA, Risparmio energetico e fonti alternative",9
+47416,./downloads/47416.txt,./clean/47416.txt,it,3688.0,XVI,06/06/2024,"SPORT E TEMPO LIBERO, Infrastrutture ricreativo-sportive",10
+47417,./downloads/47417.txt,./clean/47417.txt,it,3689.0,XVI,06/06/2024,"TRASPORTI E VIABILITÀ, Viabilità",11
+47418,./downloads/47418.txt,./clean/47418.txt,it,3690.0,XVI,06/06/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Presidio ospedaliero, EDILIZIA, Edilizia pubblica",12
+47419,./downloads/47419.txt,./clean/47419.txt,it,3691.0,XVI,06/06/2024,"ASSISTENZA SOCIALE, Assistenza socio-sanitaria",13
+47420,./downloads/47420.txt,./clean/47420.txt,it,3692.0,XVI,06/06/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Farmacie",14
+47421,./downloads/47421.txt,./clean/47421.txt,it,3693.0,XVI,06/06/2024,ASSISTENZA SANITARIA E OSPEDALIERA,15
+47422,./downloads/47422.txt,./clean/47422.txt,it,3694.0,XVI,06/06/2024,"AMMINISTRAZIONE REGIONALE, Ordinamento degli uffici e del personale, PROTEZIONE CIVILE, VIGILI DEL FUOCO E INTERVENTI PER CALAMITÀ NATURALI, Vigili del fuoco - Difesa antincendi",16
+47423,./downloads/47423.txt,./clean/47423.txt,it,3695.0,XVI,06/06/2024,"ISTRUZIONE PUBBLICA, MINORANZE ETNICHE E MOVIMENTI MIGRATORI, Movimenti migratori",17
+47424,./downloads/47424.txt,./clean/47424.txt,it,3696.0,XVI,06/06/2024,"AGRICOLTURA, Fabbricati rurali",18
+47425,./downloads/47425.txt,./clean/47425.txt,it,3697.0,XVI,06/06/2024,"AGRICOLTURA, Bonifica, miglioramenti e riordino fondiario, SPORT E TEMPO LIBERO",19
+47426,./downloads/47426.txt,./clean/47426.txt,it,3698.0,XVI,06/06/2024,"ORDINE PUBBLICO - FORZE ARMATE, Pubblica sicurezza, TRASPORTI E VIABILITÀ, Trasporti",20
+47427,./downloads/47427.txt,./clean/47427.txt,it,3699.0,XVI,06/06/2024,"AMBIENTE, TRASPORTI E VIABILITÀ, Trasporti",21
+47428,./downloads/47428.txt,./clean/47428.txt,it,3700.0,XVI,06/06/2024,"SPORT E TEMPO LIBERO, Infrastrutture ricreativo-sportive",22
+47429,./downloads/47429.txt,./clean/47429.txt,it,3701.0,XVI,06/06/2024,AMBIENTE,23
+47430,./downloads/47430.txt,./clean/47430.txt,it,3702.0,XVI,06/06/2024,COMMERCIO,24
+47431,./downloads/47431.txt,./clean/47431.txt,it,3703.0,XVI,06/06/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",25
+47432,./downloads/47432.txt,./clean/47432.txt,it,3704.0,XVI,06/06/2024,"AMMINISTRAZIONE REGIONALE, Ordinamento degli uffici e del personale",26
+47433,./downloads/47433.txt,./clean/47433.txt,it,3705.0,XVI,06/06/2024,"PROTEZIONE CIVILE, VIGILI DEL FUOCO E INTERVENTI PER CALAMITÀ NATURALI, Vigili del fuoco - Difesa antincendi, TRASPORTI E VIABILITÀ, Aeroporti",27
+47434,./downloads/47434.txt,./clean/47434.txt,it,3706.0,XVI,06/06/2024,"ISTRUZIONE PUBBLICA, SPORT E TEMPO LIBERO",28
+47435,./downloads/47435.txt,./clean/47435.txt,it,3707.0,XVI,06/06/2024,ISTRUZIONE PUBBLICA,29
+47436,./downloads/47436.txt,./clean/47436.txt,it,3708.0,XVI,06/06/2024,"ASSISTENZA SOCIALE, Politiche giovanili",30
+47437,./downloads/47437.txt,./clean/47437.txt,it,3709.0,XVI,06/06/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",31
+47898,./downloads/47898.txt,./clean/47898.txt,it,4050.0,XVI,06/11/2024,"TRASPORTI E VIABILITÀ, Trasporti",1
+47899,./downloads/47899.txt,./clean/47899.txt,it,4051.0,XVI,06/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Azienda Regionale Sanitaria - U.S.L.",2
+47900,./downloads/47900.txt,./clean/47900.txt,it,4052.0,XVI,06/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Presidio ospedaliero, EDILIZIA, Edilizia pubblica",3
+47901,./downloads/47901.txt,./clean/47901.txt,it,4053.0,XVI,06/11/2024,ASSISTENZA SANITARIA E OSPEDALIERA,4
+47902,./downloads/47902.txt,./clean/47902.txt,it,4054.0,XVI,06/11/2024,"SANITÀ VETERINARIA E ZOOTECNIA, Sanità veterinaria",5
+47903,./downloads/47903.txt,./clean/47903.txt,it,4055.0,XVI,06/11/2024,"EDILIZIA, Edilizia residenziale",6
+47904,./downloads/47904.txt,./clean/47904.txt,it,4056.0,XVI,06/11/2024,SANITÀ VETERINARIA E ZOOTECNIA,7
+47905,./downloads/47905.txt,./clean/47905.txt,it,4057.0,XVI,06/11/2024,"EDILIZIA, Edilizia pubblica, ISTRUZIONE PUBBLICA, Università",8
+47906,./downloads/47906.txt,./clean/47906.txt,it,4058.0,XVI,06/11/2024,"AMBIENTE, Inquinamento",9
+47907,./downloads/47907.txt,./clean/47907.txt,it,4059.0,XVI,06/11/2024,"ORDINE PUBBLICO - FORZE ARMATE, Pubblica sicurezza",10
+47908,./downloads/47908.txt,./clean/47908.txt,it,4060.0,XVI,06/11/2024,"TRASPORTI E VIABILITÀ, Autostrade e trafori alpini",11
+47909,./downloads/47909.txt,./clean/47909.txt,it,4061.0,XVI,06/11/2024,ASSISTENZA SANITARIA E OSPEDALIERA,12
+47910,./downloads/47910.txt,./clean/47910.txt,it,4062.0,XVI,06/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Azienda Regionale Sanitaria - U.S.L.",13
+47911,./downloads/47911.txt,./clean/47911.txt,it,4063.0,XVI,06/11/2024,"OPERE PUBBLICHE, ORDINE PUBBLICO - FORZE ARMATE, Pubblica sicurezza",14
+47912,./downloads/47912.txt,./clean/47912.txt,it,4064.0,XVI,06/11/2024,"EDILIZIA, Centri storici",15
+47913,./downloads/47913.txt,./clean/47913.txt,it,4065.0,XVI,06/11/2024,DEMANIO E PATRIMONIO REGIONALE,16
+47914,./downloads/47914.txt,./clean/47914.txt,fr,4066.0,XVI,06/11/2024,DEMANIO E PATRIMONIO REGIONALE,17
+47915,./downloads/47915.txt,./clean/47915.txt,fr,4067.0,XVI,06/11/2024,"CONSIGLIO REGIONALE, ORDINE PUBBLICO - FORZE ARMATE",18
+47916,./downloads/47916.txt,./clean/47916.txt,it,4068.0,XVI,06/11/2024,"TRASPORTI E VIABILITÀ, Autostrade e trafori alpini",19
+47917,./downloads/47917.txt,./clean/47917.txt,it,4069.0,XVI,06/11/2024,"AMMINISTRAZIONE REGIONALE, BILANCIO E CONTABILITA' REGIONALE",20
+47918,./downloads/47918.txt,./clean/47918.txt,it,4070.0,XVI,06/11/2024,CASA DA GIOCO,21
+47919,./downloads/47919.txt,./clean/47919.txt,it,4071.0,XVI,06/11/2024,"ACQUE, NORME DI ATTUAZIONE",22
+47920,./downloads/47920.txt,./clean/47920.txt,it,4072.0,XVI,06/11/2024,"TRASPORTI E VIABILITÀ, Autostrade e trafori alpini",23
+47921,./downloads/47921.txt,./clean/47921.txt,it,4073.0,XVI,06/11/2024,"PROTEZIONE CIVILE, VIGILI DEL FUOCO E INTERVENTI PER CALAMITÀ NATURALI, Calamità naturali",24
+47922,./downloads/47922.txt,./clean/47922.txt,it,4074.0,XVI,06/11/2024,"FORESTE E TERRITORI MONTANI, ISTRUZIONE PUBBLICA",25
+47923,./downloads/47923.txt,./clean/47923.txt,it,4075.0,XVI,06/11/2024,"ENERGIA, Risparmio energetico e fonti alternative",26
+47924,./downloads/47924.txt,./clean/47924.txt,it,4076.0,XVI,06/11/2024,"TRASPORTI E VIABILITÀ, Trasporti",27
+47925,./downloads/47925.txt,./clean/47925.txt,it,4077.0,XVI,06/11/2024,"TRASPORTI E VIABILITÀ, Trasporti",28
+47926,./downloads/47926.txt,./clean/47926.txt,it,4078.0,XVI,06/11/2024,"TRASPORTI E VIABILITÀ, Impianti a fune",29
+47927,./downloads/47927.txt,./clean/47927.txt,it,4079.0,XVI,06/11/2024,"INDUSTRIA, LAVORO",30
+47928,./downloads/47928.txt,./clean/47928.txt,it,4080.0,XVI,06/11/2024,"SPORT E TEMPO LIBERO, Infrastrutture ricreativo-sportive",31
+47929,./downloads/47929.txt,./clean/47929.txt,it,4081.0,XVI,06/11/2024,"EDILIZIA, Edilizia residenziale",32
+47930,./downloads/47930.txt,./clean/47930.txt,it,4082.0,XVI,06/11/2024,"TRASPORTI E VIABILITÀ, Viabilità",33
+47931,./downloads/47931.txt,./clean/47931.txt,it,4083.0,XVI,06/11/2024,"TRASPORTI E VIABILITÀ, Viabilità",34
+47932,./downloads/47932.txt,./clean/47932.txt,it,4084.0,XVI,06/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Piano socio-sanitario regionale",35
+47933,./downloads/47933.txt,./clean/47933.txt,it,4085.0,XVI,06/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Personale medico e paramedico",36
+47934,./downloads/47934.txt,./clean/47934.txt,it,4086.0,XVI,06/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Presidio ospedaliero",37
+47935,./downloads/47935.txt,./clean/47935.txt,it,4087.0,XVI,06/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Azienda Regionale Sanitaria - U.S.L.",38
+47936,./downloads/47936.txt,./clean/47936.txt,it,4088.0,XVI,06/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Azienda Regionale Sanitaria - U.S.L., ASSISTENZA SOCIALE, Disabili",39
+47029,./downloads/47029.txt,./clean/47029.txt,it,3360.0,XVI,07/03/2024,"AMBIENTE, ENERGIA",1
+47030,./downloads/47030.txt,./clean/47030.txt,it,3361.0,XVI,07/03/2024,"CONSULTE COMMISSIONI E ORGANI COLLEGIALI, GIUNTA REGIONALE",2
+47031,./downloads/47031.txt,./clean/47031.txt,it,3362.0,XVI,07/03/2024,ASSISTENZA SOCIALE,3
+47032,./downloads/47032.txt,./clean/47032.txt,it,3363.0,XVI,07/03/2024,ASSISTENZA SANITARIA E OSPEDALIERA,4
+47033,./downloads/47033.txt,./clean/47033.txt,it,3364.0,XVI,07/03/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Presidio ospedaliero, Servizio di emergenza sanitaria (118)",5
+47034,./downloads/47034.txt,./clean/47034.txt,it,3365.0,XVI,07/03/2024,"ASSISTENZA SOCIALE, Disabili, TRASPORTI E VIABILITÀ",6
+47035,./downloads/47035.txt,./clean/47035.txt,it,3366.0,XVI,07/03/2024,FINANZA REGIONALE E LOCALE,7
+47036,./downloads/47036.txt,./clean/47036.txt,it,3367.0,XVI,07/03/2024,"AMMINISTRAZIONE REGIONALE, Ordinamento degli uffici e del personale, LAVORO, Infortunistica - Previdenza - Tutela della salute",8
+47037,./downloads/47037.txt,./clean/47037.txt,it,3368.0,XVI,07/03/2024,"ISTRUZIONE PUBBLICA, Università",9
+47038,./downloads/47038.txt,./clean/47038.txt,it,3369.0,XVI,07/03/2024,COMMERCIO,10
+47039,./downloads/47039.txt,./clean/47039.txt,it,3370.0,XVI,07/03/2024,LAVORO,11
+47040,./downloads/47040.txt,./clean/47040.txt,it,3371.0,XVI,07/03/2024,"TRASPORTI E VIABILITÀ, Impianti a fune",12
+47041,./downloads/47041.txt,./clean/47041.txt,it,3372.0,XVI,07/03/2024,"BENI CULTURALI, Interventi vari, ENERGIA",13
+47042,./downloads/47042.txt,./clean/47042.txt,it,3373.0,XVI,07/03/2024,"TRASPORTI E VIABILITÀ, Trasporti, Strade di interesse regionale",14
+47043,./downloads/47043.txt,./clean/47043.txt,it,3374.0,XVI,07/03/2024,"ENERGIA, Risparmio energetico e fonti alternative",15
+47044,./downloads/47044.txt,./clean/47044.txt,it,3375.0,XVI,07/03/2024,ENERGIA,16
+47045,./downloads/47045.txt,./clean/47045.txt,it,3376.0,XVI,07/03/2024,"EDILIZIA, ISTRUZIONE PUBBLICA, OPERE PUBBLICHE",17
+47046,./downloads/47046.txt,./clean/47046.txt,it,3377.0,XVI,07/03/2024,"FINANZA REGIONALE E LOCALE, Partecipazioni azionarie regionali",18
+47047,./downloads/47047.txt,./clean/47047.txt,it,3378.0,XVI,07/03/2024,"AGRICOLTURA, FINANZA REGIONALE E LOCALE, Partecipazioni azionarie regionali",19
+47048,./downloads/47048.txt,./clean/47048.txt,it,3379.0,XVI,07/03/2024,"ENTI LOCALI, OPERE PUBBLICHE",20
+47049,./downloads/47049.txt,./clean/47049.txt,it,3380.0,XVI,07/03/2024,EDILIZIA,21
+47050,./downloads/47050.txt,./clean/47050.txt,it,3381.0,XVI,07/03/2024,"EDILIZIA, Edilizia residenziale",22
+47051,./downloads/47051.txt,./clean/47051.txt,it,3382.0,XVI,07/03/2024,"TRASPORTI E VIABILITÀ, Viabilità",23
+47052,./downloads/47052.txt,./clean/47052.txt,it,3383.0,XVI,07/03/2024,"DEMANIO E PATRIMONIO REGIONALE, EDILIZIA, Centri storici, ISTRUZIONE PUBBLICA",24
+47053,./downloads/47053.txt,./clean/47053.txt,it,3384.0,XVI,07/03/2024,"BENI CULTURALI, Musei, biblioteche, archivi storici e aree di interesse archeologico",25
+47054,./downloads/47054.txt,./clean/47054.txt,it,3385.0,XVI,07/03/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, BENI CULTURALI, Musei, biblioteche, archivi storici e aree di interesse archeologico",26
+47055,./downloads/47055.txt,./clean/47055.txt,it,3386.0,XVI,07/03/2024,"FINANZA REGIONALE E LOCALE, Partecipazioni azionarie regionali, ISTRUZIONE PUBBLICA, Personale docente e non docente",27
+47056,./downloads/47056.txt,./clean/47056.txt,it,3387.0,XVI,07/03/2024,CACCIA E PESCA,28
+47057,./downloads/47057.txt,./clean/47057.txt,it,3388.0,XVI,07/03/2024,"ENERGIA, FORESTE E TERRITORI MONTANI, Corpo forestale valdostano e relative strutture",29
+47058,./downloads/47058.txt,./clean/47058.txt,it,3389.0,XVI,07/03/2024,"TRASPORTI E VIABILITÀ, Impianti a fune",30
+47059,./downloads/47059.txt,./clean/47059.txt,it,3390.0,XVI,07/03/2024,"EDILIZIA, Edilizia pubblica, ENTI LOCALI",31
+47060,./downloads/47060.txt,./clean/47060.txt,it,3391.0,XVI,07/03/2024,INFORMAZIONE,32
+47061,./downloads/47061.txt,./clean/47061.txt,it,3392.0,XVI,07/03/2024,"EDILIZIA, Edilizia pubblica",33
+47062,./downloads/47062.txt,./clean/47062.txt,it,3393.0,XVI,07/03/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Personale medico e paramedico",34
+47063,./downloads/47063.txt,./clean/47063.txt,it,3394.0,XVI,07/03/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, ASSISTENZA SOCIALE",35
+47064,./downloads/47064.txt,./clean/47064.txt,it,3395.0,XVI,07/03/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, ASSISTENZA SOCIALE",36
+47065,./downloads/47065.txt,./clean/47065.txt,it,3396.0,XVI,07/03/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, ASSISTENZA SOCIALE",37
+47066,./downloads/47066.txt,./clean/47066.txt,it,3397.0,XVI,07/03/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, ASSISTENZA SOCIALE",38
+47067,./downloads/47067.txt,./clean/47067.txt,it,3398.0,XVI,07/03/2024,"AGRICOLTURA, COMMERCIO",39
+47068,./downloads/47068.txt,./clean/47068.txt,it,3399.0,XVI,07/03/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",40
+47937,./downloads/47937.txt,./clean/47937.txt,it,4089.0,XVI,07/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Personale medico e paramedico, ORDINE PUBBLICO - FORZE ARMATE, Pubblica sicurezza",1
+47938,./downloads/47938.txt,./clean/47938.txt,it,4090.0,XVI,07/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Personale medico e paramedico, ASSISTENZA SOCIALE, Assistenza socio-sanitaria",2
+47939,./downloads/47939.txt,./clean/47939.txt,it,4091.0,XVI,07/11/2024,"ASSISTENZA SOCIALE, Famiglia, tutela dell'infanzia",3
+47940,./downloads/47940.txt,./clean/47940.txt,it,4092.0,XVI,07/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Personale medico e paramedico",4
+47941,./downloads/47941.txt,./clean/47941.txt,it,4093.0,XVI,07/11/2024,ASSISTENZA SOCIALE,5
+47942,./downloads/47942.txt,./clean/47942.txt,it,4094.0,XVI,07/11/2024,CASA DA GIOCO,6
+47943,./downloads/47943.txt,./clean/47943.txt,it,4095.0,XVI,07/11/2024,"FINANZA REGIONALE E LOCALE, Finaosta",7
+47944,./downloads/47944.txt,./clean/47944.txt,it,4096.0,XVI,07/11/2024,"AMMINISTRAZIONE REGIONALE, Ordinamento degli uffici e del personale",8
+47945,./downloads/47945.txt,./clean/47945.txt,it,4097.0,XVI,07/11/2024,"PROTEZIONE CIVILE, VIGILI DEL FUOCO E INTERVENTI PER CALAMITÀ NATURALI, Vigili del fuoco - Difesa antincendi",9
+47946,./downloads/47946.txt,./clean/47946.txt,it,4098.0,XVI,07/11/2024,"FINANZA REGIONALE E LOCALE, Partecipazioni azionarie regionali",10
+47947,./downloads/47947.txt,./clean/47947.txt,it,4099.0,XVI,07/11/2024,"ISTRUZIONE PUBBLICA, Università",11
+47948,./downloads/47948.txt,./clean/47948.txt,it,4100.0,XVI,07/11/2024,"ISTRUZIONE PUBBLICA, Personale docente e non docente",12
+47949,./downloads/47949.txt,./clean/47949.txt,it,4101.0,XVI,07/11/2024,TURISMO E INDUSTRIA ALBERGHIERA,13
+47950,./downloads/47950.txt,./clean/47950.txt,it,4102.0,XVI,07/11/2024,"TRASPORTI E VIABILITÀ, Impianti a fune",14
+47951,./downloads/47951.txt,./clean/47951.txt,it,4103.0,XVI,07/11/2024,"AMBIENTE, TRASPORTI E VIABILITÀ, Trasporti",15
+47952,./downloads/47952.txt,./clean/47952.txt,it,4104.0,XVI,07/11/2024,"TRASPORTI E VIABILITÀ, Trasporti, Aeroporti",16
+47953,./downloads/47953.txt,./clean/47953.txt,it,4105.0,XVI,07/11/2024,"TRASPORTI E VIABILITÀ, Viabilità",17
+47954,./downloads/47954.txt,./clean/47954.txt,it,4106.0,XVI,07/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Igiene e sanità pubblica",18
+47955,./downloads/47955.txt,./clean/47955.txt,it,4107.0,XVI,07/11/2024,"ASSISTENZA SOCIALE, Assistenza socio-sanitaria",19
+47956,./downloads/47956.txt,./clean/47956.txt,it,4108.0,XVI,07/11/2024,"ASSISTENZA SOCIALE, Famiglia, tutela dell'infanzia",20
+47957,./downloads/47957.txt,./clean/47957.txt,it,4109.0,XVI,07/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Azienda Regionale Sanitaria - U.S.L., Personale medico e paramedico",21
+47958,./downloads/47958.txt,./clean/47958.txt,it,4110.0,XVI,07/11/2024,"ASSISTENZA SOCIALE, Disabili, Associazionismo - volontariato",22
+47959,./downloads/47959.txt,./clean/47959.txt,it,4111.0,XVI,07/11/2024,"ASSISTENZA SOCIALE, Famiglia, tutela dell'infanzia",23
+47960,./downloads/47960.txt,./clean/47960.txt,it,4112.0,XVI,07/11/2024,ASSISTENZA SANITARIA E OSPEDALIERA,24
+47961,./downloads/47961.txt,./clean/47961.txt,it,4113.0,XVI,07/11/2024,"ASSISTENZA SOCIALE, Famiglia, tutela dell'infanzia, EDILIZIA, Edilizia residenziale",25
+47962,./downloads/47962.txt,./clean/47962.txt,it,4114.0,XVI,07/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Azienda Regionale Sanitaria - U.S.L., Personale medico e paramedico",26
+47963,./downloads/47963.txt,./clean/47963.txt,it,4115.0,XVI,07/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Piano socio-sanitario regionale",27
+47964,./downloads/47964.txt,./clean/47964.txt,it,4116.0,XVI,07/11/2024,"ASSISTENZA SOCIALE, Famiglia, tutela dell'infanzia",28
+47965,./downloads/47965.txt,./clean/47965.txt,it,4117.0,XVI,07/11/2024,"ASSISTENZA SOCIALE, Assistenza socio-sanitaria",29
+47966,./downloads/47966.txt,./clean/47966.txt,it,4118.0,XVI,07/11/2024,"AGRICOLTURA, Agriturismo, TURISMO E INDUSTRIA ALBERGHIERA, Ricettività turistica",30
+47967,./downloads/47967.txt,./clean/47967.txt,it,4119.0,XVI,07/11/2024,"SPORT E TEMPO LIBERO, Manifestazioni sportive",31
+47968,./downloads/47968.txt,./clean/47968.txt,it,4120.0,XVI,07/11/2024,"COMMERCIO, Disciplina, attività, professioni",32
+47969,./downloads/47969.txt,./clean/47969.txt,it,4121.0,XVI,07/11/2024,"COMMERCIO, Disciplina, attività, professioni",33
+47970,./downloads/47970.txt,./clean/47970.txt,it,4122.0,XVI,07/11/2024,"ORDINE PUBBLICO - FORZE ARMATE, Pubblica sicurezza, STATUTO",34
+47971,./downloads/47971.txt,./clean/47971.txt,it,4123.0,XVI,07/11/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",35
+47281,./downloads/47281.txt,./clean/47281.txt,it,3568.0,XVI,08/05/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",1
+47282,./downloads/47282.txt,./clean/47282.txt,it,3569.0,XVI,08/05/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",2
+47283,./downloads/47283.txt,./clean/47283.txt,it,3570.0,XVI,08/05/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",3
+47284,./downloads/47284.txt,./clean/47284.txt,it,3571.0,XVI,08/05/2024,"CONSIGLIO REGIONALE, Costituzione e funzionamento degli organi consiliari",4
+47285,./downloads/47285.txt,./clean/47285.txt,it,3572.0,XVI,08/05/2024,"CONSIGLIO REGIONALE, Costituzione e funzionamento degli organi consiliari",5
+47286,./downloads/47286.txt,./clean/47286.txt,it,3573.0,XVI,08/05/2024,"BILANCIO E CONTABILITA' REGIONALE, OPERE PUBBLICHE",6
+47287,./downloads/47287.txt,./clean/47287.txt,it,3574.0,XVI,08/05/2024,"DEMANIO E PATRIMONIO REGIONALE, FINANZA REGIONALE E LOCALE, Partecipazioni azionarie regionali",7
+47288,./downloads/47288.txt,./clean/47288.txt,fr,3575.0,XVI,08/05/2024,"ENERGIA, Energia idroelettrica, NORME DI ATTUAZIONE",8
+47289,./downloads/47289.txt,./clean/47289.txt,it,3576.0,XVI,08/05/2024,"AMMINISTRAZIONE REGIONALE, Amministrazione della giustizia, ASSISTENZA SOCIALE, Famiglia, tutela dell'infanzia",9
+47290,./downloads/47290.txt,./clean/47290.txt,it,3577.0,XVI,08/05/2024,"ASSISTENZA SOCIALE, Assistenza socio-sanitaria",10
+47291,./downloads/47291.txt,./clean/47291.txt,it,3578.0,XVI,08/05/2024,"LAVORO, Politica del lavoro",11
+47292,./downloads/47292.txt,./clean/47292.txt,it,3579.0,XVI,08/05/2024,CASA DA GIOCO,12
+47293,./downloads/47293.txt,./clean/47293.txt,it,3580.0,XVI,08/05/2024,"ENERGIA, Energia idroelettrica",13
+47294,./downloads/47294.txt,./clean/47294.txt,it,3581.0,XVI,08/05/2024,ELEZIONI,14
+47295,./downloads/47295.txt,./clean/47295.txt,it,3582.0,XVI,08/05/2024,ASSISTENZA SOCIALE,15
+47296,./downloads/47296.txt,./clean/47296.txt,it,3583.0,XVI,08/05/2024,CACCIA E PESCA,16
+47297,./downloads/47297.txt,./clean/47297.txt,it,3584.0,XVI,08/05/2024,"TRASPORTI E VIABILITÀ, Strade di interesse regionale",17
+47298,./downloads/47298.txt,./clean/47298.txt,it,3585.0,XVI,08/05/2024,"FORMAZIONE PROFESSIONALE, LAVORO, Politica del lavoro",18
+47299,./downloads/47299.txt,./clean/47299.txt,it,3586.0,XVI,08/05/2024,"TRASPORTI E VIABILITÀ, Trasporti",19
+47300,./downloads/47300.txt,./clean/47300.txt,it,3587.0,XVI,08/05/2024,"EDILIZIA, Edilizia residenziale",20
+47301,./downloads/47301.txt,./clean/47301.txt,it,3588.0,XVI,08/05/2024,"ACQUE, Acque pubbliche",21
+47302,./downloads/47302.txt,./clean/47302.txt,it,3589.0,XVI,08/05/2024,"AMBIENTE, Stoccaggio e smaltimento rifiuti",22
+47303,./downloads/47303.txt,./clean/47303.txt,it,3590.0,XVI,08/05/2024,"AMBIENTE, SPORT E TEMPO LIBERO",23
+47304,./downloads/47304.txt,./clean/47304.txt,it,3591.0,XVI,08/05/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Presidio ospedaliero, OPERE PUBBLICHE",24
+47305,./downloads/47305.txt,./clean/47305.txt,it,3592.0,XVI,08/05/2024,"SPORT E TEMPO LIBERO, Manifestazioni sportive",25
+47306,./downloads/47306.txt,./clean/47306.txt,it,3593.0,XVI,08/05/2024,"ATTIVITÀ CULTURALI, BENI CULTURALI",26
+47307,./downloads/47307.txt,./clean/47307.txt,it,3594.0,XVI,08/05/2024,"AMMINISTRAZIONE REGIONALE, Ordinamento degli uffici e del personale, PROTEZIONE CIVILE, VIGILI DEL FUOCO E INTERVENTI PER CALAMITÀ NATURALI, Vigili del fuoco - Difesa antincendi, STATUTO",27
+47308,./downloads/47308.txt,./clean/47308.txt,it,3595.0,XVI,08/05/2024,"FINANZA REGIONALE E LOCALE, Partecipazioni azionarie regionali, TRASPORTI E VIABILITÀ, Autostrade e trafori alpini",28
+47309,./downloads/47309.txt,./clean/47309.txt,it,3596.0,XVI,08/05/2024,"SANITÀ VETERINARIA E ZOOTECNIA, Zootecnia",29
+47310,./downloads/47310.txt,./clean/47310.txt,it,3597.0,XVI,08/05/2024,"FORESTE E TERRITORI MONTANI, Tutela del patrimonio boschivo",30
+47311,./downloads/47311.txt,./clean/47311.txt,it,3598.0,XVI,08/05/2024,"ORDINE PUBBLICO - FORZE ARMATE, Pubblica sicurezza, TRASPORTI E VIABILITÀ, Trasporti",31
+47312,./downloads/47312.txt,./clean/47312.txt,it,3599.0,XVI,08/05/2024,"ENERGIA, Risparmio energetico e fonti alternative, TRASPORTI E VIABILITÀ, Trasporti",32
+47313,./downloads/47313.txt,./clean/47313.txt,it,3600.0,XVI,08/05/2024,"SPORT E TEMPO LIBERO, Infrastrutture ricreativo-sportive, Sport invernali",33
+47314,./downloads/47314.txt,./clean/47314.txt,it,3601.0,XVI,08/05/2024,"AMBIENTE, Stoccaggio e smaltimento rifiuti",34
+47315,./downloads/47315.txt,./clean/47315.txt,it,3602.0,XVI,08/05/2024,"ASSISTENZA SOCIALE, Assistenza socio-sanitaria",35
+47316,./downloads/47316.txt,./clean/47316.txt,it,3603.0,XVI,08/05/2024,"SANITÀ VETERINARIA E ZOOTECNIA, Sanità veterinaria",36
+47317,./downloads/47317.txt,./clean/47317.txt,it,3604.0,XVI,08/05/2024,"ASSISTENZA SOCIALE, Assistenza socio-sanitaria",37
+47318,./downloads/47318.txt,./clean/47318.txt,it,3605.0,XVI,08/05/2024,"ASSISTENZA SOCIALE, Assistenza socio-sanitaria",38
+47319,./downloads/47319.txt,./clean/47319.txt,it,3606.0,XVI,08/05/2024,"ASSISTENZA SOCIALE, Disabili",39
+47320,./downloads/47320.txt,./clean/47320.txt,it,3607.0,XVI,08/05/2024,"TURISMO E INDUSTRIA ALBERGHIERA, Ricettività turistica",40
+47321,./downloads/47321.txt,./clean/47321.txt,it,3608.0,XVI,08/05/2024,"ENERGIA, Energia idroelettrica, FINANZA REGIONALE E LOCALE, Partecipazioni azionarie regionali",41
+47322,./downloads/47322.txt,./clean/47322.txt,it,3609.0,XVI,08/05/2024,"INFORMAZIONE, Radiotelecomunicazioni",42
+47323,./downloads/47323.txt,./clean/47323.txt,it,3610.0,XVI,09/05/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",1
+47324,./downloads/47324.txt,./clean/47324.txt,it,3611.0,XVI,09/05/2024,"AMBIENTE, Flora e fauna, CACCIA E PESCA",2
+47325,./downloads/47325.txt,./clean/47325.txt,it,3612.0,XVI,09/05/2024,"ENERGIA, Energia idroelettrica",3
+47326,./downloads/47326.txt,./clean/47326.txt,it,3613.0,XVI,09/05/2024,"INFORMAZIONE, TURISMO E INDUSTRIA ALBERGHIERA",4
+47327,./downloads/47327.txt,./clean/47327.txt,it,3614.0,XVI,09/05/2024,"TURISMO E INDUSTRIA ALBERGHIERA, Ricettività turistica",5
+47328,./downloads/47328.txt,./clean/47328.txt,it,3615.0,XVI,09/05/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",6
+48041,./downloads/48041.txt,./clean/48041.txt,it,4182.0,XVI,09/12/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",1
+48042,./downloads/48042.txt,./clean/48042.txt,it,4183.0,XVI,09/12/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",2
+48043,./downloads/48043.txt,./clean/48043.txt,it,4184.0,XVI,09/12/2024,"BILANCIO E CONTABILITA' REGIONALE, OPERE PUBBLICHE",3
+48044,./downloads/48044.txt,./clean/48044.txt,it,4185.0,XVI,09/12/2024,"FINANZA REGIONALE E LOCALE, Partecipazioni azionarie regionali",4
+48045,./downloads/48045.txt,./clean/48045.txt,it,4186.0,XVI,09/12/2024,"EDILIZIA, Edilizia residenziale",5
+48046,./downloads/48046.txt,./clean/48046.txt,it,4187.0,XVI,09/12/2024,"ASSISTENZA SOCIALE, Disabili, TRASPORTI E VIABILITÀ, Trasporti",6
+48047,./downloads/48047.txt,./clean/48047.txt,it,4188.0,XVI,09/12/2024,"ACQUE, Acque minerali e termali",7
+48048,./downloads/48048.txt,./clean/48048.txt,it,4189.0,XVI,09/12/2024,EDILIZIA,8
+48049,./downloads/48049.txt,./clean/48049.txt,it,4190.0,XVI,09/12/2024,ASSISTENZA SANITARIA E OSPEDALIERA,9
+48050,./downloads/48050.txt,./clean/48050.txt,it,4191.0,XVI,09/12/2024,BILANCIO E CONTABILITA' REGIONALE,10
+47521,./downloads/47521.txt,./clean/47521.txt,it,3774.0,XVI,10/07/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",1
+47522,./downloads/47522.txt,./clean/47522.txt,it,3775.0,XVI,10/07/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",2
+47523,./downloads/47523.txt,./clean/47523.txt,it,3776.0,XVI,10/07/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",3
+47524,./downloads/47524.txt,./clean/47524.txt,it,3777.0,XVI,10/07/2024,"CONSIGLIO REGIONALE, Costituzione e funzionamento degli organi consiliari, PROTEZIONE CIVILE, VIGILI DEL FUOCO E INTERVENTI PER CALAMITÀ NATURALI, Calamità naturali",4
+47525,./downloads/47525.txt,./clean/47525.txt,it,3778.0,XVI,10/07/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",5
+47526,./downloads/47526.txt,./clean/47526.txt,it,3779.0,XVI,10/07/2024,CONSULTE COMMISSIONI E ORGANI COLLEGIALI,6
+47527,./downloads/47527.txt,./clean/47527.txt,it,3780.0,XVI,10/07/2024,BILANCIO E CONTABILITA' REGIONALE,7
+47528,./downloads/47528.txt,./clean/47528.txt,it,3781.0,XVI,10/07/2024,"FORMAZIONE PROFESSIONALE, LAVORO, Politica del lavoro",8
+47529,./downloads/47529.txt,./clean/47529.txt,it,3782.0,XVI,10/07/2024,"FORMAZIONE PROFESSIONALE, LAVORO, Politica del lavoro",9
+47530,./downloads/47530.txt,./clean/47530.txt,it,3783.0,XVI,11/07/2024,"ARTIGIANATO, COMMERCIO, STATUTO, ZONA FRANCA",1
+47531,./downloads/47531.txt,./clean/47531.txt,it,3784.0,XVI,11/07/2024,"ASSISTENZA SOCIALE, Disabili, DIFENSORE CIVICO",2
+47532,./downloads/47532.txt,./clean/47532.txt,it,3785.0,XVI,11/07/2024,"ASSISTENZA SOCIALE, Disabili, DIFENSORE CIVICO",3
+47533,./downloads/47533.txt,./clean/47533.txt,it,3786.0,XVI,11/07/2024,"ASSISTENZA SOCIALE, Disabili, DIFENSORE CIVICO",4
+47534,./downloads/47534.txt,./clean/47534.txt,it,3787.0,XVI,11/07/2024,"ASSISTENZA SOCIALE, Disabili, DIFENSORE CIVICO",5
+47535,./downloads/47535.txt,./clean/47535.txt,it,3788.0,XVI,11/07/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",6
+47536,./downloads/47536.txt,./clean/47536.txt,it,3789.0,XVI,11/07/2024,"ASSETTO DEL TERRITORIO, Urbanistica e pianificazione territoriale, EDILIZIA, Centri storici",7
+47537,./downloads/47537.txt,./clean/47537.txt,it,3790.0,XVI,11/07/2024,"ASSISTENZA SOCIALE, Asili nido, ISTRUZIONE PUBBLICA",8
+47538,./downloads/47538.txt,./clean/47538.txt,it,3791.0,XVI,11/07/2024,"ALPINISMO, FORESTE E TERRITORI MONTANI",9
+47539,./downloads/47539.txt,./clean/47539.txt,it,3792.0,XVI,11/07/2024,"TRASPORTI E VIABILITÀ, Trasporti",10
+47540,./downloads/47540.txt,./clean/47540.txt,it,3793.0,XVI,11/07/2024,"DEMANIO E PATRIMONIO REGIONALE, FINANZA REGIONALE E LOCALE, Partecipazioni azionarie regionali",11
+47541,./downloads/47541.txt,./clean/47541.txt,it,3794.0,XVI,11/07/2024,"LAVORO, TURISMO E INDUSTRIA ALBERGHIERA",12
+47542,./downloads/47542.txt,./clean/47542.txt,it,3795.0,XVI,11/07/2024,"ASSETTO DEL TERRITORIO, Difesa ed uso del suolo - Sistemazione idrogeologica, PROTEZIONE CIVILE, VIGILI DEL FUOCO E INTERVENTI PER CALAMITÀ NATURALI, Calamità naturali",13
+47543,./downloads/47543.txt,./clean/47543.txt,it,3796.0,XVI,11/07/2024,"PROTEZIONE CIVILE, VIGILI DEL FUOCO E INTERVENTI PER CALAMITÀ NATURALI, Protezione civile",14
+47544,./downloads/47544.txt,./clean/47544.txt,it,3797.0,XVI,11/07/2024,"PROTEZIONE CIVILE, VIGILI DEL FUOCO E INTERVENTI PER CALAMITÀ NATURALI, Calamità naturali, TRASPORTI E VIABILITÀ, Trasporti",15
+47545,./downloads/47545.txt,./clean/47545.txt,it,3798.0,XVI,11/07/2024,"ENERGIA, Energia idroelettrica, STATUTO",16
+47546,./downloads/47546.txt,./clean/47546.txt,it,3799.0,XVI,11/07/2024,AMMINISTRAZIONE REGIONALE,17
+47547,./downloads/47547.txt,./clean/47547.txt,it,3800.0,XVI,11/07/2024,"ACQUE, Acque pubbliche, ENERGIA, Energia idroelettrica",18
+47548,./downloads/47548.txt,./clean/47548.txt,it,3801.0,XVI,11/07/2024,"EDILIZIA, Edilizia residenziale, FINANZA REGIONALE E LOCALE, Finaosta",19
+47549,./downloads/47549.txt,./clean/47549.txt,fr,3802.0,XVI,11/07/2024,"AMBIENTE, Parchi, riserve naturali, aree protette e attrezzate",20
+47550,./downloads/47550.txt,./clean/47550.txt,it,3803.0,XVI,11/07/2024,"TRASPORTI E VIABILITÀ, Viabilità",21
+47551,./downloads/47551.txt,./clean/47551.txt,it,3804.0,XVI,11/07/2024,"EDILIZIA, Edilizia residenziale, ENTI LOCALI, Comuni",22
+47552,./downloads/47552.txt,./clean/47552.txt,it,3805.0,XVI,11/07/2024,"EDILIZIA, Edilizia residenziale",23
+47553,./downloads/47553.txt,./clean/47553.txt,it,3806.0,XVI,11/07/2024,"EDILIZIA, Edilizia residenziale",24
+47554,./downloads/47554.txt,./clean/47554.txt,it,3807.0,XVI,11/07/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",25
+47555,./downloads/47555.txt,./clean/47555.txt,it,3808.0,XVI,11/07/2024,"ASSISTENZA SOCIALE, Asili nido, ISTRUZIONE PUBBLICA",26
+47556,./downloads/47556.txt,./clean/47556.txt,it,3809.0,XVI,11/07/2024,"ASSISTENZA SOCIALE, Famiglia, tutela dell'infanzia, EDILIZIA, Edilizia residenziale",27
+47557,./downloads/47557.txt,./clean/47557.txt,it,3810.0,XVI,11/07/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Presidio ospedaliero",28
+47558,./downloads/47558.txt,./clean/47558.txt,it,3811.0,XVI,11/07/2024,"ASSISTENZA SOCIALE, Politiche giovanili",29
+47559,./downloads/47559.txt,./clean/47559.txt,it,3812.0,XVI,11/07/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Igiene e sanità pubblica",30
+47560,./downloads/47560.txt,./clean/47560.txt,it,3813.0,XVI,11/07/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Igiene e sanità pubblica",31
+47561,./downloads/47561.txt,./clean/47561.txt,it,3814.0,XVI,11/07/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Personale medico e paramedico, ASSISTENZA SOCIALE, Assistenza socio-sanitaria",32
+47562,./downloads/47562.txt,./clean/47562.txt,it,3815.0,XVI,11/07/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",33
+47861,./downloads/47861.txt,./clean/47861.txt,it,4022.0,XVI,16/10/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",1
+47862,./downloads/47862.txt,./clean/47862.txt,fr,4023.0,XVI,16/10/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",2
+47863,./downloads/47863.txt,./clean/47863.txt,it,4024.0,XVI,16/10/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",3
+47864,./downloads/47864.txt,./clean/47864.txt,it,4025.0,XVI,16/10/2024,"FINANZA REGIONALE E LOCALE, Programmazione",4
+47865,./downloads/47865.txt,./clean/47865.txt,it,4026.0,XVI,16/10/2024,"FINANZA REGIONALE E LOCALE, Programmazione",5
+47221,./downloads/47221.txt,./clean/47221.txt,it,3515.0,XVI,17/04/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",1
+47222,./downloads/47222.txt,./clean/47222.txt,it,3516.0,XVI,17/04/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",2
+47223,./downloads/47223.txt,./clean/47223.txt,it,3517.0,XVI,17/04/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",3
+47224,./downloads/47224.txt,./clean/47224.txt,it,3518.0,XVI,17/04/2024,NOMINE E INCARICHI DI CONSULENZA E SPECIALI,4
+47225,./downloads/47225.txt,./clean/47225.txt,it,3519.0,XVI,17/04/2024,BILANCIO E CONTABILITA' REGIONALE,5
+47226,./downloads/47226.txt,./clean/47226.txt,it,3520.0,XVI,17/04/2024,"ENERGIA, Energia idroelettrica",6
+47227,./downloads/47227.txt,./clean/47227.txt,it,3521.0,XVI,17/04/2024,CACCIA E PESCA,7
+47228,./downloads/47228.txt,./clean/47228.txt,it,3522.0,XVI,17/04/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Presidio ospedaliero, TRASPORTI E VIABILITÀ, Viabilità",8
+47229,./downloads/47229.txt,./clean/47229.txt,it,3523.0,XVI,17/04/2024,"CACCIA E PESCA, FORESTE E TERRITORI MONTANI, Corpo forestale valdostano e relative strutture",9
+47230,./downloads/47230.txt,./clean/47230.txt,it,3524.0,XVI,17/04/2024,"AGRICOLTURA, Bonifica, miglioramenti e riordino fondiario, CREDITO, Consorzi garanzia fidi",10
+47231,./downloads/47231.txt,./clean/47231.txt,it,3525.0,XVI,17/04/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Igiene e sanità pubblica",11
+47232,./downloads/47232.txt,./clean/47232.txt,it,3526.0,XVI,17/04/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Piano socio-sanitario regionale",12
+47233,./downloads/47233.txt,./clean/47233.txt,it,3527.0,XVI,17/04/2024,"FINANZA REGIONALE E LOCALE, Partecipazioni azionarie regionali",13
+47234,./downloads/47234.txt,./clean/47234.txt,it,3528.0,XVI,17/04/2024,"AMMINISTRAZIONE REGIONALE, Ordinamento degli uffici e del personale, FORESTE E TERRITORI MONTANI",14
+47235,./downloads/47235.txt,./clean/47235.txt,it,3529.0,XVI,17/04/2024,"ASSISTENZA SOCIALE, Alcolismo e tossicodipendenze, Politiche giovanili",15
+47236,./downloads/47236.txt,./clean/47236.txt,it,3530.0,XVI,17/04/2024,"AGRICOLTURA, Bonifica, miglioramenti e riordino fondiario",16
+47237,./downloads/47237.txt,./clean/47237.txt,it,3531.0,XVI,17/04/2024,"FORMAZIONE PROFESSIONALE, LAVORO",17
+47238,./downloads/47238.txt,./clean/47238.txt,it,3532.0,XVI,17/04/2024,"ASSISTENZA SOCIALE, Disabili, TRASPORTI E VIABILITÀ, Trasporti",18
+47239,./downloads/47239.txt,./clean/47239.txt,it,3533.0,XVI,17/04/2024,"SPORT E TEMPO LIBERO, Infrastrutture ricreativo-sportive, Sport invernali",19
+47240,./downloads/47240.txt,./clean/47240.txt,it,3534.0,XVI,17/04/2024,"TRASPORTI E VIABILITÀ, Trasporti",20
+47241,./downloads/47241.txt,./clean/47241.txt,it,3535.0,XVI,17/04/2024,OPERE PUBBLICHE,21
+47242,./downloads/47242.txt,./clean/47242.txt,it,3536.0,XVI,17/04/2024,"TRASPORTI E VIABILITÀ, Viabilità",22
+47243,./downloads/47243.txt,./clean/47243.txt,it,3537.0,XVI,17/04/2024,"AMBIENTE, Inquinamento, ASSISTENZA SANITARIA E OSPEDALIERA, Igiene e sanità pubblica",23
+47244,./downloads/47244.txt,./clean/47244.txt,it,3538.0,XVI,17/04/2024,ASSISTENZA SANITARIA E OSPEDALIERA,24
+47245,./downloads/47245.txt,./clean/47245.txt,it,3539.0,XVI,17/04/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, ASSISTENZA SOCIALE, Assistenza socio-sanitaria",25
+47246,./downloads/47246.txt,./clean/47246.txt,it,3540.0,XVI,17/04/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, INFORMAZIONE",26
+47247,./downloads/47247.txt,./clean/47247.txt,it,3541.0,XVI,17/04/2024,"ASSISTENZA SOCIALE, Politiche giovanili, ISTRUZIONE PUBBLICA",27
+47248,./downloads/47248.txt,./clean/47248.txt,it,3542.0,XVI,17/04/2024,UNIONE EUROPEA E RAPPORTI INTERNAZIONALI,28
+47249,./downloads/47249.txt,./clean/47249.txt,it,3543.0,XVI,17/04/2024,"AMMINISTRAZIONE REGIONALE, Ordinamento degli uffici e del personale",29
+47250,./downloads/47250.txt,./clean/47250.txt,it,3544.0,XVI,17/04/2024,ISTRUZIONE PUBBLICA,30
+47251,./downloads/47251.txt,./clean/47251.txt,it,3545.0,XVI,17/04/2024,"BENI CULTURALI, Musei, biblioteche, archivi storici e aree di interesse archeologico, PROTEZIONE CIVILE, VIGILI DEL FUOCO E INTERVENTI PER CALAMITÀ NATURALI, Vigili del fuoco - Difesa antincendi",31
+47252,./downloads/47252.txt,./clean/47252.txt,it,3546.0,XVI,17/04/2024,UNIONE EUROPEA E RAPPORTI INTERNAZIONALI,32
+47253,./downloads/47253.txt,./clean/47253.txt,it,3547.0,XVI,17/04/2024,ACQUE,33
+47254,./downloads/47254.txt,./clean/47254.txt,it,3548.0,XVI,17/04/2024,FORMAZIONE PROFESSIONALE,34
+47255,./downloads/47255.txt,./clean/47255.txt,it,3549.0,XVI,17/04/2024,"AMMINISTRAZIONE REGIONALE, Ordinamento degli uffici e del personale",35
+47256,./downloads/47256.txt,./clean/47256.txt,it,3550.0,XVI,17/04/2024,"TRASPORTI E VIABILITÀ, Trasporti",36
+47257,./downloads/47257.txt,./clean/47257.txt,it,3551.0,XVI,17/04/2024,"SPORT E TEMPO LIBERO, Infrastrutture ricreativo-sportive, Sport invernali",37
+47258,./downloads/47258.txt,./clean/47258.txt,it,3552.0,XVI,17/04/2024,"ENERGIA, Risparmio energetico e fonti alternative",38
+47259,./downloads/47259.txt,./clean/47259.txt,it,3553.0,XVI,17/04/2024,"AMBIENTE, Parchi, riserve naturali, aree protette e attrezzate",39
+47260,./downloads/47260.txt,./clean/47260.txt,it,3554.0,XVI,17/04/2024,"OPERE PUBBLICHE, TRASPORTI E VIABILITÀ, Viabilità",40
+47261,./downloads/47261.txt,./clean/47261.txt,it,3555.0,XVI,17/04/2024,"AMBIENTE, Flora e fauna, BENI CULTURALI, Musei, biblioteche, archivi storici e aree di interesse archeologico",41
+47262,./downloads/47262.txt,./clean/47262.txt,it,3556.0,XVI,17/04/2024,SANITÀ VETERINARIA E ZOOTECNIA,42
+47263,./downloads/47263.txt,./clean/47263.txt,it,3557.0,XVI,17/04/2024,"SANITÀ VETERINARIA E ZOOTECNIA, Sanità veterinaria",43
+47264,./downloads/47264.txt,./clean/47264.txt,it,3558.0,XVI,17/04/2024,"AMBIENTE, Inquinamento, ASSISTENZA SANITARIA E OSPEDALIERA, Presidio ospedaliero",44
+47866,./downloads/47866.txt,./clean/47866.txt,it,4027.0,XVI,17/10/2024,"FINANZA REGIONALE E LOCALE, Programmazione",1
+47867,./downloads/47867.txt,./clean/47867.txt,it,4028.0,XVI,17/10/2024,"FINANZA REGIONALE E LOCALE, Programmazione",2
+47265,./downloads/47265.txt,./clean/47265.txt,it,3559.0,XVI,18/04/2024,"SPORT E TEMPO LIBERO, Infrastrutture ricreativo-sportive, Sport invernali",1
+47266,./downloads/47266.txt,./clean/47266.txt,it,3560.0,XVI,18/04/2024,"TRASPORTI E VIABILITÀ, Viabilità",2
+47267,./downloads/47267.txt,./clean/47267.txt,it,3561.0,XVI,18/04/2024,"ISTRUZIONE PUBBLICA, Istituzioni scolastiche",3
+47268,./downloads/47268.txt,./clean/47268.txt,it,3562.0,XVI,18/04/2024,"SPORT E TEMPO LIBERO, Infrastrutture ricreativo-sportive, Sport invernali",4
+47269,./downloads/47269.txt,./clean/47269.txt,it,3563.0,XVI,18/04/2024,"ENERGIA, Energia idroelettrica",5
+47270,./downloads/47270.txt,./clean/47270.txt,it,3564.0,XVI,18/04/2024,"ISTRUZIONE PUBBLICA, Istituzioni scolastiche",6
+47271,./downloads/47271.txt,./clean/47271.txt,it,3565.0,XVI,18/04/2024,"DIRITTO ALLO STUDIO, ISTRUZIONE PUBBLICA, Università",7
+47272,./downloads/47272.txt,./clean/47272.txt,it,3566.0,XVI,18/04/2024,"AMBIENTE, Flora e fauna, CACCIA E PESCA",8
+47273,./downloads/47273.txt,./clean/47273.txt,it,3567.0,XVI,18/04/2024,"EDILIZIA, Edilizia residenziale",9
+47721,./downloads/47721.txt,./clean/47721.txt,it,3894.0,XVI,18/09/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",1
+47722,./downloads/47722.txt,./clean/47722.txt,it,3895.0,XVI,18/09/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",2
+47723,./downloads/47723.txt,./clean/47723.txt,it,3896.0,XVI,18/09/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",3
+47724,./downloads/47724.txt,./clean/47724.txt,it,3897.0,XVI,18/09/2024,"NOMINE E INCARICHI DI CONSULENZA E SPECIALI, Nomine",4
+47725,./downloads/47725.txt,./clean/47725.txt,it,3898.0,XVI,18/09/2024,CASA DA GIOCO,5
+47726,./downloads/47726.txt,./clean/47726.txt,it,3899.0,XVI,18/09/2024,BILANCIO E CONTABILITA' REGIONALE,6
+47727,./downloads/47727.txt,./clean/47727.txt,it,3900.0,XVI,18/09/2024,BILANCIO E CONTABILITA' REGIONALE,7
+47728,./downloads/47728.txt,./clean/47728.txt,it,3901.0,XVI,18/09/2024,BILANCIO E CONTABILITA' REGIONALE,8
+47729,./downloads/47729.txt,./clean/47729.txt,it,3902.0,XVI,18/09/2024,"INFORMAZIONE, Sistema informativo",9
+47730,./downloads/47730.txt,./clean/47730.txt,it,3903.0,XVI,18/09/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",10
+47731,./downloads/47731.txt,./clean/47731.txt,it,3904.0,XVI,18/09/2024,"TURISMO E INDUSTRIA ALBERGHIERA, Ricettività turistica",11
+47732,./downloads/47732.txt,./clean/47732.txt,it,3905.0,XVI,18/09/2024,"TRASPORTI E VIABILITÀ, Autostrade e trafori alpini",12
+47733,./downloads/47733.txt,./clean/47733.txt,it,3906.0,XVI,18/09/2024,"ISTRUZIONE PUBBLICA, Personale docente e non docente, LAVORO",13
+47734,./downloads/47734.txt,./clean/47734.txt,it,3907.0,XVI,18/09/2024,"TRASPORTI E VIABILITÀ, Viabilità",14
+47735,./downloads/47735.txt,./clean/47735.txt,it,3908.0,XVI,18/09/2024,"ASSISTENZA SOCIALE, ISTRUZIONE PUBBLICA",15
+47736,./downloads/47736.txt,./clean/47736.txt,it,3909.0,XVI,18/09/2024,"FINANZA REGIONALE E LOCALE, Partecipazioni azionarie regionali",16
+47737,./downloads/47737.txt,./clean/47737.txt,it,3910.0,XVI,18/09/2024,STATUTO,17
+47738,./downloads/47738.txt,./clean/47738.txt,it,3911.0,XVI,18/09/2024,"FINANZA REGIONALE E LOCALE, Partecipazioni azionarie regionali",18
+47739,./downloads/47739.txt,./clean/47739.txt,it,3912.0,XVI,18/09/2024,"BENI CULTURALI, Musei, biblioteche, archivi storici e aree di interesse archeologico, ORDINE PUBBLICO - FORZE ARMATE, Caserme e carceri",19
+47740,./downloads/47740.txt,./clean/47740.txt,it,3913.0,XVI,18/09/2024,"ASSISTENZA SOCIALE, ISTRUZIONE PUBBLICA, Personale docente e non docente",20
+47741,./downloads/47741.txt,./clean/47741.txt,it,3914.0,XVI,18/09/2024,"AMMINISTRAZIONE REGIONALE, Celebrazioni, ISTRUZIONE PUBBLICA",21
+47742,./downloads/47742.txt,./clean/47742.txt,it,3915.0,XVI,18/09/2024,AMMINISTRAZIONE REGIONALE,22
+47743,./downloads/47743.txt,./clean/47743.txt,it,3916.0,XVI,18/09/2024,"TRASPORTI E VIABILITÀ, Trasporti",23
+47744,./downloads/47744.txt,./clean/47744.txt,it,3917.0,XVI,18/09/2024,"TRASPORTI E VIABILITÀ, Viabilità",24
+47745,./downloads/47745.txt,./clean/47745.txt,it,3918.0,XVI,18/09/2024,"TRASPORTI E VIABILITÀ, Viabilità",25
+47746,./downloads/47746.txt,./clean/47746.txt,it,3919.0,XVI,18/09/2024,"TRASPORTI E VIABILITÀ, Viabilità",26
+47747,./downloads/47747.txt,./clean/47747.txt,it,3920.0,XVI,18/09/2024,EDILIZIA,27
+47748,./downloads/47748.txt,./clean/47748.txt,it,3921.0,XVI,18/09/2024,"ASSISTENZA SOCIALE, Assistenza socio-sanitaria",28
+47749,./downloads/47749.txt,./clean/47749.txt,it,3922.0,XVI,18/09/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Igiene e sanità pubblica",29
+47750,./downloads/47750.txt,./clean/47750.txt,it,3923.0,XVI,18/09/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Personale medico e paramedico",30
+47751,./downloads/47751.txt,./clean/47751.txt,it,3924.0,XVI,18/09/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Azienda Regionale Sanitaria - U.S.L.",31
+47752,./downloads/47752.txt,./clean/47752.txt,it,3925.0,XVI,18/09/2024,"EDILIZIA, Edilizia residenziale",32
+47753,./downloads/47753.txt,./clean/47753.txt,it,3926.0,XVI,18/09/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Personale medico e paramedico",33
+47754,./downloads/47754.txt,./clean/47754.txt,it,3927.0,XVI,18/09/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, ASSISTENZA SOCIALE",34
+47755,./downloads/47755.txt,./clean/47755.txt,it,3928.0,XVI,18/09/2024,ASSISTENZA SANITARIA E OSPEDALIERA,35
+47756,./downloads/47756.txt,./clean/47756.txt,it,3929.0,XVI,18/09/2024,ASSISTENZA SANITARIA E OSPEDALIERA,36
+47757,./downloads/47757.txt,./clean/47757.txt,it,3930.0,XVI,18/09/2024,"SANITÀ VETERINARIA E ZOOTECNIA, Sanità veterinaria",37
+47758,./downloads/47758.txt,./clean/47758.txt,it,3931.0,XVI,18/09/2024,"COMMERCIO, Disciplina, attività, professioni",38
+47759,./downloads/47759.txt,./clean/47759.txt,it,3932.0,XVI,18/09/2024,AMBIENTE,39
+47760,./downloads/47760.txt,./clean/47760.txt,it,3933.0,XVI,18/09/2024,CASA DA GIOCO,40
+47761,./downloads/47761.txt,./clean/47761.txt,it,3934.0,XVI,18/09/2024,AMMINISTRAZIONE REGIONALE,41
+47762,./downloads/47762.txt,./clean/47762.txt,it,3935.0,XVI,18/09/2024,"AMMINISTRAZIONE REGIONALE, Ordinamento degli uffici e del personale",42
+47868,./downloads/47868.txt,./clean/47868.txt,it,4029.0,XVI,18/10/2024,"FINANZA REGIONALE E LOCALE, Programmazione",1
+47869,./downloads/47869.txt,./clean/47869.txt,it,4030.0,XVI,18/10/2024,"FINANZA REGIONALE E LOCALE, Programmazione",2
+47870,./downloads/47870.txt,./clean/47870.txt,it,4031.0,XVI,18/10/2024,"FINANZA REGIONALE E LOCALE, Programmazione",3
+47871,./downloads/47871.txt,./clean/47871.txt,it,4032.0,XVI,18/10/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",4
+47441,./downloads/47441.txt,./clean/47441.txt,it,3710.0,XVI,19/06/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",1
+47442,./downloads/47442.txt,./clean/47442.txt,it,3711.0,XVI,19/06/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",2
+47461,./downloads/47461.txt,./clean/47461.txt,it,3712.0,XVI,19/06/2024,AMMINISTRAZIONE REGIONALE,3
+47443,./downloads/47443.txt,./clean/47443.txt,it,3713.0,XVI,19/06/2024,BILANCIO E CONTABILITA' REGIONALE,4
+47444,./downloads/47444.txt,./clean/47444.txt,it,3714.0,XVI,19/06/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",5
+47445,./downloads/47445.txt,./clean/47445.txt,it,3715.0,XVI,19/06/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",6
+47446,./downloads/47446.txt,./clean/47446.txt,it,3716.0,XVI,19/06/2024,"ISTRUZIONE PUBBLICA, STATUTO",7
+47447,./downloads/47447.txt,./clean/47447.txt,it,3717.0,XVI,19/06/2024,ISTRUZIONE PUBBLICA,8
+47448,./downloads/47448.txt,./clean/47448.txt,it,3718.0,XVI,19/06/2024,"TRASPORTI E VIABILITÀ, Trasporti",9
+47449,./downloads/47449.txt,./clean/47449.txt,it,3719.0,XVI,19/06/2024,"EDILIZIA, Edilizia residenziale",10
+47450,./downloads/47450.txt,./clean/47450.txt,it,3720.0,XVI,19/06/2024,ASSISTENZA SANITARIA E OSPEDALIERA,11
+47451,./downloads/47451.txt,./clean/47451.txt,it,3721.0,XVI,19/06/2024,ASSISTENZA SANITARIA E OSPEDALIERA,12
+47452,./downloads/47452.txt,./clean/47452.txt,it,3722.0,XVI,19/06/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Presidio ospedaliero",13
+47453,./downloads/47453.txt,./clean/47453.txt,it,3723.0,XVI,19/06/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Azienda Regionale Sanitaria - U.S.L.",14
+47454,./downloads/47454.txt,./clean/47454.txt,it,3724.0,XVI,19/06/2024,ASSISTENZA SANITARIA E OSPEDALIERA,15
+47455,./downloads/47455.txt,./clean/47455.txt,it,3725.0,XVI,19/06/2024,"ASSISTENZA SOCIALE, Famiglia, tutela dell'infanzia, ORDINE PUBBLICO - FORZE ARMATE, Pubblica sicurezza",16
+47456,./downloads/47456.txt,./clean/47456.txt,it,3726.0,XVI,19/06/2024,"ASSISTENZA SOCIALE, Assistenza socio-sanitaria",17
+47457,./downloads/47457.txt,./clean/47457.txt,it,3727.0,XVI,19/06/2024,"TRASPORTI E VIABILITÀ, Viabilità",18
+47458,./downloads/47458.txt,./clean/47458.txt,it,3728.0,XVI,19/06/2024,"ORDINE PUBBLICO - FORZE ARMATE, Caserme e carceri",19
+47459,./downloads/47459.txt,./clean/47459.txt,it,3729.0,XVI,19/06/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Servizio di emergenza sanitaria (118)",20
+47460,./downloads/47460.txt,./clean/47460.txt,it,3730.0,XVI,19/06/2024,"ISTRUZIONE PUBBLICA, Personale docente e non docente",21
+47462,./downloads/47462.txt,./clean/47462.txt,fr,3731.0,XVI,19/06/2024,"ISTRUZIONE PUBBLICA, LINGUA FRANCESE",22
+47463,./downloads/47463.txt,./clean/47463.txt,it,3732.0,XVI,19/06/2024,"FORESTE E TERRITORI MONTANI, Tutela del patrimonio boschivo",23
+47464,./downloads/47464.txt,./clean/47464.txt,it,3733.0,XVI,19/06/2024,"AMBIENTE, Inquinamento, TRASPORTI E VIABILITÀ, Trasporti",24
+47465,./downloads/47465.txt,./clean/47465.txt,it,3734.0,XVI,19/06/2024,"SPORT E TEMPO LIBERO, Infrastrutture ricreativo-sportive",25
+47466,./downloads/47466.txt,./clean/47466.txt,it,3735.0,XVI,19/06/2024,"ASSISTENZA SOCIALE, Disabili, UNIONE EUROPEA E RAPPORTI INTERNAZIONALI",26
+47467,./downloads/47467.txt,./clean/47467.txt,it,3736.0,XVI,19/06/2024,"ASSISTENZA SOCIALE, Assistenza socio-sanitaria",27
+47468,./downloads/47468.txt,./clean/47468.txt,it,3737.0,XVI,19/06/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Azienda Regionale Sanitaria - U.S.L., ASSISTENZA SOCIALE, Associazionismo - volontariato",28
+47469,./downloads/47469.txt,./clean/47469.txt,it,3738.0,XVI,19/06/2024,"SANITÀ VETERINARIA E ZOOTECNIA, Sanità veterinaria",29
+47470,./downloads/47470.txt,./clean/47470.txt,it,3739.0,XVI,19/06/2024,"ASSISTENZA SOCIALE, Famiglia, tutela dell'infanzia, ORDINE PUBBLICO - FORZE ARMATE, Pubblica sicurezza",30
+47471,./downloads/47471.txt,./clean/47471.txt,it,3740.0,XVI,19/06/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Azienda Regionale Sanitaria - U.S.L., ASSISTENZA SOCIALE, Famiglia, tutela dell'infanzia",31
+47472,./downloads/47472.txt,./clean/47472.txt,it,3741.0,XVI,19/06/2024,"ASSISTENZA SOCIALE, Famiglia, tutela dell'infanzia",32
+47473,./downloads/47473.txt,./clean/47473.txt,it,3742.0,XVI,19/06/2024,"ASSISTENZA SOCIALE, Famiglia, tutela dell'infanzia",33
+47474,./downloads/47474.txt,./clean/47474.txt,it,3743.0,XVI,19/06/2024,ASSISTENZA SANITARIA E OSPEDALIERA,34
+47475,./downloads/47475.txt,./clean/47475.txt,it,3744.0,XVI,19/06/2024,ASSISTENZA SANITARIA E OSPEDALIERA,35
+47476,./downloads/47476.txt,./clean/47476.txt,it,3745.0,XVI,19/06/2024,"ASSISTENZA SOCIALE, Assistenza socio-sanitaria",36
+47477,./downloads/47477.txt,./clean/47477.txt,it,3746.0,XVI,19/06/2024,CASA DA GIOCO,37
+47478,./downloads/47478.txt,./clean/47478.txt,it,3747.0,XVI,19/06/2024,"EDILIZIA, ENERGIA, Risparmio energetico e fonti alternative, TURISMO E INDUSTRIA ALBERGHIERA, Ricettività turistica",38
+47479,./downloads/47479.txt,./clean/47479.txt,it,3748.0,XVI,19/06/2024,"EDILIZIA, Edilizia pubblica",39
+47480,./downloads/47480.txt,./clean/47480.txt,it,3749.0,XVI,19/06/2024,"ALPINISMO, AMBIENTE, Parchi, riserve naturali, aree protette e attrezzate",40
+47481,./downloads/47481.txt,./clean/47481.txt,it,3750.0,XVI,19/06/2024,"PROTEZIONE CIVILE, VIGILI DEL FUOCO E INTERVENTI PER CALAMITÀ NATURALI, Vigili del fuoco - Difesa antincendi, TRASPORTI E VIABILITÀ, Aeroporti",41
+47482,./downloads/47482.txt,./clean/47482.txt,it,3751.0,XVI,19/06/2024,"ENERGIA, Risparmio energetico e fonti alternative",42
+47763,./downloads/47763.txt,./clean/47763.txt,it,3936.0,XVI,19/09/2024,"AMMINISTRAZIONE REGIONALE, Ordinamento degli uffici e del personale",1
+47764,./downloads/47764.txt,./clean/47764.txt,it,3937.0,XVI,19/09/2024,"ASSETTO DEL TERRITORIO, Urbanistica e pianificazione territoriale",2
+47765,./downloads/47765.txt,./clean/47765.txt,it,3938.0,XVI,19/09/2024,"PROTEZIONE CIVILE, VIGILI DEL FUOCO E INTERVENTI PER CALAMITÀ NATURALI, Vigili del fuoco - Difesa antincendi, TRASPORTI E VIABILITÀ, Aeroporti",3
+47766,./downloads/47766.txt,./clean/47766.txt,it,3939.0,XVI,19/09/2024,ISTRUZIONE PUBBLICA,4
+47767,./downloads/47767.txt,./clean/47767.txt,it,3940.0,XVI,19/09/2024,"ORDINE PUBBLICO - FORZE ARMATE, Pubblica sicurezza",5
+47768,./downloads/47768.txt,./clean/47768.txt,it,3941.0,XVI,19/09/2024,"ISTRUZIONE PUBBLICA, Personale docente e non docente",6
+47769,./downloads/47769.txt,./clean/47769.txt,it,3942.0,XVI,19/09/2024,ISTRUZIONE PUBBLICA,7
+47770,./downloads/47770.txt,./clean/47770.txt,it,3943.0,XVI,19/09/2024,UNIONE EUROPEA E RAPPORTI INTERNAZIONALI,8
+47771,./downloads/47771.txt,./clean/47771.txt,it,3944.0,XVI,19/09/2024,"FORESTE E TERRITORI MONTANI, Tutela del patrimonio boschivo",9
+47772,./downloads/47772.txt,./clean/47772.txt,it,3945.0,XVI,19/09/2024,"AMBIENTE, Flora e fauna, CACCIA E PESCA",10
+47773,./downloads/47773.txt,./clean/47773.txt,it,3946.0,XVI,19/09/2024,"ENERGIA, Risparmio energetico e fonti alternative",11
+47774,./downloads/47774.txt,./clean/47774.txt,it,3947.0,XVI,19/09/2024,"TRASPORTI E VIABILITÀ, Trasporti, Viabilità",12
+47775,./downloads/47775.txt,./clean/47775.txt,it,3948.0,XVI,19/09/2024,"SPORT E TEMPO LIBERO, Sport invernali",13
+47776,./downloads/47776.txt,./clean/47776.txt,it,3949.0,XVI,19/09/2024,ATTIVITÀ CULTURALI,14
+47777,./downloads/47777.txt,./clean/47777.txt,it,3950.0,XVI,19/09/2024,"ASSISTENZA SOCIALE, Disabili, TRASPORTI E VIABILITÀ, Trasporti",15
+47778,./downloads/47778.txt,./clean/47778.txt,it,3951.0,XVI,19/09/2024,"AMBIENTE, Parchi, riserve naturali, aree protette e attrezzate",16
+47779,./downloads/47779.txt,./clean/47779.txt,it,3952.0,XVI,19/09/2024,"TRASPORTI E VIABILITÀ, Viabilità",17
+47780,./downloads/47780.txt,./clean/47780.txt,it,3953.0,XVI,19/09/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Personale medico e paramedico, NORME DI ATTUAZIONE",18
+47781,./downloads/47781.txt,./clean/47781.txt,it,3954.0,XVI,19/09/2024,ASSISTENZA SANITARIA E OSPEDALIERA,19
+47782,./downloads/47782.txt,./clean/47782.txt,it,3955.0,XVI,19/09/2024,ASSISTENZA SANITARIA E OSPEDALIERA,20
+47783,./downloads/47783.txt,./clean/47783.txt,it,3956.0,XVI,19/09/2024,"EDILIZIA, Edilizia residenziale",21
+47784,./downloads/47784.txt,./clean/47784.txt,it,3957.0,XVI,19/09/2024,"SANITÀ VETERINARIA E ZOOTECNIA, Sanità veterinaria",22
+47785,./downloads/47785.txt,./clean/47785.txt,it,3958.0,XVI,19/09/2024,"SANITÀ VETERINARIA E ZOOTECNIA, Zootecnia",23
+47786,./downloads/47786.txt,./clean/47786.txt,it,3959.0,XVI,19/09/2024,"SANITÀ VETERINARIA E ZOOTECNIA, Sanità veterinaria",24
+47787,./downloads/47787.txt,./clean/47787.txt,it,3960.0,XVI,19/09/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Personale medico e paramedico",25
+47788,./downloads/47788.txt,./clean/47788.txt,it,3961.0,XVI,19/09/2024,"SPORT E TEMPO LIBERO, Manifestazioni sportive",26
+47789,./downloads/47789.txt,./clean/47789.txt,it,3962.0,XVI,19/09/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",27
+47081,./downloads/47081.txt,./clean/47081.txt,fr,3400.0,XVI,20/03/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",1
+47082,./downloads/47082.txt,./clean/47082.txt,it,3401.0,XVI,20/03/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",2
+47083,./downloads/47083.txt,./clean/47083.txt,it,3402.0,XVI,20/03/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",3
+47101,./downloads/47101.txt,./clean/47101.txt,it,3403.0,XVI,20/03/2024,"FORESTE E TERRITORI MONTANI, Corpo forestale valdostano e relative strutture, PROTEZIONE CIVILE, VIGILI DEL FUOCO E INTERVENTI PER CALAMITÀ NATURALI, Vigili del fuoco - Difesa antincendi",4
+47102,./downloads/47102.txt,./clean/47102.txt,it,3404.0,XVI,20/03/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",5
+47103,./downloads/47103.txt,./clean/47103.txt,it,3405.0,XVI,20/03/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",6
+47104,./downloads/47104.txt,./clean/47104.txt,it,3406.0,XVI,20/03/2024,CONSULTE COMMISSIONI E ORGANI COLLEGIALI,7
+47084,./downloads/47084.txt,./clean/47084.txt,it,3407.0,XVI,20/03/2024,BILANCIO E CONTABILITA' REGIONALE,8
+47105,./downloads/47105.txt,./clean/47105.txt,it,3408.0,XVI,20/03/2024,CASA DA GIOCO,9
+47106,./downloads/47106.txt,./clean/47106.txt,it,3409.0,XVI,20/03/2024,"ENERGIA, FINANZA REGIONALE E LOCALE, Partecipazioni azionarie regionali",10
+47107,./downloads/47107.txt,./clean/47107.txt,it,3410.0,XVI,20/03/2024,"ASSISTENZA SOCIALE, ORDINE PUBBLICO - FORZE ARMATE",11
+47108,./downloads/47108.txt,./clean/47108.txt,it,3411.0,XVI,20/03/2024,"FINANZA REGIONALE E LOCALE, UNIONE EUROPEA E RAPPORTI INTERNAZIONALI",12
+47109,./downloads/47109.txt,./clean/47109.txt,it,3412.0,XVI,20/03/2024,ASSISTENZA SANITARIA E OSPEDALIERA,13
+47110,./downloads/47110.txt,./clean/47110.txt,it,3413.0,XVI,20/03/2024,BENI CULTURALI,14
+47111,./downloads/47111.txt,./clean/47111.txt,it,3414.0,XVI,20/03/2024,"FINANZA REGIONALE E LOCALE, Partecipazioni azionarie regionali, INFORMAZIONE, Sistema informativo",15
+47112,./downloads/47112.txt,./clean/47112.txt,it,3415.0,XVI,20/03/2024,"ENERGIA, FINANZA REGIONALE E LOCALE, Partecipazioni azionarie regionali",16
+47113,./downloads/47113.txt,./clean/47113.txt,it,3416.0,XVI,20/03/2024,BENI CULTURALI,17
+47114,./downloads/47114.txt,./clean/47114.txt,it,3417.0,XVI,20/03/2024,"ENTI LOCALI, Comuni, INFORMAZIONE",18
+47115,./downloads/47115.txt,./clean/47115.txt,it,3418.0,XVI,20/03/2024,AMBIENTE,19
+47116,./downloads/47116.txt,./clean/47116.txt,it,3419.0,XVI,20/03/2024,TRASPORTI E VIABILITÀ,20
+47117,./downloads/47117.txt,./clean/47117.txt,it,3420.0,XVI,20/03/2024,"TRASPORTI E VIABILITÀ, Impianti a fune",21
+47118,./downloads/47118.txt,./clean/47118.txt,it,3421.0,XVI,20/03/2024,"TRASPORTI E VIABILITÀ, Viabilità, Autostrade e trafori alpini",22
+47119,./downloads/47119.txt,./clean/47119.txt,it,3422.0,XVI,20/03/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, ASSISTENZA SOCIALE, EDILIZIA",23
+47120,./downloads/47120.txt,./clean/47120.txt,it,3423.0,XVI,20/03/2024,"ASSISTENZA SOCIALE, FINANZA REGIONALE E LOCALE",24
+47121,./downloads/47121.txt,./clean/47121.txt,it,3424.0,XVI,20/03/2024,ASSISTENZA SANITARIA E OSPEDALIERA,25
+47122,./downloads/47122.txt,./clean/47122.txt,it,3425.0,XVI,20/03/2024,"EDILIZIA, ENTI LOCALI",26
+47123,./downloads/47123.txt,./clean/47123.txt,it,3426.0,XVI,20/03/2024,"ENERGIA, FINANZA REGIONALE E LOCALE, Partecipazioni azionarie regionali",27
+47124,./downloads/47124.txt,./clean/47124.txt,it,3427.0,XVI,20/03/2024,EDILIZIA,28
+47125,./downloads/47125.txt,./clean/47125.txt,it,3428.0,XVI,20/03/2024,"FINANZA REGIONALE E LOCALE, STATUTO",29
+47126,./downloads/47126.txt,./clean/47126.txt,it,3429.0,XVI,20/03/2024,"ISTRUZIONE PUBBLICA, Università",30
+47127,./downloads/47127.txt,./clean/47127.txt,fr,3430.0,XVI,20/03/2024,ENTI LOCALI,31
+47128,./downloads/47128.txt,./clean/47128.txt,it,3431.0,XVI,20/03/2024,"AGRICOLTURA, AMBIENTE, Flora e fauna, FORESTE E TERRITORI MONTANI, Corpo forestale valdostano e relative strutture",32
+47129,./downloads/47129.txt,./clean/47129.txt,it,3432.0,XVI,20/03/2024,"AGRICOLTURA, AMBIENTE, Flora e fauna",33
+47130,./downloads/47130.txt,./clean/47130.txt,it,3433.0,XVI,20/03/2024,TRASPORTI E VIABILITÀ,34
+47483,./downloads/47483.txt,./clean/47483.txt,it,3752.0,XVI,20/06/2024,ATTIVITÀ CULTURALI,1
+47484,./downloads/47484.txt,./clean/47484.txt,it,3753.0,XVI,20/06/2024,"FORMAZIONE PROFESSIONALE, ISTRUZIONE PUBBLICA, Personale docente e non docente",2
+47485,./downloads/47485.txt,./clean/47485.txt,it,3754.0,XVI,20/06/2024,"ASSISTENZA SOCIALE, Politiche giovanili",3
+47486,./downloads/47486.txt,./clean/47486.txt,it,3755.0,XVI,20/06/2024,"INFORMAZIONE, Radiotelecomunicazioni",4
+47487,./downloads/47487.txt,./clean/47487.txt,it,3756.0,XVI,20/06/2024,"ASSISTENZA SOCIALE, Disabili, CACCIA E PESCA",5
+47488,./downloads/47488.txt,./clean/47488.txt,it,3757.0,XVI,20/06/2024,"AGRICOLTURA, TURISMO E INDUSTRIA ALBERGHIERA",6
+47489,./downloads/47489.txt,./clean/47489.txt,it,3758.0,XVI,20/06/2024,CACCIA E PESCA,7
+47490,./downloads/47490.txt,./clean/47490.txt,it,3759.0,XVI,20/06/2024,"TRASPORTI E VIABILITÀ, Trasporti",8
+47491,./downloads/47491.txt,./clean/47491.txt,it,3760.0,XVI,20/06/2024,"ENERGIA, Risparmio energetico e fonti alternative",9
+47492,./downloads/47492.txt,./clean/47492.txt,it,3761.0,XVI,20/06/2024,"ACQUE, Acque pubbliche",10
+47493,./downloads/47493.txt,./clean/47493.txt,it,3762.0,XVI,20/06/2024,"EDILIZIA, Edilizia pubblica, ENERGIA, Risparmio energetico e fonti alternative",11
+47494,./downloads/47494.txt,./clean/47494.txt,it,3763.0,XVI,20/06/2024,"TRASPORTI E VIABILITÀ, Viabilità",12
+47495,./downloads/47495.txt,./clean/47495.txt,it,3764.0,XVI,20/06/2024,"SPORT E TEMPO LIBERO, Infrastrutture ricreativo-sportive",13
+47496,./downloads/47496.txt,./clean/47496.txt,it,3765.0,XVI,20/06/2024,"SPORT E TEMPO LIBERO, Infrastrutture ricreativo-sportive",14
+47497,./downloads/47497.txt,./clean/47497.txt,it,3766.0,XVI,20/06/2024,"SPORT E TEMPO LIBERO, Infrastrutture ricreativo-sportive",15
+47498,./downloads/47498.txt,./clean/47498.txt,it,3767.0,XVI,20/06/2024,"ACQUE, Acque pubbliche",16
+47499,./downloads/47499.txt,./clean/47499.txt,it,3768.0,XVI,20/06/2024,"LAVORO, Politica del lavoro, TURISMO E INDUSTRIA ALBERGHIERA",17
+47500,./downloads/47500.txt,./clean/47500.txt,it,3769.0,XVI,20/06/2024,"AMMINISTRAZIONE REGIONALE, Celebrazioni",18
+47501,./downloads/47501.txt,./clean/47501.txt,it,3770.0,XVI,20/06/2024,"CACCIA E PESCA, INFORMAZIONE",19
+47502,./downloads/47502.txt,./clean/47502.txt,it,3771.0,XVI,20/06/2024,"COMMERCIO, Disciplina, attività, professioni",20
+47503,./downloads/47503.txt,./clean/47503.txt,it,3772.0,XVI,20/06/2024,"CONSULTE COMMISSIONI E ORGANI COLLEGIALI, SPORT E TEMPO LIBERO",21
+47504,./downloads/47504.txt,./clean/47504.txt,it,3773.0,XVI,20/06/2024,"TURISMO E INDUSTRIA ALBERGHIERA, Ricettività turistica",22
+47981,./downloads/47981.txt,./clean/47981.txt,it,4124.0,XVI,20/11/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",1
+47982,./downloads/47982.txt,./clean/47982.txt,it,4125.0,XVI,20/11/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",2
+47983,./downloads/47983.txt,./clean/47983.txt,it,4126.0,XVI,20/11/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",3
+47984,./downloads/47984.txt,./clean/47984.txt,it,4127.0,XVI,20/11/2024,"CONSIGLIO REGIONALE, Costituzione e funzionamento degli organi consiliari",4
+47985,./downloads/47985.txt,./clean/47985.txt,it,4128.0,XVI,20/11/2024,AMMINISTRAZIONE REGIONALE,5
+47986,./downloads/47986.txt,./clean/47986.txt,it,4129.0,XVI,20/11/2024,BILANCIO E CONTABILITA' REGIONALE,6
+47987,./downloads/47987.txt,./clean/47987.txt,it,4130.0,XVI,20/11/2024,BILANCIO E CONTABILITA' REGIONALE,7
+47988,./downloads/47988.txt,./clean/47988.txt,it,4131.0,XVI,20/11/2024,BILANCIO E CONTABILITA' REGIONALE,8
+47989,./downloads/47989.txt,./clean/47989.txt,it,4132.0,XVI,20/11/2024,AGRICOLTURA,9
+47990,./downloads/47990.txt,./clean/47990.txt,it,4133.0,XVI,20/11/2024,"ENTI LOCALI, Comuni",10
+47991,./downloads/47991.txt,./clean/47991.txt,it,4134.0,XVI,20/11/2024,"INFORMAZIONE, Radiotelecomunicazioni",11
+47131,./downloads/47131.txt,./clean/47131.txt,it,3434.0,XVI,21/03/2024,TRASPORTI E VIABILITÀ,1
+47132,./downloads/47132.txt,./clean/47132.txt,it,3435.0,XVI,21/03/2024,"OPERE PUBBLICHE, TRASPORTI E VIABILITÀ",2
+47133,./downloads/47133.txt,./clean/47133.txt,it,3436.0,XVI,21/03/2024,"EDILIZIA, ENTI LOCALI, Comuni",3
+47134,./downloads/47134.txt,./clean/47134.txt,it,3437.0,XVI,21/03/2024,"ISTRUZIONE PUBBLICA, OPERE PUBBLICHE",4
+47135,./downloads/47135.txt,./clean/47135.txt,it,3438.0,XVI,21/03/2024,"TRASPORTI E VIABILITÀ, Strade di interesse regionale",5
+47136,./downloads/47136.txt,./clean/47136.txt,it,3439.0,XVI,21/03/2024,ASSISTENZA SANITARIA E OSPEDALIERA,6
+47137,./downloads/47137.txt,./clean/47137.txt,it,3440.0,XVI,21/03/2024,ASSISTENZA SOCIALE,7
+47138,./downloads/47138.txt,./clean/47138.txt,it,3441.0,XVI,21/03/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Personale medico e paramedico",8
+47139,./downloads/47139.txt,./clean/47139.txt,it,3442.0,XVI,21/03/2024,ASSISTENZA SOCIALE,9
+47140,./downloads/47140.txt,./clean/47140.txt,it,3443.0,XVI,21/03/2024,"AMMINISTRAZIONE REGIONALE, ASSISTENZA SOCIALE",10
+47141,./downloads/47141.txt,./clean/47141.txt,it,3444.0,XVI,21/03/2024,ASSISTENZA SANITARIA E OSPEDALIERA,11
+47142,./downloads/47142.txt,./clean/47142.txt,it,3445.0,XVI,21/03/2024,ASSISTENZA SOCIALE,12
+47143,./downloads/47143.txt,./clean/47143.txt,it,3446.0,XVI,21/03/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, ASSISTENZA SOCIALE",13
+47144,./downloads/47144.txt,./clean/47144.txt,it,3447.0,XVI,21/03/2024,ASSISTENZA SOCIALE,14
+47145,./downloads/47145.txt,./clean/47145.txt,it,3448.0,XVI,21/03/2024,COMMERCIO,15
+47146,./downloads/47146.txt,./clean/47146.txt,it,3449.0,XVI,21/03/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",16
+47147,./downloads/47147.txt,./clean/47147.txt,it,3450.0,XVI,21/03/2024,TURISMO E INDUSTRIA ALBERGHIERA,17
+47148,./downloads/47148.txt,./clean/47148.txt,it,3451.0,XVI,21/03/2024,"COMMERCIO, INFORMAZIONE, TURISMO E INDUSTRIA ALBERGHIERA",18
+47149,./downloads/47149.txt,./clean/47149.txt,it,3452.0,XVI,21/03/2024,"ENERGIA, FINANZA REGIONALE E LOCALE",19
+47150,./downloads/47150.txt,./clean/47150.txt,fr,3453.0,XVI,21/03/2024,"AMMINISTRAZIONE REGIONALE, Celebrazioni",20
+47151,./downloads/47151.txt,./clean/47151.txt,it,3454.0,XVI,21/03/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",21
+47992,./downloads/47992.txt,./clean/47992.txt,it,4135.0,XVI,21/11/2024,"FINANZA REGIONALE E LOCALE, Partecipazioni azionarie regionali",1
+47993,./downloads/47993.txt,./clean/47993.txt,it,4136.0,XVI,21/11/2024,"ENERGIA, Risparmio energetico e fonti alternative",2
+47994,./downloads/47994.txt,./clean/47994.txt,it,4137.0,XVI,21/11/2024,"ASSISTENZA SOCIALE, Assistenza socio-sanitaria",3
+47995,./downloads/47995.txt,./clean/47995.txt,it,4138.0,XVI,21/11/2024,"PROTEZIONE CIVILE, VIGILI DEL FUOCO E INTERVENTI PER CALAMITÀ NATURALI, Calamità naturali, TURISMO E INDUSTRIA ALBERGHIERA, Contributi, incentivi",4
+47996,./downloads/47996.txt,./clean/47996.txt,it,4139.0,XVI,21/11/2024,"TRASPORTI E VIABILITÀ, Autostrade e trafori alpini",5
+47997,./downloads/47997.txt,./clean/47997.txt,it,4140.0,XVI,21/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Personale medico e paramedico",6
+47998,./downloads/47998.txt,./clean/47998.txt,it,4141.0,XVI,21/11/2024,"CONSIGLIO REGIONALE, Costituzione e funzionamento degli organi consiliari",7
+47999,./downloads/47999.txt,./clean/47999.txt,it,4142.0,XVI,21/11/2024,"ISTRUZIONE PUBBLICA, Università",8
+48000,./downloads/48000.txt,./clean/48000.txt,it,4143.0,XVI,21/11/2024,"ASSISTENZA SOCIALE, Asili nido, ISTRUZIONE PUBBLICA",9
+48001,./downloads/48001.txt,./clean/48001.txt,it,4144.0,XVI,21/11/2024,"BENI CULTURALI, Musei, biblioteche, archivi storici e aree di interesse archeologico",10
+48002,./downloads/48002.txt,./clean/48002.txt,it,4145.0,XVI,21/11/2024,"ASSISTENZA SOCIALE, Asili nido",11
+48003,./downloads/48003.txt,./clean/48003.txt,it,4146.0,XVI,21/11/2024,"INFORMAZIONE, Radiotelecomunicazioni",12
+48004,./downloads/48004.txt,./clean/48004.txt,it,4147.0,XVI,21/11/2024,AGRICOLTURA,13
+48005,./downloads/48005.txt,./clean/48005.txt,it,4148.0,XVI,21/11/2024,CACCIA E PESCA,14
+48006,./downloads/48006.txt,./clean/48006.txt,it,4149.0,XVI,21/11/2024,"SPORT E TEMPO LIBERO, Sport invernali",15
+48007,./downloads/48007.txt,./clean/48007.txt,it,4150.0,XVI,21/11/2024,"CONSULTE COMMISSIONI E ORGANI COLLEGIALI, SPORT E TEMPO LIBERO",16
+48008,./downloads/48008.txt,./clean/48008.txt,it,4151.0,XVI,21/11/2024,"TRASPORTI E VIABILITÀ, Strade di interesse regionale",17
+48009,./downloads/48009.txt,./clean/48009.txt,it,4152.0,XVI,21/11/2024,"ASSETTO DEL TERRITORIO, Difesa ed uso del suolo - Sistemazione idrogeologica",18
+48010,./downloads/48010.txt,./clean/48010.txt,it,4153.0,XVI,21/11/2024,"ASSISTENZA SOCIALE, Alcolismo e tossicodipendenze, Politiche giovanili",19
+48011,./downloads/48011.txt,./clean/48011.txt,it,4154.0,XVI,21/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Presidio ospedaliero",20
+48012,./downloads/48012.txt,./clean/48012.txt,it,4155.0,XVI,21/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Presidio ospedaliero",21
+48013,./downloads/48013.txt,./clean/48013.txt,it,4156.0,XVI,21/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Azienda Regionale Sanitaria - U.S.L.",22
+48014,./downloads/48014.txt,./clean/48014.txt,it,4157.0,XVI,21/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Igiene e sanità pubblica",23
+48015,./downloads/48015.txt,./clean/48015.txt,it,4158.0,XVI,21/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Azienda Regionale Sanitaria - U.S.L.",24
+48016,./downloads/48016.txt,./clean/48016.txt,it,4159.0,XVI,21/11/2024,"SPORT E TEMPO LIBERO, Infrastrutture ricreativo-sportive",25
+48017,./downloads/48017.txt,./clean/48017.txt,it,4160.0,XVI,21/11/2024,CREDITO,26
+48018,./downloads/48018.txt,./clean/48018.txt,it,4161.0,XVI,21/11/2024,"ENTI LOCALI, Comuni",27
+48019,./downloads/48019.txt,./clean/48019.txt,fr,4162.0,XVI,21/11/2024,"SPORT E TEMPO LIBERO, Infrastrutture ricreativo-sportive",28
+48020,./downloads/48020.txt,./clean/48020.txt,it,4163.0,XVI,21/11/2024,"TRASPORTI E VIABILITÀ, Autostrade e trafori alpini",29
+48021,./downloads/48021.txt,./clean/48021.txt,it,4164.0,XVI,21/11/2024,GIUNTA REGIONALE,30
+48022,./downloads/48022.txt,./clean/48022.txt,it,4165.0,XVI,21/11/2024,"ENERGIA, Risparmio energetico e fonti alternative, TURISMO E INDUSTRIA ALBERGHIERA, Ricettività turistica",31
+48023,./downloads/48023.txt,./clean/48023.txt,it,4166.0,XVI,21/11/2024,"ASSISTENZA SOCIALE, Politiche giovanili",32
+48024,./downloads/48024.txt,./clean/48024.txt,it,4167.0,XVI,21/11/2024,"ISTRUZIONE PUBBLICA, Personale docente e non docente",33
+48025,./downloads/48025.txt,./clean/48025.txt,it,4168.0,XVI,21/11/2024,ACQUE,34
+48026,./downloads/48026.txt,./clean/48026.txt,it,4169.0,XVI,21/11/2024,"ENERGIA, Risparmio energetico e fonti alternative",35
+48027,./downloads/48027.txt,./clean/48027.txt,it,4170.0,XVI,21/11/2024,"COMMERCIO, INFORMAZIONE, Sistema informativo",36
+48028,./downloads/48028.txt,./clean/48028.txt,it,4171.0,XVI,21/11/2024,SPORT E TEMPO LIBERO,37
+48029,./downloads/48029.txt,./clean/48029.txt,it,4172.0,XVI,21/11/2024,EDILIZIA,38
+48030,./downloads/48030.txt,./clean/48030.txt,it,4173.0,XVI,21/11/2024,"AMBIENTE, Stoccaggio e smaltimento rifiuti",39
+48031,./downloads/48031.txt,./clean/48031.txt,it,4174.0,XVI,21/11/2024,"TRASPORTI E VIABILITÀ, Viabilità, Strade di interesse regionale",40
+48032,./downloads/48032.txt,./clean/48032.txt,it,4175.0,XVI,21/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Personale medico e paramedico",41
+48033,./downloads/48033.txt,./clean/48033.txt,it,4176.0,XVI,21/11/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Igiene e sanità pubblica",42
+48034,./downloads/48034.txt,./clean/48034.txt,it,4177.0,XVI,21/11/2024,"ASSISTENZA SOCIALE, Famiglia, tutela dell'infanzia",43
+48035,./downloads/48035.txt,./clean/48035.txt,it,4178.0,XVI,21/11/2024,"COMMERCIO, INFORMAZIONE, TURISMO E INDUSTRIA ALBERGHIERA",44
+48036,./downloads/48036.txt,./clean/48036.txt,it,4179.0,XVI,21/11/2024,"TURISMO E INDUSTRIA ALBERGHIERA, Ricettività turistica",45
+48037,./downloads/48037.txt,./clean/48037.txt,it,4180.0,XVI,21/11/2024,"SPORT E TEMPO LIBERO, Infrastrutture ricreativo-sportive",46
+48038,./downloads/48038.txt,./clean/48038.txt,it,4181.0,XVI,21/11/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",47
+47000,./downloads/47000.txt,./clean/47000.txt,it,3348.0,XVI,22/02/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, ENTI LOCALI, ISTRUZIONE PUBBLICA",1
+47001,./downloads/47001.txt,./clean/47001.txt,it,3349.0,XVI,22/02/2024,"ENERGIA, TRASPORTI E VIABILITÀ",2
+47002,./downloads/47002.txt,./clean/47002.txt,it,3350.0,XVI,22/02/2024,STATUTO,3
+47003,./downloads/47003.txt,./clean/47003.txt,it,3351.0,XVI,22/02/2024,ACQUE,4
+47341,./downloads/47341.txt,./clean/47341.txt,it,3616.0,XVI,22/05/2024,UNIONE EUROPEA E RAPPORTI INTERNAZIONALI,1
+47342,./downloads/47342.txt,./clean/47342.txt,it,3617.0,XVI,22/05/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",2
+47343,./downloads/47343.txt,./clean/47343.txt,it,3618.0,XVI,22/05/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",3
+47344,./downloads/47344.txt,./clean/47344.txt,it,3619.0,XVI,22/05/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",4
+47345,./downloads/47345.txt,./clean/47345.txt,it,3620.0,XVI,22/05/2024,"BILANCIO E CONTABILITA' REGIONALE, OPERE PUBBLICHE",5
+47347,./downloads/47347.txt,./clean/47347.txt,fr,3622.0,XVI,22/05/2024,"AMMINISTRAZIONE REGIONALE, Celebrazioni, ATTIVITÀ CULTURALI",6
+47348,./downloads/47348.txt,./clean/47348.txt,it,3623.0,XVI,22/05/2024,"ASSISTENZA SOCIALE, Politiche giovanili, ORDINE PUBBLICO - FORZE ARMATE, Pubblica sicurezza",7
+47349,./downloads/47349.txt,./clean/47349.txt,it,3624.0,XVI,22/05/2024,TURISMO E INDUSTRIA ALBERGHIERA,8
+47350,./downloads/47350.txt,./clean/47350.txt,it,3625.0,XVI,22/05/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Azienda Regionale Sanitaria - U.S.L., Personale medico e paramedico",9
+47351,./downloads/47351.txt,./clean/47351.txt,it,3626.0,XVI,22/05/2024,"FINANZA REGIONALE E LOCALE, Partecipazioni azionarie regionali",10
+47352,./downloads/47352.txt,./clean/47352.txt,it,3627.0,XVI,22/05/2024,"MINORANZE ETNICHE E MOVIMENTI MIGRATORI, Movimenti migratori",11
+47353,./downloads/47353.txt,./clean/47353.txt,it,3628.0,XVI,22/05/2024,"ISTRUZIONE PUBBLICA, Università, TRASPORTI E VIABILITÀ, Autostrade e trafori alpini",12
+47354,./downloads/47354.txt,./clean/47354.txt,it,3629.0,XVI,22/05/2024,"BENI CULTURALI, Musei, biblioteche, archivi storici e aree di interesse archeologico, EDILIZIA, Edilizia pubblica",13
+47355,./downloads/47355.txt,./clean/47355.txt,it,3630.0,XVI,22/05/2024,"AMBIENTE, AMMINISTRAZIONE REGIONALE",14
+47356,./downloads/47356.txt,./clean/47356.txt,it,3631.0,XVI,22/05/2024,"ORDINE PUBBLICO - FORZE ARMATE, Pubblica sicurezza",15
+47357,./downloads/47357.txt,./clean/47357.txt,it,3632.0,XVI,22/05/2024,"FORESTE E TERRITORI MONTANI, Tutela del patrimonio boschivo",16
+47358,./downloads/47358.txt,./clean/47358.txt,it,3633.0,XVI,22/05/2024,"EDILIZIA, Edilizia residenziale, ENERGIA, Risparmio energetico e fonti alternative",17
+47359,./downloads/47359.txt,./clean/47359.txt,it,3634.0,XVI,22/05/2024,"ACQUE, OPERE PUBBLICHE",18
+47360,./downloads/47360.txt,./clean/47360.txt,it,3635.0,XVI,22/05/2024,"AMBIENTE, Inquinamento, FINANZA REGIONALE E LOCALE, Partecipazioni azionarie regionali",19
+47361,./downloads/47361.txt,./clean/47361.txt,it,3636.0,XVI,22/05/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Presidio ospedaliero, INFORMAZIONE, Radiotelecomunicazioni",20
+47362,./downloads/47362.txt,./clean/47362.txt,it,3637.0,XVI,22/05/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Igiene e sanità pubblica, LAVORO, Infortunistica - Previdenza - Tutela della salute",21
+47363,./downloads/47363.txt,./clean/47363.txt,it,3638.0,XVI,22/05/2024,ASSISTENZA SANITARIA E OSPEDALIERA,22
+47364,./downloads/47364.txt,./clean/47364.txt,it,3639.0,XVI,22/05/2024,ASSISTENZA SOCIALE,23
+47365,./downloads/47365.txt,./clean/47365.txt,it,3640.0,XVI,22/05/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Azienda Regionale Sanitaria - U.S.L.",24
+47366,./downloads/47366.txt,./clean/47366.txt,it,3641.0,XVI,22/05/2024,ASSISTENZA SANITARIA E OSPEDALIERA,25
+47367,./downloads/47367.txt,./clean/47367.txt,it,3642.0,XVI,22/05/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Azienda Regionale Sanitaria - U.S.L., ASSISTENZA SOCIALE, Famiglia, tutela dell'infanzia",26
+47368,./downloads/47368.txt,./clean/47368.txt,it,3643.0,XVI,22/05/2024,"MINORANZE ETNICHE E MOVIMENTI MIGRATORI, Movimenti migratori",27
+47369,./downloads/47369.txt,./clean/47369.txt,it,3644.0,XVI,22/05/2024,"TRASPORTI E VIABILITÀ, Autostrade e trafori alpini",28
+47370,./downloads/47370.txt,./clean/47370.txt,it,3645.0,XVI,22/05/2024,"ELEZIONI, PARTECIPAZIONE E INIZIATIVA POPOLARE, Referendum e iniziativa popolare",29
+47371,./downloads/47371.txt,./clean/47371.txt,it,3646.0,XVI,22/05/2024,"TRASPORTI E VIABILITÀ, Viabilità",30
+47372,./downloads/47372.txt,./clean/47372.txt,it,3647.0,XVI,22/05/2024,"TRASPORTI E VIABILITÀ, Autostrade e trafori alpini",31
+47373,./downloads/47373.txt,./clean/47373.txt,it,3648.0,XVI,22/05/2024,"PROTEZIONE CIVILE, VIGILI DEL FUOCO E INTERVENTI PER CALAMITÀ NATURALI, Vigili del fuoco - Difesa antincendi, TRASPORTI E VIABILITÀ, Aeroporti",32
+47374,./downloads/47374.txt,./clean/47374.txt,it,3649.0,XVI,22/05/2024,"ENERGIA, Energia idroelettrica, FINANZA REGIONALE E LOCALE, Partecipazioni azionarie regionali",33
+47375,./downloads/47375.txt,./clean/47375.txt,it,3650.0,XVI,22/05/2024,"ISTRUZIONE PUBBLICA, Personale docente e non docente",34
+47376,./downloads/47376.txt,./clean/47376.txt,it,3651.0,XVI,22/05/2024,"AMBIENTE, Flora e fauna",35
+47377,./downloads/47377.txt,./clean/47377.txt,it,3652.0,XVI,22/05/2024,"ENERGIA, Risparmio energetico e fonti alternative",36
+47378,./downloads/47378.txt,./clean/47378.txt,it,3653.0,XVI,22/05/2024,"SPORT E TEMPO LIBERO, Infrastrutture ricreativo-sportive",37
+47379,./downloads/47379.txt,./clean/47379.txt,it,3654.0,XVI,22/05/2024,"TRASPORTI E VIABILITÀ, Impianti a fune",38
+47380,./downloads/47380.txt,./clean/47380.txt,it,3655.0,XVI,22/05/2024,"SPORT E TEMPO LIBERO, TRASPORTI E VIABILITÀ, Trasporti",39
+47346,./downloads/47346.txt,./clean/47346.txt,fr,,,22/05/2024,"BENI CULTURALI, Interventi vari",40
+47381,./downloads/47381.txt,./clean/47381.txt,it,3656.0,XVI,23/05/2024,"EDILIZIA, Edilizia residenziale",1
+47382,./downloads/47382.txt,./clean/47382.txt,it,3657.0,XVI,23/05/2024,"AMBIENTE, Inquinamento",2
+47383,./downloads/47383.txt,./clean/47383.txt,it,3658.0,XVI,23/05/2024,"EDILIZIA, Edilizia pubblica",3
+47384,./downloads/47384.txt,./clean/47384.txt,it,3659.0,XVI,23/05/2024,"ASSISTENZA SOCIALE, Assistenza socio-sanitaria",4
+47385,./downloads/47385.txt,./clean/47385.txt,it,3660.0,XVI,23/05/2024,"SANITÀ VETERINARIA E ZOOTECNIA, Sanità veterinaria",5
+47386,./downloads/47386.txt,./clean/47386.txt,it,3661.0,XVI,23/05/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Piano socio-sanitario regionale, RICERCA",6
+47387,./downloads/47387.txt,./clean/47387.txt,it,3662.0,XVI,23/05/2024,"ASSISTENZA SOCIALE, Assistenza socio-sanitaria",7
+47388,./downloads/47388.txt,./clean/47388.txt,it,3663.0,XVI,23/05/2024,"ASSISTENZA SOCIALE, Assistenza socio-sanitaria",8
+47389,./downloads/47389.txt,./clean/47389.txt,it,3664.0,XVI,23/05/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Azienda Regionale Sanitaria - U.S.L.",9
+47390,./downloads/47390.txt,./clean/47390.txt,it,3665.0,XVI,23/05/2024,"ASSISTENZA SOCIALE, Famiglia, tutela dell'infanzia",10
+47391,./downloads/47391.txt,./clean/47391.txt,it,3666.0,XVI,23/05/2024,"SPORT E TEMPO LIBERO, Infrastrutture ricreativo-sportive",11
+47392,./downloads/47392.txt,./clean/47392.txt,it,3667.0,XVI,23/05/2024,"SPORT E TEMPO LIBERO, TRASPORTI E VIABILITÀ, Viabilità",12
+47393,./downloads/47393.txt,./clean/47393.txt,it,3668.0,XVI,23/05/2024,CACCIA E PESCA,13
+47394,./downloads/47394.txt,./clean/47394.txt,it,3669.0,XVI,23/05/2024,"AMBIENTE, Flora e fauna, CACCIA E PESCA",14
+47395,./downloads/47395.txt,./clean/47395.txt,it,3670.0,XVI,23/05/2024,"EDILIZIA, Edilizia residenziale",15
+47396,./downloads/47396.txt,./clean/47396.txt,it,3671.0,XVI,23/05/2024,"ASSISTENZA SOCIALE, Famiglia, tutela dell'infanzia",16
+47397,./downloads/47397.txt,./clean/47397.txt,it,3672.0,XVI,23/05/2024,"ASSISTENZA SOCIALE, Famiglia, tutela dell'infanzia",17
+47601,./downloads/47601.txt,./clean/47601.txt,it,3816.0,XVI,23/07/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",1
+47602,./downloads/47602.txt,./clean/47602.txt,fr,3817.0,XVI,23/07/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",2
+47603,./downloads/47603.txt,./clean/47603.txt,it,3818.0,XVI,23/07/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",3
+47604,./downloads/47604.txt,./clean/47604.txt,it,3819.0,XVI,23/07/2024,BILANCIO E CONTABILITA' REGIONALE,4
+47605,./downloads/47605.txt,./clean/47605.txt,it,3820.0,XVI,23/07/2024,BILANCIO E CONTABILITA' REGIONALE,5
+47606,./downloads/47606.txt,./clean/47606.txt,it,3821.0,XVI,23/07/2024,BILANCIO E CONTABILITA' REGIONALE,6
+47607,./downloads/47607.txt,./clean/47607.txt,it,3822.0,XVI,23/07/2024,BILANCIO E CONTABILITA' REGIONALE,7
+47608,./downloads/47608.txt,./clean/47608.txt,it,3823.0,XVI,23/07/2024,"INFORMAZIONE, Radiotelecomunicazioni",8
+47609,./downloads/47609.txt,./clean/47609.txt,it,3824.0,XVI,23/07/2024,"ENERGIA, Risparmio energetico e fonti alternative",9
+47610,./downloads/47610.txt,./clean/47610.txt,it,3825.0,XVI,23/07/2024,"SPORT E TEMPO LIBERO, Manifestazioni sportive",10
+47611,./downloads/47611.txt,./clean/47611.txt,it,3826.0,XVI,23/07/2024,ISTRUZIONE PUBBLICA,11
+47621,./downloads/47621.txt,./clean/47621.txt,it,3827.0,XVI,24/07/2024,"ENTI LOCALI, Comuni",1
+47622,./downloads/47622.txt,./clean/47622.txt,it,3828.0,XVI,24/07/2024,"OPERE PUBBLICHE, SPORT E TEMPO LIBERO",2
+47623,./downloads/47623.txt,./clean/47623.txt,fr,3829.0,XVI,24/07/2024,"AMMINISTRAZIONE REGIONALE, Celebrazioni",3
+47624,./downloads/47624.txt,./clean/47624.txt,it,3830.0,XVI,24/07/2024,"FINANZA REGIONALE E LOCALE, Partecipazioni azionarie regionali",4
+47625,./downloads/47625.txt,./clean/47625.txt,it,3831.0,XVI,24/07/2024,CASA DA GIOCO,5
+47626,./downloads/47626.txt,./clean/47626.txt,it,3832.0,XVI,24/07/2024,"AMBIENTE, Parchi, riserve naturali, aree protette e attrezzate",6
+47627,./downloads/47627.txt,./clean/47627.txt,it,3833.0,XVI,24/07/2024,"TRASPORTI E VIABILITÀ, Trasporti",7
+47628,./downloads/47628.txt,./clean/47628.txt,it,3834.0,XVI,24/07/2024,ARTIGIANATO,8
+47629,./downloads/47629.txt,./clean/47629.txt,it,3835.0,XVI,24/07/2024,"TRASPORTI E VIABILITÀ, Impianti a fune",9
+47630,./downloads/47630.txt,./clean/47630.txt,it,3836.0,XVI,24/07/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Igiene e sanità pubblica",10
+47631,./downloads/47631.txt,./clean/47631.txt,it,3837.0,XVI,24/07/2024,ASSISTENZA SANITARIA E OSPEDALIERA,11
+47632,./downloads/47632.txt,./clean/47632.txt,it,3838.0,XVI,24/07/2024,"ASSISTENZA SOCIALE, Alcolismo e tossicodipendenze",12
+47633,./downloads/47633.txt,./clean/47633.txt,it,3839.0,XVI,24/07/2024,ASSISTENZA SANITARIA E OSPEDALIERA,13
+47634,./downloads/47634.txt,./clean/47634.txt,it,3840.0,XVI,24/07/2024,"ASSISTENZA SOCIALE, Alcolismo e tossicodipendenze",14
+47635,./downloads/47635.txt,./clean/47635.txt,it,3841.0,XVI,24/07/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Azienda Regionale Sanitaria - U.S.L., PARTECIPAZIONE E INIZIATIVA POPOLARE, Tutela dei cittadini",15
+47636,./downloads/47636.txt,./clean/47636.txt,it,3842.0,XVI,24/07/2024,"ENERGIA, Risparmio energetico e fonti alternative, FINANZA REGIONALE E LOCALE, Partecipazioni azionarie regionali",16
+47637,./downloads/47637.txt,./clean/47637.txt,it,3843.0,XVI,24/07/2024,CASA DA GIOCO,17
+47638,./downloads/47638.txt,./clean/47638.txt,it,3844.0,XVI,24/07/2024,"ASSISTENZA SOCIALE, Assistenza socio-sanitaria, STATUTO",18
+47639,./downloads/47639.txt,./clean/47639.txt,it,3845.0,XVI,24/07/2024,"ENTI LOCALI, Comuni",19
+47640,./downloads/47640.txt,./clean/47640.txt,it,3846.0,XVI,24/07/2024,DEMANIO E PATRIMONIO REGIONALE,20
+47641,./downloads/47641.txt,./clean/47641.txt,it,3847.0,XVI,24/07/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Servizio di emergenza sanitaria (118)",21
+47642,./downloads/47642.txt,./clean/47642.txt,it,3848.0,XVI,24/07/2024,"OPERE PUBBLICHE, TRASPORTI E VIABILITÀ, Autostrade e trafori alpini",22
+47661,./downloads/47661.txt,./clean/47661.txt,it,3849.0,XVI,24/07/2024,"ASSETTO DEL TERRITORIO, Difesa ed uso del suolo - Sistemazione idrogeologica, COMMERCIO, TURISMO E INDUSTRIA ALBERGHIERA",23
+47662,./downloads/47662.txt,./clean/47662.txt,it,3850.0,XVI,24/07/2024,"TRASPORTI E VIABILITÀ, Autostrade e trafori alpini",24
+47663,./downloads/47663.txt,./clean/47663.txt,it,3851.0,XVI,24/07/2024,"PROTEZIONE CIVILE, VIGILI DEL FUOCO E INTERVENTI PER CALAMITÀ NATURALI, Calamità naturali, TRASPORTI E VIABILITÀ, Trasporti",25
+47664,./downloads/47664.txt,./clean/47664.txt,it,3852.0,XVI,24/07/2024,"BENI CULTURALI, PROTEZIONE CIVILE, VIGILI DEL FUOCO E INTERVENTI PER CALAMITÀ NATURALI, Vigili del fuoco - Difesa antincendi",26
+47665,./downloads/47665.txt,./clean/47665.txt,it,3853.0,XVI,24/07/2024,"BENI CULTURALI, Musei, biblioteche, archivi storici e aree di interesse archeologico",27
+47666,./downloads/47666.txt,./clean/47666.txt,fr,3854.0,XVI,24/07/2024,"BENI CULTURALI, Musei, biblioteche, archivi storici e aree di interesse archeologico",28
+47667,./downloads/47667.txt,./clean/47667.txt,it,3855.0,XVI,24/07/2024,"ISTRUZIONE PUBBLICA, Personale docente e non docente",29
+47668,./downloads/47668.txt,./clean/47668.txt,it,3856.0,XVI,24/07/2024,RICERCA,30
+47669,./downloads/47669.txt,./clean/47669.txt,it,3857.0,XVI,24/07/2024,"ASSETTO DEL TERRITORIO, Difesa ed uso del suolo - Sistemazione idrogeologica, ISTRUZIONE PUBBLICA, Università",31
+47670,./downloads/47670.txt,./clean/47670.txt,it,3858.0,XVI,24/07/2024,"BENI CULTURALI, Musei, biblioteche, archivi storici e aree di interesse archeologico",32
+47671,./downloads/47671.txt,./clean/47671.txt,it,3859.0,XVI,24/07/2024,ISTRUZIONE PUBBLICA,33
+47672,./downloads/47672.txt,./clean/47672.txt,it,3860.0,XVI,24/07/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",34
+47673,./downloads/47673.txt,./clean/47673.txt,it,3861.0,XVI,24/07/2024,"FORESTE E TERRITORI MONTANI, Tutela del patrimonio boschivo",35
+47674,./downloads/47674.txt,./clean/47674.txt,it,3862.0,XVI,24/07/2024,"AGRICOLTURA, AMBIENTE, Flora e fauna",36
+47675,./downloads/47675.txt,./clean/47675.txt,it,3863.0,XVI,24/07/2024,"TRASPORTI E VIABILITÀ, Trasporti, Autostrade e trafori alpini",37
+47676,./downloads/47676.txt,./clean/47676.txt,it,3864.0,XVI,24/07/2024,"TRASPORTI E VIABILITÀ, Trasporti",38
+47677,./downloads/47677.txt,./clean/47677.txt,it,3865.0,XVI,24/07/2024,"OPERE PUBBLICHE, TRASPORTI E VIABILITÀ, Trasporti",39
+47678,./downloads/47678.txt,./clean/47678.txt,it,3866.0,XVI,24/07/2024,"TRASPORTI E VIABILITÀ, Viabilità",40
+47679,./downloads/47679.txt,./clean/47679.txt,it,3867.0,XVI,24/07/2024,"AMBIENTE, Parchi, riserve naturali, aree protette e attrezzate, INFORMAZIONE, Sistema informativo",41
+47680,./downloads/47680.txt,./clean/47680.txt,it,3868.0,XVI,24/07/2024,"ACQUE, Acque pubbliche",42
+47681,./downloads/47681.txt,./clean/47681.txt,it,3869.0,XVI,25/07/2024,"TRASPORTI E VIABILITÀ, Viabilità",1
+47682,./downloads/47682.txt,./clean/47682.txt,it,3870.0,XVI,25/07/2024,"ACQUE, Acque minerali e termali, CAVE, MINIERE E TORBIERE",2
+47683,./downloads/47683.txt,./clean/47683.txt,it,3871.0,XVI,25/07/2024,"EDILIZIA, Edilizia pubblica, ISTRUZIONE PUBBLICA",3
+47684,./downloads/47684.txt,./clean/47684.txt,it,3872.0,XVI,25/07/2024,OPERE PUBBLICHE,4
+47685,./downloads/47685.txt,./clean/47685.txt,it,3873.0,XVI,25/07/2024,ASSISTENZA SANITARIA E OSPEDALIERA,5
+47686,./downloads/47686.txt,./clean/47686.txt,it,3874.0,XVI,25/07/2024,ASSISTENZA SANITARIA E OSPEDALIERA,6
+47687,./downloads/47687.txt,./clean/47687.txt,it,3875.0,XVI,25/07/2024,"ASSISTENZA SOCIALE, Assistenza socio-sanitaria",7
+47688,./downloads/47688.txt,./clean/47688.txt,it,3876.0,XVI,25/07/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, Personale medico e paramedico",8
+47689,./downloads/47689.txt,./clean/47689.txt,it,3877.0,XVI,25/07/2024,"ASSISTENZA SOCIALE, Assistenza socio-sanitaria",9
+47690,./downloads/47690.txt,./clean/47690.txt,it,3878.0,XVI,25/07/2024,ASSISTENZA SANITARIA E OSPEDALIERA,10
+47691,./downloads/47691.txt,./clean/47691.txt,it,3879.0,XVI,25/07/2024,ASSISTENZA SANITARIA E OSPEDALIERA,11
+47692,./downloads/47692.txt,./clean/47692.txt,it,3880.0,XVI,25/07/2024,ASSISTENZA SANITARIA E OSPEDALIERA,12
+47701,./downloads/47701.txt,./clean/47701.txt,it,3881.0,XVI,25/07/2024,"ASSISTENZA SOCIALE, Assistenza socio-sanitaria",13
+47702,./downloads/47702.txt,./clean/47702.txt,it,3882.0,XVI,25/07/2024,ASSISTENZA SANITARIA E OSPEDALIERA,14
+47703,./downloads/47703.txt,./clean/47703.txt,it,3883.0,XVI,25/07/2024,"TURISMO E INDUSTRIA ALBERGHIERA, Ricettività turistica",15
+47704,./downloads/47704.txt,./clean/47704.txt,it,3884.0,XVI,25/07/2024,STATUTO,16
+47705,./downloads/47705.txt,./clean/47705.txt,it,3885.0,XVI,25/07/2024,STATUTO,17
+47706,./downloads/47706.txt,./clean/47706.txt,it,3886.0,XVI,25/07/2024,"TRASPORTI E VIABILITÀ, Trasporti",18
+47707,./downloads/47707.txt,./clean/47707.txt,it,3887.0,XVI,25/07/2024,"CONSIGLIO REGIONALE, Attività consiliare d'aula",19
+47708,./downloads/47708.txt,./clean/47708.txt,it,3888.0,XVI,25/07/2024,CASA DA GIOCO,20
+47709,./downloads/47709.txt,./clean/47709.txt,it,3889.0,XVI,25/07/2024,TURISMO E INDUSTRIA ALBERGHIERA,21
+47710,./downloads/47710.txt,./clean/47710.txt,it,3890.0,XVI,25/07/2024,"TRASPORTI E VIABILITÀ, Trasporti",22
+47711,./downloads/47711.txt,./clean/47711.txt,it,3891.0,XVI,25/07/2024,"ASSETTO DEL TERRITORIO, Urbanistica e pianificazione territoriale, EDILIZIA, Centri storici",23
+47712,./downloads/47712.txt,./clean/47712.txt,it,3892.0,XVI,25/07/2024,"ASSISTENZA SANITARIA E OSPEDALIERA, ASSISTENZA SOCIALE, Famiglia, tutela dell'infanzia",24
+47713,./downloads/47713.txt,./clean/47713.txt,it,3893.0,XVI,25/07/2024,TURISMO E INDUSTRIA ALBERGHIERA,25

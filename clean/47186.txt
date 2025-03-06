@@ -1,0 +1,154 @@
+Classificazione
+ASSISTENZA SANITARIA E OSPEDALIERA
+Piano socio-sanitario regionale
+INFORMAZIONE
+Radiotelecomunicazioni
+
+
+
+Oggetto del Consiglio n. 3480 del 3 aprile 2024 - Resoconto
+OGGETTO N. 3480/XVI - Interrogazione: "Progettualità volte a
+sviluppare l'utilizzo dell'intelligenza artificiale nel sistema
+sanitario regionale".
+Marguerettaz (Presidente) -
+Punto n. 21 all'ordine del
+giorno. Per la risposta, la parola all'Assessore Marzi.
+Marzi (SA) -
+Le domande sono: "quale sia ad oggi il
+livello di utilizzo dell'intelligenza artificiale nell'ambito del
+nostro sistema sanitario regionale e se l'Azienda sanitaria USL sia
+a conoscenza del progetto citato nell'articolo e/o se sia ad oggi
+coinvolta in progettualità volte a sviluppare l'utilizzo
+dell'intelligenza artificiale nell'ambito del nostro sistema
+sanitario". Con il continuo rinnovamento del suo parco strumentale,
+l'Azienda ricorre sempre più di frequente con importanza alla
+dotazione di dispositivi e applicazioni di intelligenza
+artificiale. Ad oggi sono installate e utilizzate applicazioni di
+intelligenza artificiale nella nuova risonanza magnetica,
+collaudata lo scorso mese di novembre, anche la nuova TAC, 128
+strati in corso di installazione, finanziata quota parte con fondi
+PNRR, sarà caratterizzata da tecnologie che fanno ricorso a modelli
+di intelligenza artificiale. L'Azienda USL ha inoltre in procinto
+di aggiornare tecnologicamente il parco apparecchiature
+dell'endoscopia digestiva inserendo strumenti di intelligenza
+artificiale. Quest'ultima operazione rientra, tra l'altro,
+nell'ambito del progetto transfrontaliero denominato "FRIDHA"
+(Formation et Réseau Intégré d'Hôpitaux Alpins), che abbiamo già
+citato in risposta a una precedente iniziativa sul tema. Il
+progetto è finanziato dal programma Interreg Italia-Francia Alcotrà
+e vede l'Azienda sanitaria valdostana capofila di un partenariato
+con gli Hôpitaux du Pays du Mont-Blanc, di Chamonix, Sallanches. Il
+progetto, volto a mettere in rete i servizi sanitari
+transfrontalieri per migliorare l'offerta nel settore della
+diagnostica delle patologie dell'apparato digerente e il
+trattamento chirurgico assistito da robot, prevede infatti anche
+l'ampliamento delle dotazioni tecnologiche con ricorso a strumenti
+di intelligenza artificiale.
+Sempre nell'ambito dei modelli dell'intelligenza artificiale,
+l'Azienda ha inoltre fatto ricorso ai cosiddetti "algoritmi" di
+Machine Learning
+ad apprendimento automatico, con
+l'obiettivo di stratificare la popolazione per patologia. Il
+Machine Learning è una branca dell'intelligenza artificiale che si
+basa sull'idea che i sistemi possono imparare dai dati,
+identificare modelli autonomamente, prendere decisioni con un
+intervento umano ridotto al minimo. Tale attività è stata condotta
+a partire dal 2018 nell'ambito del progetto "MISMI" (Modello
+Integrato di Salute per una Montagna Inclusiva); in base ai dati
+del progetto MISMI ha quindi consentito di sperimentare
+l'elaborazione dei cosiddetti "dati sintetici", cioè dati
+artificiali generati da algoritmi, opportunamente addestrati a
+riprodurre le caratteristiche e la struttura dei dati originali,
+realizzando un primo modello di stratificazione per patologie della
+popolazione. L'obiettivo del progetto era quello di attuare la
+medicina d'iniziativa suddividendo la popolazione per gruppi di
+patologia e valorizzando in particolar modo la presa in carico dei
+pazienti cronici o potenzialmente cronici da parte dei medici di
+famiglia, con l'obiettivo di svolgere attività di prevenzione,
+evitare l'avanzamento delle malattie e successivamente anche il
+ricorso ai servizi ospedalieri. Il progetto ha tuttavia dovuto
+essere sospeso poiché le nuove norme statali intervenute in materia
+di
+privacy
+hanno demandato la competenza relativa alla
+stratificazione della popolazione al Ministero della salute. Il
+Ministero pertanto dovrà disciplinare in dettaglio le attività che
+dovranno essere svolte a livello centrale e quelle che invece
+potranno essere eseguite a livello regionale territoriale da parte
+delle Regioni. Ad oggi, nonostante i numerosi solleciti formulati
+dalle Regioni tutte, si rimane in attesa delle disposizioni che
+devono essere emanate a livello centrale.
+Relativamente alla piattaforma di Agenas citata
+nell'interrogazione, apprezziamo le potenzialità che la medesima
+potrà mettere a disposizione dei servizi sanitari regionali,
+evidenziamo tuttavia che nei mesi scorsi, a causa dei rilievi
+promossi dal Garante della privacy, Agenas ha dovuto sospendere la
+procedura di gara che era in corso. Questo fatto, unitamente ad
+altre tematiche che hanno contenuto di dati personali degli
+assistiti, attesa la delicatezza della materia e la necessità di
+regole chiare e condivise, ad oggi ancora assenti, con l'Autorità
+garante per la protezione dei dati personali.
+Come abbiamo già avuto modo di dire in quest'aula, collega
+Aggravi, anche con lei su questo tema, il tema privacy ad oggi
+risulta essere il nodo centrale rispetto alla gestione di tutto
+quello che ha a che fare con l'intelligenza artificiale nel mondo
+sanitario.
+Presidente -
+Per la replica, la parola al collega
+Aggravi.
+Aggravi (RV) -
+Sicuramente, quando si parla di
+intelligenza artificiale, la maggior parte di noi ha in mente scene
+di film fantascientifici, in realtà l'intelligenza artificiale è
+già nel comune utilizzo non soltanto di dispositivi che tutti i
+giorni e in tutti i minuti anche della nostra vita utilizziamo, ma
+anche laddove pensiamo che non ci sia.
+La chiusura della risposta dell'Assessore apre un tema
+estremamente complesso, come anche lo si evince dalla stessa
+risposta e in parte anche occupandosi del tema, che riguarda
+appunto la sicurezza della gestione e della custodia dei dati
+personali. In tal senso abbiamo delle situazioni quasi paradossali,
+abbiamo citato in quest'aula il famoso tema degli
+omissis
+,
+laddove si richiamava la normativa della
+privacy
+quasi
+all'estremo, dall'altro lato invece ci si rende conto, magari in
+corso d'opera, che non si sono definiti dei paletti o delle misure
+di riservatezza nella gestione magari di una procedura oppure di
+una ricerca o di un progetto e in parte questo è il caso.
+Dall'altra, come nel caso della centralizzazione della competenza,
+ad esempio, in questo caso sul Ministero della salute, ma potremmo
+parlare di tanti altri casi, bloccando lo sviluppo, perché poi alla
+fine, quando non si sa che cosa fare, si centralizza e poi però
+mancano le disposizioni attuative e le disposizioni da parte del
+centro. Sul discorso privacy abbiamo anche situazioni molto più
+semplici, come banalmente - e l'Assessore lo sa - laddove se
+vogliamo mettere in collegamento più medici di medicina generale,
+poi però dobbiamo permettere ai singoli colleghi di poter accedere
+ai dati del paziente nel momento in cui il collega non c'è e anche
+lì abbiamo un tema di privacy, senza dover andare a richiamare gli
+scritti di Asimov, cioè in maniera molto più semplice.
+Ci spiace che una progettualità, che poteva avere, almeno dalle
+premesse, un
+appeal
+, si sia sostanzialmente sospesa per
+questioni chiamiamole burocratiche o regolamentari, ci auguriamo
+che, al di là della giusta salvaguardia della privacy di tutti i
+nostri dati, in particolare anche di quelli più sensibili tra i
+dati sensibili che riguardano la parte sanitaria, questo però non
+impedisca la possibilità di evolversi soprattutto laddove, con
+tecniche di
+Machine Learning
+, si possa andare anche
+banalmente a mettere insieme delle conoscenze che a volte ci sono
+nell'ambito delle pubblicazioni scientifiche o quant'altro, per
+permettere non soltanto alle macchine di imparare, ma anche ai
+nostri medici di poter essere più proattivi e più aggiornati di
+sempre.
+Presidente -
+Direi che vista l'ora, possiamo chiudere i
+lavori di questa mattina. Riprendiamo alle ore 15:00.
+---
+La seduta termina alle ore 12:54.
