@@ -1,0 +1,348 @@
+Classificazione
+ENERGIA
+Risparmio energetico e fonti alternative
+INDUSTRIA
+TRASPORTI E VIABILITÀ
+Trasporti
+
+
+
+Oggetto del Consiglio n. 3270 del 8 febbraio 2024 - Resoconto
+OGGETTO N. 3270/XVI - Interpellanza: "Eventuale revisione
+degli indirizzi per l'utilizzo dell'idrogeno nel settore
+industriale piuttosto che nel trasporto pubblico locale".
+Bertin (Presidente) -
+Punto n. 79. Consigliera Minelli,
+ne ha facoltà.
+Minelli (PCP) -
+Nel 2022, con la deliberazione n. 1570,
+la Giunta regionale ha definito le prime linee di indirizzo per
+l'utilizzo dell'idrogeno.
+In questo documento sono state date delle indicazioni per il
+settore dei trasporti e non sull'utilizzazione dell'idrogeno in
+campo industriale.
+Le linee guida escludono, correttamente e logicamente, d'altra
+parte, la possibilità di utilizzo in campo di trasporto ferroviario
+in Valle d'Aosta, ma sostengono l'opzione di un ampio utilizzo nel
+trasporto su gomma e prevedono la sostituzione progressiva del
+parco autobus attuale, circa 160 mezzi, con autobus a idrogeno.
+Eppure, ci sono vari studi scientifici che sono stati recepiti
+anche dal Ministero delle infrastrutture e dei trasporti che
+evidenziano concordemente che gli autobus a idrogeno hanno dei
+costi superiori a quelli elettrici e inoltre consumano più energia
+all'origine, per ottenere ovviamente il combustibile, inoltre hanno
+costi di gestione decisamente superiori.
+Cercando di documentarmi sull'argomento, ho letto le conclusioni
+di un'indagine sul campo condotta da Eurac Research a Bolzano
+pubblicata sulla rivista "Quale energia" del 15 settembre 2023.
+L'indagine si è svolta su una flotta di ventuno autobus, di cui
+dodici a idrogeno e nove elettrici, in servizio di trasporto
+pubblico nelle aree urbane ed extraurbane della Provincia Autonoma
+di Bolzano.
+La conclusione di quest'indagine è stata che gli autobus a
+idrogeno consumano il 145% in più di energia rispetto a quelli
+elettrici e hanno dei costi di gestione di 2,3 volte superiori a
+parità di distanza coperta.
+Dalla lettura di questo studio, si evince anche con una
+determinata quantità d'energia, con un autobus a idrogeno percorro
+100 km, con uno elettrico ne percorro 230.
+Visto che il costo dell'energia è noto, così come il numero di
+chilometri percorsi in un anno dalla flotta di autobus, si fa
+presto a quantificare il risparmio dei bus elettrici; inoltre, va
+ricordato che gli autobus a idrogeno sono mossi da motori
+elettrici, alimentati però da celle a combustibile anziché da
+batterie (sappiamo che l'idrogeno non viene bruciato nei motori a
+scoppio).
+Secondo gli scienziati solo il 30%, o poco più, mi pare il 32%,
+dell'energia elettrica che viene utilizzata per separare l'idrogeno
+dall'ossigeno, quindi per il fenomeno dell'elettrolisi
+dell'idrogeno, finisce alle ruote, soltanto il 30% finisce alle
+ruote, contro il 78-80% degli autobus elettrici a batteria.
+A me sembrano dei dati abbastanza significativi che bisogna
+tenere in considerazione. Però, senza andare a scomodare ricerche
+fatte altrove, se noi prendiamo semplicemente la dichiarazione di
+sintesi che è allegata al nostro PEAR (Piano Energetico Ambientale
+Regionale) - che è in discussione in questo periodo e che ci è
+stato illustrato in Commissione -, ci sono tutte le osservazioni
+pervenute in fase di VAS (Valutazione Ambientale Strategica) del
+piano, a pagina 51 c'è un'osservazione di ARPA che riporta quello
+che è scritto nel
+report
+del Ministero, report intitolato
+"Decarbonizzare i trasporti" risalente ad aprile 2022.
+Cosa c'è scritto?
+A) per il trasporto urbano, l'elettrificazione diretta con mezzi
+a batteria è attualmente la soluzione più efficace dal punto di
+vista energetico, con le migliori
+chance
+di abbattere le
+emissioni di CO2 e di farlo in modo economicamente vantaggioso;
+B) l'elettrificazione diretta a costi operativi inferiori
+rispetto ad alternative;
+C) l'idrogeno non appare un'opzione prioritaria in termini di
+commercializzazione, nel caso di TPL (Trasporto Pubblico Locale) su
+strada, almeno nel prossimo decennio e probabilmente anche
+oltre.
+La Regione ha invece scelto di indirizzare verso i bus a
+idrogeno, piuttosto che verso bus elettrici, l'utilizzo del fondo
+di 1 milione e 115 mila euro assegnati al Comune di Aosta per
+l'acquisto di autobus a emissione zero, e questo ha portato ad un
+esito fallimentare, con due gare che sono andate deserte e alla
+conseguente - io temo quasi certa - perdita del finanziamento PNRR
+(Piano Nazionale di Ripresa e Resilienza).
+Al di là di questo elemento che comunque è da tenere in
+considerazione, abbiamo cercato di approfondire ulteriormente la
+questione e abbiamo constatato che la maggior parte delle flotte
+pubbliche europee - parlo degli autobus - sceglie l'elettrico
+anziché l'idrogeno. Gli ultimi dati sulle immatricolazioni di
+autobus definiti ecologici in Europa sono del 2022, si possono
+trovare sul sito www.autobusweb.com e ho trovato che sono stati
+immatricolati nel 2022 4.152 autobus elettrici, esclusi i filobus,
+3.274 autobus a metano, 2.018 autobus ibridi, 99 autobus a
+idrogeno, dunque nel 2022 sono stati il 2,3% del mercato degli
+autobus a emissioni zero, che sono quindi o elettrici o a
+idrogeno.
+Abbiamo letto nei giorni scorsi, su un articolo, mi pare, de La
+Stampa, che il problema della gara deserta sarebbe attribuibile ad
+un problema di misure fuori
+standard
+degli autobus
+disponibili, però i dati che ho citato e che ho trovato dimostrano
+che, quantomeno, non è un problema solo di misure, ma piuttosto di
+un mercato che è davvero di nicchia.
+Riguardo ai costi, non abbiamo dei dati certi, io non li ho
+trovati, su quanto costi un autobus a idrogeno, ma alcune delle
+fonti consultate su internet, in rete, riferivano il 50% in più di
+un autobus elettrico, e credo che sia abbastanza verosimile,
+perché, dalle informazioni che ho cercato di trovare, la tecnologia
+a celle di combustibile è complessa e quindi è più costosa.
+Per quanto riguarda la seconda gara effettuata in Valle e andata
+deserta, almeno stando alle informazioni che ha riportato Gazzetta
+Matin (perché io dei comunicati ufficiali non ne ho visti), questa
+gara andata deserta è stata oggetto di un commento su una rivista
+specializzata che si chiama "Idro News"; il giornalista evidenzia
+alcune perplessità e dice: "Non è chiaro, perché questo non viene
+precisato da nessuna parte nella documentazione ufficiale né
+comunicato in altro modo dalla società, che si tratti di una nuova
+procedura per due ulteriori mezzi o se invece sia la seconda
+edizione dello stesso bando dopo che il primo si era concluso senza
+esito, anche se, a giudicare dalla perfetta identità di tutti i
+dettagli, risulta probabile l'ipotesi di una nuova gara per gli
+stessi due bus a idrogeno", quindi anche sulle comunicazioni di
+questa gara, mi sembra che non è che ci sia stata grande chiarezza,
+e magari questa è anche una delle motivazioni che hanno portato a
+questa situazione, non lo so.
+Ancora una cosa, vorrei portare all'attenzione un articolo che è
+stato pubblicato nel 2022 su una rivista che si chiama "Nature" ed
+è stato tradotto da "Le Scienze", secondo cui il principale impiego
+sensato dell'idrogeno oggi, nell'epoca che stiamo vivendo, è nel
+settore industriale, in particolare in quello siderurgico, mentre è
+privo di giustificazioni nell'utilizzo dei trasporti.
+Un altro impiego significativo sembrerebbe essere quello
+dell'immagazzinamento di energia prodotta da fonti rinnovabili
+discontinue, come il solare e l'eolico.
+Insomma, un po' alla luce di tutte queste considerazioni, che
+qualcuno giudicherà ideologiche, ma non possono esserlo perché sono
+frutto di studi scientifici, noi crediamo che occorra quantomeno
+fermarsi un attimo e rivedere quelle linee di indirizzo che sono
+contenute nella delibera 1570, in particolare indirizzando
+l'utilizzo di un'eventuale produzione di idrogeno dal TPL al
+settore industriale per abbattere le emissioni dei processi
+produttivi, per esempio potrebbero essere quelle della Cogne.
+Quindi, ciò che chiede l'interpellanza è se si condivide
+l'opportunità di ragionare un attimo, di rivedere gli indirizzi per
+l'utilizzo dell'idrogeno in Valle d'Aosta concentrandosi
+maggiormente sul settore industriale piuttosto che sul trasporto
+pubblico locale.
+Presidente -
+Risponde l'assessore Bertschy.
+Bertschy (AV-VdA Unie) -
+L'interpellanza cita una serie
+di documenti che, in maniera anche un po' strumentale, vengono
+utilizzati per sostenere la tesi che io non sto a discutere, nel
+senso che è frutto di una visione politica ideologica sostenuta da
+alcuni dati che voi avete portato all'attenzione. Dispiace che,
+però, poi ci si dimentichi anche di tutto il resto, degli studi che
+stanno avanzando, che non negano che il costo dell'idrogeno oggi è
+ovviamente elevato, perché è in una fase iniziale a livello di
+produzione, anche di industriale nei vari settori, non negano tutta
+una serie di difficoltà ma evidenziano alcuni aspetti che possono
+essere utili ai ragionamenti e che andrebbero tenuti in
+considerazione.
+La prima cosa che è bene evidenziare da parte di tutti è che non
+esisterà nella transizione energetica una cosa assoluta che andrà
+bene per tutti i territori, lo evidenziano proprio i documenti che
+noi abbiamo prodotto.
+Voi avete citato l'osservazione dell'ARPA, che però ha avuto una
+contro-osservazione. Quindi, se l'ARPA dice le cose che vanno bene
+a voi funziona, se noi diamo una contro-osservazione, citando dei
+dati e dei documenti, non li citate neanche. Io avrei gradito che
+l'osservazione fosse stata riportata interamente dove ci sono le
+controdeduzioni e il perché quest'osservazione non viene accettata,
+ma evidentemente non serviva metterla qua, tanto, anche se ve lo
+dico, non vi soddisfa.
+Quello che voglio dire è che l'idrogeno andrà utilizzato nel
+sistema del trasporto e nel sistema industriale, sicuramente, noi
+mica abbiamo detto che vogliamo utilizzare l'idrogeno solo in un...
+ma ben venga la possibilità di farlo crescere nei settori dove
+potrà portare dei vantaggi, e non sto a fare tutta l'illustrazione
+di tipo tecnico che abbiamo già fatto altre volte qui.
+Dico anche che il Comune di Bologna comprerà 127 autobus a
+idrogeno - e non faccio altro tipo di osservazioni - che
+accompagnerà insieme agli autobus elettrici, perché cercheranno di
+fare un sistema misto di trasporto.
+È abbastanza evidente, e nella vostra interpellanza di nuovo ve
+ne siete dimenticati, che noi abbiamo dato un incarico, utilizzato
+delle risorse per far fare uno studio sull'idrogeno; questo studio
+ha detto delle cose, non ha negato delle evidenze, ma ha detto
+anche che per il territorio che abbiamo noi, e per il ciclo di
+servizi ai quali dobbiamo dare risposta in termini di chilometri
+percorsi e di percorrenza di strade (quindi non il ciclo urbano di
+Aosta, ma le vallate laterali e tutto il ciclo extraurbano),
+l'elettrico al momento non è in grado di dare una risposta
+completa, come non è in grado di completarla proprio perché siamo
+agli inizi di una fase di transizione del sistema degli autobus ad
+idrogeno. Però gli autobus ad idrogeno sono già in grado oggi di
+avere tempi di autonomia di percorrenza di quasi 450 km.
+Il problema è che costa fare questi 450 km, perché l'idrogeno
+costa ancora, ma come costa più caro l'elettrico, tant'è vero che
+abbiamo appena approvato una legge sulla mobilità sostenibile dove
+diamo dei contributi per cercare di fare colmare quel
+gap
+che c'è per l'acquisto dell'auto elettrica rispetto all'auto a
+normale trazione termica.
+O si crede un po' in questa direzione, si investe, si cerca di
+mettere delle risorse per far crescere, come in questo caso
+l'Europa, questa volontà di provare, anche attraverso il vettore
+idrogeno, a migliorare il lavoro che stiamo tutti facendo, sia a
+livello energetico che climatico, altrimenti si rinuncia sapendo
+bene che per fare un ciclo urbano, anche qui in Aosta avremmo
+dovuto comprare due mezzi per finire una giornata di lavoro, al
+momento attuale, poi magari ci sarà un'evoluzione, però al momento
+attuale è così, ma non lo dice l'Assessore, lo dicono i tecnici che
+studiano queste cose, poi i vostri tecnici magari dicono altre
+cose.
+Poi io dico anche che se crediamo nell'Europa, diciamo che
+l'Europa indirizza la fase di transizione energetica, non possiamo
+dimenticarci che nel PNRR l'idrogeno ha un'importante attenzione,
+sono citati in tutti gli studi gli investimenti 3.1, gli
+investimenti 3.2, gli investimenti 3.3, gli investimenti 3.4, gli
+investimenti 4.4.1, ce n'è per 3,64 miliardi al settore, dove si
+parla di recupero, di produzione, ma si parla anche d'utilizzo in
+campo del trasporto locale, non dicendo che sarà l'assoluto
+utilizzo, ma dicendo che se ne farà un utilizzo anche lì.
+Allora, la mia risposta va in questi termini: intanto, noi
+continueremo in questa strategia, andando avanti, cercando di
+studiare le cose, di non fare dei salti nel vuoto. Nessuno ha detto
+che noi cambieremo tutta la flotta dei nostri mezzi passando
+dall'attuale trazione ad una trazione ad idrogeno, utilizzando il
+vettore idrogeno, anche perché non saremmo neanche in grado di
+farlo.
+Siamo curiosi anche noi di vedere cosa succederà con le elezioni
+europee rispetto a certe politiche, perché se ci sarà più tempo per
+fare la transizione energetica, probabilmente alcune progettualità
+avranno anche più tempo di maturare, questa in particolare, ma
+siamo assolutamente convinti che non potremo sostituire l'attuale
+flotta di autobus con tutti gli autobus elettrici, perché non
+saremmo in grado di dare la risposta in termini di trasporto
+pubblico, per il chilometraggio che viene richiesto, per la
+tipologia di strade e di percorrenza che noi abbiamo, a quello che
+stiamo dando oggi ai nostri cittadini.
+Per venire alla gara di Aosta, voi parlate di un fallimento. È
+una gara che non ha ottenuto una risposta in termini commerciali,
+perché gli autobus urbani sono una produzione molto limitata degli
+autobus ad idrogeno; evidentemente, rispetto a questo si andrà
+avanti e crescerà anche la produzione dei mezzi al riguardo, però
+non è una questione di fallimento, è un appalto che è andato
+deserto. La colpa è di nessuno nella misura in cui uno mette in
+gara una cosa, se nessuno l'acquista, fa la proposta per poter
+fornirla.
+Ci sono anche appalti dei lavori pubblici che vanno deserti, ci
+sono situazioni di un certo tipo che in questo momento si sono
+verificate in questa maniera, ma non è il fallimento di strategia,
+è un appalto che non ha avuto una risposta, sono due cose
+diverse.
+Convinti che sia importante stare dentro a questa fase di lavoro
+che tutti i territori hanno messo in campo, convinti che possiamo
+giocare una partita interessante nella fase di sperimentazione
+della produzione dell'idrogeno e convinti che l'idrogeno possa
+essere utile anche nel settore industriale, continueremo a lavorare
+sapendo bene che si potrà mettersi in condizione di acquistare
+flotte sia elettriche che ad idrogeno per andare avanti nei
+prossimi anni, sarà la cosa migliore, sarà la migliore risposta in
+assoluto che potremo dare sul nostro territorio alla transizione
+energetica che è in corso.
+Presidente -
+Consigliera Minelli, a lei la parola.
+Minelli (PCP) -
+Vede Assessore, che la visione politica
+sia diversa, è vero, è possibile eccetera. Che si citino
+strumentalmente dei documenti no, non è assolutamente così, perché
+se così fosse, io avrei da tempo concluso il discorso sulla
+questione dell'idrogeno dicendo: "Dal mio punto di vista è un tipo
+di tecnologia che non funziona, parliamo di altro". Non è così.
+Noi abbiamo detto più volte, e lo ripeto, che il vettore
+idrogeno è da esplorare, è interessante, è importante, bisogna
+cercare di trarne i vantaggi che ci possono essere con una
+prospettiva che può essere spostata verso il futuro ma che sia
+comunque in qualche maniera legata ad una realtà che è quella che
+stiamo vivendo.
+Nel momento in cui persone che si occupano in maniera
+scientifica di queste questioni, ci dicono: "É una tecnologia che
+funzionerà; al momento, è più matura per un determinato uso che non
+per un altro", io credo che se non si è ideologici, come si vuol
+far passare altri, bisogna prenderne atto, cioè bisogna prendere
+atto che in questo momento lei dice: "Bologna compra 127 autobus",
+in Germania quelli che avevano li stanno tutti - l'abbiamo visto in
+una discussione di poco tempo fa, avevo citato i dati - ritornando
+indietro, perché hanno verificato che i costi iniziali sono
+esagerati, sono il doppio di un autobus elettrico, ma soprattutto
+sono più alti i costi di gestione, abbiamo parlato di uno studio
+che dice il 145% in più.
+Lei dice: "Voi andate a cercare gli studi che volete voi e non
+citate gli altri"; io le dico anche un'altra cosa: qui è stata
+fatta una legge per uno studio sull'idrogeno che è stato
+commissionato, è stato fatto... non torno su come, perché poi
+abbiamo dovuto rifare due volte la legge. A parte quello, ma quello
+studio non è mai stato oggetto di approfondimenti nelle Commissioni
+e in Consiglio.
+Lei dice che ci sono delle conclusioni di un certo tipo, io
+anche l'ho letto lo studio e devo dire che le conclusioni che ci
+sono in quello studio lì, forse qualche problema lo pongono, ed è
+la motivazione io immagino per cui non siamo andati avanti, e parlo
+del trasporto pubblico locale.
+Forse è proprio per quello che non siamo andati avanti, ma al di
+là di questo, perché non facciamo un approfondimento in una
+Commissione o in più Commissioni in cui, come dice lei, si mettono
+a confronto teorie di chi la pensa in un modo e chi la pensa
+nell'altro? Sarebbe la cosa più logica se davvero ci si vuole
+confrontare, cioè se l'obiettivo e l'atteggiamento è quello
+dell'apertura al confronto, ma facciamola questa cosa, anche perché
+adesso andiamo avanti, lei dice "Noi continuiamo in questa
+cosa".
+Proprio ieri, rispondendo ad un'iniziativa sull'ex Tecdis di
+Châtillon, è stato detto che si farà, sarà realizzato un impianto
+di elettrolisi per la produzione di idrogeno rinnovabile, quindi si
+va avanti in quel senso...
+Interruzione fuori microfono
+Allora, se anche in quell'impianto verrà prodotta dell'energia
+elettrica da fonte rinnovabile attraverso il fotovoltaico, quindi
+un'energia pulita, io mi chiedo: ma ha senso andarla ad utilizzare
+per degli autobus a idrogeno con le cose che abbiamo detto, costi
+di costruzione, di acquisto e costi di gestione?
+È quasi come se un cittadino dovesse utilizzare i suoi soldi e
+decidere come spenderli; può comperarsi un'utilitaria, una Panda o
+può comperarsi una Porche, può scegliere in base alle sue
+disponibilità.
+Che cosa deve fare invece la pubblica Amministrazione? Secondo
+me, deve comperare quello che costa di meno a parità di resa, a
+parità della situazione.
+Se io vado a comprare una roba che costa il 50% in più e ha il
+145% in più di costi di gestione, forse qualche domanda in più
+bisogna farsela.
+Prendo atto che non c'è alcuna volontà di fermarci e fare una
+riflessione su quello che è oggi, e nella prospettiva a medio
+termine, un utilizzo razionale dell'idrogeno, perché si potrebbe
+fare, e avremmo la possibilità, visto che abbiamo ottenuto anche
+dei finanziamenti in questo senso, un esperimento che va in una
+direzione diversa: quella più legata al settore industriale.
