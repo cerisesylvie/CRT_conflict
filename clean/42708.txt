@@ -1,0 +1,279 @@
+Classificazione
+ASSISTENZA SANITARIA E OSPEDALIERA
+Presidio ospedaliero
+
+
+
+Oggetto del Consiglio n. 213 del 13 gennaio 2021 - Resoconto
+OGGETTO N. 213/XVI - Interpellanza: "Notizie sull'esistenza
+di un'area ospedaliera dedicata ai pazienti in attesa di
+accertamento definitivo di positività da Covid-19".
+Bertin (Presidente) -
+Consiglieri, vi invito a prendere
+posto e riprendiamo i lavori dopo l'incontro con l'associazione "La
+Valle d'Aosta non è una discarica". Eravamo al punto n. 26
+dell'ordine del giorno. Per l'illustrazione, ha chiesto la parola
+il vicepresidente del Consiglio Sammaritani, ne ha facoltà.
+Sammaritani (LEGA VDA) -
+Dopo questa lunga pausa
+riprendiamo a parlare di sanità tanto per cambiare, si tratta di
+una notizia che ha avuto molto risalto anche sui
+media
+a
+proposito di quel problema che si è verificato a livello di esame
+dei risultati dei tamponi quando appunto il 27 dicembre è stato
+rilevato un numero di tamponi positivi, poi risultati falsi
+positivi molto elevato e questo ha comportato che i pazienti
+risultati positivi naturalmente venissero trasferiti all'interno
+dei reparti Covid malgrado appunto di fatto poi non fossero, com'è
+risultato poi successivamente, positivi. Allora, preso atto del
+fatto che questi pazienti di fatto non affetti da Coronavirus, si
+sono però immediatamente visti trasferire in reparti in cui molto
+più alta diventa la possibilità di essere contagiati per essere i
+predetti reparti cosiddetti "sporchi", con l'ulteriore conseguenza
+di dover restare comunque in quarantena pur non essendo contagiati
+dopo il ritrasferimento e preso atto del fatto che non risulterebbe
+presente all'interno del nostro Ospedale un reparto "sospetti",
+cioè una zona dedicata ai pazienti che si trovano in una condizione
+di non assoluta certezza di positività o di negatività, visto anche
+l'impegno di cui alla risoluzione approvata dal Consiglio regionale
+del 5 novembre 2020, che impegna il Presidente e l'Assessore alla
+sanità a riferire alla competente Commissione consiliare le
+modalità e il contenuto dei dati trasmessi ai fini della
+classificazione della nostra Regione, interpello il Presidente
+della Regione o l'Assessore competente per sapere innanzitutto
+quale sia stata nel caso di specie la procedura attraverso la
+quale, in presenza di un evidente anomalo picco degli apparenti
+positivi al Covid, si è giunti al ricovero immediato dei medesimi
+nei reparti dedicati ai pazienti affetti da Covid; quali siano le
+conseguenze per i predetti pazienti poi risultati non contagiati e
+quali siano le conseguenze di tale dato errato sulla
+classificazione della nostra Regione; se siano giunte all'Azienda
+USL diffide o comunicazioni scritte, oppure lamentele verbali da
+parte di familiari di detti pazienti e se esisteva nella prima
+ondata del Covid e se esista oggi un'area ospedaliera dedicata a
+pazienti la cui reale positività o negatività è nella fase di
+accertamento definitivo prima dell'eventuale ricovero nei reparti
+di competenza adeguati.
+Presidente -
+Per la risposta, ha chiesto la parola
+l'assessore Barmasse, ne ha facoltà.
+Barmasse (UV) -
+Faccio una piccola premessa che ha già
+fatto il consigliere Sammaritani: nella giornata di lunedì 28
+dicembre, a seguito della segnalazione di un'anomalia sulla
+refertazione di alcuni tamponi sottoposti a test molecolare nelle
+sedute precedenti, sono stati effettuati gli opportuni ricontrolli
+nei casi segnalati. Dall'immediata analisi della procedura non sono
+stati rilevati allarmi di malfunzionamento della strumentazione. È
+stata comunque contattata la ditta fornitrice dello strumento e del
+software
+per un supporto tecnico. Dall'analisi, eseguita in
+collaborazione via telefonica con la
+specialist
+della ditta,
+sono stati rilevati problemi di interruzione del segnale di rete.
+Questo molto probabilmente ha causato un
+batch
+informatico e
+la perdita dei settaggi preimpostati secondo il protocollo in uso,
+un'alterazione che ha modificato i parametri di analisi facendo sì
+che il sistema rilevasse anche basse fluorescenze inducendo il
+riscontro di false positività. Tutti i dati delle sedute coinvolte
+sono stati poi opportunamente rianalizzati.
+Per quanto riguarda la domanda: "quale sia stata nel caso di
+specie la procedura attraverso la quale, in presenza di un evidente
+anomalo picco degli apparenti positivi al Covid, si è giunti al
+ricovero immediato dei medesimi nei reparti dedicati ai pazienti
+affetti da Covid", i pazienti con diagnosi di infezione da
+Sars-Cov-2 vanno ricoverati in reparti designati, i cosiddetti
+"reparti Covid" o anche definiti reparti "sporchi", come da
+disposizione ministeriale. Ciò vale sia per i riscontri in Pronto
+Soccorso, sia per i pazienti negativi all'ingresso e con un secondo
+tampone positivo in corso di ricovero. Il recente
+cluster
+dei casi positivi ha riguardato pazienti assegnati a numerosi
+reparti, per tale motivo l'unica struttura in grado di intercettare
+l'anomalia in corso, in quanto in possesso dei dati diagnostici
+aggregati, sia giornalieri che di periodo, era il laboratorio
+analisi, cosa che è avvenuta il giorno successivo, ossia il 28
+dicembre.
+Per quanto riguarda la trasmissione dei dati, la Protezione
+civile regionale è stata informata dell'errore il 28 dicembre al
+momento dell'invio della
+e-mail
+riepilogativa.
+Per quanto riguarda le conseguenze per i predetti pazienti poi
+risultati non contagiati e quali siano le conseguenze di tale dato
+errato sulla classificazione della nostra Regione, sono stati
+riscontrati 61 casi falsi positivi, 45 pazienti esterni a domicilio
+e 16 pazienti interni di cui 2 ricoverati presso l'ISAV. Dalla
+segnalazione all'individuazione della causa e alla rettifica dei
+dati sono intercorse circa 8 ore, dalla comunicazione dei primi
+dati poi sottoposti a verifica sono passate circa 24 ore.
+Per quanto riguarda la gestione dei pazienti spostati come da
+protocollo nei reparti Covid ma risultati falsi positivi, dopo un
+confronto tra Direzione Medica di Presidio e i medici internisti
+del Dipartimento delle Medicine, valutati i pro e i contro delle
+varie alternative, cioè mantenere i pazienti in precedenza
+certificati come positivi e successivamente controllati e refertati
+come negativi nei reparti Covid con probabile aumento però del
+rischio infettivo, oppure restituirli ai reparti di provenienza che
+conoscono la situazione clinica dei singoli pazienti e quindi sono
+in grado di gestirli al meglio, si è concordato di restituire la
+gestione della sorveglianza clinica nei pazienti falsi positivi ai
+reparti titolari degli stessi trasferendoli dai reparti Covid ai
+reparti di provenienza. In totale i pazienti ricoverati in un primo
+tempo ritenuti positivi e successivamente e definitivamente
+valutati come negativi in base ai referti di laboratorio sono stati
+16, di cui 2 ricoverati presso la clinica ISAV di Saint-Pierre.
+Tutti i pazienti ricoverati di cui sopra sono stati spostati in
+seguito a referto dai reparti Covid ai reparti di competenza
+cosiddetti "puliti" e sottoposti a sorveglianza clinica,
+screening
+con tampone molecolare e a isolamento funzionale
+nei giorni successivi.
+Per quanto riguarda i tamponi in oggetto effettuati sul
+territorio, tutti gli utenti sono stati telefonicamente avvisati
+dalla CUS e i contatti stretti sono stati oggetto di liberatoria da
+parte del Dipartimento di Prevenzione. Tutti i pazienti falsi
+positivi trasferiti invece temporaneamente nei reparti Covid sono
+risultati negativi al tampone molecolare del 5 gennaio e sono
+tutt'ora tutti negativi, mentre uno di questi pazienti, non
+trasferito nei reparti Covid che era già ospedalizzato da tempo, si
+è positivizzato, quindi indipendentemente da questa evenienza.
+Nessuna conseguenza ha avuto tale dato errato sulla
+classificazione della nostra Regione in quanto prontamente
+comunicato all'Istituto Superiore di Sanità e rettificato nella
+giornata successiva.
+Per quanto riguarda la domanda: "se siano giunte all'Azienda USL
+diffide o comunicazioni scritte oppure lamentele verbali da parte
+di familiari di detti pazienti", comunico che risultano ad oggi
+richieste di chiarimenti da parte del Ministero della Salute, della
+Procura della Repubblica e dell'Assessorato della Sanità. Uno dei
+pazienti ospedalieri falsi positivi ha inoltrato richiesta scritta
+per la risoluzione di una sua problematica specifica relativa alla
+falsa positività del tampone che è stata prontamente presa in
+carico dall'azienda e risolta. Vi è stata inoltre una lamentela
+scritta di un parente di un paziente domiciliare falso positivo
+alla quale è stato dato riscontro scritto.
+Riguardo alla richiesta: "se esisteva nella prima ondata del
+Covid, se esista oggi o in caso contrario se si intende realizzare
+un'area ospedaliera dedicata ai pazienti la cui reale positività o
+negatività è nella fase di accertamento definitivo prima
+dell'eventuale ricovero nei reparti di competenza adeguati", vi
+posso dire che il cosiddetto "reparto astanteria", attivo da marzo
+a giugno 2020, non è stato ripristinato nell'autunno 2020 poiché
+nel frattempo sono stati resi disponibili i test rapidi che
+forniscono esito della ricerca di Sars-Cov-2 in poco tempo con
+buona sensibilità e specificità. Si ribadisce infine che l'Azienda
+USL sta eseguendo tutte le necessarie verifiche interne a livello
+tecnico sulle macchine e a livello gestionale sull'attività
+analitica affinché simili episodi non debbano mai più ripetersi.
+Nel frattempo sono state date immediate disposizioni scritte per il
+personale sulle azioni preventive da adottare a ogni seduta di
+analisi ed è stata redatta un'istruzione operativa che riporta le
+azioni correttive da applicarsi nelle refertazioni.
+Vorrei aggiungere solamente magari una specificazione e un dato
+sull'astanteria, nel senso che l'astanteria era stata istituita
+nella prima fase perché i tempi di refertazione dei tamponi
+molecolari erano circa di 24-48 ore, quindi c'era la necessità di
+avere un reparto dove queste persone aspettassero in realtà
+solamente l'esito del tampone. Questo aveva creato nella prima fase
+delle grosse problematiche perché l'astanteria voleva dire mettere
+esclusivamente un paziente per ogni stanza, questo vuol dire che in
+un reparto con 30 posti noi se ne utilizzava solamente 15.
+Ovviamente soprattutto con un afflusso importante di pazienti al
+Pronto Soccorso in fase acuta questo comportava l'occupazione
+fisica da parte dell'astanteria di gran parte dei reparti e questo
+aveva creato una grossa problematica, ma è una criticità alla quale
+non si poteva far fronte diversamente perché appunto l'esito dei
+tamponi era molto lento. A questo è stato ovviato nella seconda
+fase, i tamponi molecolari rapidi pronti in due ore ci hanno
+permesso di portare direttamente il paziente nel reparto Covid
+positivo e quindi evitare questa dispersione di personale e di
+posti letto su tutto l'Ospedale nel momento in cui ce n'è bisogno e
+questa è un pochettino la problematica.
+Paradossalmente il problema di una cosiddetta "astanteria"
+potrebbe essere invece più importante nei cosiddetti "pazienti
+negativi", con tampone negativo, perché in realtà un tampone
+negativo allora a quel punto dovresti metterlo in quarantena e
+tenerlo 15 giorni, perché potrebbe positivizzarsi e il tampone
+negativo clinicamente fa più danni se si positivizza, perché poi
+invece è proprio quel paziente che se metti in reparto, te lo
+infetta tutto. Questa ovviamente è comunque una cosa grave ma
+paradossalmente il paziente comunque falso positivo... il rischio
+fondamentalmente è dell'unica persona, questo non per diminuire
+l'importanza anche di questo dato ma solo per dire dal punto di
+vista epidemiologico chi è in realtà quello che potrebbe creare più
+danni. Non è possibile quindi creare un'astanteria in cui noi
+teniamo il negativo o presunto tale in realtà due settimane in
+attesa di vedere se si sviluppa la patologia o anche il positivo
+perché dovrebbe rimanerci comunque più giorni e poi non è detto che
+anche un secondo tampone ripetuto dopo un po' di giorni sia
+veramente un falso positivo, perché abbiamo avuto più falsi
+positivi in questi pazienti. Questo solamente per dare un quadro di
+quanto un'astanteria di questo tipo potrebbe impattare sia sui
+tempi di ricovero, sia sull'impegno dei reparti e del personale
+dell'Ospedale, quindi le astanterie in questo momento non vengono
+utilizzate neanche negli altri ospedali.
+Presidente -
+Per la replica, ha chiesto la parola il
+consigliere Sammaritani, ne ha facoltà.
+Sammaritani (LEGA VDA) -
+Ringrazio l'Assessore perché era
+una questione sulla quale era opportuno fare chiarezza anche
+all'esterno nei confronti dei cittadini, che naturalmente si
+sentono a volte e magari in pericolo nell'affrontare certe
+situazioni perché si verificano eventi come questo, che
+sicuramente, com'è stato spiegato, ma è stato ormai accertato visto
+che il fatto è del 27 di dicembre, una serie di circostanze che,
+come spesso accade quando si verificano degli errori, vanno a
+concatenarsi, a incastrarsi una nell'altra e provocano appunto il
+cosiddetto "errore", ci sono anche teorie varie su questo ma non è
+questa la sede per affrontare questa tematica.
+La nostra iniziativa non aveva sicuramente un intento polemico,
+però, visto che la pandemia la affrontiamo ormai da molti mesi ma
+anch'essa si sta modificando nei suoi aspetti, a volte anche la
+reazione si deve adeguare alle modificazioni, è stato spiegato bene
+dall'Assessore: una volta c'erano i tamponi che richiedevano un
+processo lungo per essere esaminati, adesso sono molto più rapidi e
+quindi anche le esigenze del trattamento dei pazienti che sono in
+attesa dei risultati è diverso. È chiaro che in ogni caso la
+capacità organizzativa dell'emergenza, così come quella della
+direzione medica di presidio, deve essere orientata e attenta
+proprio a far sì che si possa prevedere anche qualche volta
+l'esistenza di possibili errori, come in effetti si è verificato,
+ahimè, perché magari la concomitanza del 26... è una domenica, tra
+l'altro. Credo quindi che tutti questi fattori in qualche modo
+abbiano un pochino inciso e, messi assieme, abbiano provocato un
+errore, perché sicuramente non è stato un errore immagino del
+laboratorio al quale si potrebbe imputare in via immediata da parte
+del profano una responsabilità. In realtà, non è così, credo,
+perché il laboratorio esamina i tamponi e dà i risultati e, al di
+là di quello che può essere magari un risultato anche un po'
+anomalo in un certo momento, probabilmente non è in grado di
+valutare appieno quale sia la portata, anche perché credo che il
+laboratorio - non so poi se sia così - non sappia distinguere se il
+tampone è riferito a un esterno o a un paziente interno, penso che
+non venga segnalato questo, è deputato a esaminare il tampone e a
+verificarne la positività o meno.
+Il fatto quindi che anche chi poi ha letto questi dati non si
+sia magari subito allarmato di questa presenza di incidenza
+positiva così elevata può far venire da pensare al fatto che forse
+la cosa su cui bisognerebbe prestare molta attenzione è il fatto
+del contagio che avviene all'interno dell'Ospedale, questo è molto
+importante credo, cioè organizzarsi per far sì che il percorso
+"pulito" o "sporco"... che gli stessi operatori sanitari che
+transitano da un reparto all'altro possano essere molto ben
+monitorati. È sui protocolli di sicurezza, sui protocolli che vanno
+impiegati in questi casi che, secondo me, i vertici, coloro che
+hanno questo ruolo a livello ospedaliero e a livello dirigenziale
+devono fare molta attenzione e occorre strutturarci perché adesso
+la pandemia la stiamo affrontando, come dicevo all'inizio, da mesi,
+ma, come abbiamo visto, non dobbiamo abbassare la guardia.
+Credo quindi che anche dagli errori si debba assolutamente
+imparare e credo che anche questa esperienza, seppur negativa,
+grandi conseguenze negative non ne abbia portate, per fortuna,
+quindi impariamo, facciamo ancora più attenzione e questo credo sia
+lo spirito con cui si debba procedere.

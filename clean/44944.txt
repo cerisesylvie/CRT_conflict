@@ -1,0 +1,193 @@
+Classificazione
+INFORMAZIONE
+
+
+
+Oggetto del Consiglio n. 1779 del 28 luglio 2022 - Resoconto
+OGGETTO N. 1779/XVI - Interrogazione: "Stato dei lavori di
+posa della cablatura in fibra ottica sul territorio
+regionale".
+Bertin (Presidente) -
+Punto n. 23. Per la risposta,
+l'assessore Marzi.
+Marzi (SA) -
+La prima domanda posta dal collega Aggravi
+è; quale sia lo stato dei lavori di posa della cablatura in fibra
+ottica nella città di Aosta e in generale sul territorio
+valdostano. La realizzazione dell'infrastruttura di rete in fibra
+ottica per la banda ultralarga sul comune di Aosta vede interventi
+in corso di realizzazione sia da parte di Open Fiber che
+dell'operatore TIM. Open Fiber riferisce che entro il mese di
+settembre saranno presumibilmente raggiunte tutte le tredicimila
+unità immobiliari previste nel progetto, per un investimento
+complessivo di circa cinque milioni di euro. Al momento risultano,
+a giugno 2022, raggiunte 11.564 unità immobiliari.
+In relazione agli accordi convenzionali in essere con il Comune
+di Aosta, di cui alla delibera del Consiglio comunale 84 del 19
+maggio 2022, i lavori di ripristino, compresi quelli del manto
+stradale, devono completarsi entro il mese di luglio 2023. TIM,
+nell'ambito del proprio piano industriale, ha avviato un
+investimento privato che prevede invece la copertura in banda
+ultralarga in tecnologia FTTH, quindi fino a casa ("TH" sta per
+to home
+; non lo dico ovviamente per lei, ma per chi ci
+ascolta), sulla città di Aosta, per il collegamento di 2386 edifici
+entro il 2025.
+Per quanto concerne il territorio regionale, l'infrastruttura di
+dorsali in fibra ottica assicura coperture e accessibilità in fibra
+ottica appunto presso le principali postazioni degli operatori di
+telefonia mobile, delle centrali Telecom, dei municipi e di altri
+punti di interesse regionali, questo naturalmente attraverso
+l'intervento di matrice regionale, europea e statale da 24 milioni
+di euro. Tale infrastruttura viene concessa agli operatori di
+telecomunicazioni che realizzano la rete di accesso per il rilascio
+dei servizi di connettività all'utenza finale. La realizzazione
+della dorsale ha consentito agli operatori di radiomobile di far
+evolvere le proprie reti alle nuove tecnologie di trasmissione dati
+di quarta e quinta generazione e agli operatori di rete
+wireless
+di implementare le loro reti con il sistema di
+accesso tramite rete radio, quindi senza fili, per una più ampia
+diffusione a Internet in banda ultralarga.
+Riguardo al piano nazionale banda ultralarga, a inizio del mese
+di luglio 2022 il MISE, nel corso di una riunione tecnica, con il
+supporto della propria società in house Infratel Italia, ha
+comunicato alle Regioni, ahimè, un'ipotesi di revisione del piano
+tecnico realizzativo che deve essere ancora approvato. Tale
+revisione prevede la necessità di un'ulteriore proroga per il
+completamento del piano al 2024. Inizialmente è bene dire che il
+piano si sarebbe dovuto completare entro il 2020, successivamente è
+stato posticipato al 2022 e ad oggi nuovamente al 2024. Come già
+abbiamo riferito al Consiglio, l'Amministrazione regionale,
+attraverso lo specifico comitato di monitoraggio del progetto, ha
+ripetutamente denunciato la situazione di lentezza dello stato di
+avanzamento. A livello di Consiglio dobbiamo dire che abbiamo
+addirittura approvato una specifica legge di semplificazione per
+velocizzare l'iter autorizzativo di realizzazione dei collegamenti
+dell'utenza finale; quindi, l'avanzamento del progetto risulta
+ancor più lento e non rispettoso delle pianificazioni effettuate e
+anche degli accordi tra gentiluomini presi.
+In ogni caso, la società concessionaria del piano lavori
+riferisce il seguente stato dell'arte a livello regionale del piano
+nazionale aggiornato al mese di giugno del 2022. Per i collegamenti
+interamente in fibra ottica, FTTH, risultano numero sedici comuni
+abilitati: Arnad, Ayas, Bard, Brusson, Champdepraz, Donnas,
+Emarèse, Fontainemore, Hône, Issime, Lillianes, Montjovet, Perloz,
+Pontboset, Rhêmes-Notre-Dame e Verrès; numero venti comuni
+completati, in attesa di pianificare le attività di collaudo per
+l'idoneità di abilitazione; numero undici comuni cantierizzati;
+numero cinque comuni con progetto esecutivo cantierizzabile; numero
+quindici comuni in fase di progettazione esecutiva.
+Il totale di sessantasette comuni non vede ricompresi il comune
+di Aosta in quanto considerato non a fallimento di mercato, quindi
+con intervento a totale carico dell'operatore economico. Questo
+dato, in termini concettuali per chi ci sta ascoltando, è a mio
+modesto avviso, il
+vulnus
+rispetto al perché magari in altri
+ambiti è stato necessario da parte del pubblico investire, perché
+altrimenti secondo me non si sarebbe mossa foglia, ma allo stesso
+tempo, magari, non ci si muove velocissimamente. I comuni di
+Challand-Saint-Victor, Challand-Saint-Anselme e
+Rhêmes-Saint-Georges invece sono stati esclusi sin dall'inizio del
+progetto in quanto, a seguito di indagine puntuale, si è rilevato
+che la copertura dei privati risultava al 95 percento. I comuni di
+Pont-Saint-Martin, Saint-Vincent e Sarre, in quanto esclusi a valle
+della progettazione definitiva, perché la copertura della banda
+ultralarga è risultata superiore al 95 percento.
+Nel piano della banda ultralarga, oltre ai collegamenti in fibra
+ottica FTTH sopracitati, sono previsti anche collegamenti tramite
+rete radio. Per questi collegamenti lo stato di avanzamento a
+giugno 2022 sui trentaquattro interventi previsti vede: trentuno
+cantieri completati, un cantiere aperto, due progettazioni
+esecutive approvate.
+Sempre a livello regionale, oltre al comune di Aosta, TIM,
+nell'ambito del proprio piano industriale, prevede la realizzazione
+di una copertura in banda ultralarga con tecnologia FTTH, quindi
+interamente cablata in fibra ottica, anche nei comuni di
+Charvensod, Saint-Vincent. Pont-Saint-Martin e Courmayeur.
+La terza domanda: quali siano ad oggi le aree della città di
+Aosta non coperte dalla fibra ottica, per cui sono previsti i
+prossimi interventi e se ad oggi vi sono aree ancora non ricomprese
+tra queste, fatto che potrebbe pregiudicare l'utilizzo di tale
+tecnologia da parte di utenti residenti nelle medesime. Come
+riportato in precedenza, il comune di Aosta è considerato non a
+fallimento di mercato. Pertanto gli interventi pubblici che
+interessano anche il capoluogo regionale sono limitati a quelli di
+specifici progetti quali il piano scuole fase 1 (Regione) e i
+progetti PNRR che includono: il piano scuole fase 2 TIM, il piano
+sanità connessa Vodafone, il Piano Italia 1 Giga TIM, il Piano
+Italia 5G TIM. In ogni caso, oltre agli investimenti pubblici,
+alcuni operatori privati di telecomunicazione stanno comunque
+realizzando sul territorio interventi che contribuiscono a
+estendere il più possibile la copertura del servizio di banda
+ultralarga a tutti i valdostani.
+Per quanto concerne le specifiche informazioni di copertura del
+comune di Aosta, riporto, fornendole poi direttamente la risposta
+in cartaceo da parte dell'Assessore competente, che ha risposto
+all'interrogazione presentata nell'adunanza del Consiglio comunale
+di Aosta del 20 e 30 giugno, che comprende inoltre l'elenco delle
+aree interessate e lo stato di avanzamento dei lavori compresi nel
+piano nazionale banda ultralarga. Volendo, visto che è una mezza
+paginetta, come vuole lei, gliela leggo. "Al fine di rispondere al
+quesito posto, mi sono rivolto ai due principali protagonisti
+dell'implementazione di una rete di fibra ottica nella nostra
+città. La prima a rispondere è stata Open Fiber, operatore
+nazionale, con il quale il Comune di Aosta ha stipulato il 29
+aprile 2019 la convenzione volta a favorire la realizzazione di
+un'infrastruttura di rete di dati ad alta velocità che si proponeva
+di collegare tredicimila unità immobiliari per la durata della
+convenzione. Con deliberazione di Giunta comunale n. 84 del 19
+maggio 2022, la convenzione è stata prorogata di quindici mesi,
+quindi fino al 28 luglio 2023, ritenuti congrui per terminare il
+progetto, tenendo conto che è intervenuta l'emergenza sanitaria per
+il Covid-19 e che i cantieri sono rimasti fermi per alcuni
+mesi.
+I dati conseguiti e le aree interessate dai lavori sono quelle
+indicate nelle
+slide
+allegate, che testimoniano il notevole
+lavoro sviluppato in quest'iniziativa che è interamente privata."
+Poi le fornisco le date.
+Presidente -
+Per la replica il consigliere Aggravi.
+Aggravi (LEGA VDA) -
+Ringrazio l'Assessore e le avrei
+chiesto copia scritta. Effettivamente l'interrogazione nasce più
+che altro da segnalazioni che sono relative a zone legate al non
+fallimento di mercato, perché giustamente al di là delle difficoltà
+che ci sono a comprendere anche la logica e le tempistiche di
+realizzazione della rete, e giustamente la prima parte della
+risposta penso che possa far capire correttamente, al di là dei
+ritardi, le problematiche che ci sono, la seconda parte,
+soprattutto sul discorso della città di Aosta, era capire quali
+fossero le aree o quale fosse lo stato, proprio perché giustamente
+il privato che sa di essere in un'area ricompresa all'interno di
+quelle non a fallimento di mercato, vuole capire cosa poter fare
+per avere la connessione. Anche perché - lo ricordiamo e ce lo
+diciamo sempre - parliamo di digitalizzazione, di accesso a servizi
+digitali o quant'altro, però poi sappiamo che serve la banda,
+ovviamente non quella musicale ma quella che consente di accedere
+al
+web
+, perché spesso e volentieri alcuni servizi hanno la
+necessità di una velocità di un certo tipo. Pensiamo a chi lavora
+sul web e, a maggior ragione, anche al discorso del lavoro da casa,
+non necessariamente da parte di chi lavora nel pubblico, ma anche
+di chi lavora nel privato. Quindi, questo penso che possa fare luce
+su quella che è l'attuale situazione.
+Voglio solo segnalarle, e lo do anche come elemento in più, il
+fatto che in alcuni casi il cittadino non sa a chi riferirsi,
+perché si crea una sorta di scaricabarile tra Open Fiber e vari
+operatori, l'ente pubblico, l'istituzione comunale. Questo è un
+problema notevole, perché ovviamente il cittadino ha forse più
+facilità a interloquire con gli operatori finali che conosce e che
+hanno ovviamente dei portali un po'
+for dummies
+, nel senso
+che permettono di capire subito se ci si può collegare o no,
+rispetto spesso all'ente pubblico che rimane un po' più simile a
+quella che è la burocrazia; al di là del sito del MISE, che dà una
+mappatura sui posizionamenti della rete, ovviamente non è di facile
+accesso. A maggior ragione, mi perdoni la battuta, se non ho
+l'accesso alla rete, non posso andare sul portale del MISE.

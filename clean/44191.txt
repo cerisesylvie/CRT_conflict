@@ -1,0 +1,301 @@
+Classificazione
+SANITÀ VETERINARIA E ZOOTECNIA
+Zootecnia
+
+
+
+Oggetto del Consiglio n. 1253 del 9 febbraio 2022 - Resoconto
+OGGETTO N. 1253/XVI - Interpellanza: "Semplificazione delle
+procedure di registrazione e di gestione dei flussi informativi
+della banca dati nazionale e regionale dell'anagrafe
+zootecnica".
+Bertin (Presidente) -
+Punto n. 29 dell'ordine del giorno.
+Per l'illustrazione il consigliere Planaz, ne ha facoltà.
+Planaz (LEGA VDA) -
+Anche questa iniziativa non è nuova,
+e dico purtroppo. Avevo già presentato precedentemente
+quest'estate, a seguito di molte lamentele nella gestione della
+banca dati, sia quella regionale sia quella nazionale. In questo
+caso ci soffermiamo più sul primo
+step
+, al di là
+dell'anagrafe che va a essere gestita negli uffici, quello che
+parte dagli allevamenti e dagli allevatori.
+Il problema è - come avevo già presentato la volta scorsa - che
+questi dati, tra banche dati regionali e quelle nazionali, non sono
+sempre allineati: per piccolissimi errori, a volte di trascrizione,
+a volte non si sa neanche il perché, ma noi andiamo a esaminare
+nello stesso momento i due documenti e non sono uguali. Questo
+crea, come sempre, moltissimi problemi, perché quando si incrociano
+questi documenti e non sono allineati vanno a creare delle anomalie
+nell'ambito gestionale e nell'azienda. Faccio un esempio: se nel
+modello 4 elettronico vengono inseriti determinati numeri di
+bovini, ovini o equini e dall'altra parte non vengono scaricati o
+non li trovano, nel momento in cui l'azienda deve entrare di nuovo
+in questa banca dati, non riesce a trovare il numero che ha bisogno
+di agire per fare gli eventuali spostamenti, come portarli al
+macello, in alpeggio, ai mercati, nelle vendite e quant'altro.
+Forse queste anomalie si sono ridotte un pochettino, io lo
+spero, però ci sono sempre. La cosa che dispiace di più è che vanno
+a creare una sanzione per le aziende, però non in base al tipo di
+anomalia che è stata creata, ma in base alla dimensione
+dell'azienda. Più l'azienda percepisce dei fondi europei e più gli
+viene aumentata la sanzione, che va in base alla percentuale. È per
+questo motivo che bisogna fare molta attenzione che questo non
+accada.
+Avevo già presentato forse sei-sette mesi fa, prima della
+stagione estiva. Lo scambio dati tra il cartaceo e l'elettronico
+crea sempre una marea di difficoltà, ma non sempre per colpa degli
+uffici regionali o nazionali, oppure da parte dell'azienda; è
+proprio nello scambio. Se un'azienda è delegata ad agire sulla
+banca dati nazionale e poi deve andare ad aggiornare la BDR, che di
+solito dovrebbe essere una cosa che si dovrebbe scambiare
+automaticamente, ma che non sempre accade, questo fa sì che poi
+vanno a caricarsi delle anomalie che si fa molta difficoltà anche
+ad andare a sistemare. A volte si trovano in questi documenti dei
+numeri identificativi di animali che non c'entrano niente con la
+tua azienda, che sono solo transitati per un breve periodo, per un
+momentaneo stazionamento, oppure anche solo per un pascolo e che
+vanno a creare un'anomalia sia nell'azienda in cui si trovano, ma
+anche nell'altra.
+Questo a me dispiace abbastanza, perché già recentemente, quando
+ho presentato quest'iniziativa, era per andare a porre il problema
+e riuscire a sistemare queste anomalie. Perché se noi continuiamo a
+produrre delle maree di documenti che forse non sono necessari,
+quando io compilo il modello 4 elettronico, BDN o BDR, perché
+dipende com'è la delega o la subdelega, vengono aggiornati questi
+dati, ma poi quando vado a vedere la mia situazione me li ritrovo
+ancora e non c'è nessun modo, al di là di andare e controllare
+personalmente ognuno la posizione della propria scheda-stalla, per
+andare a capire se tutto è stato fatto correttamente. Faccio un
+esempio: come succede per un normale bonifico bancario, lo si fa e
+se il bonifico va a buon fine, l'utente che lo riceve lo controlla
+e va tutto bene; se invece il bonifico non arriva forse l'uno
+chiama l'altro e qualcuno segnala che qua è successo qualcosa per
+qualsiasi motivo; a volte lo fa anche la banca. Invece a noi qui
+manca proprio questo passaggio: che se non lo fa l'allevatore
+direttamente, l'anomalia resta lì bloccante e nessuno avvisa
+nessuno. BDN dice: "noi non siamo tenuti ad avvisare BDR" e BDR
+dice: "siete voi che dovete controllare le vostre aziende". Però
+quando uno compila un documento correttamente... perché può anche
+succedere che compilando il modello 4 elettronico, se non viene
+compilato nel modo esatto o si sbaglia il numero di un bovino che
+non si trova in quel determinato elenco, non parta neanche l'ok
+dalla USL e tutto il sistema resti bloccato e, finché non si hanno
+tutti i dati allineati nel modo corretto, non viene stampato il
+modello 4, non si può neanche stamparlo.
+Prima che ci fosse questo modello 4 elettronico e c'era quello
+cartaceo, cosa succedeva? Faccio proprio tutti gli esempi,
+Assessore, così si capisce: l'allevatore si recava dal veterinario,
+il veterinario compilava il modello 4 ed emetteva le dichiarazioni
+sanitarie che riguardavano l'azienda; si spostavano gli animali
+negli eventuali pascoli, fiere, macelli e quant'altro; l'allevatore
+andava all'ufficio regionale a scaricare i suoi animali e l'ufficio
+regionale mandava i dati BDR e aggiornava la BDN.
+Oggi, con il modello 4 elettronico, l'allevatore, quando lo
+compila va già ad aggiornare direttamente BDN; se poi BDN in
+automatico non aggiorna la banca dati regionale, è normale che
+resti l'anomalia. Molte volte questo succede creando queste
+anomalie che poi creano delle sanzioni. A volte anche l'allevatore
+non viene a conoscenza subito di questa piccola anomalia e nei
+controlli che i veterinari e i dottori fanno negli allevamenti
+vedono anche loro che c'è stata un'anomalia, dovuta al fatto del
+trasferimento dei dati da un ente all'altro; lo dichiarano anche
+sui verbali, però la sanzione viene sempre riversata all'azienda,
+perché è responsabile.
+Le domande che ho fatto io sono: per quale motivo non facciamo,
+come in altre regioni, che la delega si rilascia al diretto
+interessato e poi subdelega l'allevatore o chi di competenza per
+andare ad aggiornare i dati sulla sua banca dati, regionale o
+nazionale che sia? Quella è anche una scelta politica che dovremo
+fare, poi adesso lei mi risponderà e capiremo magari meglio cosa è
+meglio fare, penso che lo sappia. Invece, in questo caso tutti
+mettono le mani, ma di responsabile ce n'è sempre solo uno. Questa
+è un'anomalia e, secondo me, c'è tutto l'aspetto burocratico che
+noi dovremmo andare a cercare di snellire al massimo. Invece sembra
+quasi che ci passiamo gli stessi documenti da un ufficio all'altro
+e poi sentiamo che c'è carenza di personale e quant'altro e le
+istruttorie non vanno avanti. Ma se facciamo in due o tre enti o
+associazioni o anche aziende le stesse cose, è normale che creiamo
+una marea di documenti, i quali è sempre più facile che producano
+anomalie che poi vanno a creare ulteriori problemi, e ci va di
+nuovo ulteriormente del personale qualificato per sistemare il
+problema. Se facciamo così non ne usciamo più!
+Per questo avevo già presentato una precedentemente iniziativa.
+Adesso siamo di nuovo qua, perché a fine anno, con la stesura dei
+dati e gli eventuali controlli e tutto, sorgono tutta una serie di
+anomalie, e questo fa sì che poi anche la gente si lamenti e chiede
+come sia possibile. In molti casi succede anche che l'azienda
+interessata abbia sbagliato qualcosa nel mandare qualche dato, ma
+in molti altri casi è solo perché questi dati non sono stati
+scambiati correttamente, ma a pagarne le conseguenze è sempre
+l'azienda di allevamento.
+Presidente -
+Risponde l'assessore Sapinet.
+Sapinet (UV) -
+Grazie collega Planaz, risponderò ai suoi
+quattro quesiti. Ha detto giustamente che c'è stata una riduzione
+delle anomalie, ma l'obiettivo è ovviamente quello di evitarle.
+Soprattutto l'obiettivo più importante è quello del passaggio
+definitivo a BDN, sul quale abbiamo delle tempistiche che
+ovviamente oggi citeremo e faremo il possibile e l'impossibile per
+cercare di mantenere un passaggio a BDN, che è auspicabile ed è
+l'obiettivo che da mesi stiamo perseguendo.
+Rispetto al primo quesito, la banca dati regionale dell'anagrafe
+del bestiame e delle aziende di allevamento è stata istituita con
+la legge regionale 17 del 1993 e stabilisce, tra l'altro, che i
+dati relativi all'anagrafe siano implementati tramite delega dagli
+uffici dell'Assessorato all'agricoltura, mediante un database che
+poi è stato denominato, come lei ben sa, SIZO. Quindi la BDR, la
+banca data regionale, è stata istituita prima della banca dati
+nazionale e i dati zootecnici inseriti vengono immediatamente
+inviati alla BDN tramite un sistema informatico di cooperazione
+applicativa. Fino a oggi la BDN prevede solo un flusso
+unidirezionale, ossia non prevede un flusso al contrario dei dati,
+per cui eventuali informazioni inserite direttamente in BDN non
+potrebbero essere acquisite da BDR, pertanto si verificherebbe un
+disallineamento tra le due banche dati.
+Salto al quesito 3, perché poi al 2 e al 4 le risponderò
+insieme: perché in caso di anomalie o errori la responsabilità sia
+sempre a carico dell'allevatore, nonostante ci sia un delegato? La
+BDN, come citato nelle premesse dell'interpellanza, è stata
+istituita con il decreto legislativo 196 del 1999 e successivamente
+modificata con decreto ministeriale del 31 gennaio 2002 e con
+decreto del 31 ottobre 2004, che prevedono la responsabilità finale
+del detentore circa l'aggiornamento dei dati relativi alla propria
+azienda, anche in caso di delega; ovviamente questo è sicuramente
+discutibile.
+Si rappresenta che fino a oggi i tecnici dell'ufficio
+zootecnico, oltre all'implementazione giornaliera dei dati in BDR,
+provvedono quotidianamente anche a correggere eventuali errori
+generati direttamente dagli allevatori, ai quali a volte può
+succedere di omettere di notificare la movimentazione in corretta
+successione (ad esempio: monticazione, vendita o macello), oppure
+di fornire informazioni incomplete, o anche nel caso di
+dichiarazioni non corrette relativamente ai codici pascolo.
+Per quanto riguarda invece i quesiti 2 e 4, nel 2015 si era
+deciso di provvedere al rifacimento del database, perché in quel
+momento BDN, che ricordiamo essere gestita dal Ministero della
+Salute, non risultava ancora adeguata alla gestione del sistema
+zootecnico regionale, caratterizzato da numerose movimentazioni e
+da una complessa gestione delle monticazioni, in particolare quelle
+legate ai diversi tramuti degli alpeggi e delle qualifiche
+sanitarie che sono gestite a livello regionale. A BDR infatti sono
+da sempre collegati anche i sistemi informatici SIVE, che gestisce
+i dati relativi alle macellazioni, e SIBS per le qualifiche
+sanitarie, entrambi implementati dai Servizi Veterinari.
+Nel corso degli ultimi anni il sistema regionale e l'analogo
+sistema nazionale si sono molto evoluti, anche in relazione al
+cambiamento del sistema normativo. La BDN è stata implementata di
+volta in volta con numerose funzionalità: basti citare la chiusura
+automatica del Modello4 informatizzato, come citava lei, con
+registrazione delle movimentazioni e la creazione dell'
+app
+,
+che permette la compilazione del medesimo modello da
+smartphone
+, allo scopo di raccogliere in maniera puntuale le
+numerose informazioni relative alla gestione dei capi zootecnici e
+di facilitare il rispetto degli adempimenti da parte delle aziende
+zootecniche tramite l'evoluzione tecnologica.
+Consapevole di tale mutamento e della difficoltà di tenere il
+sistema regionale sempre al passo con tali innovazioni e con nuove
+funzionalità, l'Assessorato all'agricoltura, anche in
+collaborazione con AREV, ha promosso, già a partire dal 2019,
+l'accesso degli allevatori direttamente alla BDN per la
+predisposizione del Modello4 informatizzato e per la consultazione
+delle schede di stalla, e a partire dal 2021 ha intrapreso il
+percorso per il progressivo passaggio verso l'utilizzo esclusivo di
+BDN per la gestione dei dati anagrafici. Tuttavia, al momento, come
+prima ricordato, dalla BDR, ossia dal database SIZO, dipendono
+appunto i programmi gestiti dai Servizi Veterinari, SIVE e SIBS, e
+allo stato attuale non è loro intenzione procedere alla migrazione
+verso gli analoghi programmi gestiti da Vetinfo per eliminare la
+BDR  ma mantenere possibile la funzionalità dei programmi
+veterinari, si è reso necessario prevedere un apposito protocollo e
+un cronoprogramma degli interventi, in modo da salvaguardare i dati
+storici e rendere possibile il continuo collegamento tra BDN e i
+database regionali SIVE e SIBS.
+Il protocollo per il passaggio definitivo a BDN, che è quello
+che tutti auspichiamo, è affidato a INVA e messo a punto con la
+collaborazione dei competenti uffici e sotto il controllo dei
+responsabili degli uffici dell'Istituto Zooprofilattico di Teramo
+che, a livello nazionale, provvedono alla gestione di BDN e
+Vetinfo, è stato siglato questo protocollo il 14 ottobre del 2021.
+La realizzazione della fase operativa e del definitivo passaggio a
+BDN dovrebbe concretizzarsi nel prossimo trimestre; questo è
+l'obiettivo che abbiamo. Proprio nella giornata di ieri, martedì 8
+febbraio, ha avuto un ulteriore e decisivo confronto con gli uffici
+di Teramo per stabilire le modalità informatiche di cooperazione
+applicativa per il passaggio giornaliero dei dati implementati
+dall'anagrafe BDN, necessari per l'aggiornamento della base dei
+dati utilizzati da SIVE e SIBS e viceversa.
+Il passo successivo sarà quello di adeguare, in collaborazione
+con la competente struttura dell'Assessorato sanità e delle
+associazioni del settore, la legge regionale in materia di anagrafe
+del bestiame, tenendo peraltro presente che tale legge disciplina
+anche l'identificazione del bestiame, che diversamente ad altre
+realtà regionali è da sempre affidata ad AREV.
+Presidente -
+Per replica il consigliere Planaz.
+Planaz (LEGA VDA) -
+Non ha risposto proprio ai miei
+quesiti e mi ha di nuovo elencato tutta una serie di cose che si
+sapevano già. E allora la mia preoccupazione alla fine è vera: ci
+sono delle problematiche, stiamo facendo di tutto per risolverle,
+però chi paga tutto questo oggi è chi non ha la delega; non
+parliamo di categorie, non parliamo di nessun ufficio. Poi mi ha
+parlato adesso del passaggio giornaliero: ci sono sette giorni per
+fare i passaggi senza nessuna sanzione, perché è normale che in
+questa formulazione, in questo scambio di dati, non è che io creo
+un documento e dopo un secondo deve essere tutto allineato
+perfettamente, anche perché quando si effettuano questi documenti,
+dopo viene la procedura dello spostamento o eventuali cose da fare
+dentro l'azienda.
+Faccio un esempio. Un allevatore decide di spostare dieci capi,
+uno purtroppo non ce la fa, passa a miglior vita nel tempo del
+carico o nello scarico. È normale che l'allineamento dei dati debba
+avere sei, sette, otto giorni. In base alle regole di BDN sono
+sette giorni, mentre noi in passato - lì creavamo molte anomalie -
+per agevolare gli allevatori nell'andare a portare i documenti
+della monticazione, davamo dieci giorni di tempo, però quei tre
+giorni BDN li segnalava come anomalia. La nostra legge regionale
+permetteva di usare questi dieci giorni di vuoto per aggiornare le
+banche, ma BDN no e segnalava l'anomalia e pagava la sanzione di
+nuovo l'azienda.
+È tutta una serie di queste cose qua che bisogna, a mio avviso,
+fare in modo che non accadano. Oggi vedo malcontento dalla parte
+dell'allevatore, dalla parte del veterinario che controlla e vede
+che è stato fatto tutto o quasi tutto e poi si ritrova le anomalie
+che non riusciamo a sistemare. C'è tutta una serie di cose, di enti
+che si parlano, che devono interagire tra di loro, che oggi non lo
+fanno, anche tra i veterinari della nostra regione e veterinari
+fuori Valle. Adesso affrontiamo quest'argomento per la nostra
+regione, ma quando dobbiamo affrontare quest'argomento tra regioni
+diverse, tipo Piemonte e Valle d'Aosta dove le regole sono diverse,
+anche qui bisogna fare in modo che sia uguale per tutti e che le
+regole siano precise. Sennò è normale che ogni volta che c'è un
+documento da esibire, per esempio nel caso della monticazione per i
+pascoli estivi, dei codici di pascolo, anche in questo caso devono
+avere la possibilità di interagire o che una segnalazione o un
+messaggio o una
+mail
+interagisca direttamente con BDN e BDR,
+in modo da avere i dati allineati. Perché anche nei codici di
+pascolo: l'allevamento è a fondovalle, BDN guarda l'allevamento di
+fondovalle... adesso lei mi guarda così in un modo strano... io
+faccio per spostamento tra allevamenti di fondovalle e vado su BDN,
+per spostamento dei codici pascolo su BDR, che poi verrà in seguito
+ad aggiornare BDN. Però anche lì bisogna snellire queste procedure,
+sennò è normale che più procedure di questo tipo si fanno, più
+rischiamo di creare anomalie che vanno a discapito di chi sta
+lavorando.
+Dalle risposte che mi ha dato lei oggi, sicuramente fra sei mesi
+saremo di nuovo qua a parlare delle stesse cose, perché non è stato
+fatto nulla, poco o non a sufficienza. Io spero proprio di non aver
+più bisogno di presentare un'iniziativa di questo tipo, a seguito
+di molte lamentele che ricevo, perché sono delle cose talmente
+elementari che secondo me...! Non è questione di finanza, di soldi,
+che faccio una cosa o un progetto e devo avere le risorse; qui è
+proprio solo organizzazione.

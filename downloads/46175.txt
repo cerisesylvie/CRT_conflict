@@ -1,0 +1,203 @@
+Consiglio Regionale della Valle d'Aosta - Oggetto del Consiglio n. 2641 del 13 luglio 2023 - Resoconto
+Vai al contenuto principale
+Oggetti del Consiglio
+Invia
+Stampa
+Documenti
+Verbale
+Resoconto
+Collegamenti
+Iter atto
+Classificazione
+EDILIZIA
+ENERGIA
+Precedente
+Successivo
+Resoconto integrale del dibattito dell'aula. I documenti allegati sono reperibili nel link "iter atto".
+Oggetto del Consiglio n. 2641 del 13 luglio 2023 - Resoconto
+OGGETTO N. 2641/XVI - Interrogazione: "Ruolo delle Comunità
+Energetiche Rinnovabili nell'ambito del Piano Energetico Ambientale
+Regionale della Valle d'Aosta al 2030".
+Marguerettaz (Presidente) -
+Punto n. 33 all'ordine del
+giorno. La parola all'assessore Bertschy per la risposta.
+Bertschy (AV-VdA Unie) -
+Per quanto riguarda la risposta
+al primo quesito, l'analisi cartografica è stata svolta dall'Energy
+Center del Politecnico di Torino nell'ambito dell'incarico affidato
+dal COA (Centro Osservazione e Attività) energia di Finaosta per il
+supporto nella redazione del piano energetico ambientale
+regionale.
+Per quanto riguarda il secondo quesito, la stima del potenziale
+tecnico di fotovoltaico su tetti e coperture in Valle d'Aosta si è
+basata su tecniche di analisi cartografica che hanno usato gli
+input
+cartografici forniti dalle competenti strutture
+regionali, e in particolare: la carta tecnica regionale, il livello
+dei fabbricati, il modello digitale del terreno, granularità 2
+metri per 2 metri, modello digitale superfici, strato poligonale
+dell'edificato derivato da ortofoto 2018.
+Su tale base è stato sviluppato uno specifico algoritmo di
+analisi dei livelli RAS di cui sopra che ha identificato le
+superfici e i tetti e coperture potenzialmente utilizzabili per
+l'installazione dei pannelli fotovoltaici utilizzando i seguenti
+criteri: inclusione delle sole porzioni di superficie con
+orientamento al punto cardinale est al punto cardinale ovest,
+ovverosia in un intorno di 180 gradi dalla direzione sud;
+inclusione delle sole superfici con inclinazione fino a 60 gradi;
+eliminazione delle superfici inferiori ai 14,5 metri quadri in
+quanto non idonee ad ospitare almeno 3 kW di potenza di
+fotovoltaico.
+Le superfici sono state divise e differenziate per classi di
+orientamento e inclinazione associando quindi ad ogni superficie un
+valore rappresentativo di orientamento e inclinazione.
+Per il calcolo della potenza di fotovoltaico installabile su
+ogni superficie si è ipotizzato di utilizzare pannelli da 330 watt
+e per ogni superficie è stato identificato un numero di pannelli da
+utilizzare approssimando sempre per difetto la potenza
+installabile.
+Per ogni superficie è stata stimata, attraverso il portale
+IVG1S4 la producibilità annuale assumendo l'utilizzo di un pannello
+generico, cristallino 5, con il 14% di perdite di sistema.
+Tale stima di producibilità tiene conto della presenza degli
+ostacoli orografici, mentre non è in grado di considerare gli
+ostacoli costituiti da altri edifici o alberi.
+Infine, le superfici e i relativi ipotetici impianti
+fotovoltaici sono stati suddivisi per comune e per tipologia di
+fabbricato: il fabbricato di tipo civile, il fabbricato di tipo
+industriale, le tettoie, le coperture e i capannoni agricoli.
+Da questo primo livello di analisi sono stati poi esclusi gli
+edifici sottoposti ad una serie di vincoli.
+Per quanto riguarda il punto 3, l'analisi come meglio descritta
+in precedenza aveva la finalità di supportare la realizzazione
+della bozza del PEAR (Piano Energetico Ambientale Regionale) VdA
+2030 con un livello di approssimazione volto a caratterizzare
+l'ordine di grandezza del potenziale tecnico del territorio
+regionale.
+Le analisi sono state pertanto svolte su base cartografica, non
+hanno necessitato in questa prima fase del coinvolgimento dei
+Comuni, ma lo si farà nella fase successiva e soprattutto ora che
+parte una valutazione più approfondita sugli studi delle comunità
+energetiche.
+Per quanto riguarda il punto 4, nel PEAR VdA 2030 le CER
+(Comunità Energetiche Rinnovabili) vengono individuate come un
+potenziale strumento per lo sviluppo delle fonti rinnovabili
+elettriche e adesso viene dedicata una scheda specifica nell'ambito
+dell'asse 4 persone.
+Tuttavia la reale diffusione e la reale agibilità sul territorio
+delle CER è ancora caratterizzata da un livello di incertezza
+determinato dalla mancanza dei decreti attuativi e una
+quantificazione più precisa potrà essere effettuata solo a quadro
+normativo maggiormente delineato.
+Il ruolo che le CER potranno avere sul territorio non dipende
+infatti esclusivamente dall'analisi di tipo tecnico, bensì dalla
+risoluzione dei principali quesiti ancora aperti nel confronto tra
+l'Unione europea, lo Stato e le Regioni, tra i quali si cita, a
+titolo esemplificativo, la cumulabilità degli incentivi, il valore
+della tariffa incentivante che sarà riconosciuta dal GSE (Gestore
+Servizi Energetici) e il tema degli aiuti di Stato.
+Come lei ben sa, anche con il Consigliere Ganis abbiamo fatto la
+terza riunione del gruppo di lavoro con i Sindaci, tutte queste
+analisi sono state oggetto di tre interessanti riunioni, nel gruppo
+il lavoro che è stato costituito su vostra proposta, direi che sta
+procedendo in maniera molto proficua e il coinvolgimento degli Enti
+locali in questa fase è stato più che opportuno perché ci
+permetterà da un lato di avanzare, sotto il profilo della
+conoscenza dei dati e sotto il profilo tecnico, e dall'altro di
+continuare in quell'opera di collaborazione, sensibilizzazione,
+promozione e comunicazione rispetto alla comunità di questa
+importante possibile strategia per migliorare il nostro sistema
+energetico, per ridurre i consumi e per creare quella cultura della
+quale abbiamo parlato anche nell'incontro di ieri rispetto ai
+consumi dell'energia e rispetto all'importanza che ogni cittadino
+assume in questa fase così importante di transizione
+energetica.
+Presidente -
+Per la replica, la parola alla collega
+Minelli.
+Minelli (PCP) -
+Noi avevamo visto nella relazione tecnica
+illustrativa del PEAR a pagina 211 dei dati piuttosto dettagliati
+che denotano un lavoro di indagine significativo, ed è per questo
+che avevamo fatto la prima domanda. Lei ci ha detto che c'è stato
+il coinvolgimento di Energy Center, cosa che avevamo in qualche
+modo immaginato.
+Voglio sottolineare che si tratta di un lavoro prezioso e credo
+che sia opportuno continuare a coinvolgere chi ha elaborato i dati
+in un progetto che si sta mettendo a punto per realizzare lo studio
+di fattibilità sullo sviluppo delle CER in Valle d'Aosta.
+La stima di una potenzialità indicata nel PEAR di 400 MW di
+potenza installabile, sia pure comprensiva di quello che è già
+stato installato nel 2019, di cui un 15% soltanto nel Comune di
+Aosta, è un dato rilevante. In effetti, poi, nel PEAR il
+fotovoltaico e le pompe di calore sono i due sistemi su cui si
+punta maggiormente per incrementare la produzione da fonti
+energetiche rinnovabili.
+Per quanto riguarda la questione del coinvolgimento dei Comuni:
+lei ha spiegato che al momento le indagini che sono state fatte
+sono su base cartografica e che poi in una fase successiva ci sarà
+questo coinvolgimento che, peraltro, è già partito nel gruppo di
+lavoro CELVA (Consorzio degli Enti Locali della Valle d'Aosta) e
+Regione.
+Vorrei sottolineare che nello sviluppo del fotovoltaico avranno
+un ruolo rilevante anche i privati: infatti poi saranno coinvolti
+la Chambre, imprese e poi anche cittadini. Però
+-
+lo abbiamo
+detto tante volte ma è confermato da quello che sta emergendo in
+questo tavolo
+-
+che un ruolo trainante per la diffusione del
+fotovoltaico dovrà essere svolto dai Comuni, sia utilizzando tutte
+le coperture degli edifici pubblici, sia promuovendo le CER.
+Quindi l'obiettivo che ci dobbiamo dare è quello di CER a traino
+comunale.
+Per quanto riguarda poi invece l'ultima domanda
+-
+giustamente lo ha detto anche lei
+-
+io ho presente i
+ragionamenti che si stanno facendo in questo tavolo Regione e
+Comuni, di cui avevamo sollecitato la costituzione con la mozione
+che è stata per fortuna accolta e devo dire che questo gruppo di
+lavoro sta lavorando positivamente.
+Noi siamo contente che ci siano stati dei passi avanti e che ci
+sia stata anche la disponibilità sia di CVA (Compagnia Valdostana
+delle Acque) che dei Politecnici di Milano e Torino per collaborare
+al progetto; ed era quello che noi avevamo auspicato fin
+dall'inizio e che avevamo anche suggerito in legge. Quello che
+vorremmo però che fosse chiaro è che il progetto delle CER in Valle
+d'Aosta non è un progetto del gruppo CVA, è un progetto che vede
+coinvolti vari soggetti, anzitutto la Regione, il COA (Centro
+Osservazione e Attività), il CELVA, oltre a questo gruppo di
+lavoro, è la motivazione per cui abbiamo trovato inesatta e anche
+in parte inopportuna la comunicazione che c'è stata di CVA riguardo
+appunto al progetto che è in itinere, l'abbiamo detta anche con un
+comunicato stampa.
+Riteniamo che sia opportuno poi nel PEAR dire qualche cosa di
+più sulle CER, proprio per raggiungere gli obiettivi di crescita
+del fotovoltaico: ad esempio sarebbe utile, secondo noi, indicare
+nel piano la potenza che si intende installare nei prossimi tre
+anni, cioè darsi delle scadenze temporali un po' più precise.
+Abbiamo depositato delle formali osservazioni al PEAR, che è
+adesso in VAS (Valutazione Ambientale Strategica), proprio per
+sottolineare questo aspetto, che speriamo venga preso in
+considerazione.
+La questione della tempistica e anche del porsi degli obiettivi
+a medio termine ma precisi, secondo noi è una cosa che aiuta: lo
+avevamo già detto anche per quanto riguardava il piano rifiuti,
+perché è una modalità di lavoro che va in qualche modo
+interiorizzata.
+In conclusione, noi crediamo che il fotovoltaico e le CER siano
+una grande opportunità per accelerare la transizione energetica e
+per coinvolgere e far partecipare nel nostro Paese migliaia di
+cittadini alla rivoluzione dei sistemi energetici, che è necessaria
+e che va fatta in tempi brevi. Non mancano le opportunità, ma vanno
+sfruttate.
+Informativa cookies
+Consiglio Regionale della Valle d'Aosta © 2025
+Questo sito utilizza cookies propri e di terze parti. Continuando ad usare questo sito, acconsenti all'utilizzo di questa tecnologia.
+Consulta la nostra
+informativa
+per maggiori informazioni e per istruzioni su come disattivare i cookies.
+OK

@@ -1,0 +1,205 @@
+Consiglio Regionale della Valle d'Aosta - Oggetto del Consiglio n. 3085 del 21 dicembre 2023 - Resoconto
+Vai al contenuto principale
+Oggetti del Consiglio
+Invia
+Stampa
+Documenti
+Verbale
+Resoconto
+Collegamenti
+Iter atto
+Classificazione
+INFORMAZIONE
+Precedente
+Successivo
+Resoconto integrale del dibattito dell'aula. I documenti allegati sono reperibili nel link "iter atto".
+Oggetto del Consiglio n. 3085 del 21 dicembre 2023 - Resoconto
+OGGETTO N. 3085/XVI - Interpellanza: "Interventi correttivi
+delle mappe presenti sull'app 'Aosta Digitale'".
+Bertin (Presidente) -
+Punto all'ordine del giorno numero
+35, a lei la parola, consigliere Manfrin.
+Manfrin (LEGA VDA) -
+Grazie Presidente.
+Come
+abbiamo voluto riportare con questa interpellanza, qualche
+settimana fa è stata lanciata questa
+app
+di 'Aosta
+Digitale', che appunto nelle sue proposizioni doveva
+sostanzialmente dare una visione differente, dare un supporto a chi
+vuole vivere a Aosta dal suo punto di vista turistico, quindi
+fornendo una descrizione anche di quelli che sono i luoghi storici
+da visitare e approfondire.
+Nel comunicato stampa che era stato diffuso, si diceva appunto
+che era un'app gratuita di
+gamification
+,
+mapping
+,
+realtà aumentata e virtuale, in grado di accompagnare il visitatore
+alla scoperta dei più importanti siti di Aosta, ma sfruttabile
+anche da chi non si trova in città; 'Aosta Digitale' per Android e
+iOS si inserisce nel progetto 'Aosta Digitale', innovazione per la
+storia, promosso dall'Assessorato allo sviluppo economico in
+sinergia con l'Assessorato ai beni culturali.
+Nella descrizione rispetto ai servizi offerti, veniva riportato
+che il progetto di 'Aosta Digitale' ha permesso di offrire una
+nuova formula di visita dell'area megalitica in grado di fornire
+approfondimenti scientifici e potenziare la percezione
+sensoriale.
+Siamo stati oggetto di alcune segnalazioni rispetto a diverse
+inesattezze che vengono riportate proprio nelle mappe di 'Aosta
+Digitale': nello specifico, dagli approfondimenti che abbiamo fatto
+pare che le mappe che sono state inserite siano vecchie di almeno
+15-20 anni e specificamente, visto che viene molto incentrato sulla
+parte dell'area megalitica che è molto interessante, nella mappa
+non compare il parcheggio che c'è a servizio dell'area megalitica,
+per cui una persona che potenzialmente volesse recarsi lì a
+visitarla non sa che lì c'è un parcheggio.
+Banalmente, ci sono grossi difformità rispetto, per esempio,
+alla zona della caserma Testafochi, altre difformità rispetto la
+caserma Battisti, il prato della Cicogna e la via Chambery, non
+viene riportato il nuovo ponte sul Buthier su questa mappa, non
+viene riportato il parcheggio del Parini; insomma, ci sono diversi
+problemi che rendono di difficile fruizione questa app e,
+obiettivamente, se questa deve accompagnare un turista che si reca
+per la prima volta nella città di Aosta per un percorso che può
+valorizzare quelle che sono le bellezze artistiche, turistiche,
+culturali, storiche del capoluogo regionale è evidente che lascia
+un po' spiazzati perché se seguo quella mappa lì non avrò punti di
+riferimento - già che i parcheggi sono scarsi, diciamo questo è un
+problema principale, ma di questo ne abbiamo parlato più volte - e
+non avrò la possibilità di comprendere appieno e neanche di
+riuscire a percorrerlo al meglio.
+Con questa interpellanza, evidenziate quelle che sono le
+criticità, abbiamo chiesto se gli errori riportati sulla mappa
+presente sull'app 'Aosta Digitale' siano voluti, cioè si è voluto
+dare una rappresentazione quasi storica, cioè vent'anni fa era
+così, poi adesso si è evoluta, oppure all'epoca dei Romani era
+così, magari poi ci sono stati dei parcheggi in più, oppure se, in
+caso negativo, se sia intenzione dell'Amministrazione applicare i
+necessari correttivi atti a rendere le mappe corrispondenti alla
+realtà, il che faciliterebbe sicuramente l'utilizzo
+dell'applicazione.
+Presidente
+- Risponde l'assessore Bertschy.
+Bertschy (AV) -
+Grazie collega Manfrin, rispondo anche a
+nome del collega Guichardaz, mettendo insieme tutti e due i
+quesiti, se è possibile. Tra l'altro, avevo chiesto anche alle
+strutture di mettersi in contatto, proprio perché, nello spirito
+del lavoro da fare qui in Consiglio, volevo essere sicuro di aver
+capito l'iniziativa; da un lato sono comprensibili le valutazioni
+che lei fa e che porta in Aula, dall'altro è bene riportare il
+progetto, quelle che sono le sue finalità, i suoi obiettivi, dando
+la disponibilità però a ragionarci per il futuro.
+La mappa interattiva e integrata nella app mobile 'Aosta
+Digitale' utilizza di fatto due layer informativi: la mappa
+pittografica, visibile all'utente riprodotta in stile antichizzato
+per garantire coerenza grafica con lo stile adottato per l'intera
+applicazione in tutte le sezioni che la compongono e la carta
+tecnica di base utilizzata in
+background
+dell'applicazione
+per garantire la navigazione con l'utilizzo del GPS, mediante
+visualizzazione del
+marker
+dalla posizione dell'utente e al
+tempo stesso la costruzione degli itinerari personalizzati.
+Gli strati sopra richiamati sono stati derivati prendendo a
+riferimento l'ultima versione della carta tecnica digitale di Aosta
+disponibile negli anni 19-20, quando ha avuto inizio il progetto
+'Aosta Digitale' che si è concluso in data 27 luglio 2022, sul
+geoportale SCT dell'Amministrazione regionale, quindi quello è il
+punto di riferimento di partenza. Le modifiche all'assetto
+urbanistico successive non fanno parte dell'aggiornamento di questa
+cartografia e il progetto è un progetto di ricerca, che nasceva non
+con la finalità di tenere aggiornato come se diventasse un
+servizio, ma senza quel tipo di impostazione che può invece essere
+immaginata da ora in avanti, ovviamente in accordo con tutti i
+soggetti che ne sono interessati.
+Quello che credo sia importante chiarire è che quando si dice
+disponibile anche per chi non è in Aosta da fuori, lo si ritiene
+proprio perché si può entrare nel
+gaming
+, nel gioco,
+visitare, interessare e questa è stata la parte che di più è stata
+ritenuta utile e dall'altra parte interessante anche per un
+pubblico giovane, che è quello che può essere più interessato da
+questo tipo di progetti e di iniziative.
+Da parte nostra c'è l'intenzione di raccogliere la sua
+segnalazione, di capire come possa essere integrata in un progetto
+di questa tipologia, che non è un Google Map o un progetto che si
+pone l'obiettivo di garantire tutti i servizi, ma è bene anche
+raccogliere questo punto di vista, proprio perché, a volte, si
+costruisce con un obiettivo, ma poi, pubblicando e mettendo in
+condizioni tutti di utilizzarlo, vengono fuori informazioni come
+quella che lei ha portato in Aula.
+Io concludo dicendo che l'app ha una funzione che è quella di
+condividere i contenuti informativi sul patrimonio culturale di
+Aosta, correlando gli stessi alla posizione geografica dei siti di
+principale interesse, che nasce per un uso prevalente da parte di
+utenti che si muovono a piedi. La soluzione proposta resta per ora
+quella che abbiamo immaginato; immaginando che il gaming vada
+oltre, che oltre al gaming uno possa venire anche in città e avere
+qualche informazione in più, proviamo a ragionare un completamento
+di questo progetto.
+Presidente
+- Consigliere Manfrin, ne ha facoltà.
+Manfrin (LEGA VDA) -
+Grazie Presidente, grazie Assessore
+per la sua risposta. Ovviamente voglio cogliere lo spunto positivo,
+chiaro è che la riflessione che lei ha fatto è vera. Lei dice che
+queste mappe sono fatte per chi si sposta a piedi, però in realtà
+queste mappe riportano gran parte della città di Aosta e quindi se
+noi immaginiamo il ponte sul Buthier e poi immaginiamo che ci siano
+le mappe che ricomprendono anche l'area megalitica, però si vede
+anche la zona dell'Arco d'Augusto, immaginare di arrivare a piedi
+da una parte all'altra per un turista è sicuramente difficoltoso,
+quindi ci sarà sicuramente chi si muove a piedi, ci sarà
+sicuramente chi si muove utilizzando delle automobili, facendo
+anche un dispetto al Sindaco di Aosta, ma questa è un'altra
+questione.
+A fronte di questo evidenziare, io le ho citato alcune cose come
+i parcheggi, ma anche soltanto appunto il ponte sul Buthier
+sicuramente è un qualcosa di importante; per questo io le ho
+chiesto, magari anche un po' ironicamente, ma anche per capire,
+perché se si fosse fatta una mappa antica di Aosta e non riportava
+quella che è la forma attuale del capoluogo regionale, allora uno
+avrebbe detto che è normale, si riporta e si fa questa mappa,
+questo
+gaming
+, dove non compaiono delle costruzioni moderne,
+ma si vuole fare una ricostruzione storica della città, ci sta, è
+una cosa sicuramente positiva; se però si vogliono evidenziare
+alcuni punti di forza, alcuni punti da porre sotto l'attenzione di
+chi visita la città e si evidenziano all'interno della struttura
+anche strutture moderne, come per esempio la caserma Testafochi
+piuttosto che il museo che c'è sull'area megalitica, è chiaro che
+bisogna anche evidenziare i servizi di supporto, quindi se vado
+all'area megalitica devo sapere che c'è un parcheggio che è
+pertinenziale e che posso utilizzare, oppure se mi muovo nella zona
+dell'Arco d'Augusto sapere che c'è un ponte e che non c'è invece
+una zona che è chiusa, transennata, perché il mitico Sindaco ha
+deciso che non ci deve più passare nessuno, è sicuramente un
+beneficio per tutti.
+La ringrazio e mi auguro davvero che con queste segnalazioni,
+con quelle che sicuramente saranno anche giunte a voi, potremo dare
+un'esperienza migliore sia per chi magari è residente ad Aosta o in
+Valle d'Aosta e vuole fruire e vuole approfondire quello che è il
+patrimonio di cui disponiamo e che magari spesso ci passa davanti
+agli occhi senza vederlo, ma anche per chi si reca in Valle d'Aosta
+per la prima volta, vuole visitare il nostro capoluogo e avrà dei
+punti di riferimento su cui appoggiarsi. Grazie.
+Presidente
+- Sospendiamo brevemente i lavori per
+arieggiare i locali. Il Consiglio è sospeso.
+La seduta è sospesa dalle ore 11.04 alle ore 11.18.
+Informativa cookies
+Consiglio Regionale della Valle d'Aosta © 2025
+Questo sito utilizza cookies propri e di terze parti. Continuando ad usare questo sito, acconsenti all'utilizzo di questa tecnologia.
+Consulta la nostra
+informativa
+per maggiori informazioni e per istruzioni su come disattivare i cookies.
+OK

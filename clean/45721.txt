@@ -1,0 +1,327 @@
+Classificazione
+INFORMAZIONE
+Radiotelecomunicazioni
+
+
+
+Oggetto del Consiglio n. 2376 del 20 aprile 2023 - Resoconto
+OGGETTO N. 2376/XVI - Interpellanza: "Raggiungimento
+dell'obiettivo di collegamento dell'intero territorio valdostano
+tramite fibra ottica ultraveloce".
+Bertin (Presidente) -
+Punto n. 54. Per l'illustrazione,
+ha chiesto la parola il consigliere Lucianaz.
+Lucianaz (LEGA VDA) -
+Je poserai les questions en langue
+française, même si l'interpellation a été faite en italien, donc il
+n'y a pas de souci pour notre bilinguisme. Vu l'importance de la
+réalité de la connexion en fibre optique en modalité "Fiber to the
+home", finalisée à donner pleine satisfaction à la requête des
+nombreuses activités commerciales et touristiques valdôtaines qui
+veulent être à la hauteur de l'offre touristique et en prévision du
+futur développement soutenable pour la communauté locale et compte
+tenu des importantes ressources économiques investies sur ce
+prestigieux projet de la part de la Région autonome Vallée d'Aoste,
+avec le but de s'étaler sur le territoire valdôtain entier, on
+interpelle le Gouvernement régional pour connaître: un, quel est le
+pourcentage de couverture en fibre optique sur le territoire
+valdôtain, le pourcentage des travaux accordés et des travaux
+achevés ; deux, si le dossier d'appel d'offres et le calendrier ont
+toujours été respectés et encore qui a géré ces ressources ? Trois:
+quelle est la situation actuelle dans les vallées latérales, en
+particulier les vallées latérales de la Vallée d'Ayas, où il paraît
+que des villages entiers, des grandes parties des communes
+touristiques même avec une présence d'importantes activités
+économiques ont été bypassés, oubliés, on dirait, dans la mise à
+disposition des points de raccordement à cette fibre. Quelles sont
+les raisons? Et dernier point: s'il y a l'intention de trouver des
+remèdes à ces désagréments, dans quel horizon temporel et quelles
+sont les ressources?
+Presidente -
+Risponde l'assessore Caveri.
+Caveri (AV-VdA Unie) -
+Devo dire che la questione della
+fornitura della fibra ottica è una questione abbastanza caotica dal
+punto di vista degli interventi e non certamente per colpa della
+Regione e, come ha già fatto a suo tempo l'assessore Marzi, siamo
+costretti periodicamente a interloquire con i soggetti che si
+stanno occupando per lo Stato di questa questione. Infatti la
+realizzazione delle infrastrutture della rete di accesso in fibra
+ottica rientra in un piano nazionale che si chiama piano nazionale
+banda ultralarga, che è gestito direttamente dal Ministero dello
+sviluppo economico, oggi Ministero delle imprese del
+Made in
+Italy
+, per tramite della società
+in house
+Infratel
+Italia. La Regione, con assoluta buona volontà, ha messo a
+disposizione la propria infrastruttura di dorsale in fibra ottica
+che raggiunge tutti i comuni del territorio, assicurando massima
+copertura e accessibilità della banda ultralarga presso le
+principali postazioni radio, che sono alla base degli operatori di
+telefonia mobile e delle centrali Telecom dei Municipi e in altri
+punti di interesse regionali. L'infrastruttura regionale viene
+concessa agli operatori di telecomunicazioni per permettere la
+realizzazione della rete di accesso quale elemento abilitante per
+il rilascio dei servizi di connettività all'utenza finale. Oltre
+agli operatori radiomobili, che, grazie alle infrastrutture di
+dorsale hanno potuto far evolvere le proprie reti alle nuove
+tecnologie di trasmissione dati di quarta e quinta generazione,
+anche gli operatori di rete
+wireless
+hanno potuto
+implementare le loro reti per fornire gli accessi
+Internet
+in banda ultralarga.
+Per quanto concerne i rilegamenti in fibra ottica, come
+accennato in apertura, sono previsti nel piano nazionale di banda
+ultra larga e in alcuni Comuni per realizzazione di specifici
+servizi anche da parte di altri operatori di telecomunicazione.
+Per quanto riguarda il piano nazionale banda ultralarga, al
+dicembre 2022, sono gli ultimi dati di Open Fiber che incontrerò
+comunque nelle prossime settimane, sono 61 Comuni su 68, con
+progetti approvati, 23 sono collaudati, 17 sono da collaudare, 14
+sono in previsione di terminare nel 2023 e 14 sono quelli che
+termineranno nel 2024, 412 i collegamenti attivi con potenziali 30
+operatori convenzionati, invece con rete
+wireless
+sono 36 su
+47 i progetti approvati, 11 quelli terminati e 9 gli impianti
+collaudati. A integrazione, cioè laddove non arriva questo servizio
+di banda larga che è gestito dal Ministero, c'è un secondo piano
+che andrà a coprire quelle zone della Valle d'Aosta dove per adesso
+non arriverà questo servizio e questo piano si chiama Italia 1 giga
+che, per la Valle d'Aosta, prevede la copertura di oltre 15.934
+unità immobiliari che non erano state incluse nel piano nazionale
+banda ultralarga. La Valle d'Aosta è stata inserita nel lotto 4,
+insieme al Piemonte e alla Liguria, ove è previsto un investimento
+complessivo che riguarda tutti di 291 milioni di euro a valere sui
+fondi PNRR. Dal bando Infratel sono stati esclusi i Comuni che
+risultano già precedentemente completati dal piano nazionale, che
+sono Bard, Issime, Issogne, Saint-Nicolas e Saint-Oyen. Dei 69
+Comuni coinvolti si riporta l'elenco con la numerosità delle case
+che sono state previste, io eviterei di leggerglielo, glieli lascio
+perché sono tutti e 74 i Comuni e credo che passeremo troppo tempo.
+In particolare nei comuni della Val d'Ayas è previsto il
+rilegamento, rispetto a quanto c'è ancora, quindi se qualcuno
+giustamente è venuto da lei a proporre quest'iniziativa si sappia
+che 2.495 unità immobiliari verranno ulteriormente coperte dalla
+fibra ottica.
+Aggiungerei, per completamento, che nel caso in cui si creassero
+situazioni alla fine di questo piano sarà la Regione stessa con
+altri fondi a disposizione, che sono i fondi FESR, a poter
+intervenire per coprire quelle zone che oggi non sono coperte.
+"Se sono stati rispettati i tempi": come accennato in
+precedenza, il piano nazionale è attualmente gestito dal Ministero
+delle imprese del
+Made in Italy
+. Per tramite della società
+in house
+Infratel Italia, il bando di gara è stato
+aggiudicato alla società Open Fiber, che avrebbe dovuto completare
+i lavori entro il 2020, poi prorogati al 2022, successivamente al
+2024. Esiste un problema oggettivo, cioè una delle aziende, di
+questo parleremo con Open Fiber tra poco, tra qualche giorno,
+l'Alpitel che lavorava in diversi Comuni in Valle d'Aosta è fallita
+e, oggi come oggi, tema che il collega Marzi aveva affrontato anche
+con la Confindustria, in sostanza c'è una sola società valdostana
+che opera nel settore delle fibre ottiche e una delle
+sollecitazioni di queste ore è quella di invitare delle imprese del
+settore in Valle a poter intervenire su questi appalti perché sennò
+è chiaro che questi rallentamenti sono dovuti principalmente alla
+difficoltà di assegnare degli appalti per continuare questi
+lavori.
+L'Amministrazione regionale - ed è la risposta al quesito n. 4 -
+ha sempre monitorato con attenzione le strategie e i progetti che
+sono stati avviati dall'Amministrazione centrale, attuando tutte le
+iniziative necessarie per il supporto allo sviluppo delle
+infrastrutture di TLC sul territorio della Regione. In particolare,
+per sveltire gli iter autorizzativi necessari, abbiamo anche
+legiferato, con una legge che è stata approvata a ottobre del 2021,
+che evita tutta una serie di rallentamenti di procedure.
+Parallelamente, per facilitare anche l'implementazione delle
+infrastrutture di radiotelecomunicazioni di nuova generazione
+dell'insieme di queste strutture, ha proposto una modifica della
+legge regionale 25 del 4 novembre 2005, che dovrebbe arrivare a
+breve all'attenzione di questo Consiglio regionale.
+Ci sono quindi in questo momento, lo ripeto, diversi progetti:
+il piano nazionale già citato, Open Fiber, il piano scuole che è
+gestito da noi e da INVA per portare la connettività in tutte le
+scuole della Valle e siamo molto avanti, il piano sanità, PNRR, che
+è gestito da Vodafone, che dovrebbe collegare, per esempio, le
+microcomunità, c'è poi il piano scuola fase 2, sempre della TIM, il
+piano Italia 1 Giga, sempre gestito da TIM, e il piano Italia 5G
+sempre nel PNRR gestito dalla TIM.
+L'aspetto da sottolineare dal punto di vista politico è che
+tutte queste misure assunte dal PNRR sono state paracadutate sulla
+realtà valdostana, cioè non c'è stato nessun tipo di concertazione
+e questa è una cosa che lamentano tutte le Regioni italiane e
+rientra in una visione centralistica del PNRR che noi abbiamo anche
+in quest'aula e che ho commentato negativamente fin
+dall'inizio.
+Ribadisco però, e con questo concludo, che se alla fine di
+queste procedure, 2024/2025, dovessero risultare aree di territorio
+ancora non coperte, sarà possibile avviare una serie di interventi
+da parte di operatori privati, anche con il sostegno della Regione,
+in modo da poter avviare le azioni necessarie a estendere il più
+possibile la copertura del servizio. La materia è molto complessa,
+stiamo mettendo ordine e il rafforzamento possibile della struttura
+del DIAD regionale va esattamente in questo senso. Le consegnerò
+poi il dettaglio comune per comune.
+Presidente -
+Per la replica, ha chiesto la parola il
+consigliere Lucianaz.
+Lucianaz (LEGA VDA) -
+Grazie Assessore. Questi dati che
+ci ha fornito avevo già avuto modo di leggerli che li ha anticipati
+alla stampa e ai Comuni, sono sicuramente incoraggianti. Le ho
+citato la Valle d'Ayas perché non sono venuti da me ma sono andato
+io a mangiare a Brusson a pranzo, e si mangia anche molto bene e mi
+è stato detto sia a Extrepiéraz, sia la Fromagerie du Haut Val
+d'Ayas, che in certe zone del comune sono serviti e in altre zone
+sono scoperti, ad Arcesaz, ad esempio, era diverso.
+Addirittura, quando hanno il guasto al POS, sono bloccati
+persino per gli incassi e devono aspettare per giorni le
+riparazioni. Vanno benissimo quindi tutti questi progetti, tutti
+questi impegni, la realtà è che abbiamo attività commerciali e
+attività turistiche che soffrono questo disservizio, che è fatto un
+po' a macchia di leopardo, i cavidotti della Deval non si sa bene
+se sia l'unico vettore o meno in cui canalizzare queste fibre,
+perché certe volte ci sono interruzioni che paiono incomprensibili
+e comunque rimaniamo fiduciosi.
+L'ultima cosa che volevo segnalare, visto che siamo
+sull'argomento, è che Open Fiber curerà la gestione della rete, che
+è di proprietà pubblica per i prossimi vent'anni, ma Open Fiber è
+un operatore
+wholesale only
+, cioè non eroga servizio al
+cliente finale ma è attivo esclusivamente sul mercato all'ingrosso,
+mi chiedo solo se quest'Amministrazione sia abbastanza cauta e con
+quali condizioni garantirà il miglior utilizzo e il miglior
+servizio di quest'importante infrastruttura di comunicazione.
+OGGETTO N. 2377/XVI - Interpellanza: "Confronto con il
+Consorzio regionale pesca in merito al futuro della riserva
+speciale di pesca nel comune di Valpelline e azioni di rilancio
+della riserva medesima"
+.
+Bertin (Presidente) -
+Punto n. 55. Si è prenotato il
+consigliere Restano.
+Restano (GM) -
+Nell'anno 2008, con la collaborazione
+dell'allora assessore al turismo e amico Marguerettaz e con la
+collaborazione dell'assessore Isabellon, da Sindaco iniziai a
+lavorare a un progetto per la creazione di una riserva di pesca nel
+comune di Valpelline. I lavori durarono circa tre anni, dopo tre
+anni, insieme al Consorzio di miglioramento della pesca, aprimmo la
+prima riserva speciale di pesca della Valle d'Aosta denominata
+Buthier. Per lavorare su questo progetto, a onor del vero,
+prendemmo spunto da una riserva privata: era quella della Val
+Ferret, così anche il collega Aggravi sarà contento. La
+particolarità di questa riserva è che il pesce pescato ha un peso
+minimo di mezzo chilo e le trote pescate devono avere una lunghezza
+superiore ai 33 centimetri, la lunghezza è di oltre 3 chilometri in
+acque molto limpide rispetto ad altre acque. Si possono utilizzare
+dei metodi di pesca diversi: al tocco, alla mosca oppure
+no
+kill
+.
+Diciamo che questo progetto, questo esperimento riscontrò un
+notevole successo, ci furono degli investimenti da parte
+dell'Amministrazione regionale, del Consorzio e anche
+dell'Amministrazione comunale per migliorare gli accessi alla
+Riserva.
+Il successo portò dei guadagni, se vogliamo chiamarli così, per
+i commercianti del posto, per i commercianti della vallata e aiutò
+il sostenimento del Consorzio pesca. Purtroppo vicissitudini che
+abbiamo già discusso nel corso di iniziative da parte dei colleghi
+della Lega e la pandemia hanno portato alla chiusura della riserva
+per due anni di tempo. Grazie, credo, all'attività dell'allora
+assessore Sapinet e all'attività del nuovo Assessore, la riserva ha
+riaperto i battenti dopo il 1° aprile di quest'anno. Di questo
+quindi devo ringraziare il Governo regionale, però ci si pongono
+alcuni interrogativi. Ovviamente dopo questi due anni le perdite da
+parte delle attività del posto sono state notevoli, nessuno ha
+chiesto dei contributi per le perdite riscontrate, però oggi la
+riserva ha bisogno di un aiuto per il suo rilancio.
+In zona si vede di nuovo l'accesso di pescatori e il turismo
+della pesca, vi assicuro, è un turismo importante, che lascia tanti
+soldi sul posto, si rivedono pescatori che vengono dall'estero,
+pescatori che vengono da altre regioni, il permesso per accedere
+alla riserva è da 34 a 45 euro per cinque pesci, quindi è di un
+costo rilevante, però riusciamo a dare soddisfazione a molti
+pescatori, quindi si genera un importante flusso turistico per
+l'intera vallata.
+Nel ringraziare e nel condividere quello che è stato fatto vi si
+chiede se nei confronti del Consorzio pesca vi sono state delle
+interlocuzioni, è chiaro che ci sono state, ma soprattutto se sono
+ancora in corso delle interlocuzioni a riguardo della gestione di
+questa riserva, quali siano state le azioni poste in essere o che
+si intendano porre in essere da parte dell'Assessorato competente
+per rilanciare la riserva, per dare vigore ulteriore a questa
+riserva e, in caso positivo, in cosa consistono o potrebbero
+consistere queste azioni e se, considerata la collocazione della
+riserva, se andate a vedere sul sito del Consorzio, è di facile
+accesso alla riserva, ci sono delle piazzole importanti e
+interessanti, se così come idea dell'Amministrazione comunale si è
+pensato di riservare alcune piazzole accessibili ai disabili.
+Questo ci porrebbe all'avanguardia rispetto ad altre realtà e
+permetterebbe di usufruire di questo servizio, una nuova formula di
+pesca, ma soprattutto per una pubblicizzazione ulteriore della
+località.
+Presidente -
+Risponde l'assessore Carrel.
+Carrel (PA) -
+Grazie consigliere Restano per aver
+approfondito questo tema, un tema che, come ha ben specificato, le
+strutture conoscono bene e su cui hanno già lavorato negli ultimi
+mesi proprio per arrivare alla riapertura della possibilità della
+riserva di pesca di Valpelline e assieme all'Amministrazione
+comunale, e ovviamente al Consorzio pesca, il quale è il
+responsabile, quindi sicuramente è colui che ha competenza nelle
+acque pubbliche in materia di pesca, dunque è l'attore principale,
+siamo riusciti a fare una serie di interventi di manutenzione e di
+pulizia di tutta l'area, andando a installare delle nuove panche e
+dei nuovi tavoli e ovviamente andando a curare gli accessi alla
+riserva. Questo quindi è il primo
+step
+che ci permette,
+assieme al Consorzio regionale della pesca, di riaprire questa
+riserva.
+Quello che lei ci pone con quest'interpellanza però è un'analisi
+più approfondita e la necessità secondo lei, che condivido
+assolutamente, di rilanciare l'attività di questa riserva, che è
+stata chiusa per due anni, e su questo le interlocuzioni con il
+Consorzio regionale pesca che sono appena avviate su una serie di
+temi sicuramente possono tenere in considerazione quanto da lei
+esposto e può essere promossa in maniera sicuramente più efficace
+o, meglio, sicuramente messa in evidenza la riapertura di
+quest'area, che, purtroppo, per altre motivazioni è stata chiusa
+per due anni, quindi sicuramente si lavorerà in tal senso.
+Per quanto riguarda invece l'accessibilità anche alle persone
+disabili, e quindi alla possibilità di effettuare delle piazzole
+per i disabili, per le auto di portatori di handicap, sicuramente
+stiamo effettuando degli approfondimenti con altri Assessorati,
+perché, come sa, non è di esclusiva competenza del nostro
+Assessorato e l'intenzione è quella di provare a capire se vi è la
+possibilità, se vi sono i fondi e soprattutto la possibilità di
+farlo in quell'area e il come agire, ma sicuramente da parte nostra
+vi è la piena disponibilità a discuterne con il Consorzio pesca, il
+quale ci ha già sottolineato l'importanza di questa riserva e sulla
+quale sicuramente, come Assessorato, continueremo a lavorare in
+questa direzione.
+Presidente -
+Per la replica, ha chiesto la parola il
+consigliere Restano.
+Restano (GM) -
+Grazie Assessore. Ovviamente non posso che
+dichiararmi soddisfatto della risposta che lei mi ha appena
+fornito. Vivendo in zona e conoscendo in maniera dettagliata tutti
+i sentieri della riserva, posso anche fornirle un
+report
+molto puntuale delle criticità e dei luoghi dove si può agire e
+come agire per migliorare. Mi metto quindi a disposizione insieme
+all'Amministrazione comunale per agire in tal senso. Rimango quindi
+in attesa di ulteriori informazioni da parte vostra e confidiamo in
+una rapida soluzione ai dubbi che ancora ci sono rimasti.

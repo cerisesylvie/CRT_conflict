@@ -1,0 +1,191 @@
+Consiglio Regionale della Valle d'Aosta - Oggetto del Consiglio n. 962 del 3 novembre 2021 - Resoconto
+Vai al contenuto principale
+Oggetti del Consiglio
+Invia
+Stampa
+Documenti
+Verbale
+Resoconto
+Collegamenti
+Iter atto
+Classificazione
+ASSISTENZA SANITARIA E OSPEDALIERA
+Igiene e sanità pubblica
+ISTRUZIONE PUBBLICA
+Università
+Precedente
+Successivo
+Resoconto integrale del dibattito dell'aula. I documenti allegati sono reperibili nel link "iter atto".
+Oggetto del Consiglio n. 962 del 3 novembre 2021 - Resoconto
+OGGETTO N. 962/XVI - Interrogazione: "Conformità alle
+disposizioni in materia di tutela della privacy dei "totem" di
+verifica del green pass presso alcuni accessi dell'UNIVDA".
+Bertin (Presidente) -
+Riprendiamo con i lavori del
+Consiglio.  Siamo al punto n. 12 dell'ordine del giorno.
+Risponde il Presidente della Regione.
+Lavevaz (UV) -
+Come dice il titolo dell'interrogazione,
+si parla ancora di green pass e in particolare l'interrogazione
+chiede di far chiarezza rispetto al totem usato all'interno
+dell'Università della Valle d'Aosta per il controllo.
+Credo che sia opportuno fare qualche precisazione prima di
+entrare nel merito delle domande; nello specifico in data 7 ottobre
+- come giustamente è stato citato nel testo dell'interrogazione -
+abbiamo anticipato i contenuti delle bozze dell'accordo che abbiamo
+poi sottoscritto per quanto riguarda l'organizzazione delle
+verifiche sul possesso delle certificazioni verdi nelle sedi
+dell'Amministrazione regionale, ovviamente con le informazioni che
+avevamo in quel momento rispetto alle bozze che circolavano del
+testo che poi è stato licenziato dal Governo nazionale. Le nostre
+indicazioni sono state poi recepite dalla Giunta regionale, con la
+delibera n. 1280, nei giorni successivi al 13 ottobre.
+Naturalmente queste sono delle modalità, come ripeto, ipotizzate
+in quel momento nell'ambito delle informazioni che c'erano - anche
+rispetto alle indicazioni nazionali che sono modificabili in
+qualsiasi momento - aggiornabili anche rispetto all'adeguamento
+tecnologico possibile o anche,- più che adeguamento, a possibili
+interazioni tra i sistemi informativi, parlo ancora nell'ambito
+dell'Amministrazione regionale, in particolare si sta ipotizzando,
+anche con Inva, di semplificare questo tipo di controllo,
+collegandolo ai sistemi di timbratura eccetera, ma questo esula
+dall'oggetto dell'interrogazione.
+Quello che volevo sottolineare è che tutto questo ragionamento
+che abbiamo fatto e il documento che poi ne è scaturito riguarda
+solo e soltanto le sedi dell'Amministrazione regionale e non anche
+l'Università. L'Università ha fatto riferimento a una norma
+diversa, che è il decreto legge 111 del 6 agosto 2021 che regola la
+materia in ambito scolastico e universitario.
+Come è noto, questo decreto prevede l'obbligo di green pass per
+tutto il personale docente e per gli studenti e prevede anche che
+tutte le attività didattiche curriculari siano svolte
+prioritariamente in presenza: con l'assessore Caveri qualche giorno
+fa abbiamo inaugurato l'anno accademico ed è stato sottolineato
+come si cerchi di svolgere in presenza la maggior parte delle
+attività universitarie.
+In applicazione di questo decreto, l'Università ha predisposto
+un proprio apposito protocollo Covid sottoscritto da tutti i
+soggetti interessati: datore di lavoro, responsabile del servizio
+di prevenzione e protezione sui luoghi di lavoro, rappresentanti
+dei lavoratori eccetera; il protocollo è stato pubblicato sul sito
+dell'Università; in breve, in questo protocollo si specifica che la
+verifica viene effettuata mediante la famosa App ufficiale
+sviluppata dal Governo italiano, che è la cosiddetta verifica C19,
+App che viene utilizzata sostanzialmente da tutti gli enti.
+Questa App, come sapete, è in grado di leggere il QR code e di
+fare una verifica dell'effettiva validità del certificato.
+I totem sono nient'altro che tablet su cui è installata questa
+App a cui è collegata una stampante. Se il certificato è valido
+emettono un segnale acustico o comunque una segnalazione che il
+certificato è verde, in caso contrario il segnale acustico è
+diverso e il personale addetto al controllo può intervenire con
+quanto necessario fare per la verifica effettiva del motivo per il
+quale il certificato non è valido; se il certificato è valido,
+invece, viene semplicemente stampata da una stampante collegata al
+totem una ricevuta in cui sono indicate le stesse informazioni che
+vengono rilevate a video sulla App, quindi sostanzialmente: nome,
+cognome, data di nascita a cui sono aggiunte l'ora e la data di
+verifica, questo semplicemente perché lo studente o il professore
+possa utilizzare quel cartaceo come certificato in un secondo
+momento della giornata in cui rientri, cosa che viene fatta in
+maniera manuale per i dipendenti regionali, per i quali viene
+compilato un cartellino in cui viene notificato il fatto che il
+certificato verde sia stato controllato in quella determinata data
+e che quindi non ci sia bisogno di un secondo controllo.
+Quindi non viene né registrato né trattato alcun dato sensibile,
+semplicemente viene messa su carta la lettura istantanea del green
+pass, quindi non si ritiene sia necessario coinvolgere o aprire
+procedure rispetto al trattamento dei dati personali.
+Presidente -
+Consigliere Manfrin.
+Manfrin (LEGA VDA) -
+Lei ha fatto una premessa, la faccio
+anche io: quello che io le ho indicato nelle premesse di questa
+interrogazione, evidentemente non è che lo estendiamo all'utilizzo
+anche in Università, era semplicemente un atto che evidenzia che
+per la pubblica Amministrazione regionale sono state prese alcune
+decisioni che non comprendono l'utilizzo di questi totem
+automatizzati.
+Ora qual è il punto? Lei ci dice: questo sistema non registra
+nulla di tutto questo, non registra i dati, ma ce lo dice lei, cioè
+lei dice è una struttura, è un totem, che ha dentro un tablet
+collegato ad una stampante che prende, stampa, fabbrica e
+molla.
+Io posso fidarmi o posso non fidarmi di quello che lei dice
+perché potrebbe essere esattamente come lei dice, potrebbe anche
+essere che per esempio banalmente questo simpatico totem prenda e
+stampi 125 biglietti della stessa persona, contenenti dei dati che
+magari la persona non vuole che vadano in giro.
+Questo strumento non è stato autorizzato dal garante della
+privacy, perché l'unica cosa che è stata autorizzata dal garante
+della privacy è stata la App IO e quindi la persona che
+all'ingresso verifica il green pass in maniera personale con la
+verifica del telefono o del tablet e non stampa nulla.
+Lei ha detto una cosa interessante e importante, lei ha detto:
+"In uso c'è, all'interno di questo Consiglio, una sorta di metodo
+simile a quello che viene utilizzato dal totem, c'è un biglietto
+che viene preso e viene consegnato al diretto interessato con il
+quale può girare" ed è corretto, ma è un biglietto che viene
+scritto a mano e consegnato all'interessato, che lo mostra in caso
+di necessità.
+Quello che lei invece ci ha detto, cioè quello strumento di
+totem, come ho già avuto modo di dirle, ogni modalità di verifica
+degli ingressi va innanzitutto, come lei sa, specificamente
+autorizzata con atto formale; questo l'ho citato: il parere del
+garante alla privacy dice che i datori di lavoro di cui al comma 1
+definiscono entro il 15 ottobre modalità operative per
+l'organizzazione delle verifiche di cui al comma 4, anche a
+campione, prevedendo che, dove è possibile, tali controlli siano
+effettuati al momento dell'accesso ai luoghi di lavoro e
+individuano, con atto formale, i soggetti incaricati
+dell'accertamento delle violazioni degli obblighi di cui al comma 1
+e 2.
+In questo caso è stato incaricato il totem? Chi è l'incaricato
+delle verifiche? Una macchina? Perché è la macchina che fa il
+controllo, non il personale in servizio. Il personale in servizio
+prende atto di quello che dice la macchina, allora è un conto se il
+personale in servizio ha un tablet o un telefono in mano, un conto
+è se la macchina fa una verifica e poi rilascia un certificato,
+perché quel bigliettino innanzitutto uno come detto potrebbe essere
+moltiplicato "N" volte e andare in giro a rivelare dati personali,
+ma dall'altra parte lei ci dice che questa è semplicemente una App
+applicata a un totem ma noi non lo sappiamo e non sappiamo se
+quella strumentazione salvi dei dati, non lo sappiamo, e lei sa
+benissimo che secondo le disposizioni del garante della privacy,
+l'attività di verifica non dovrà comportare raccolta di dati degli
+interessati in qualunque forma.
+Quindi il sistema utilizzato per la verifica del green pass non
+dovrà conservare il QR code delle certificazioni verdi sottoposte a
+verifica né estrarre, consultare o registrare o comunque trattare
+per altre finalità le informazioni rilevate.
+Se io prendo quello che c'è scritto nel QR code e lo stampo,
+secondo lei lo sto estraendo? Lo sto trattando per altre finalità?
+Lo sto prendendo e lo sto mettendo all'esterno? Questo sì, lo sto
+facendo, quindi sto prendendo i dati contenuti nel QR code e li sto
+stampando e magari non li sto neanche salvando.
+Quindi quello strumento non è autorizzato dal garante della
+privacy, primo.
+Secondo: non c'è un incarico formale al totem, perché è una
+macchina e non è una persona, quindi non potete incaricare un
+totem.
+Terzo: prendete dei dati che potenzialmente possono essere
+moltiplicati all'infinito, non lo sappiamo, perché è uno strumento
+che non conosciamo, che non è autorizzato, e questo è foriero di
+problemi.
+Le dico, in ultima segnalazione, sforando di pochissimo,
+Presidente, che questo totem ha avuto molteplici problemi al punto
+che alcuni appartenenti al corpo docenti sono stati visti prendere
+a pugni questa macchina dicendo "Non funziona mai".
+Del mancato funzionamento di questo totem, che magari impedisce
+l'accesso a chi ne ha diritto o consente l'accesso a chi non ne ha
+diritto, chi ne risponde? Il totem o le persone che sono in
+servizio, che non sanno che cosa abbia verificato il totem?
+Controlli bene, Presidente, perché le cause di violazione alla
+privacy sono molto salate.
+Informativa cookies
+Consiglio Regionale della Valle d'Aosta © 2025
+Questo sito utilizza cookies propri e di terze parti. Continuando ad usare questo sito, acconsenti all'utilizzo di questa tecnologia.
+Consulta la nostra
+informativa
+per maggiori informazioni e per istruzioni su come disattivare i cookies.
+OK

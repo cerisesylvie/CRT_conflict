@@ -1,0 +1,166 @@
+Consiglio Regionale della Valle d'Aosta - Oggetto del Consiglio n. 250 del 27 gennaio 2021 - Resoconto
+Vai al contenuto principale
+Oggetti del Consiglio
+Invia
+Stampa
+Documenti
+Verbale
+Resoconto
+Collegamenti
+Iter atto
+Classificazione
+INFORMAZIONE
+Sistema informativo
+Precedente
+Successivo
+Resoconto integrale del dibattito dell'aula. I documenti allegati sono reperibili nel link "iter atto".
+Oggetto del Consiglio n. 250 del 27 gennaio 2021 - Resoconto
+OGGETTO N. 250/XVI - Interrogazione: "Notizie relative al
+calo della velocità di connessione Internet in Valle
+d'Aosta".
+Bertin (Presidente) -
+Punto n. 11 all'ordine del giorno.
+Per la risposta l'assessore Marzi.
+Marzi (AV-SA) -
+Con riferimento a quanto segnalato dai
+colleghi Consiglieri, non si dispongono di elementi oggettivi utili
+a poter valutare i risultati dell'analisi effettuata da
+SOStariffe.it
+in merito a velocità e qualità del servizio,
+che peraltro limita il confronto temporale rispetto al 2019
+considerando sul 2020 i soli primi quattro mesi dell'anno. I
+risultati pubblicati, infatti, derivano dall'analisi delle
+misurazioni effettuate dall'utenza del sito che volontariamente ha
+effettuato una misurazione della velocità della propria connessione
+a Internet, per tramite dello specifico strumento disponibile sul
+sito stesso. Mancano puntuali informazioni sulla numerosità delle
+misurazioni effettuate e sulla tipologia del campione analizzato,
+informazioni di dettaglio che possono essere rilevate
+esclusivamente dai dati di traffico utente da parte degli operatori
+di telecomunicazioni fornitori del servizio, oppure per il tramite
+di specifiche indagini statistiche da somministrare all'utenza.
+A questi fini sono state acquisite informazioni dei principali
+operatori che dichiarano di coprire il 96 percento delle unità
+immobiliari del territorio valdostano con collegamenti a 30
+megabit
+per secondo, delle quali il 49 percento è coperta a
+100 megabit per secondo. La raccolta e l'elaborazione dei dati
+sulle velocità di connessione è quindi una questione complessa che
+merita di essere approfondita e monitorata, tenendo conto che sulle
+velocità di connessione incidono sicuramente i volumi di traffico e
+la qualità delle infrastrutture utilizzate.
+Al fine di conoscere l'evoluzione complessiva del traffico
+Internet dal 2019 al 2020 è stato chiesto al consorzio TOP-IX,
+gestore del punto di interscambio di Internet più vicino ad Aosta,
+un semplice raffronto del traffico monitorato in ingresso e uscita
+dalla Valle d'Aosta, ancorché utilizzato da un sottoinsieme di
+operatori di comunicazioni che forniscono accesso a Internet
+realizzando la trasmissione dei dati per l'utilizzo dell'ultimo
+miglio via radio. Tale e semplice monitoraggio riporta che tra il
+2019 e il 2020 il traffico medio di utilizzo di Internet è più che
+raddoppiato, evidenziando picchi di utilizzo che registrano
+incrementi fino al 174 percento. Il consorzio precisa che i dati
+riferiti al traffico della Valle d'Aosta sono altresì coerenti con
+i dati da loro rilevati sull'infrastruttura del Piemonte. È bene
+precisare che tali monitoraggi si riferiscono a dati complessivi di
+traffico generato dagli utenti, ma nulla rilevano in merito alla
+percezione degli stessi riguardo la velocità e la qualità del
+servizio.
+È in ogni caso opportuno evidenziare che il medesimo sito,
+richiamato nell'iniziativa, nel contempo rileva che nelle settimane
+del primo
+lockdown
+la nostra regione ha registrato un
+miglioramento della velocità di navigazione pari al 16 percento,
+seconda solo al Molise, a fronte di altre regioni che hanno, al
+contrario, subìto cali significativi con percentuali anche
+superiori al 40 percento. Ritengo che, seppur parziale, il dato
+risulti significativo ancorché nei periodi di isolamento l'utilizzo
+della rete sia importante e la tenuta della infrastruttura rispetto
+ai picchi di utilizzo risulti significativa.
+Come è noto la Regione ha investito e sta sviluppando i servizi
+di connettività in banda ultra larga per i cittadini e i turisti,
+attraverso la realizzazione di un'infrastruttura di dorsale in
+fibra ottica che raggiunge tutti i Comuni del territorio. Per
+quanto attiene all'evoluzione della rete di accesso idonea al
+rilascio della connettività all'utenza finale si precisa che:
+l'attuazione del piano nazionale banda ultra larga, gestito dal
+Ministero dello sviluppo economico per il tramite di Infratel
+Italia, dichiara che a gennaio 2021 undici Comuni, oltre a quello
+di Aosta, risultano abilitati ai servizi di collegamento con la
+fibra ottica fino a casa e che quindi permette la fruizione di
+servizi di connettività fino a 1000
+megabit
+per secondo. I
+restanti 62 Comuni del territorio possono fruire, a seconda dei
+casi di connettività, con velocità indicate da 30 a 200 megabit per
+secondo. Naturalmente stiamo parlando in questo caso di fibra fino
+all'armadio e collegamento in casa di fatto attraverso
+vertering
+, oppure con velocità indicate da 30 a 100 megabit
+per secondo, fibra fino al traliccio e collegamento in casa via
+radio.
+Io traduco in italiano tutta una serie di termini che sto
+imparando a utilizzare non tanto per la questione dell'inglese, ma
+perché semplicemente leggendoli in inglese non si capisce, a mio
+avviso, nulla di quali sono tutti quanti questi distinguo
+operativi.
+L'infrastruttura è a disposizione di tutti gli operatori di
+telecomunicazione per l'erogazione di servizi di connettività in
+banda ultra larga, la cui implementazione con la rete di accesso
+rimane a discrezione degli operatori stessi per il rilascio dei
+servizi all'utenza finale. In tal senso sono ripartiti investimenti
+cospicui da parte dei principali operatori di telecomunicazione sul
+territorio valdostano, che apprezzano l'investimento sulla dorsale
+fino al
+cabinet
+che è naturalmente di proprietà regionale,
+quella che viene tecnicamente chiamata BB VdA.
+Infine, l'argomento richiamato dall'iniziativa merita di essere
+oggetto di ulteriori indagini e approfondimenti che si cercheranno
+di condurre nei prossimi mesi, per meglio caratterizzare anche gli
+aspetti di qualità dei servizi offerti sul territorio regionale.
+Per cui, indipendentemente dall'incipit, dall'alfa che ha portato a
+questa interlocuzione, è sicuramente utile sia che sia stata fatta
+sia approfondire le tematiche che vengono richiamate e abbiamo
+intenzione di farlo.
+Presidente -
+Per la replica il consigliere Lavy, ne ha
+facoltà.
+Lavy (LEGA VDA) -
+Grazie Assessore per la argomentata
+risposta. Mi ha dato dei dati e delle informazioni che non avevo
+richiesto, però sono sempre gradite. Però ho visto un pochino un
+atteggiamento diverso riguardo ai dati di questo sito, perché se
+sono dati negativi allora ci si chiede da dove vengono presi questi
+dati, quali siano le fonti di questo sito, mentre invece se i dati
+sono positivi allora va bene. Quindi io la invito veramente magari
+anche a chiedere al sito direttamente quali siano le sue fonti per
+aver elaborato questi numeri, anche perché questo è un portale che
+ha un buon successo e ha tanti visitatori, i quali quindi vedendo
+questo genere di numeri si chiedono: "ma cosa sta succedendo in
+Valle d'Aosta?". Credo sia fondamentale contattare il sito,
+chiedere quali siano effettivamente le basi di questo studio e
+magari integrare con dati che si ha, con dati che magari ha anche
+la AGCOM e la Regione stessa, proprio perché altrimenti si rischia
+di fare addirittura una pubblicità negativa per la Regione Valle
+d'Aosta.
+Questo tema sulle telecomunicazioni, su Internet, sulla velocità
+è un tema oggi molto importante e fondamentale, proprio perché c'è
+una grandissima mole di traffico dati, come ha detto lei, che è una
+cosa del tutto normale visto che si usa un sacco di più lo
+smart
+working
+e la didattica a distanza, però veramente sono dati che
+lasciano abbastanza basiti. La inviterei dunque a fare ulteriori
+approfondimenti direttamente contattando il sito per capire da dove
+siano stati presi i dati, perché altrimenti non capirei veramente
+il senso di dover mettere questi dati così negativi per la Valle
+d'Aosta.
+Informativa cookies
+Consiglio Regionale della Valle d'Aosta © 2025
+Questo sito utilizza cookies propri e di terze parti. Continuando ad usare questo sito, acconsenti all'utilizzo di questa tecnologia.
+Consulta la nostra
+informativa
+per maggiori informazioni e per istruzioni su come disattivare i cookies.
+OK
