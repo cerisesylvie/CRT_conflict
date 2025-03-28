@@ -1,0 +1,172 @@
+Classificazione
+INFORMAZIONE
+Sistema informativo
+
+
+
+Oggetto del Consiglio n. 622 del 18 aprile 2019 - Resoconto
+OGGETTO N. 622/XV - Interpellanza: "Interventi della Regione
+per garantire una corretta conservazione dei propri dati
+informatici e di quelli degli altri enti pubblici".
+Rini (Presidente) -
+Alla presenza di 32 colleghi,
+possiamo iniziare i lavori.
+Punto 35 all'ordine del giorno. La parola alla collega Russo per
+l'illustrazione.
+Russo (M5S) -
+In questa interpellanza parliamo della
+conservazione dei documenti digitali. In particolare, trattiamo la
+conservazione dei documenti digitali degli enti locali valdostani e
+del progetto per cui l'Amministrazione regionale avrebbe dovuto
+ricoprire il ruolo di polo di coordinamento di questa
+conservazione. La conservazione dei documenti digitali si inserisce
+nel quadro normativo del Codice dell'amministrazione digitale
+(CAD), un testo unico che riunisce e organizza le norme riguardanti
+l'informatizzazione della pubblica amministrazione nei rapporti con
+i cittadini e le imprese. Istituito con il decreto legislativo del
+2005, è stato poi modificato nel 2016 e poi con il decreto
+legislativo del 2017, per promuovere e rendere effettivi i diritti
+di cittadinanza digitale.
+I temi più importanti del CAD sono: l'attribuzione a cittadini e
+imprese dei diritti all'identità e al domicilio digitale, alla
+fruizione di servizi pubblici
+on-line
+e orientati alla
+telefonia mobile; l'integrazione e l'interoperabilità tra i servizi
+pubblici erogati dalle pubbliche amministrazioni, in modo da
+garantire a cittadini e imprese di fruirne in maniera semplice e
+diretta; una maggiore certezza giuridica alla formazione, gestione
+e conservazione dei documenti informatici, e l'innalzamento del
+livello di qualità dei servizi pubblici e fiduciari in
+digitale.
+L'AGID (l'Agenzia per l'Italia Digitale) è l'agenzia tecnica
+della Presidenza del Consiglio che ha il compito di garantire la
+realizzazione degli obiettivi dell'agenda digitale italiana e di
+contribuire alla diffusione dell'utilizzo delle tecnologie
+dell'informazione e della comunicazione, favorendo l'innovazione e
+la crescita economica del nostro Paese. L'AGID ha definito il Piano
+triennale 2017/2019 per l'informatica nella pubblica
+amministrazione in merito alla conservazione digitale dei documenti
+informatici.
+Tornando all'oggetto preciso della nostra interpellanza, quindi
+alla conservazione dei documenti digitali degli enti locali
+valdostani e del progetto per cui l'Amministrazione regionale
+avrebbe dovuto ricoprire il ruolo di polo di coordinamento di
+questa conservazione, il progetto è cominciato nel gennaio del
+2016, in cui la nostra Regione ha ricevuto parere favorevole dalla
+Sovrintendenza archivistica per il Piemonte e la Valle d'Aosta ad
+agire in qualità di polo di conservazione digitale nei confronti
+degli enti valdostani. Al fine di assicurare uniformità nella
+gestione documentale di tutti gli enti locali, il progetto - e qui
+siamo nell'aprile del 2016 - è stato pensato da realizzarsi in
+collaborazione tra: l'Amministrazione regionale, come coordinamento
+delle attività volte alla conservazione; il Celva, come punto di
+riferimento per gli enti locali; il PARER, Polo archivistico
+regionale dell'Emilia-Romagna, come ente conservatore accreditato a
+cui affidare il ruolo di conservazione, e la società
+in
+house
+INVA, soggetto incaricato delle attività di gestione,
+adeguamento e manutenzione del
+software
+che presiede alla
+produzione dei pacchetti di versamento delle informazioni digitali
+raccolte e al loro trasferimento presso il conservatore.
+Nell'estate del 2016 tutti i Comuni hanno dato propria adesione
+al progetto. A fine 2016 l'Amministrazione regionale ha organizzato
+incontri finalizzati a impostare le azioni organizzative funzionali
+per declinare il modello organizzativo sopra esposto, comunicando
+di essere operativi entro il marzo 2017. In realtà, nel mese di
+settembre 2017 il Celva ha inviato alla Regione una richiesta di
+fornire indicazioni stringenti delle tempistiche di avanzamento
+delle attività previste nel progetto di conservazione di
+documentazione digitale; da quella data in avanti, gli enti locali
+non hanno avuto più informazione circa lo stato di attuazione del
+progetto.
+Fatte queste premesse, chiediamo quali atti la Regione ha
+compiuto da fine del 2017 ad oggi come polo di coordinamento per la
+conservazione della documentazione digitale degli enti locali e
+quali azioni la Regione intenda mettere in atto per garantire una
+corretta e a norma conservazione digitale dei suoi dati informatici
+e di tutti quelli degli altri enti pubblici regionali.
+Dalle ore 9:11 assume la presidenza il Vicepresidente
+Distort.
+Distort (Presidente) -
+La parola al Presidente Fosson per
+la risposta.
+Fosson (GM) -
+Per rispondere alla prima questione, è
+vero, come diceva lei, che dal 2017 ad oggi, come polo di
+coordinamento, sono state fatte diverse attività in questo senso,
+ma relativamente a questo gli uffici rimarcano che la conservazione
+digitale di un documento di pubblica amministrazione non consiste -
+come spesso si può erroneamente considerare - nel semplice
+salvataggio dello stesso, bensì presuppone che il documento
+informatico sia conservato corredato da una serie di metadati, cioè
+da informazioni relative al documento che sono fondamentali per la
+conservazione.
+Rispetto a questa problematica, come ricordava correttamente,
+nel 2016, con la deliberazione n. 845 del 24 giugno, la Regione si
+è costituita quale polo di coordinamento per la conservazione dei
+documenti digitali, dopo aver ottenuto l'autorizzazione della
+Soprintendenza archivistica per il Piemonte e la Valle d'Aosta e la
+dichiarazione di interesse ad aderire al polo degli enti pubblici
+valdostani. Successivamente, con un'altra deliberazione del 15
+luglio 2016, la Regione ha approvato una bozza di accordo con il
+conservatore accreditato, individuato nell'Istituto per i beni
+artistici, culturali e naturali dell'Emilia-Romagna (IBACN). Con
+questi atti sono state poste le basi per sviluppare il percorso che
+dovrà condurre alla conservazione non dei "dati informatici",
+quanto degli atti e dei documenti digitali degli enti locali. Si
+tratta di un percorso complesso - sono emerse delle criticità - che
+è stato rallentato da diversi fattori, tra i quali devono essere
+segnalati le difficoltà oggettive con le risorse e le competenze
+archivistiche e tecnologiche di cui dispone l'Amministrazione
+regionale nella costruzione di un sistema in grado di mandare in
+conservazione i documenti digitali di Regione ed enti locali,
+assicurando il rispetto di tutte le procedure e le condizioni
+necessarie a tal fine. Abbiamo già parlato, in quest'Aula di tutto
+quello che si sta facendo per rivedere tutto il sistema informatico
+e dargli un'organizzazione diversa. Inoltre, in queste criticità
+hanno sicuramente influito le scelte di privilegiare lo sviluppo di
+altri applicativi o programmi informatici che, nel corso degli
+ultimi anni, sono stati ritenuti maggiormente prioritari per
+l'Amministrazione regionale, come SISPREG e SICER.
+Proprio per cercare di ovviare ai nodi critici che nel frattempo
+erano emersi a metà del 2017, la Regione ha anche aderito al
+progetto dell'IBACN denominato "Ricordi-Riuso della conservazione
+dei record digitali", che ha coinvolto diverse amministrazioni
+pubbliche, con gli obiettivi della definizione, del trasferimento e
+dell'evoluzione delle buone pratiche di un servizio di
+conservazione di archivi digitali. Rispetto a come si è partiti,
+quindi, si è poi modificato un po' il percorso. La partecipazione a
+questo progetto - che è tuttora in corso - è stata ritenuta dagli
+uffici un'esperienza positiva, nella misura in cui ha permesso di
+conoscere prassi e modalità di altre realtà amministrative in
+questo specifico settore, ma non ha permesso di risolvere tutte le
+criticità più importanti.
+Per rispondere alla seconda domanda, nel 2019 le strutture
+competenti dell'Amministrazione regionale, in quanto Polo di
+coordinamento, intendono portare avanti con gli enti locali le
+azioni finalizzate all'analisi dei vari aspetti che devono essere
+assicurati per una conservazione della documentazione digitale
+rispondente alla normativa vigente e, soprattutto, alle esigenze di
+conservare la memoria del territorio e degli enti che lo hanno
+governato anche dal punto di vista amministrativo.
+Come Presidenza, questa sua interpellanza sicuramente ci dà uno
+stimolo; cercheremo di stimolare i servizi competenti affinché
+siano individuate le soluzioni migliori dal punto di vista tecnico
+con tutta la rapidità possibile, per risolvere le criticità
+rilevate, in modo che sia possibile, con una certa sicurezza,
+fissare tempi e investimenti per avviare la corretta conservazione
+digitale degli atti della pubblica amministrazione valdostana.
+Questo è l'impegno.
+Presidente -
+La parola alla collega Russo per la
+replica.
+Russo (M5S) -
+Rispetto alla risposta che mi ha dato, mi
+facevo solo una domanda: sicuramente la situazione è complicata, ma
+ad oggi la documentazione digitale degli enti valdostani è
+conservata? Alla fine è un po' questo l'obiettivo... è una
+partenza, va bene.

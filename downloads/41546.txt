@@ -1,0 +1,678 @@
+Consiglio Regionale della Valle d'Aosta - Oggetto del Consiglio n. 649 del 22 maggio 2019 - Resoconto
+Vai al contenuto principale
+Oggetti del Consiglio
+Invia
+Stampa
+Documenti
+Verbale
+Resoconto
+Collegamenti
+Iter atto
+Classificazione
+INFORMAZIONE
+Sistema informativo
+Precedente
+Successivo
+Resoconto integrale del dibattito dell'aula. I documenti allegati sono reperibili nel link "iter atto".
+Oggetto del Consiglio n. 649 del 22 maggio 2019 - Resoconto
+OGGETTO N. 649/XV - Approvazione del piano pluriennale
+2019-2021, per lo sviluppo del sistema informativo regionale, di
+cui alla legge regionale 12 luglio 1996, n. 16 - Attuazione delle
+linee guida per l'agenda digitale in Valle d'Aosta.
+Rini (Presidente)
+-
+Punto n. 77 all'ordine del
+giorno. La parola al Presidente Fosson per l'illustrazione.
+Fosson (GM)
+-
+Una breve introduzione per ricordare
+che il piano pluriennale per lo sviluppo del sistema informativo
+regionale che è previsto dalla legge regionale n. 16/1996,
+"Programmazione, organizzazione e gestione del sistema informativo
+regionale", rappresenta l'agenda digitale valdostana, ovvero un
+documento di posizionamento strategico delle linee di sviluppo
+relativo alle tecnologie dell'informazione declinato sulle tipicità
+territoriali e sulle specificità della Valle d'Aosta. Costituisce
+pertanto un fattore fondamentale per lo sviluppo economico
+complessivo dei vari comparti (turismo, agricoltura, artigianato
+cultura), e per la modernizzazione ed efficientamento
+dell'Amministrazione regionale attraverso la leva della
+digitalizzazione.
+Questo piano è stato sviluppato in continuità con il precedente
+piano pluriennale 2014-2018 di cui riprende i sei tematismi
+principali dell'agenda digitale delle Regioni italiane
+attualizzando le iniziative strategiche per i prossimi tre anni.
+L'infrastrutturazione e la cittadinanza digitale, le competenze e
+l'inclusione digitale, crescita digitale, intelligenza diffusa
+nelle città e aree interne, la salute digitale, sono tutte
+declinazioni che permettono di innovare l'interazione con i
+cittadini, i professionisti e le imprese perseguendo obiettivi
+generali di efficienza, semplicità e possibilità di accesso a nuovi
+contenuti e nuovi servizi
+online
+. Rappresenta inoltre
+l'attuazione del piano triennale dell'Agenzia per l'Italia
+digitale, anche in vista dell'accordo territoriale che
+l'Amministrazione stipulerà con l'Agenzia. Coglie inoltre
+l'opportunità di rafforzare la collaborazione con gli enti locali
+valdostani per una "Agenda del territorio" coerente con il nuovo
+ruolo di soggetto aggregatore territoriale per il digitale
+assegnato dal Codice dell'amministrazione digitale delle Regioni.
+Gli interventi del piano pluriennale saranno declinati come
+previsto dalla legge n. 16 del 1996 nei piani operativi annuali (i
+POA), approvati annualmente con deliberazione della Giunta
+regionale dei quali il pluriennale rappresenta il pre-requisito
+fondante, e che contengono, oltre all'implementazione delle
+iniziative strategiche, anche le attività di funzionamento
+operativo dell'Amministrazione regionale.
+Ringrazio pertanto il Coordinatore del Dipartimento innovazione
+e agenda digitale, il dottor Mignacco e, attraverso lui, tutti
+coloro che hanno partecipato alla redazione del piano, che
+rappresenta un anello importante per i processi di innovazione non
+solo dell'Amministrazione regionale, ma di tutta la Valle d'Aosta
+nel contesto europeo della Strategia europea 2020 e dell'Agenda
+digitale europea. Come vedete, questa Amministrazione ha voluto
+dare continuità a quanto era già stato preparato
+precedentemente.
+Dalle ore 10:08 assume la presidenza il Vicepresidente
+Farcoz.
+Farcoz (Président)
+-
+Nous sommes en discussion
+générale. Quelqu'un souhaite intervenir? Autrement je vais fermer
+la discussion. Collègues, je vous invite à vous réserver. La parole
+au collègue Gerandin.
+Gerandin (MOUV') -
+Due brevi considerazioni. Questo del
+piano pluriennale è un momento molto importante, da anni è ormai
+prassi che venga discusso in questo Consiglio. Già nel passato io
+posi alcune questioni in merito a questi affidamenti diretti
+riguardanti questo piano pluriennale e ora vorrei riprendere alcuni
+di questi passaggi.
+È un piano molto importante, perché affida comunque nel triennio
+decine di milioni direttamente alla nostra società
+in house
+,
+che è INVA, glieli affida direttamente in qualità di società
+pubblica, a cui ricordo aderiscono anche i Comuni valdostani e
+l'USL oltre che la Regione. È una società molto importante perché
+comunque, al di là di tutto, l'ho sempre ritenuta un valore
+aggiunto per il sistema informatico e per la fornitura dei servizi
+riguardo ai programmi informatici e a quant'altro per il sistema
+Valle d'Aosta.
+Io ho sempre detto che tale società avrebbe dovuto crescere nel
+tempo, ma a mio modesto parere non è cresciuta a sufficienza. Non è
+cresciuta neanche per ciò di cui io mi sono sempre battuto, vale a
+dire il discorso della trasparenza negli affidamenti. Ricordo che
+in Commissione il Presidente ci disse addirittura che INVA sarebbe
+stata d'accordo a fornire su tutti i servizi i prezzi Consip...
+peccato che queste cose vengono solo dette in Commissione, ma poi
+non vengono perseguite con atti concreti.
+Sappiamo benissimo che, per quanto concerne le società in house,
+gli affidamenti diretti sono assolutamente un atto possibile, però
+sappiamo anche che la Corte di Giustizia e poi il legislatore
+nazionale ha fissato dei confini all'interno dei quali
+l'affidamento può ritenersi ammissibile. C'è un obbligo per queste
+società a cui viene affidata direttamente questa parte legata a
+risorse così importanti - lo dicevo e lo ripeto: siamo nell'ordine
+di decine di milioni nel triennio -, sono obbligatori sia tutta una
+serie di atti di controllo di diritto amministrativo, sia indagini
+di mercato. Significa anche che INVA probabilmente dovrebbe
+produrre un catalogo, dovrebbe avere tutta una serie di dati
+riscontrabili e chi affida - in questo caso l'Amministrazione
+regionale - ha l'obbligo di fare una serie di verifiche sulla
+congruità dei prezzi e sulla qualità del servizio. Questo significa
+far crescere questa importante risorsa in cui, ribadisco per
+l'ennesima volta, ho sempre creduto. Questo negli anni non è
+avvenuto, non ci risulta che sia neanche
+à la une
+per questo
+che è un affidamento triennale e risulta pure che ci sia tutta una
+serie di osservazioni, di rilievi formulati dal tavolo di
+coordinamento per l'esercizio del controllo analogo al documento
+del piano operativo strategico del triennio 2019-2021. Da una
+rapida lettura pare che PostePay non siano sufficienti per questo
+controllo analogo e c'è una serie di osservazioni riguarda alla
+cittadinanza digitale: si dice che l'USL non si avvarrà di INVA per
+tale servizio in seguito a dichiarazione pervenuta per le vie brevi
+circa l'impossibilità per l'in house di espletare una gara unica,
+c'è tutta una serie di carenze che vengono evidenziate in tutte le
+linee di azione strategica.
+Non voglio andare oltre, se non semplicemente ribadire per
+l'ennesima volta che una società davvero importante, che potrebbe
+crescere davvero di più, che in questo momento probabilmente si
+limita a gestire le risorse che le vengono affidate da parte del
+socio dell'in house, dovrebbe - e io penso che sia compito
+principalmente dell'Amministrazione regionale - chiedere e
+soprattutto far sì che ci sia un evolversi riguardo al rispetto
+delle regole per quanto concerne il discorso dell'affidamento in
+house. Questo era quanto ritenevo opportuno dire, proprio perché ci
+sono tutta una serie di confini all'interno dei quali e solo
+all'interno dei quali si può ritenere ammissibile e legittimo
+l'affidamento diretto. In Commissione non ho avuto particolari
+rassicurazioni in merito, per cui ci tenevo quanto meno a farlo
+presente in questo contesto, in quest'Aula, perché comunque -
+ripeto - non è sufficiente essere uno dei soci dell'in house per
+avere diritto ad affidare direttamente alla società in house decine
+e decine di milioni.
+Président
+-
+Est-ce qu'il y a d'autres en
+discussion générale? J'invite les collègues... la parole au
+collègue Marquis.
+Marquis (SA) -
+Ritengo che questo documento che è
+all'ordine del giorno sia importante per la pubblica
+amministrazione, perché tratta sostanzialmente il piano triennale
+informatico 2019-2021. È fondamentale perché capita anche in un
+momento particolarmente delicato, un momento su cui è importante
+promuovere lo sviluppo della società dell'informazione e della
+conoscenza in Valle d'Aosta, poiché credo che questo argomento
+abbia una centralità per quello che concerne lo sviluppo anche
+della nostra regione. È un documento allineato ed in armonia con le
+direttive di natura europea che sono state recepite anche
+dall'agenda nazionale e, sostanzialmente, agisce su più
+livelli.
+Credo che sia importante sottolineare qual è la situazione
+attuale della Valle d'Aosta e quali sono le prospettive sotto
+questo profilo. È quindi fondamentale ricordare qual è lo stato
+dell'infrastruttura fisica: la Valle d'Aosta ha creato
+sostanzialmente il progetto di cablatura, il che vuol dire che ha
+costituito la dorsale che porta in tutte le valli laterali e nelle
+località della nostra montagna la fibra ottica. A questo però manca
+l'ultimo miglio. Adesso è in progetto, attraverso degli accordi con
+lo Stato, il collegamento alle utenze, perché è questo poi il vero
+problema: il problema che ancora oggi non tutti - anzi, direi
+pochi, in rapporto ai cittadini della Valle - possono godere di un
+servizio di velocità adeguata di accesso a Internet. Entro il 2019
+c'è l'obiettivo di portare a 30
+megabyte
+al secondo
+l'accesso a Internet per tutti i cittadini in Valle d'Aosta e dico
+che questo è fondamentale, sia per i cittadini, per poter svolgere
+il loro ruolo individuale ed avere accessibilità a tutto quello che
+la vita necessita, ma anche e soprattutto al mondo delle imprese.
+Sotto questo profilo occorre dire che in Valle d'Aosta siamo in
+ritardo rispetto ad altre Regioni nell'accesso per le imprese. Oggi
+più di prima l'accessibilità a Internet consiste in un fattore di
+competitività, quindi sotto questo profilo non possiamo rimanere
+marginali e abbiamo la necessità, così come previsto nel piano, di
+poter garantire questa opportunità a tutti. Direi che è anche
+importante valutare qual è l'impatto per la pubblica
+amministrazione dell'accessibilità, perché ci possono essere dei
+risparmi e dei miglioramenti della qualità gestionale mettendo in
+rete e lavorando insieme tra Regione, Comuni e tutte le aziende
+quali sono quella ad esempio dell'USL, quella che ha più accesso a
+livello individuale sotto questo profilo.
+È un argomento che ha dei grossi riverberi sulla vita, sul
+sociale e sull'economia in Valle d'Aosta. Da una parte abbiamo
+caratterizzato le azioni che sono di completamento
+dell'infrastruttura fisica e, dall'altra, invece, c'è tutto il
+concetto dei servizi che devono essere innovati, il nuovo rapporto
+che ci deve essere con gli enti locali, quindi creare delle
+sinergie per aumentare da una parte la qualità del servizio e
+dall'altra parte di ridurne il costo.
+Credo che questo argomento sia anche molto importante per
+sviluppare e mantenere la vita nella nostra montagna perché oggi,
+più che in periodi meno recenti, c'è la necessità di poter
+accedere, sia per tutte le professioni, sia per soddisfare le
+esigenze della vita alla rete. Quindi è giusto monitorare quello
+che avviene in questo settore, un settore di grande trasformazione.
+Abbiamo appreso anche attraverso i lavori della Commissione dello
+sforzo che viene fatto dalla dirigenza nel riorganizzare l'attività
+da parte di INVA, perché i problemi sono molti, come ha già
+espresso anche il collega Gerandin, che si è soffermato sul
+controllo analogo delle società
+in house
+. Una società è in
+house quando si dedica all'autoproduzione di beni e di servizi che
+garantiscono un'autonomia giuridica, però nello stesso tempo queste
+società sono controllate dall'ente che ne ha la proprietà o il
+controllo e sono assoggettate a norme e direttive di carattere
+europeo che sono molto incerte, non sono così definite.
+Per quanto ci riguarda, abbiamo fatto uno sforzo direi
+importante come Regione, perché con la legge n. 20/2016 è stato
+introdotto e disciplinato questo controllo analogo attraverso la
+verifica del POST, cioè del piano operativo triennale della
+società, come anche di quello annuale, e nell'analisi di questo
+documento che è pervenuto anche in Commissione si cerca di
+contribuire al raggiungimento di questo obiettivo. È un obiettivo
+sul quale si è concentrato anche il tavolo di coordinamento dove ha
+evidenziato tutta una serie di situazioni e sul quale bisogna
+lavorare. Io credo che se tutti assieme sapremo contribuire
+fattivamente a questo lavoro, potremo anche creare lo stimolo
+necessario alla società INVA di poter progredire nell'erogazione
+dei suoi servizi e a renderli sempre più aderenti alle esigenze
+della nostra realtà territoriale, della nostra comunità, ma anche
+della pubblica amministrazione.
+Président
+-
+Est-ce qu'il y a d'autres en
+discussion générale? La parole au collègue Barocco.
+Barocco (UV) -
+Tralascio, anche se di notevole
+importanza, alcune osservazioni che ha fatto il Consigliere
+Gerandin su cui penso la Giunta e l'Amministrazione debbano
+senz'altro ritornare, anche perché l'audizione in Commissione ha
+avuto qualche passaggio che denota forse la necessità di un
+miglioramento nella comunicazione tra la dirigenza regionale e la
+dirigenza della nostra partecipata.
+Al di là di questo, io vorrei soffermarmi sulle prospettive di
+questo piano. Il piano descrive, dà una fotografia della nostra
+Regione ovviamente partendo da analisi macro che vedono l'Italia in
+una posizione senz'altro non di primissimo piano all'interno
+dell'innovazione tecnologica e della sfida tecnologica all'interno
+dell'Europa. All'interno di questa fotografia la Valle d'Aosta per
+alcuni aspetti ha dei dati. Io non scendo nei dati in dettaglio, ma
+posso dire che la Valle d'Aosta riflette alcune situazioni simili
+al contesto italiano e si stacca, migliorando le
+performance
+, con le regioni del nord, in particolare sia del
+nord-est che del nord-ovest. Ovviamente sono declinati tutta una
+serie di interventi che vanno a mettere in evidenza i prossimi
+interventi della nostra partecipata riguardo a questa che non
+chiamerei più "innovazione". Dobbiamo fare un passo avanti, questo
+è il mondo che ci troviamo a vivere, è una componente essenziale
+del mondo che ci circonda con tutta una serie di sfide che dobbiamo
+cogliere e soprattutto di problemi di una certa importanza.
+Mi soffermo qui su due aspetti. Io penso che su questo tema, in
+questa relazione viene messa anche in evidenza da parte della
+dirigenza la necessità di adeguare certe strutture organizzative
+per meglio rispondere alla sfida tecnologica, e questo va da sé,
+però dal punto di vista politico credo che dovremmo garantire
+sempre più un'attenzione a questo settore, un'attenzione
+politica.
+Tornando ai dati, un dato che penso sia importante da
+sottolineare è quello che dà l'indicazione anche di una certa
+trasparenza della nostra Amministrazione, è che i Comuni della
+Valle d'Aosta e le Comunità montane usano il mercato elettronico,
+l'
+e-procurement
+per il 96 percento delle attività che si
+svolgono, quindi questo è un dato senz'altro interessante, anche se
+poi forse - come ha prima evidenziato il Consigliere Gerandin -
+bisogna fare degli affondi su altri settori.
+Venendo invece agli aspetti prospettici - e sono segnalati -, se
+la Valle d'Aosta vuole essere al pari con le sfide odierne, vorrei
+che un'attenzione particolare fosse rivolta alla proprietà dei
+dati. È un fattore strategico di sviluppo: i
+big data
+, i
+grandi dati, sono analizzati da tutte le più grandi compagnie del
+mondo e c'è una sfida in atto tra proprietà del dato e sviluppo
+dell'intelligenza artificiale. Sembrano temi lontani dalla Valle
+d'Aosta, ma sono temi che possono e devono interessare la nostra
+Regione, anche per uno sviluppo economico. Per esempio si apre
+tutto un interessante argomento che è la correlazione tra big data
+e destinazioni turistiche e, quindi, sviluppo dell'industria
+turistica. Dall'analisi di questi big data si possono senz'altro
+evincere delle soluzioni strategiche anche per il nostro turismo.
+Pertanto la proprietà dei nostri dati, la proprietà dei dati dei
+nostri
+server
+, la proprietà dei dati degli utenti che
+interagiscono con i nostri server, è un fattore senz'altro
+importante e anche delicato. Non voglio aprire qui tutta una serie
+di riflessioni su proprietà dei dati e
+privacy
+che, anche
+qui, necessiterebbe tutta una serie di approfondimenti di un certo
+tipo.
+C'è un progetto molto interessante che deve essere seguito con
+attenzione ed è la creazione del
+data center
+presso INVA,
+quindi penso che quello che si sta facendo è senz'altro positivo.
+Come ha detto giustamente il Presidente, l'Amministrazione è un
+continuum
+, quindi queste cose vanno analizzate al di là
+della contingenza, però il data center è interessante anche per i
+nostri Comuni, per gestire la proprietà dei dati dei nostri Comuni
+e dell'intero sistema "pubblica amministrazione" in Valle d'Aosta.
+Quello che vi dicevo è anche un'attenzione alle linee prospettiche,
+quindi consiglierei un'attenzione ai big data, allo sviluppo
+dell'intelligenza artificiale perché, se possono sembrare distanti,
+questi sono fattori strategici di successo per un'economia
+innovativa e che vuole essere al centro di un'Europa che sta
+correndo. Addirittura, dai dati che traspaiono da una letteratura
+scientifica, l'Europa ha posizioni di retroguardia nell'analisi e
+nella gestione di questi importanti fattori di sviluppo economico.
+Ricordo solo che nei prossimi giorni, a Courmayeur, ci sarà un
+appuntamento importante sugli
+smart city
+e
+smart
+village
+, e anche qui ritengo che INVA debba creare, al suo
+interno, una struttura di ricerca e di innovazione su questi temi,
+affinché anche la Valle d'Aosta possa sedersi con cognizione di
+causa ai tavoli di questo sviluppo e di questa sfida
+tecnologica.
+Président
+-
+La parole au collègue Cognetta.
+Cognetta (MOUV') -
+In Commissione, quando c'è stata
+l'esposizione di questo documento e ai rappresentanti di INVA - il
+Presidente e l'Amministratore presenti in Commissione - è stato
+fatto presente quello che diceva la parte finale del documento,
+ovvero i rilievi fatti dal controllo analogo, c'è stato un momento
+di forte imbarazzo e di stupore da parte degli amministratori
+stessi, perché non conoscevano il contenuto di queste pagine. Erano
+poi cinque pagine, non tantissime, ma che descrivevano in maniera
+chiara e completa, secondo me, una serie di carenze e di mancanze
+che INVA ha ormai da tantissimo tempo.
+Vede, collega Barocco, è molto bello occuparsi di questioni come
+big data
+piuttosto che tutta quanta quella che è
+l'informatica e la tecnologia, che evidentemente fa passi da
+gigante, è molto bello, però se politicamente vogliamo affrontare
+questa questione, dovremmo dire fino in fondo che oggi INVA non è
+che ci ha dato un supporto così forte rispetto a politiche di
+sviluppo dell'ICT in Valle d'Aosta; anzi, direi che in molti casi è
+stato un freno. E perché è successo? Perché INVA non risponde a
+logiche di mercato. INVA, anche l'ultima volta che è venuta in
+Commissione, ha continuato a sostenere che bisogna darle il lavoro
+perché è una società
+in house
+. Addirittura è stato fatto un
+esempio: "L'Amministrazione, quando si rivolge ad un fornitore
+esterno, mi dice che prezzo le fa costui e noi le facciamo qualcosa
+meno". L'importante è portare avanti un po' di lavoro, altro che
+visione strategica, altro che ricerca e sviluppo! Ricerca e
+sviluppo in INVA? Alla fine poi uno non riesce neanche più ad
+essere calmo quando sente certe cose perché, non dimenticando i
+miei trascorsi tecnici e tutta quanta la mia storia di informatico,
+direi che INVA è da anni che non fa quello che dovrebbe fare, è da
+anni che non fornisce un servizio adeguato, è da anni che gli enti
+locali hanno chiesto e spesso e volentieri hanno ottenuto da altri
+fornitori quello che INVA non dava loro! Allora forse a questo
+governo, a qualsiasi governo c'è lì, bisognerebbe spiegare che
+probabilmente innanzitutto la dirigenza non funziona, perché un
+amministratore che viene a farci un discorso come quello che ci è
+stato fatto in Commissione è assurdo, e noi continuiamo a tenerlo
+lì come se nulla fosse. Spero che metterete un nuovo Presidente,
+visto che questo è in scadenza, e immagino sarà sicuramente un
+esperto di informatica perché sennò veramente siamo
+all'assurdo!
+Il problema è che strutturalmente INVA non ha le competenze.
+Adesso qualcuno dice: "Allora la vuoi chiudere?". No, voglio che
+funzioni, io vorrei che INVA funzionasse, io vorrei che i
+dipendenti di INVA facessero dei corsi utili a sviluppare i servizi
+per la Valle d'Aosta! Io vorrei che l'informatica in questa Regione
+fosse veramente al servizio del cittadino e non spendere i soldi
+per fare un
+data center
+e poi metterci quello che abbiamo
+già nei vari
+server
+sparsi per la Regione! A cosa serve?
+Quali sono i servizi che vengono dati in più al cittadino con tutti
+i soldi che le diamo? Non ce ne sono, non ce ne sono!
+All'interno della Regione ci sono dei
+software
+per
+gestire per esempio i cartellini dei dipendenti che sono assurdi.
+Vogliamo parlare della miriade di dati che trovate negli
+Assessorati quando fate una domanda e sicuramente viene risposto
+tempo zero su qualsiasi situazione? Di cosa vogliamo parlare? Del
+fatto che per esempio all'interno dei servizi sociali, quando
+vogliamo sapere la posizione di una persona, non si riesce a sapere
+da anni quanto prende una persona, un nucleo familiare, perché
+tutte le cose sono spezzettate nei vari Assessorati e si sta ancora
+cercando di mettere insieme tutto? O di quanto tempo c'è voluto per
+capire quanto costavano gli asili? Se la ricorda la questione degli
+asili, Presidente Fosson? L'abbiamo risolta? Spero di sì, non lo
+so. La cartografia? I biglietti dei castelli? Dieci anni per fare
+un programma di gestione dei biglietti dei castelli?
+Scusatemi, io questo documento non ve lo voto, non posso, è
+invotabile perché è pieno di fuffa che non dice nulla. Io vorrei
+vedere un serio piano di ristrutturazione di INVA: portatecelo,
+discutiamolo e facciamo funzionare INVA fino in fondo.
+Président
+-
+S'il n'y a pas d'autres interventions,
+je ferme la discussion générale. La discussion générale est fermé.
+La parole au Président Fosson pour la réplique.
+Fosson (GM) -
+Ringrazio soprattutto chi è intervenuto e
+posso confermare che su questo c'è una grande attenzione politica,
+è sicuramente un settore decisivo per il nostro futuro. Prendo atto
+di tutte le considerazioni fatte, alcune le avevamo fatte anche noi
+e ne siamo a conoscenza. Bisogna crescere di più, bisogna cambiare,
+questo è vero, ma bisogna avere anche un po' di tempo per farlo. Io
+penso che il percorso intrapreso con la struttura regionale che se
+ne occupa cominci a dare dei risultati e anche sicuramente la
+modifica della
+governance
+può essere un'occasione per
+arrivare a far crescere questo settore, affinché INVA dia di più e
+meglio a tutti i valdostani che hanno estremamente bisogno di
+questo servizio.
+Président
+-
+La parole à la collègue Pulz pour
+explication de vote.
+Pulz (ADU VDA) -
+Le linee guida per l'agenda digitale in
+Valle d'Aosta sono assolutamente ricche, interessanti e
+condivisibili, vanno a favore di tutti i cittadini e delle imprese,
+ma di fatto parliamo di macro voci. Si tratta di un disegno
+strategico degli indirizzi di fondo per la certo fondamentale
+evoluzione e il potenziamento del digitale.
+Chi di noi per esempio potrebbe dirsi contrario alla
+cittadinanza digitale? Già solo la definizione ci sembra stupenda,
+però resta un mistero per tutti, tranne che per gli addetti ai
+lavori dell'agenda digitale stessa, capire che cosa stia
+effettivamente dentro quelle macro aree tematiche, come vengono
+effettivamente sviluppate e realizzate quelle voci, come vengono
+gestite le ingenti risorse. Di fronte a questo mistero ADU VDA non
+può che astenersi.
+Président
+-
+D'autres interventions pour
+explication de vote? La parole au collègue Aggravi.
+Aggravi (LEGA VDA) -
+Per esprimere la dichiarazione di
+voto del gruppo LEGA. Il gruppo LEGA, come membri della passata
+Giunta, concorda con la replica finale fatta dal Presidente Fosson,
+ovvero serve del tempo per cambiare le cose.
+Noi, nella nostra esperienza governativa, avevamo cercato in
+questo ambito di porre rimedio e di iniziare un percorso di
+evoluzione, direi proprio di seria riforma, perché - come ha
+sottolineato in maniera decisa il collega Cognetta - in Commissione
+abbiamo avuto effettivamente dei momenti anche un po' imbarazzanti
+e soprattutto, leggendo le risultanze del controllo analogo, tutta
+una serie di dubbi e di perplessità, io direi anche di
+vulnus
+che ha il sistema oggi.
+Sicuramente un domani possiamo parlare di grandi programmi,
+grandi progetti, però spesso e volentieri è bene prima fare le cose
+semplici per poi complicarsele e soprattutto anche valutare
+giustamente le tempistiche di intervento e di realizzazione degli
+investimenti. Pensare oggi di realizzare un
+data center
+nel
+2019, che è un qualcosa di fisico, quando altre realtà l'hanno
+fatto molto prima e oggi effettivamente si parla di nuvole - io
+penso che andremo alla stratosfera a livello di evoluzione, più che
+di nuvola - è qualcosa che ci dimostra e ci dice che forse nel
+tempo dovevano essere fatti investimenti seri, dovevano essere date
+linee di indirizzo di programmazione di un certo tipo, ma forse
+soprattutto chi doveva realizzare queste linee di programmazione
+doveva lavorare in questo senso. In più sicuramente c'è stata anche
+l'occasione in Commissione di vedere manifestate certe criticità
+legate agli enti locali, e quindi all'Amministrazione a 360 gradi.
+Penso che anche articoli di giornale tempo fa hanno posto in
+rilievo tutta una serie di problematiche legate soprattutto a
+questioni di mercato, di prezzo e di realizzazione, perché se per
+un intervento il mercato mi dà un certo numero di giornate e la
+società
+in house
+ne dà molte di più, vuol dire che forse non
+è il mercato che sbaglia, ma che la nostra società in house deve
+migliorare in termini di efficienza e, quindi, anche di costi,
+perché i giorni e il tempo sono costi.
+Da parte nostra non c'è pertanto una contrarietà al piano
+pluriennale, perché comunque il percorso descritto è una continuità
+rispetto a quello che era iniziato. Ci sarà comunque un voto di
+astensione coerente a quello che è stato il voto in
+Commissione.
+Président
+-
+La parole au collègue Bertin pour
+explication de vote.
+Bertin (RC-AC)
+-
+Questo è un settore estremamente
+importante nel quale evidentemente si gioca anche il futuro di un
+territorio, un settore nel quale bisogna investire e nel quale però
+anche la tempistica ha un senso.
+Come sottolineava il Consigliere Barocco, su questi aspetti si
+giocherà una parte importante dell'avvenire di un territorio e
+taluni di questi, che sembrano essere distanti da noi, non lo sono
+poi così tanto. Resta il fatto che dal punto di vista operativo
+siamo in ritardo su molte questioni, come quella di dare al più
+presto a questo territorio una connettività di alto livello, che
+non è soltanto un rispondere alle esigenze delle attività
+economiche, ma oramai anche per il turismo diventa essenziale,
+perché ci si sposta anche in funzione della connettività. Al di là
+di questo, l'intera macchina burocratica regionale dovrebbe
+certamente utilizzare maggiormente questi aspetti per dare risposte
+in tempi più brevi e anche per trovare un rapporto diverso, più
+collaborativo con i cittadini.
+Certamente ci sono molti problemi e criticità che sono già state
+evidenziate, che sono lì da molto tempo e che necessitano di un
+cambio di velocità. Per questo il nostro sarà un voto di
+astensione.
+Président
+-
+La parole au collègue Barocco pour
+explication de vote.
+Barocco (UV) -
+Il voto è favorevole.
+Ovviamente concordo con alcuni rilievi che sono stati fatti
+dall'Aula, però vorrei anche sfatare alcuni miti. Il
+data
+center
+e anche il
+cloud
+hanno un luogo fisico dove sono
+depositati i dati. Il data center che esiste, che si sta
+progettando e costruendo presso gli uffici di INVA, è un luogo
+fisico di deposito dei dati. L'architettura che viene studiata è
+senz'altro un'architettura
+web service
+e cloud. Il problema
+purtroppo è che non è ancora stato completato il catalogo dei
+servizi che vengono domiciliati presso questo data center.
+Concordo quindi con il Consigliere Aggravi, ci sono dei ritardi
+su cui dover intervenire, però effettivamente è un data center che
+ha delle caratteristiche di sicurezza perché ridondante ed è anche
+un
+disaster recovery.
+Pertanto nel caso in cui ci sia
+un'evenienza catastrofica, i nostri dati, quelli che saranno
+depositati lì, saranno al sicuro. Il problema è che per esempio i
+Comuni - porto la loro voce - non hanno ancora questo catalogo, che
+cosa si farà in questo data center e si stanno indirizzando, come è
+in alcuni casi, verso dei
+server
+e dei cloud che sono fuori
+regione. Ovviamente la gestione del dato è mondiale, però c'è
+comunque un luogo fisico dove i nostri dati sono depositati. Questo
+solo per cercare di colmare e dare qualche informazione in più.
+Chiaramente c'è la necessità di seguire INVA da vicino e concordo
+che bisogna cominciare a risolvere i problemi quotidiani, ci
+mancherebbe, però cerchiamo anche... Consigliere Cognetta, il mio
+era forse un auspicio e concordo con lei che INVA debba essere un
+fattore e un moltiplicatore di sviluppo. Ci sono state delle
+criticità, però cerchiamo di non buttare via anche il bambino con
+l'acqua sporca. Effettivamente l'audizione ha lasciato perplessi
+non solo i membri dell'opposizione, ma tutti i Commissari.
+Presidente
+-
+La parola al collega Aggravi per
+fatto personale. Lo espliciti.
+Aggravi (LEGA VDA) -
+Esplicito il fatto personale. Quello
+che io esprimevo non era un problema di natura ingegneristica,
+infatti dico che è vero, il
+cloud
+ha bisogno di un luogo
+fisico, anche perché sennò i dati non sapremo dove andare a
+metterli, giustamente, però il problema è che siamo nel 2019 e lei
+capisce...
+Presidente
+-
+Io chiedo che ci si attenga al fatto
+personale.
+Aggravi (LEGA VDA) -
+Mi sono attenuto al fatto
+personale.
+Presidente -
+Prego, collega Cognetta.
+Cognetta (MOUV') -
+Solo per affermare due cose. La prima
+è il nostro voto contrario. La seconda: vorrei poi che il collega
+Barocco magari valutasse se il
+data center
+è o sarà in zona
+alluvionabile oppure no, perché magari in zona alluvionabile è
+quando vogliamo fare un
+disaster recovery,
+cioè andare poi a
+recuperare qualcosa quando si crea il disastro e, guarda caso,
+l'alluvione è proprio dove c'è il data center; lì è il massimo del
+divertimento, perché poi noi riusciamo a fare anche queste cose,
+tra parentesi.
+Poi, visto che ci siamo, vorrei chiedere a nome di MOUV' e LEGA
+la votazione per appello nominale.
+Presidente
+-
+Altri per dichiarazione di voto? La
+parola al collega Daudry.
+Daudry (AV)
+-
+Per chiedere la votazione segreta in
+cabina a nome della maggioranza.
+Presidente
+-
+La votazione segreta si svolge
+elettronicamente, quindi non in cabina. Si procede con la votazione
+segreta, seduti al proprio posto. Prego, collega Daudry.
+Daudry (AV)
+-
+Scusi, probabilmente ci siamo
+spiegati male, ma visto che c'è un po' di
+méfiance
+nei
+confronti dell'informatica, vorremmo la votazione in cabina con le
+palline.
+Presidente
+-
+Collega, la ringrazio per la
+méfiance
+del sistema elettronico, ma visto che siamo
+ovviamente in tema, il sistema funziona ed è certificato; pertanto
+possiamo procedere con la votazione segreta elettronica, quindi dal
+posto. Si procede con la votazione in cabina esclusivamente se il
+sistema elettronico non funziona.
+Chiedo se ci sono altre persone che vogliono intervenire per
+dichiarazione di voto. Se non ci sono altri interventi, apriamo la
+votazione segreta.
+(Si procede mediante votazione a scrutinio segreto)
+La votazione è aperta. La votazione è chiusa.
+Presenti: 35
+Votanti: 22
+Favorevoli: 18
+Contrari: 4
+Astenuti: 13
+Il Consiglio approva.
+Informativa cookies
+Consiglio Regionale della Valle d'Aosta © 2025
+Questo sito utilizza cookies propri e di terze parti. Continuando ad usare questo sito, acconsenti all'utilizzo di questa tecnologia.
+Consulta la nostra
+informativa
+per maggiori informazioni e per istruzioni su come disattivare i cookies.
+OK

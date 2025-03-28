@@ -1,0 +1,270 @@
+Consiglio Regionale della Valle d'Aosta - Oggetto del Consiglio n. 792 del 4 luglio 2019 - Resoconto
+Vai al contenuto principale
+Oggetti del Consiglio
+Invia
+Stampa
+Documenti
+Verbale
+Resoconto
+Collegamenti
+Iter atto
+Classificazione
+ASSISTENZA SANITARIA E OSPEDALIERA
+INFORMAZIONE
+Sistema informativo
+Precedente
+Successivo
+Resoconto integrale del dibattito dell'aula. I documenti allegati sono reperibili nel link "iter atto".
+Oggetto del Consiglio n. 792 del 4 luglio 2019 - Resoconto
+OGGETTO N. 792/XV - Interpellanza: "Risultanze dell'utilizzo
+dell'applicazione denominata "Health VdA" in ambito
+sanitario".
+Rini (Presidente) -
+Viste le assenze dei colleghi in
+aula, passiamo al punto n. 70 dell'ordine del giorno. Per
+l'illustrazione, la parola al collega Mossa.
+Mossa (M5S) -
+Oggi parliamo della fantastica,
+meravigliosa, ma soprattutto di vitale importanza per i cittadini
+valdostani
+app
+denominata "Health VdA", sviluppata da INVA
+per conto della Regione autonoma Valle d'Aosta. Talmente
+fondamentale per la nostra Regione che mi chiedo come abbiamo fatto
+a sopravvivere in tutti questi anni senza questa app...
+(interruzione di un Consigliere, fuori microfono)
+... e senza Mossa, come dice il collega, concordo con lei.
+Questa app, costata appena 204.574 euro, è stata creata per
+accedere al fascicolo sanitario direttamente dallo smartphone e
+rendere disponibile il servizio
+CUP Web
+, che permette le
+prenotazioni di esami di laboratorio e visite specialistiche. A
+inizio dicembre, quando è stata pubblicata questa app sugli
+store
+di Android e iOS, ebbi un po' di perplessità che poi
+sfociarono in un'interrogazione con la quale chiesi all'Assessore
+Baccega se questa app, il cui costo tra progettazione,
+realizzazione, pubblicazione non è poi così irrisorio, fosse
+davvero così necessaria. Lei, Assessore, mi rispose che questa
+domanda gliela avrei dovuta fare non all'epoca ma dopo sette, otto
+mesi. Fiducioso, ho atteso questi mesi ed eccoci qua. Visto che il
+tormentone dell'estate è il motto che dice "il tempo è un
+galantuomo", sono sicuro che oggi lei mi sbalordirà dicendomi che
+ormai le prenotazioni vengono fatte tutte attraverso questa app e
+che non c'è un valdostano, compresi i colleghi qui presenti, che
+non ce l'abbia installata sul proprio smartphone. Se però vado
+sullo store di Android e cercò questa app, mi dice che sono state
+fatte più di 1000 installazioni. Questo significa, visto che lo
+smartphone è un dispositivo personale, che più di 1.000 ma meno di
+10.000 persone l'hanno installata sul proprio dispositivo. Ora,
+piacerebbe piacere sapere quante visite mediche sono state
+prenotate con questa fondamentale applicazione. Lei la volta scorsa
+disse che è utile anche per trovare le farmacie. Pensi un po' che
+ignorantemente digitavo sul motore di ricerca, ormai obsoleto dopo
+l'arrivo di questa bellissima applicazione, "farmacie Aosta" e mi
+appariva una mappa dettagliata con tutte le farmacie e, con un solo
+clic del mio ditino, si attivava direttamente il navigatore per
+condurmici, ma adesso sicuramente il processo sarà molto più
+performante.
+Io quindi le chiedo, Assessore: 1) se vi siano stati ulteriori
+investimenti, oltre questi 200 e rotti mila euro dalla data della
+pubblicazione di questa app, sia relativi all'app stessa che ad
+altre opere di sviluppo evolutivo nell'ambito della sanità
+digitale; 2) nello specifico alla data odierna quanti utenti sono
+registrati, quanti hanno effettuato prenotazioni attraverso questa
+app e quante prenotazioni in totale per esami di laboratorio e
+visite specialistiche sono stati effettuati attraverso questo
+sistema; 3) se ritenga soddisfacenti in base al numero degli utenti
+che utilizzano questa piattaforma gli esiti di questo significativo
+investimento di 204.574 euro, ripeto, o se invece intenda
+intraprendere azioni di responsabilità nei confronti di chi ha dato
+avvio ai processi decisionali che hanno dato via all'iter della
+progettazione, realizzazione e pubblicazione di questa app; se
+intenda dare avvio a un sistema di monitoraggio affinché eventuali
+opere future in questo settore, soprattutto quando richiedono
+investimenti così considerevoli, vengano ben ponderate in base a
+una reale esigenza da parte del pubblico e che siano realmente
+prioritarie rispetto a tutte le carenze già note nel settore della
+sanità.
+Presidente -
+Per la risposta, la parola l'Assessore
+Baccega.
+Baccega (UV) -
+Questa sera chiudiamo in bellezza. Grazie,
+Presidente, in realtà pensavo di fare la n. 65 ma i due Consiglieri
+proponenti se ne sono andati, quindi passo a rispondere al collega
+Mossa. Collega Mossa che, dall'enfasi con cui ha presentato la sua
+interpellanza, ci fa capire che con l'ICT non ci piglia proprio.
+Lui guarda i soldi e, quando vede 204.000, semaforo rosso e gli
+monta la carogna. In realtà bisogna capire cosa c'è dietro un
+investimento tecnologico in ICT di questo tipo, collega.
+L'investimento a cui si riferisce di 204.574 euro, interamente
+finanziato sul Fondo per lo sviluppo e la coesione mediante
+l'utilizzo delle economie dell'intervento
+VdA
+all
+Broadband
+, prevedeva la realizzazione di altre attività:
+l'estensione delle tipologie di documenti clinici digitalizzati, lo
+sviluppo di sistemi di consultazione in mobilità, la realizzazione
+di un sistema di prenotazione
+on line
+. Nell'ambito di tale
+attività si è provveduto alla digitalizzazione dei flussi clinici
+con generazioni di documento in formato PDF, firmato digitalmente e
+CDA2 (è uno standard di formato basato sul XML - non mi chieda che
+cos'è perché giuro che non lo so - istituito per lo scambio
+informatico di documenti clinici, un documento che è in grado di
+contenere qualunque tipo di informazione clinica, supporta inoltre
+testo non strutturato e può incorporare documenti nei formati PDF,
+DOCX, RFT e addirittura immagini JPG e PNG, CDA2 è una versione
+aggiornata dello stesso) ove CDA2 disponibile lo standard
+nazionale, archiviato su sistema di conservazione sostitutiva
+aziendale sia sul sistema FSE e consultabile anche dall'operatore
+professionale. Inoltre, serve all'implementazione della struttura
+CDA2 per le lettere di dimissione ospedaliera, alla configurazione
+dei flussi previsti dai processi di
+business
+aziendali in
+modo da poter garantire l'interoperabilità applicativa per la
+piattaforma del Fondo sanitario nazionale, alla progettazione della
+Web app
+per accedere al proprio fascicolo sanitario e ai
+servizi di sanità digitale, alla realizzazione della
+Web app
+e pubblicazione sugli
+store
+, all'implementazione dei
+componenti di integrazione sulla Web app con la piattaforma FSE e
+autentificazione integrata, alla progettazione del nuovo sistema di
+CUP on line con funzionalità di accesso e consultazione via Web,
+all'implementazione delle funzioni per attuare un programma che
+abbia quale punto di partenza il promemoria rilasciato dal medico,
+prosegua con l'individuazione e la scelta della struttura unità
+erogante la prestazione e termini con la conferma della
+prenotazione online sul nuovo sistema, e la possibilità di
+cancellare o posticipare la prenotazione, quindi un
+work in
+progress
+, non è una cosa che è destinata solo a quello ed
+esclusivamente all'app che è installata sui telefonini.
+Principali benefici dell'intervento. Per il cittadino la
+possibilità di accedere tramite un portale unico sia alla
+documentazione sanitaria che al servizio di prenotazione on line
+anche mediante gli strumenti tecnologici più diffusi: i
+tablet
+e gli
+smartphone
+, attraverso modalità
+semplificate e senza doversi recare presso la struttura erogante
+per la prenotazione o il ritiro cartaceo del referto, ottimizzando
+i tempi tra la prescrizione e la prenotazione. Per l'operatore
+sanitario - e guardo il collega Peinetti - la possibilità di
+visionare tutta la storia clinica dell'assistito ai fini di un più
+efficace intervento di prevenzione e cura per poter avere un
+contesto in cui condividere con altri operatori i percorsi di cura
+e aprire all'interoperabilità dei servizi su tutto il territorio
+nazionale a supporto della mobilità sanitaria: ecco che dobbiamo
+interfacciarci anche col nazionale rispetto a questa direzione, la
+sua Ministra Grillo su questo ci tiene molto, quindi la contatti
+per avere riferimenti più performanti... per l'operatore dello
+sportello una semplificazione e un efficientamento delle procedure
+organizzative e una possibile riallocazione su servizi a maggior
+richiesta di assistenza alla persona; poi è di supporto anche
+all'Azienda sanitaria locale in quanto permette di riorganizzare e
+standardizzare determinati processi clinici offrendo sia
+all'operatore che all'assistito servizi più efficienti con
+possibilità di economie di scala e possibilità di nuovi
+investimenti; per gli enti socio-sanitari una crescente
+integrazione tecnologica di processo con la struttura ospedaliera
+centrale con un aumento dell'efficienza dei servizi integrati
+territoriali in favore di un fascicolo sanitario del cittadino
+sempre più completo; infine per l'Ente Regione la possibilità di
+sostenere una progressiva integrazione di tutti i servizi sanitari
+per un più efficace processo di prevenzione e cura per il
+monitoraggio e l'ottimizzazione dei costi.
+Alla luce di queste premesse, è evidente che sia riduttivo
+ricondurre l'investimento di 204.574 euro alla progettazione,
+realizzazione e pubblicazione dell'app "Health VdA", in quanto
+queste attività costituiscono solo una piccola parte degli
+interventi attuati. Successivamente alla chiusura del progetto
+descritto, avvenuta nel mese di dicembre, non sono stati effettuati
+ulteriori investimenti, per rispondere al suo quesito, né per
+l'app, né per le altre opere di sviluppo evolutivo nell'ambito
+della sanità digitale. Tuttavia con la firma di un mio
+predecessore, l'Assessore Bertschy, Assessore agli affari europei,
+politiche del lavoro e inclusione sociale, nel mese di giugno
+l'Amministrazione regionale ha comunicato al Ministero dello
+sviluppo economico di voler allocare le risorse di cui alla
+delibera CIPE n. 26/2003 in perenzione amministrativa nel bilancio
+dello Stato all'ampliamento dei servizi connessi all'evoluzione del
+fascicolo sanitario. C'erano 104.000 euro che avanzavano e abbiamo
+detto: li inseriamo in questa logica perché ci servono per andare a
+implementare, migliorare e perfezionare questi servizi che sono,
+dal nostro punto di vista, fondamentali per il futuro anche della
+medicina. Queste risorse quindi sono finalizzate ad adempiere agli
+obblighi definiti dal tavolo del lavoro del fascicolo sanitario per
+la convergenza del portale FSE e per l'adeguamento delle linee
+guida. Quello che le ho detto prima, interfacciarsi col nazionale
+per potersi parlare, per comunicare, poi ricondurre su un'unica
+suite
+"Health VdA" il portale FSE utilizzato dai
+cittadini.
+Sono tanti gli interventi che abbiamo e io non riesco a finire
+perché è corposa questa documentazione. L'unica cosa che le posso
+ancora dire, saltando tutti i percorsi di miglioramento di questa
+app, è che nel dicembre 2018 erano 719 gli iscritti all'app, nel
+marzo 1746, oggi - 30 giugno - 2015. C'è un incremento senza un
+euro di campagna di comunicazione, perché, come avevo detto alla
+sua collega Russo nel primo intervento, questo meritava un'adeguata
+campagna di comunicazione. Ci vogliono le risorse anche per la
+comunicazione, in questo momento non le abbiamo ma a settembre
+partirà anche in questo caso una massiccia campagna di
+comunicazione per far sì che gli utenti, visto che è stato
+sperimentato e che funziona, possano connettersi con più facilità.
+Ritengo che il risultato finora raggiunto di 2015 sia sicuramente
+un risultato efficace ed efficiente per quello che andiamo a
+fare.
+Concludo dicendo che quest'applicazione è stata recentemente
+premiata nell'ambito del premio PA sostenibile, progetti per
+raggiungere l'obiettivo agenda 2030. Un plauso quindi all'USL e un
+plauso a INVA perché questo è un progetto che deve proseguire e
+continuare e che va nella direzione di dare maggiore efficacia ed
+efficienza alla sanità pubblica.
+Presidente -
+Per la replica, la parola al collega
+Mossa.
+Mossa (M5S) -
+Grazie, Assessore, per la sua risposta che
+per circa 6 minuti si è tradotta in fuffa, invece non è riuscito a
+rispondere alle semplici quattro domande che le ho posto. Io ancora
+non so quante persone si sono prenotate, hanno prenotato visite
+mediche attraverso quest'applicazione. Lei tende a precisare che i
+fondi siano derivanti dal Fondo per lo sviluppo e la coesione ma le
+ripeto, anzi la metto al corrente che sono sempre soldi dei
+cittadini. Questo Fondo per lo sviluppo e la coesione... il suo
+compito è favorire la ripresa della competitività e della
+produttività delle aree obiettivo. Lei mi ha detto che serve a un
+sacco di cose belle ma, secondo me, è un'applicazione inutile. Da
+tutto quello che mi ha risposto fino adesso quindi vengo a
+conoscenza che ci sarà un ulteriore investimento di 104.000 euro,
+come se questi 200 e rotti mila non bastassero, e poi mi dice che
+ad oggi solo 2015 persone hanno scaricato quest'applicazione, e non
+mi dice però quante prenotazioni mediche sono state fatte
+attraverso questa
+app
+. Adesso mi chiedo: in una popolazione
+di 125.000 abitanti solo 2.000 - magari anche per curiosità perché
+io l'ho scaricata per curiosità ma non ne faccio veramente niente -
+l'hanno scaricata. Io non so, a questo punto farò un'interrogazione
+a risposta scritta così magari mi risponderà realmente quali sono i
+dati ufficiali, perché sinceramente la sua risposta è molto
+deludente, come l'applicazione del resto.
+Informativa cookies
+Consiglio Regionale della Valle d'Aosta © 2025
+Questo sito utilizza cookies propri e di terze parti. Continuando ad usare questo sito, acconsenti all'utilizzo di questa tecnologia.
+Consulta la nostra
+informativa
+per maggiori informazioni e per istruzioni su come disattivare i cookies.
+OK

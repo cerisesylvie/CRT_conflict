@@ -1,0 +1,153 @@
+Consiglio Regionale della Valle d'Aosta - Oggetto del Consiglio n. 749 del 3 luglio 2019 - Resoconto
+Vai al contenuto principale
+Oggetti del Consiglio
+Invia
+Stampa
+Documenti
+Verbale
+Resoconto
+Collegamenti
+Iter atto
+Classificazione
+AMMINISTRAZIONE REGIONALE
+Ordinamento degli uffici e del personale
+INFORMAZIONE
+Sistema informativo
+Precedente
+Successivo
+Resoconto integrale del dibattito dell'aula. I documenti allegati sono reperibili nel link "iter atto".
+Oggetto del Consiglio n. 749 del 3 luglio 2019 - Resoconto
+OGGETTO N. 749/XV - Interrogazione: "Notizie sull'attuazione
+del progetto "Open source"".
+Distort (Presidente) -
+Punto 22 all'ordine del giorno.
+Per la risposta, la parola al presidente Fosson.
+Fosson (PNV-AC-FV)
+- Una risposta un po' articolata.
+"Quali fasi della migrazione in relazione allo studio sono state
+attuate": come è noto, con la DGR 179 del 2016 è stato approvato lo
+studio di fattibilità realizzato dalla società INVA, finalizzato
+all'introduzione presso l'amministrazione regionale di soluzioni
+Open Source come strumenti di produttività individuale, nello
+specifico è stata evidenziata in linea generale la fattibilità di
+migrazione dei prodotti commerciali Microsoft verso software di
+tipo Open Source indicando come soluzione preferibile l'utilizzo di
+Libre Office. La stessa DGR 179 approvava l'avvio della fase Uno
+prevista nello studio di fattibilità, attività affidata alla
+società in house INVA. La società INVA S.p.A. ha concluso nel
+luglio 2018 la sua analisi, raccogliendo in un documento anche i
+risultati emersi dopo aver sottoposto agli utenti regionali, in due
+momenti diversi, alcuni questionari. Sono state quindi evidenziate
+alcune criticità in termini di compatibilità, in particolare su
+applicativi sviluppati con tecnologia Microsoft Access, ragione per
+cui sarà comunque necessario mantenere circa 250 postazioni -
+ancora oltre il 10% del totale - con tale sistema. Altre criticità
+interesserebbero i documenti generalmente forniti da soggetti
+esterni all'amministrazione regionale, in questi casi Inva S.p.A.
+propone di richiedere al soggetto esterno la possibilità di
+utilizzare formati gestibili dall'amministrazione, eventualmente su
+alcune impostazioni condivise sulle quali mantenere Microsoft
+Office. Il documento di INVA evidenzia l'obiettivo di ridurre le
+licenze Office da 2.500 a 250 e di adottare nuovi formati standard
+per i documenti, delineando le macrofasi del processo di
+migrazione. Mantenere attiva la comunicazione, formare gli utenti,
+creare un centro di competenza Open Source, adeguare le
+applicazioni critiche, installare e configurare Libre Office,
+convertire i documenti ai formati odf, dare supporto tecnico agli
+utenti nel processo di migrazione. Coerentemente con questa
+indicazione, il dipartimento innovazione d'Agenda Digitale ha
+operato i seguenti fronti: installazione del Libre Office su tutte
+le postazioni regionali che nell'ambito delle regolari attività di
+sostituzione dei pc degli utenti vengono aggiornate come prassi
+operative alle nuove versioni di Libre Office. Le versioni più
+aggiornate sono altresì rese disponibili tramite il sistema di
+software distribution
+. Ove possibile effettuando una
+valutazione per singola postazione, viene inoltre installata solo
+la versione standard di Microsoft Office, per le quali
+l'amministrazione possiede già le licenze quindi non sono previsti
+costi aggiuntivi, considerato l'utilizzo del solo run-time per gli
+applicativi sviluppati con tecnologia Microsoft. Secondo step:
+riprogettazione e riscrittura di alcuni applicativi per renderli
+compatibili con la suite Libre Office, tra cui il sistema di
+gestione delle pratiche per i disabili (ARDI), avviata nel 2017
+attualmente in produzione. In questo ambito si sono purtroppo
+rilevate criticità relativamente ad alcune librerie Libre Office,
+utilizzate nella riscrittura dell'applicativo e anche se rimosse
+permettono il funzionamento del sistema Ardi ma solo con alcune
+versioni meno recenti dello stesso Libre Office, si tratta di
+problemi di compatibilità che hanno di fatto rallentato anche la
+successiva riscrittura di alcune componenti. Quando si concluderà
+il progetto di in questione di questa migrazione, non semplice,
+l'intendimento del governo regionale è proseguire nel percorso
+intrapreso sulla base delle risultanze del documento di analisi
+delle attività già avviate, che non sempre hanno dato esiti
+completamente positivi e che hanno richiesto un adeguamento degli
+applicativi. Non appena si avrà certezza di aver individuato le
+soluzioni per superare tutte le criticità registrate nel corso
+della rilevazione, potranno essere stanziate nel bilancio del 2020
+le risorse necessarie per definire e concludere il processo di
+migrazione. La previsione è di 216.000 euro. Il tempo ipotizzato
+per concludere tutti questi interventi è di 24 mesi, dal 2020.
+Distort (Presidente)
+- Per la replica, la parola al
+proponente, consigliere Bertin.
+Bertin (RC-AC)
+- Questo è un argomento al quale - forse
+lo ricorderà, presidente Fosson - mi sono interessato per molto
+tempo, per anni, sollecitando l'amministrazione regionale a
+intraprendere questa via, con molte iniziative, non ultima quella
+del 2015, nella quale attraverso una mozione si è poi realizzato lo
+studio cui faceva riferimento che ha definito le linee guida
+dell'amministrazione regionale in questo settore
+.
+Un
+argomento che ho seguito, al quale do particolare importanza, non
+soltanto perché l'open source è un modo di sviluppare informatica
+aperto, partecipativo e che ha dei risultati superiori, anche
+superiori a quello proprietario, ma nel caso specifico, perché
+rappresenta un risparmio per le amministrazioni, buona parte delle
+amministrazioni comunali e altre amministrazioni stanno migrando in
+questo periodo, verso l'open source. Siamo in una fase, come si
+dice, di
+spending review
+, questo è un modo per risparmiare,
+lo sarebbe stato. Tra l'altro dallo studio risulta che avremmo un
+risparmio in prospettiva di poco meno di mezzo milione di euro,
+legato alle licenze proprietarie, soprattutto di Microsoft. Ricordo
+che ci sono molte Regioni che lo stanno facendo, tra l'altro la più
+importante
+länder
+della Germania, la Baviera, ha come
+progetto di migrare totalmente su questi sistemi open, per ragioni
+di risparmio ma non solo, perché significa anche organizzare in
+modo diverso, più coinvolgente anche, i vari dipendenti che
+partecipano in qualche modo alla costruzione del sistema. È un modo
+innovativo d'immaginare l'amministrazione pubblica e la Baviera, la
+più importante regione economica e non solo d'Europa oltre a
+tantissimi altri, attua questo progetto. Perciò la invito a
+sollecitare, a riprendere un percorso lineare e non proseguire con
+degli
+stop and go
+come è stato fatto per questo progetto: si
+ferma e si riparte. Bisogna seguire un progetto lineare, per
+raggiungere l'obiettivo al più presto possibile. Avremmo potuto
+essere la prima regione in Italia ad attuare una migrazione
+significativa, mi sa che, vista la tempistica, non lo saremo. Su
+questo progetto a mio avviso, come era già previsto anche in
+un'altra mozione, bisognerà anche coinvolgere gli enti
+territoriali, per cercare di far sì che tutto il sistema valdostano
+si orienti in questa direzione. Certo non è semplice, non bisogna
+sottovalutare la complessità perché a volte si fa presto a dire,
+poi non è così immediato realizzarlo, ma ciò detto, bisogna
+intraprenderlo con convinzione, perché vi sono degli evidenti
+vantaggi economico-finanziari e non solo, vi invito a seguire con
+attenzione e a sollecitare il raggiungimento di questo
+obiettivo.
+Informativa cookies
+Consiglio Regionale della Valle d'Aosta © 2025
+Questo sito utilizza cookies propri e di terze parti. Continuando ad usare questo sito, acconsenti all'utilizzo di questa tecnologia.
+Consulta la nostra
+informativa
+per maggiori informazioni e per istruzioni su come disattivare i cookies.
+OK
