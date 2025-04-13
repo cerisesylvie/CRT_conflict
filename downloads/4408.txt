@@ -1,0 +1,1346 @@
+Consiglio Regionale della Valle d'Aosta - Oggetto del Consiglio n. 83 del 11 febbraio 1982 - Resoconto
+Vai al contenuto principale
+Oggetti del Consiglio
+Invia
+Stampa
+Documenti
+Resoconto
+Classificazione
+(Nessuna classificazione presente)
+Precedente
+Successivo
+Resoconto integrale del dibattito dell'aula
+Oggetto del Consiglio n. 83 del 11 febbraio 1982 - Resoconto
+OGGETTO N. 83/VII - APPROVAZIONE DEL PIANO OPERATIVO PER LO
+SVILUPPO DEI SISTEMI DI AUTOMAZIONE DELLA REGIONE VALLE D'AOSTA -
+DELEGA ALLA GIUNTA.
+PRESIDENTE
+:
+Do lettura del testo della
+delibera:
+IL CONSIGLIO REGIONALE
+constatato che:
+- La ITALSIDER, nell'ambito del contratto di consulenza
+approvato con deliberazione di Giunta n. 818 del 20.2.1981, ha
+presentato un piano generale di sviluppo dei sistemi di
+informazione della Regione.
+- Il piano è stato predisposto evidenziando tutte le esigenze
+dei vari servizi della Regione e logicamente lo stesso richiede un
+lasso di tempo di alcuni anni per la sua operatività.
+- L'ITALSIDER ha inoltre presentato un piano operativo delle
+realizzazioni che a breve termine possono essere attuate così
+articolate:
+- SISTEMA INFORMATIVO REGIONALE
+- anagrafe regionale
+- gestione patrimonio immobiliare e mobiliare
+- completamento applicazioni già in esercizio (Bilancio,
+gestione personale)
+- gestione archivio anagrafico registro ditte
+- SISTEMA INFORMATIVO SANITARIO
+- avvio della fase di analisi generale delle funzioni da
+automatizzare e quindi decisione sulla priorità dei progetti da
+realizzare
+- gestione presenze personale dipendente (sistema ora).
+- Per una pratica realizzazione del piano è necessario:
+1) l'istituzione di un comitato di pianificazione dell'EDP
+regionale composto da:
+il Presidente della Giunta
+l'Assessore regionale alle Finanze
+due Consiglieri regionali
+il dirigente Assessorato Finanze quale responsabile
+Amministrativo del Centro la consulenza ITALSIDER, quale supporto
+tecnico operativo
+2) l'ampliamento organico del personale del centro elettronico
+di:
+due analisti
+due operatori
+3) autorizzare un contratto di consulenza a termine, anni 2, per
+un massimo di quattro sistemisti di una casa software da affiancare
+agli analisti regionali nei lavori di progettazione e realizzazione
+dei nuovi progetti
+4) sostituire il calcolatore attualmente in locazione con uno
+più potente per il sistema informativo regionale e ad avvenuta
+progettazione del sistema informativo sanitario, affittarne un
+secondo anche per le necessarie funzioni di back-up al primo.
+- Il piano finanziario predisposto dall'ITALSIDER prevede i
+seguenti costi:
+1982 1983
+calcolatore sistema informativo sanitario 300 L/MIL
+calcolatore sistema informativo regionale 75L/MIL 300 L/MIL
+sistemisti esterni 400L/MIL 300 L/MIL
+consulenza ITALSIDER 60L/MIL 60 L/MIL
+TOTALE 535L/MIL 960 L/MIL
+Delibera
+1°) di approvare il piano operativo per l'automazione dei
+servizi regionali come indicato in premessa;
+2°) di delegare alla Giunta regionale la realizzazione del piano
+di cui si tratta mediante l'adozione dei conseguenti provvedimenti
+deliberativi.
+PRESIDENTE
+:
+Ha chiesto di parlare il Presidente
+della Giunta che è relatore, ne ha facoltà.
+ANDRIONE
+- (U.V.):
+L'Amministrazione regionale si
+trova confrontata al vasto problema dell'informatica ed alla
+necessità di dotare l'Amministrazione stessa di un sistema coerente
+che risponda per un periodo di tempo limitato, ma comunque
+apprezzabile, ai bisogni della Regione Autonoma Valle d'Aosta.
+Quindi occorre informare subito che non si tratta di un sistema
+informativo previsto in eterno, né della soluzione carismatica di
+ogni problema, ma si tratta di fare un passo corrispondente ai
+bisogni attuali e conforme alle necessità della Regione in questo
+momento.
+Un anno fa, il 20 gennaio 1981, la Regione ha dato un incarico
+di consulenza all'equipe che dirige l'informatica dell'Italsider,
+in particolare all'Ing. Belgrano, facendo stato di fatti esistenti
+e cioè che esiste un centro meccanografico della Regione, diretto
+da un "setting" di analisti, di programmatori, che risponde ai
+bisogni della Regione in maniera oggi giudicata insufficiente, che
+evidentemente lo sarà ancora di più in un prossimo futuro, a misura
+che si svilupperanno i bisogni della Regione.
+E' una constatazione di fatto, è impossibile rispondere a questi
+bisogni assumendo personale, anche con modificazioni tabellari e
+previsioni di posti specifici in organico, per il fatto che oggi i
+programmatori analisti di un certo livello sono pagati in maniera
+nettamente superiore ai parametri di stipendio dei dirigenti della
+Regione. Dato che questa situazione non può essere corretta in
+breve tempo e poiché esiste da parte della Regione la necessità di
+dotarsi di certe strutture, è stata scelta la strada della
+consulenza esterna con l'appoggio ed il supporto del Centro
+esistente. Da parte della Giunta regionale sono state date ai
+consulenti alcune direttive, e cioè come si può rispondere, per un
+periodo ipotizzato di cinque anni - che poi potrebbe anche essere
+più breve - a certi bisogni assolutamente urgenti della Regione,
+che sono elencati al IV° paragrafo e che dicono:
+Sistema informativo regionale
+Anagrafe regionale
+Gestione patrimonio mobiliare ed immobiliare
+Completamento applicazioni già in esercizio (bilancio, gestione
+personale)
+Gestione archivio anagrafico registro ditte.
+Queste sono già in esercizio. Da questo paragrafo occorre fare
+una graffa e scendere al n. 4 (perché uno è funzione dell'altro),
+dove si dice:
+"Sostituire il calcolatore attualmente in locazione", che è uno
+dei punti nodali di tutta la questione, perché io credo, nessuno di
+noi possiede competenze tecniche e scientifiche tali da poter fare
+una scelta fra i differenti casi che si presentano e che propongono
+gli ordinatori. Occorre avere consulenti in materia, la cui
+consulenza poi può essere a sua volta posta a controllo e a
+confronto, ma è assolutamente indispensabile perché il mercato in
+materia - lo sapete meglio di me - è particolarmente teso e
+difficile.
+Contemporaneamente era necessario porre il problema del sistema
+informativo sanitario ed è previsto - al paragrafo V° mi
+sembra:
+- avvio della fase di analisi generale delle funzioni da
+automatizzare;
+- gestione presenze personale dipendente (sistema ora). Sistema
+ora per il non assenteismo, per lo meno per la presenza effettiva
+delle persone al loro posto di lavoro.
+Nelle istruzioni date dalla Giunta regionale è stato specificato
+che questo servizio dovrà essere posto in staff, cioè dovrà essere
+alle dipendenze gerarchiche - formali evidentemente - della
+Presidenza della Giunta, in modo che sia accessibile da parte di
+tutti gli Assessorati, da parte del Consiglio regionale e che non
+sia uno strumento riservato ad un solo Assessorato, per quanto
+possa essere poi più utilizzato da un Assessorato rispetto ad un
+altro.
+Per tale motivo è previsto uno specifico Comitato di
+pianificazione, di cui all'elenco del n. 1, e penso che su questa
+parte non vi sia niente altro da dire. Vi è evidentemente la
+necessità dell'ampliamento di organico, che dopo l'approvazione del
+bilancio verrà presentata a questo Consiglio, con specifica legge,
+che trasferirà anche la subordinazione gerarchica del Centro alla
+Presidenza della Giunta.
+Infine vi è la parte spesa che è presunta, ma che comunque
+grosso modo dovrebbe dare un'idea al Consiglio delle necessità
+finanziarie in materia.
+Procedendo in questo modo, sembra alla Giunta regionale di avere
+un duplice vantaggio, e cioè di avere oggi da un lato un servizio
+corrispondente alle nostre necessità o almeno che può diventarlo in
+tempi molto brevi, dall'altro restare disponibili ed aperti a
+soluzioni più avanzate e più complete che potranno presentarsi.
+Non ci siamo sentiti in questo momento di fare delle scelte a
+grande respiro, poiché in questa materia l'innovazione tecnologica
+è continua e la vita di certi sistemi è particolarmente breve e
+soggetta a nuove scoperte, ma al tempo stesso impostiamo già le
+necessità inderogabili della Regione in materia di informatica.
+Pertanto si richiede al Consiglio di approvare questo piano
+operativo che evidentemente troverà poi attuazione in una serie di
+disegni di leggi regionali che saranno sottoposti al Consiglio.
+PRESIDENTE
+:
+E' aperta la discussione generale
+sulla relazione del Presidente della Giunta.
+Ha chiesto di parlare il Consigliere Tonino, ne ha facoltà.
+TONINO
+- (P.C.I.)
+: Il Presidente della Giunta ha
+appena detto una cosa che condivido anch'io, cioè che questa Giunta
+non si sente in grado di fare delle scelte di grande respiro; ma
+questo non riguarda solo questo settore, ma anche tutti gli altri
+della nostra Regione, ed il piano di oggi che investe un settore
+che sta diventando sempre più importante, è la dimostrazione della
+limitatezza di questa Giunta.
+Tuttavia occorre fare una considerazione preliminare, ed è
+quella che nel settore della elaborazione elettronica dei dati, è
+rischioso farsi delle illusioni. nel senso di sperare di recuperare
+efficienza e funzionalità nella Pubblica Amministrazione con la
+sola introduzione dello strumento tecnico, anche se sofisticato
+quale è l'elaboratore. In sostanza, introdurre l'informatica non
+vuol dire stabilire un'alternativa ad un'approfondita
+riorganizzazione della macchina regionale e della stessa
+organizzazione del lavoro della Regione, ma solo istituire un
+momento di questa riorganizzazione. E' avvenuto da altre parti come
+anche da noi, che in seguito all'introduzione del calcolatore molto
+spesso si sono aggravati proprio quegli inconvenienti che si
+volevano inizialmente eliminare.
+E' necessario riflettere sull'esperienza che c'è stata nella
+nostra Regione e scoprire quali sono stati i vincoli che hanno
+impedito uno sviluppo delle nostre capacità in questo settore.
+Intanto una prima verità è che esiste un basso livello di
+qualificazione ed una debolezza organizzativa dei quadri
+informatici in generale, con la conseguenza inevitabile di un
+predominio anche culturale delle Case costruttrici e delle società
+di consulenza.
+Senza voler parlare in questa sede dei comportamenti a volte
+spregiudicati da parte di queste Case costruttrici nei confronti
+degli Enti pubblici, resta il fatto che in generale non siamo
+riusciti ad avere una nostra politica autonoma nel campo
+dell'elaborazione dei dati, e questo ha portato - come lo definimmo
+una volta in questo Consiglio - un certo consumismo informatico che
+è del tutto ingiustificato e che alla fine diventa dannoso.
+Credo che partendo da questa considerazione debba essere fatta
+la scelta di un'inversione di tendenze che sia coraggiosa e che
+affronti, con un piano degno di tale nome, il problema della
+informatica nella nostra Regione.
+Non ci sembra che il piano in questione sia quello che oggi
+abbiamo di fronte e più in seguito entreremo nei particolari.
+Pur riconoscendo l'importanza del problema di una maggiore
+efficienza delle strutture pubbliche, si deve sottolineare che
+questo aspetto non si affronta solo ponendo l'accento sulle
+macchine, perché è un problema di uomini, allo stesso tempo
+politico e strutturale. E' necessario puntare sugli uomini e
+successivamente sulle macchine in modo che si crei quella che viene
+comunemente chiamata una cultura dell'informatica, insieme alla
+consapevolezza che questo è un problema grosso se lo vogliamo
+legare non solo al controllo di piccole gestioni, ma in sostanza al
+controllo dello sviluppo, delle scelte di programmazione
+nell'informazione della Regione e della società.
+Questi concetti li ripeto oggi dato che li avevamo già
+presentati in quest'aula nel 1979, quando approvammo la legge
+regionale n. 6, che è appunto intitolata "Servizio informativo
+regionale". Alcuni elementi di quella impostazione sono oggi più
+che mai validi; prima parlavo della crescita di una cultura
+dell'informatica, e l'art. 1 di quella legge recita che: "La
+Regione promuove la realizzazione di un sistema informativo
+regionale, nel perseguimento dei seguenti obiettivi:
+a) lo sviluppo della gestione di procedure automatizzate
+nell'ambito dell'organizzazione regionale e dei settori di
+interesse regionale;
+b) la costituzione e la gestione di archivi di dati di base a
+dimensione comunale, interessanti i livelli di governo, di
+programmazione e di Amministrazione regionale e sub-regionale;
+c) la diffusione di una coscienza dell'informazione, quale fonte
+di sviluppo sociale e tecnologico, nonché il miglioramento
+qualitativo della gestione della "Cosa Pubblica e Privata" mediante
+la realizzazione e la messa a disposizione degli operatori pubblici
+e privati di un sistema integrato di informazione e di dati di
+base".
+Questo era il principio della legge di allora, che poi si faceva
+carico dei problemi di democraticità e di partecipazione.
+L'art. 2 recita: "La Giunta regionale presenta al Consiglio
+regionale per l'approvazione entro un anno dall'entrata in vigore
+della presente legge, il piano di intervento regionale nel settore
+dell'informatica che dovrà prevedere la partecipazione degli Enti
+locali. Il piano sarà preventivamente sottoposto all'esame di un
+Comitato composto da cinque rappresentanti delle forze politiche
+elette in Consiglio in modo da consentire la rappresentanza di due
+forze politiche appartenenti alla minoranza e da due tecnici del
+settore designati dalla Giunta. In attuazione della decisione del
+Consiglio regionale spetta alla Giunta regionale adottare i
+programmi per lo studio e l'attuazione delle singole iniziative
+facenti parte del piano".
+Ho voluto ricordare questi due articoli e leggerli in modo
+integrale, perché stamani il Presidente della Giunta ha detto di
+trovarsi una volta tanto d'accordo con il Consigliere Mafrica sul
+fatto che bisogna pretendere che le leggi siano applicate; però a
+quanto mi sembra di capire, la Giunta pretende che ad applicarle
+sia solo lo Stato, mentre credo si sia addirittura dimenticata di
+questa legge e allegramente non applica le leggi che questo
+Consiglio ha deciso.
+Vorrei porre alcuni interrogativi: il piano che oggi viene
+presentato è il piano di cui all'art. 2 della legge n. 6/1979?
+Francamente speriamo di no, perché lì ben altro era il respiro del
+piano, in quanto giustamente si puntava al coinvolgimento degli
+Enti locali e si parlava di un sistema
+informativo regionale e non di un sistema informativo
+dell'Amministrazione regionale, come invece ci viene proposto col
+piano odierno, il quale più che un piano, è una serie molto scarna
+di indicazioni, molto pericolose sul piano dell'autonomia, perché
+ci legano ad un rapporto di dipendenza molto stretto e molto
+elevato. Dipendenza dalla consulenza dell'Italsider da un lato,
+dipendenza consistentissima - £. 700.000.000 in un anno - da non
+ben precisate Case software.
+E' perciò un piano questo che stravolge una legge regionale che
+non è stata applicata da questa maggioranza e ripeto cose già dette
+altre volte. Sarebbe invece più corretto modificare, cambiare,
+abrogare le leggi regionali piuttosto che lasciarle
+inapplicate.
+E' giusto ricordare che il Comitato di cui all'art. 2 della
+legge n. 6, prevedeva almeno la rappresentanza di due forze
+politiche appartenenti alla minoranza. La proposta di oggi prevede
+due Consiglieri regionali senza neanche la garanzia che uno di
+questi sia proposto dalla minoranza, perlomeno non sta scritto nel
+deliberato che oggi dovremmo votare.
+Sotto questo aspetto il
+piano è insufficiente e credo che sia corretto a questo punto dire
+cosa, secondo noi, dovrebbe essere fatto. Alcuni aspetti li ha
+accennati il Presidente della Giunta nella sua introduzione.
+Oggi siamo in presenza di un settore in cui è necessario avere
+personale molto qualificato e perciò ben pagato; abbiamo bisogno di
+avere delle strutture agili, che non siano dipendenti dalle Case
+costruttrici e siano perciò legate a Centri di Ricerca, ad
+Università, a Centri qualificati, che già lavorano per gli Enti
+locali. Come ottimo esempio cito il C.S.I. piemontese di cui
+parlerò in seguito in modo approfondito: è evidentemente una mia
+opinione personale. Questa struttura agile e molto qualificata
+secondo noi difficilmente è possibile crearla all'interno
+dell'attuale struttura regionale.
+Per cui deve essere studiata in modo più approfondito una
+proposta per un'azienda che abbia un collegamento con l'Ente
+pubblico, con possibilità di funzionamento autonomo. Questa è una
+garanzia. Strutture agili, imprenditoriali, esistono e sono in
+genere strutture che hanno una maggioranza pubblica; ed il
+collegamento con tali strutture è fondamentale anche per utilizzare
+programmi già pronti, studiati per gli Enti locali, gli Enti
+pubblici, quali i programmi già sperimentati per la Sanità, per la
+Programmazione regionale, per la raccolta dei dati, anche per la
+cartografia regionale computerizzata, per la pianificazione nel
+campo dei trasporti e via di questo passo. Si tratta di programmi
+realizzati da altri Enti pubblici.
+Queste, in sintesi, le osservazioni di fondo, rispetto alle
+quali aspettiamo una risposta da parte della Giunta.
+Sul piano di oggi devo dire che alcune cose sono abbastanza
+incomprensibili. Non si capisce ad esempio fino a quando ci sarà
+una dipendenza rispetto a questi sistemisti esterni, perché non si
+sono scelte invece strade quali corsi di qualificazione di
+personale interno. Comunque ci sembra che il numero di sistemisti
+proposto oggi sia sovradimensionato rispetto alla modestia dei
+progetti che vi sono indicati, e va anche detto che molti dei
+programmi - da questo punto di vista avremmo ascoltato volentieri
+una spiegazione più esauriente da parte della Giunta - che sono lì
+contenuti, sono in sostanza degli impegni a definire, a studiare,
+per i quali si è indicato l'inizio, ma mai la fine, né il tempo
+entro il quale saranno realizzati.
+Queste le osservazioni di principio che facciamo sulla proposta
+che ci viene presentata e che non ci convince molto.
+PRESIDENTE
+:
+Ha chiesto di parlare il Vice
+Presidente Faval, ne ha facoltà.
+FAVAL
+- (U.V.):
+Il problema dell'informatica è un
+problema importante ed in quanto tale è anche estremamente delicato
+da affrontare.
+Alcune delle affermazioni fatte dal Consigliere Tonino sono
+giuste, salvo che dal nostro punto di vista sarebbe più opportuno
+riferirle a quella che è la realtà nella quale siamo costretti ad
+agire rispetto all'attuazione del programma qui presentato, che in
+questo momento non può che rappresentare una ricerca di salto di
+qualità verso il futuro. Va tenuto conto che l'informatica è una
+scienza del tutto nuova, della quale in pochi - e fra questi
+includo oltre al sottoscritto anche immodestamente gli altri
+Consiglieri regionali ed operatori del settore pubblico e non solo
+di quello - non siamo sufficientemente informati per conoscere
+esattamente quale è il tipo di scelta che dobbiamo fare.
+Ho qui sottomano un articolo de "Il Mondo" del 5.2.1962
+riguardante il paese che in fondo ha inventato l'informatica, gli
+Stati Uniti, dove si sta svolgendo una guerra per quanto riguarda
+il monopolio del sistema informatico.
+Il titolo è: "Sfida all'ultimo computer", e vi si dice:
+"Dopo le decisioni della Commissione Anti-trust, la I.T.T. e la
+I.B.M. si preparano ad affrontarsi per conquistare il mercato
+mondiale della telematica, e le nazioni che non si adegueranno ai
+nuovi prodotti ...".
+Questo significa che il sistema dell'informatica è in effetti il
+nuovo strumento attraverso il quale si ritiene da qualche parte e
+forse giustamente di esercitare e di controllare il potere.
+Noi dobbiamo cercare da una parte di riflettere sull'opportunità
+e la capacità nostra di valutare nei modi migliori quali sono gli
+strumenti dei quali dobbiamo dotarci per ottenere il funzionamento
+più opportuno della macchina regionale e dall'altra, di non
+limitare l'impiego dell'informatica unicamente al funzionamento
+della macchina regionale, che sarebbe priva di senso proprio perché
+questa è una scienza in evoluzione, conoscendo per quel poco che
+possiamo conoscere, quel che succede all'estero, vicino e lontano
+da noi.
+Per cui dovremmo riuscire a concepire un sistema informatico che
+vada al di là della macchina regionale e che riesca a soddisfare le
+nostre esigenze compenetrandole con altre, anche più ampie. Questo
+perché la dimensione dello strumento, cioè della macchina, è
+limitativa, rispetto agli interventi che possiamo richiedere. Siete
+d'accordo?
+Quindi se è nostra intenzione avere a disposizione degli
+strumenti che veramente soddisfino le esigenze da una parte della
+macchina regionale, dall'altra del sistema economico-sociale
+regionale, dobbiamo andare al di là del limite ristretto che è la
+macchina dell'Amministrazione regionale, e puntare invece su
+qualcosa di diverso. In questo senso credo che la proposta che
+abbiamo in esame oggi sia sufficientemente valida, in quanto
+costituisce dal punto di vista dell'Amministratore pubblico, uno
+dei passi da compiere per arrivare a trasformare l'attuale
+situazione regionale di incompletezza e incompiutezza in cui si
+trova la macchina regionale.
+E' stato detto molto giustamente che dipendiamo dai sistemisti
+esterni ed in questo caso specifico, da una consulenza esterna. E'
+vero, però pongo un problema: in quale modo noi, Regione Autonoma
+della Valle d'Aosta, potremmo con la nostra conoscenza attuale di
+questi strumenti, dotarci di personale in grado di scegliere fra le
+offerte di mercato quella che dovremmo ritenere la migliore, vista
+la dimensione dell'operatività regionale nel settore?
+E' vero quello che si dice, che noi dipendiamo; ma siamo forse
+in grado, vista la dimensione - lo ripeto - dell'operatività
+regionale, di dotarci di operatori, di funzionari, capaci di darci
+la risposta correttamente e coerentemente alle scelte politiche e
+regionali?
+Credo di poter dire di no, intanto perché gli stipendi che
+l'Amministrazione regionale può offrire oggi a livello di dirigenza
+non sono tali da consentirle di dotarsi in questo settore di
+personale tale da darci tutte le garanzie.
+Ho svolto una brevissima indagine nei settori dell'informatica,
+e quando a quelli che vi lavorano e che attraverso concorsi
+potrebbero venire anche da noi, ho detto che un nostro dirigente
+A-2 ha lo stipendio X, ho provocato la loro ilarità, per l'esiguità
+dello stesso. Per cui onestamente anche l'opposizione deve tener
+conto di questa situazione.
+Questa proposta va quindi nella direzione di fare in questo
+momento un salto di qualità e prospettare per il futuro delle
+soluzioni diverse. La soluzione diversa quale è?
+La soluzione diversa è quella di avere un Centro regionale al
+quale possano accedere tutte le componenti della Comunità locale, e
+cioè la Regione, il Comune, i Consorzi di Comuni, l'Associazione
+industriali, gli Artigiani, ecc., ma questo comporta di dare una
+dimensione del Centro Elaborazione Dati molto diversa rispetto a
+quella della quale potrebbe dotarsi la Regione in base alle sue
+esigenze.
+Quindi è avere una società che deve essere al di fuori
+dell'Amministrazione regionale, che ha a disposizione delle
+macchine, delle strumentazioni, dei tecnici, ai quali noi affidiamo
+dei compiti e che verrà pagata in funzione del lavoro svolto.
+E' notorio che vari contribuenti di Torino e di altre città
+d'Italia in questi giorni hanno ricevuto delle cartelle esattoriali
+del tutto sballate. Ci è stato detto, almeno dai giornali, RAI, TV,
+che di questo è responsabile la società privata di informatica,
+alla quale era stato affidato il compito di elaborare le cartelle
+esattoriali.
+A questo punto pongo le domande anche e soprattutto
+all'opposizione, che ha affrontato la questione in termini seri: se
+a livello di Stato non siamo in grado di avere un'attività seria e
+valida in questo settore, come si può pretendere che la Regione
+nella limitatezza della sua azione, possa ottenere di più? Tenendo
+conto anche del fatto che queste società che costruiscono computer
+a livello addirittura di quelli statunitensi, riescono a
+condizionare le scelte, ed in questo articolo che vi ho letto, si
+parla poi del fatto che per aver scelto alla N.A.S.A. alcuni
+fornitori piuttosto che altri, si è scombussolato il mercato.
+Allora stiamo attenti; rispetto alla legge del 1979 si possono
+fare delle osservazioni, ma teniamo anche conto che questo è un
+settore in continua evoluzione, molto difficile ed è un settore nel
+quale nessuno di noi - scusate la presunzione - è in grado di dire
+se valga di più l'I.B.M., la I.T.T. o la Honeywell. E' vero che c'è
+la terribile dipendenza che noi come Amministratori pubblici
+abbiamo rispetto a ciò che ci viene "venduto" come funzione da
+parte di coloro che hanno degli strumenti da metterci a
+disposizione.
+Questo è veramente il Mercante in Fiera e noi non siamo in grado
+di valutare.
+Il problema direi è di due ordini; il primo è quello di riuscire
+a pensare a qualcosa che vada al di là della dimensione regionale e
+che serva a tutte le componenti sociali.
+Per ottenere questo dobbiamo riuscire a creare una società che
+disponga di tecnici di cui possiamo fidarci e sulla base della loro
+valutazione possiamo fare delle scelte di carattere tecnico, che
+noi onestamente non siamo in grado di fare. Se siamo d'accordo di
+impostare il discorso in questa direzione possiamo accettare la
+proposta che ci viene fatta, proprio perché rappresenta, almeno per
+il momento, una scelta di qualità diversa rispetto alla situazione
+attuale, per una prospettiva che è quella che ho indicato, con
+degli impegni che sono quelli che ho sottolineato. Credo che questo
+alla Giunta lo possiamo chiedere: un impegno per una prospettiva
+diversa attuabile non solo con gli strumenti tecnici, ma anche con
+mezzi umani, diversi da quelli disponibili al momento.
+Di conseguenza sono d'accordo quando si afferma che il
+problema informatico è di natura politica e culturale. E'
+una scelta culturale e politica diversa rispetto a quella che
+abbiamo fatto finora, però onestamente si deve anche riconoscere
+che abbiamo pochissimi strumenti intellettuali, conoscitivi,
+pratici, per fare queste scelte. Cerchiamo allora di dotarci di
+questi strumenti per avere a disposizione - qui sintetizzo forse in
+modo banale - un Centro elaborazione dati a livello regionale, che
+consenta a noi di avere una macchina che funzioni nel modo migliore
+possibile.
+PRESIDENTE
+:
+Ha chiesto di parlare il Consigliere
+Minuzzo, ne ha facoltà.
+MINUZZO
+- (P.S.D.I.):
+Mi rendo conto che, volendo
+avere un Centro elaborazione dati in grado di funzionare senza
+troppi problemi, la soluzione migliore sarebbe quella di costituire
+una Società per Azioni alla quale in qualche modo partecipasse la
+Regione, e di coinvolgere in questo discorso le 1500 Associazioni
+esistenti sul territorio della Valle d'Aosta con tutti i loro
+problemi di contabilità, di registrazione, elenchi associati, ecc.
+vedi Maestri di sci, Guide Alpine, Associazioni artigiane,
+Cacciatori Comitato Caccia, e via di seguito. Quindi una soluzione
+ottimale del problema sarebbe poi solo, esclusivamente questa.
+Ma poiché mi sembra che è intenzione di questa Giunta non tanto
+realizzare questo possibile progetto, quanto dotarsi autonomamente
+di un Centro di elaborazione dati, ritengo di dover fare alcune
+considerazioni su questo piano operativo che c'è stato
+presentato.
+E' molto difficile entrare nei dettagli, perché si tratta di un
+piano di massima, indicato così a grandi linee, per cui
+bisognerebbe vedere settore per settore cosa effettivamente si
+vuole fare.
+Non so poi se questo compito viene affidato al Comitato di
+pianificazione, che è elencato nella prima pagina dell'allegato
+all'ordine del giorno. Partendo da questo Comitato ritengo che i
+due Consiglieri regionali, come diceva anche il Consigliere Tonino,
+non siano sufficienti a garantire una gestione democratica di
+questo Centro.
+Avendo avuto un incontro con il consulente della Regione che
+opera all'Italsider, non siamo riusciti a capire bene i motivi per
+i quali al momento si soprassiede, in un certo qual modo, alla
+realizzazione del sistema informativo sanitario, per cui, ci è
+stato detto, si vuol fare un discorso a parte. Visto che
+l'Ingegnere non è stato in grado di fornirci delle risposte, perché
+come consulente fa quello che gli chiede la Regione, e non può
+discostarsi più di tanto dalle direttive dell'Amministrazione,
+vorrei conoscere i motivi per i quali non si intende far rientrare
+in questo Centro anche il sistema informativo sanitario.
+Venendo poi alla possibilità di funzionamento del Centro,
+giudichiamo che nell'organigramma previsto a pag. 10 punto 5, ove
+si dice "Funzioni e responsabilità delle componenti operanti nel
+piano e struttura organizzativa", manchi un personaggio, perché dal
+momento che ci si avvale di una consulenza esterna per certe
+operazioni e poi l'elaborazione dei dati viene fatta dai dipendenti
+regionali, è allora indispensabile che questi due gruppi operativi
+abbiano o la supervisione o il collegamento di un responsabile, sia
+esso funzionario della Regione o quel che vogliamo, che sovrintenda
+ai lavori di queste due équipes di operatori. Diversamente sarebbe
+facile giocare allo scarica barili, perché i dipendenti della
+Regione potrebbero dire che sono i programmi che non funzionano
+bene e i programmisti dare la colpa ai dipendenti della Regione che
+non sono capaci di introdurre nel Centro questi programmi.
+Come ultima domanda vorrei chiedere all'Assessore alle Finanze
+Ramera come sono saltati fuori i 700.000.000 per i quattro
+sistemisti. A pag. 2 in due anni logicamente sono previste Lire
+400.000.000 per l'82 e Lire 300.000.000 per l'83, ed in prima
+pagina al punto 3 c'è scritto di autorizzare un contratto di
+consulenza a termine, anni 2, per un massimo di quattro
+sistemisti.
+Se arriviamo ad un massimo vuol dire che potrebbero anche essere
+meno, non so se questi analisti devono lavorare 365 giorni
+all'anno, tutti e quattro.
+E' chiaro che Lire 700.000.000 ci sembra una cifra eccessiva
+benché ripartita in due anni. Questa sarebbe stata una domanda che
+avrei potuto evitare di fare in questa sede e che potevo andare a
+verificare dall'Assessore prima dell'adunanza consiliare; visto che
+non ho avuto tempo prima, le chiedo se è possibile sapere come si è
+arrivati a determinare questo importo.
+PRESIDENTE
+: Ha chiesto di parlare il Consigliere
+Carlassare, ne ha facoltà.
+CARLASSARE
+- (Democrazia Proletaria - Nuova
+Sinistra)
+: Io ci capisco, per quanto riguarda l'informatica,
+ancor meno di quanto ha affermato con giusta modestia il
+Consigliere Faval, e penso che qui, come anche fuori di questa
+sala, le persone in grado di dare dei giudizi sulla funzionalità
+dei programmi e dei sistemi, siano effettivamente molto poche.
+Vorrei fare un minimo di riflessione su un concetto generale che
+deve guidare qualsiasi sistema informatico che viene impiantato.
+Ripensando al passato storico dell'umanità, si può affermare che
+l'elemento fondamentale della gestione del potere è la conoscenza e
+che uno degli elementi fondamentali di democrazia è quello di dare
+la possibilità di conoscere al maggior numero di persone.
+Ora, con l'evolversi dell'informatica, si viene a creare una
+condizione per cui la conoscenza diventa elemento a disposizione di
+sempre meno persone. Quindi qualsiasi situazione politica che
+voglia garantire condizioni di democrazia reale dovrà tener conto
+che un sistema di informatica è destinato a fare da elemento
+coordinatore, catalizzatore delle funzioni pubbliche, come in
+questo caso, e nel caso di un sistema ancor più ampio, come
+propugnato, di un Centro di informatica cui far confluire
+praticamente tutte le attività pubbliche e private operanti nella
+Regione, diventerà ancora di più un nucleo fondamentale, per cui è
+possibile alle persone che sono in grado di elaborare questi dati,
+di fare delle scelte con argomentazioni che altri non possono
+controbattere perché non hanno gli elementi di conoscenza.
+Non sono in grado di dire se questo modo di agire sia il
+migliore o il peggiore, se sarebbe più opportuno passare
+immediatamente alla fase successiva o se sia già troppo avanzato
+questo sistema per la realtà della Valle d'Aosta, però mi sento di
+dare un giudizio su un elemento fondamentale di questo progetto ed
+è la composizione del Comitato di pianificazione che dovrebbe
+essere la struttura che politicamente controlla il sistema. Così
+com'è formulato questo Comitato di pianificazione è poco
+democratico in quanto i suoi componenti sono poco rappresentativi
+della minoranza - qui non si parla assolutamente della minoranza
+del Consiglio regionale - e non tengono conto di tutta una serie di
+realtà sociali che sarebbe invece opportuno inserire da subito in
+questo Comitato che dovrebbe gestire tutto il sistema.
+Se non vi inseriamo fin d'ora gli elementi come quelli che ho
+detti, creiamo una struttura di potere che non sarà contestabile
+neanche da chi è fuori, che dovrà prendere i dati che gli vengon
+forniti punto e basta. Per questo motivo ritengo che questo piano
+operativo così com'è stato presentato sia da bocciare e quantomeno
+da riformulare per quanto riguarda l'aspetto del Comitato, che
+dovrebbe poi essere la struttura politica portante di tutto il
+sistema.
+PRESIDENTE
+:
+Ha chiesto di parlare il Consigliere
+Mafrica, ne ha facoltà.
+MAFRICA
+- (P.C.I.):
+Il Consigliere Tonino ha fatto
+un discorso di carattere generale, io entrerò più nel merito del
+piano stesso.
+Il Consigliere Tonino diceva che uno dei rischi presenti in
+questo momento è quello del consumismo informatico, ma credo che la
+nostra Regione questo rischio lo abbia abbondantemente corso,
+perché fino ad oggi ogni Assessorato si è dotato di un proprio
+strumento di elaborazione e non sempre con risultati positivi.
+L'Assessorato alla Pubblica Istruzione prepara gli stipendi
+degli insegnanti ad una Olivetti A-7/95, l'Assessorato
+all'Agricoltura e Foreste ha un suo elaboratore analogo, quello
+dell'Industria e Commercio aveva comperato per £. 150.000.000 una
+Olivetti A-7/85 con cinque terminali e questa struttura è stata
+dismessa: all'Assessorato alle Finanze si sono cambiati in pochi
+anni tre calcolatori ed attualmente si ha il "livello 62". Ancora
+un calcolatore - un digital - esiste al Laboratorio di Igiene e
+Profilassi.
+Nella presentazione al piano abbiamo ascoltato dal Presidente
+della Giunta che si vuole cambiare direzione andando a
+un'organizzazione generale in questo campo, ma è da credere che le
+proposte non corrispondano alle intenzioni. Viene presentato come
+un sistema informativo regionale quello che è - lo diceva prima il
+Consigliere Tonino - un ammodernamento, un tentativo di
+razionalizzare il sistema oggi esistente. Ho chiesto la volta
+scorsa al Presidente della Giunta di farmi avere il piano generale
+preparato dai Consulenti dell'Italsider, piano che era ricordato in
+delibera, e devo dire che leggendolo ho avuto la netta impressione
+che si trattasse non di un piano ma di un censimento delle esigenze
+dei diversi Assessorati, di cui in parte eravamo già a
+conoscenza.
+Per esempio la proposta dell'Anagrafe regionale era stata fatta
+dall'Ufficio statistica già parecchi mesi fa, la richiesta per
+avere un sistema per gestire il taglio dei boschi era stata fatta
+dal servizio forestale in molte occasioni.
+Vengono ripresentate nel piano generale delle richieste
+esistenti da tempo nell'Amministrazione; ma quello che non ci
+convince e per cui diciamo che è difficile discutere, anche perché
+non abbiamo materia su cui discutere, è questo piano presentato con
+premesse di 50 righe come piano operativo per lo sviluppo dei
+sistemi di automazione della Regione Valle d'Aosta.
+Innanzitutto lo riteniamo molto vago, perché secondo noi un
+piano dovrebbe prevedere le diverse fasi, il personale impiegato,
+gli strumenti da adottare dall'inizio alla fine. Qui si parla di
+sistema informativo regionale e si citano tre esempi, si parla al
+primo punto di anagrafe regionale, che in questo piano è un oggetto
+sconosciuto, non si sa in che cosa consiste. Non penso sia una
+ripetizione dell'anagrafe dei Comuni, in quanto dovrebbe essere
+qualcosa di diverso, ma per la anagrafe regionale si dice che il
+progetto potrà essere realizzato senza dare nessuna altra
+indicazione ed il tempo di realizzazione sarà da valutare al
+termine della fase di progettazione. Quindi come dicevo prima, non
+si sa in cosa consiste, né quando potrà entrare in fase di
+realizzazione.
+C'è poi al secondo punto la gestione del patrimonio mobiliare,
+dove si dice che i tempi di realizzazione sono da valutare al
+termine della fase di progettazione.
+Si passa poi alla procedura stipendi, e gradirei che qualcuno me
+la spiegasse perché non l'ho proprio capita. Si dice: "Chiediamo al
+Prof. Chiaberto di insegnare al restante personale ad usare il
+livello 62; perché poi lo dobbiamo disinstallare". Mi sembra allora
+una perdita di tempo quella di insegnare al personale ad usare
+l'attuale elaboratore, quando si ha già in mente di sostituirlo con
+un altro.
+Si parla poi delle procedure attualmente in esercizio: "La stima
+dei tempi e del carico di lavoro" - dice il piano - "sarà possibile
+solo quando sarà stato deciso il nuovo calcolatore".
+Un piano che vuol permettere di dare delle valutazioni, dovrebbe
+recare qualche indicazione in questo senso, altrimenti come si fa a
+dare un giudizio?
+Il progetto buoni benzina dice: "Il progetto buoni benzina non è
+stato incluso nel primo gruppo di progetti non perché sia un
+progetto minore, ma in quanto non risulterebbe conveniente iniziare
+molti lavori contemporaneamente".
+Sistema di gestione della Camera di Commercio: qui c'è l'unica
+proposta precisa, cioè "non occupiamocene perché lo vogliamo dare
+in appalto al Cerved (che è un consorzio che attualmente gestisce
+già tutti i servizi per l'80% delle Camere di Commercio)", quindi
+questo problema viene risolto così, ma nei costi non è detto quale
+sarà il costo di questo servizio.
+Quindi il primo calcolatore resta materia sconosciuta per quel
+che riguarda cosa dovrebbe fare, con quante persone funzionerà,
+quando sarà a posto. Per il secondo calcolatore (il sistema
+informatico sanitario) il buio è assoluto, perché si dice:
+"Riteniamo che data l'ampiezza e complessità del sistema, prima di
+pervenire alla definizione dell'architettura fisica, riteniamo che,
+date tutte queste questioni, si debba procedere ad uno studio
+dettagliato delle funzioni da realizzare. Si dice che "i tempi sono
+da precisare" e che la consistenza e la composizione del gruppo di
+realizzazione saranno definite una volta terminata la fase di
+progettazione". E' un rimando continuo a studi che dovranno essere
+fatti in futuro, i tempi di valutazione saranno valutati alla fine
+di tale fase. Dopo otto mesi di consulenza ci viene presentato un
+piano così detto operativo che di operativo non ha niente. Persone
+che lavorano in questo settore mi hanno detto che è norma
+consegnare il lavoro quando il tutto è già a regime e si è sicuri
+che funzioni., precisando il numero degli addetti ed il costo, e
+per entrare nel merito della questione; quello sì che è un piano -
+non questo.
+E' difficile anche dire che non si è d'accordo perché in effetti
+in questo piano ci sono solo degli impegni generici per il futuro,
+e l'impostazione stessa a nostro giudizio è anomala.
+La Giunta si è rivolta all'Italsider per la consulenza, e vorrei
+sapere in cosa consiste l'esperienza particolare dell'Italsider,
+che notoriamente produce acciai. Ho parlato anche con il capo dei
+consulenti, ing. Belgrano, e so che dispone di un Centro
+perfezionato con 260 operatori. Non lo escludo, anzi sono convinto
+che l'Italsider avrà il suo centro perfezionatissimo, ma mi chiedo
+se dovevamo rivolgerci a chi si occupa di questi problemi per
+risolvere questioni relative agli Enti pubblici, o a chi usa
+calcolatori per produrre acciaio e per venderlo sul mercato?
+Che esperienza può avere rispetto ai problemi di un Ente come la
+Regione o di una materia come la Sanità, un gruppo di studio che si
+occupa di acciaio? Mi chiedo anche come mai l'Italsider abbia un
+gruppo di operatori così elevato, ma al tempo stesso si possa
+permettere di "affittarlo" alla Regione Valle d'Aosta. Il mio
+dubbio è che dispongano di tanti operatori, che in alcuni periodi
+non sanno come utilizzare o che ne abbiano troppi addirittura nei
+periodi più intensi. Questa è una mia opinione personale, comunque
+non riesco a capire: è come se uno che ha bisogno di una visita
+clinica, si rivolgesse al farmacista, perché questi conosce le
+medicine. Se ci volevamo rivolgere ad un Ente che si occupa di
+questi problemi, perché non rivolgerci all'Italsiel, che sta
+elaborando i dati dei Centri di Elaborazione per tutti i Ministeri
+e che almeno è specializzato nel risolvere i problemi concernenti
+gli Enti Pubblici? C'è poi da chiedersi cosa è stato prodotto di
+nuovo rispetto a proposte che in sostanza già c'erano.
+Diceva prima il Consigliere Tonino che gli obiettivi tutto
+sommato sono abbastanza modesti ed io concordo con questa
+interpretazione, perché si è lasciato da parte il discorso sul
+sistema informativo regionale vero e proprio, cioè sul sistema
+informativo che interessasse non solo alcuni servizi della Regione,
+ma anche quelli dei Comuni, delle Comunità Montane, eventualmente
+dei privati, mentre vengono poi proposti dei servizi, che la
+Regione finora, magari in modo disordinato, e non sempre
+funzionale, già faceva. Abbiamo la sicurezza con un progetto di
+questo tipo di essere sulla strada giusta? Cominciamo a vedere i
+costi, poi il Presidente della Giunta farà le sue osservazioni.
+A me sembra che, come è nostra regolare abitudine, si spenda una
+barca di soldi, a scatola chiusa, senza sapere esattamente per che
+cosa li spendiamo. Mi spiace ripetere cose che hanno già detto
+anche altri Consiglieri, ma in questo piano si prevede di spendere
+circa un miliardo e mezzo nel 1983, comprendente i 300.000.000 di
+lire per il nuovo calcolatore per la Sanità che non si sa se
+servirà o meno, perché è ancora da valutare; 300.000.000 di lire
+per il calcolatore per il sistema regionale; lire 300.000.000 per
+gli analisti esterni; si dice che non sono stati conteggiati gli
+operatori esterni per la sanità, lire 100.000.000 l'uno, e sono
+altri 200.000.000: in tutto siamo già a un miliardo e 100 milioni.
+Non si contano le 14 persone che già attualmente sono in servizio e
+con queste ci avviciniamo al miliardo e mezzo, per fare cosa, per
+operare come, è del tutto sconosciuto.
+Secondo valutazioni - che possono essere opinabili - date da
+gente che lavora in questo campo, con i cento milioni l'anno
+destinati ad un operatore esterno si paga non un sistemista, ma un
+supersistemista, perché il costo per chi lo impiega è sui 5.000.000
+milioni di lire al mese mediamente, per uno già particolarmente
+esperto si arriva a lire 70-80.000.000. Noi largheggiamo come
+sempre, arriviamo a lire 100.000.000 per l'analista esterno. Anche
+su questo costo ci sarebbe da riflettere.
+In queste previsioni, dicevo, manca quanto già si dovrebbe aver
+previsto per pagare i servizi al Cerved; la conclusione di questa
+analisi è che ci è stato presentato come piano operativo quello che
+non è altro che un rinvio ad ulteriori studi e definizioni dopo
+otto mesi lavoro, senza che il Consiglio sia messo in grado di
+decidere. Occorre che la Giunta torni qui con un progetto più
+preciso, magari dopo averci consultati; su questa proposta è molto
+difficile dare un giudizio ed equivale a consegnarci nelle mani di
+questa consulenza - e concordo con quanti hanno sottolineato che
+verrebbe messa in pericolo da questo punto di vista l'autonomia
+regionale - e a sperare che poi la Giunta sia in grado, una volta
+che gli si è delegato tutto, di fare quel che va fatto, cosa che
+secondo noi raramente succede. In sostanza, non è la nostra
+un'opposizione di principio, anzi siamo favorevoli allo sviluppo di
+un sistema di informazione, ci sembra però che qui non si sappia
+esattamente dove si vuole andare e cosa si vuol fare.
+Torno a sottolineare anche che a nostro avviso il mancato
+rispetto della legge regionale per la programmazione, il fatto che
+si voglia limitare il numero dei Consiglieri di minoranza
+all'interno del Comitato rendono necessario sotto questo aspetto
+una revisione della proposta che oggi ci viene fatta.
+PRESIDENTE
+:
+E' chiusa la discussione generale.
+Ha chiesto di parlare l'Assessore alle Finanze Ramera, ne ha
+facoltà.
+RAMERA
+- (D.C.):
+Confesso che in tutta modestia
+non avrei voluto prendere la parola su un problema così complesso e
+difficile.
+Se tutti fossimo in grado di comprendere l'informatica sul
+serio, saremmo un super popolo ed entreremmo in competizione - come
+diceva il Consigliere Faval - in questa sfida mondiale, della quale
+per caso vi accennavo lo scorso anno in sede di bilancio,
+invitandovi a leggere il famoso libro "Le destin mondial" di
+Schreiber, dove con più colorazione veniva spiegato questo problema
+piuttosto complesso, magari soddisfacendo meglio le esigenze del
+lettore. Naturalmente qui si viene a dire che una paginetta, o
+anche poi lo stesso piano operativo consegnatoci dallo staff
+dell'Italsider non dice gran che; ho preso degli appunti e confesso
+che non avrei voluto parlare perché, come dico, non ne capisco
+molto e giuro che non riesco a capire come molti invece lo hanno
+fatto bene, quasi che in questo Consiglio ci sia già qualcuno a cui
+potremmo affidare la consulenza del nostro Centro Elaborazione
+Dati, mentre noi saremmo poi quei servi della gleba che dovrebbero
+dipendere da questi luminari. Ho cercato di seguire per quello che
+era possibile, e posso informarvi dato che è stato posto
+l'interrogativo, di come mai siamo arrivati all'Italsider.
+Sono arrivato all'Assessorato dopo l'esperienza del Turismo, con
+questo Centro che funzionava e non funzionava; per caso una sera
+per una fortunata coincidenza incontrai in un caffè di Aosta l'Ing.
+Belgrano, Direttore del Centro Elaborazione Dati dell'Italsider con
+150 ingegneri alle sue dipendenze e professore di Informatica
+all'Università di Genova. Dopo una chiacchierata lunghissima
+sull'Italsider, venimmo a parlare delle difficoltà del nostro
+Centro meccanografico e seppi così che lui si trovava a St. Vincent
+per il Convegno dell'Informatica. L'Ing. Belgrano venne di sera a
+visitare il nostro Centro meccanografico per conoscere le nostre
+difficoltà e per vedere cosa non funzionava della stessa macchina e
+il giorno dopo in occasione del Convegno a Saint Vincent mise
+subito in azione coloro che ci fornivano i servizi, per cui il
+lunedì mattina qui c'era già uno staff dell'Honeywell a mettere a
+punto tutto.
+Nessuno di noi, per quel che ne sappiamo, sarebbe stato in grado
+di contestare alla casa se eventuali deficienze fossero della
+macchina o degli uomini. Tant'è vero che nel corso di questa
+consulenza durata 8 mesi - sembra quasi che questo tempo sia stato
+usato per fare questo studio - noi abbiamo dovuto ricorrere a loro
+più volte proprio per contrasti che avvenivano fra gli uomini e la
+macchina e abbiamo rinviato note di addebito che ci erano state
+indirizzate, perché avendo dei consulenti di questo livello,
+potevamo affermare: la colpa è della macchina e non degli uomini,
+quindi non vi paghiamo per difetti che stanno nella macchina.
+Questo per chiarire perché si è scelta l'Italsider o questo
+staff, d'altra parte loro ci hanno detto che una macchina oggi vale
+l'altra perché siamo arrivati a livelli molto sofisticati.
+Nel suo intervento il Consigliere Tonino ha letto i due articoli
+della legge 1979: mi stanno bene, non credo che li abbiamo
+cambiati, né ne abbiamo l'intenzione. Onestamente vi diciamo che è
+un campo piuttosto delicato, il nostro Centro ancora oggi si muove
+in difficoltà enormi, che il Consigliere Faval ha dette.
+Come possiamo pretendere di avere valdostani specializzati in
+materia per garantire l'autonomia, l'indipendenza, la
+democraticità, l'accesso alla cultura con £. 700.000 di
+stipendio?
+Il Consigliere Tonino mi scuserà se svelo un affare da quattro
+soldi, ma lui aveva conosciuto un analista valdostano che lavora
+alla Fiat e che avrebbe voluto rientrare in Valle. Saputi gli,
+stipendi non se n'è fatto più nulla. Questo aspetto del problema
+andrà certamente esaminato, ma questo è un piano che ha la durata
+di due anni e stranamente solo il Consigliere Minuzzo lo ha
+sottolineato. Qualcuno non lo ha neppure letto.
+In questo frattempo si cercherà di preparare uno staff di
+personale, per poi arrivare a quei tipi di società mista che però
+oggi sarebbero impossibili perché la Regione non può fare società
+con privati; è un caso se lo ha potuto fare nelle Funivie, ma siamo
+già stati più volte avvisati che stiamo violando la legge.
+Il Consigliere Minuzzo che era in viaggio con me a Roma, mi
+parlava di un particolare strumento di cui lui vuol dotare la sua
+Associazione, così come alcuni Sindaci mi hanno detto di voler
+cadere nell'errore nostro, di consumismo dell'informatica; di
+conseguenza noi vogliamo che lo strumento che andiamo a creare
+nell'ambito dell'Amministrazione regionale oggi, possa restare in
+futuro anche con una società, al servizio di tutta la Comunità
+valdostana. Proprio ieri parlavo con il Presidente della Giunta di
+fare addirittura una circolare ai Sindaci perché non cadano nel
+nostro errore e non cedano alle insistenze dei venditori di grandi
+società mondiali che stanno a premere sugli amministratori, perché
+sappiamo di Comuni che hanno preso questi strumenti e si trovano
+piuttosto a mal partito. Pertanto noi suggeriamo di affittarli, se
+proprio lo vogliono, oppure di aspettare che la nostra macchina sia
+pronta ed allora sarà messa a disposizione dei Comuni, delle
+Comunità Montane, poco per volta.
+Per finire vorrei rispondere alla domanda fatta dal Consigliere
+Minuzzo ed anche ad una battuta fatta dal Consigliere Mafrica.
+Gli analisti costano £. 400.000.000 nell'82, £. 300.000.000
+nell'83. Tanto per cominciare stiamo discutendo a metà febbraio,
+quando tornerà indietro saremo già a marzo, per cui il piano viene
+compresso comprendendo lo spazio di tempo e viene compressa anche
+la spesa. Se poi i sistemisti invece di quattro diventeranno tre,
+diminuirà altrettanto la spesa. So che un analista inviato ad
+esempio da una società specializzata, costa £. 480.000 al giorno
+tutto compreso; a noi con l'accordo che abbiamo fatto con lo staff
+dell'Italsider, ci viene a costare £. 350.000 al giorno.
+Costi poco, costi troppo, non lo so, ma qui con troppa
+faciloneria si viene a dire perché non abbiamo preso un altro
+staff, che non si occupi di acciai. Non voglio insistere ripetendo
+quello che già ha detto il Consigliere Faval sulle cartelle
+esattoriali, o raccontandovi di quella signora di Milano, diventata
+improvvisamente miliardaria per un errore del calcolatore. Né
+voglio polemizzare con altre società specializzate che
+sapranno fare il loro dovere, non so se un'altra società che
+innanzitutto non avremmo conosciuto, ci avrebbe fornito la stessa
+assistenza dell'Italsider, che da un anno è al nostro fianco in
+qualsiasi momento, ad ogni intoppo del nostro Centro, ed è stata a
+nostra disposizione non solo operativamente, ma ci è servita anche
+per contestare alla Casa fornitrice del calcolatore quanto essa ci
+addebitava ingiustamente.
+Quanto al Consigliere Carlassare, la sa lunga quanto me
+sull'informatica - forse io ho visto qualche difetto in più ma non
+ne capisco molto di più - dice che gli sta bene, ma che è
+da
+bocciare per il Comitato. Ma il Comitato credo sia una cosa
+facilmente risolvibile, e se tutto il problema è lì, lo lascio
+risolvere a voi, mi tolgo subito io perché non credo che a far
+parte di questo Comitato si abbia del potere in più.
+Il Comitato serve solo per il controllo, a me interessa
+soprattutto che il Centro meccanografico serva non solo al mio
+Assessorato, ma anche agli altri che ne hanno bisogno e cerchi di
+portare avanti quel piano operativo di programma dei prossimi anni
+che coinvolga tutti, Comuni e Comunità Montane e anche altri Enti
+di particolare importanza.
+Credo di aver detto tutto, di non aver contestato niente perché
+non ne sarei in grado dal punto di vista tecnico, per cui ritengo
+che la proposta possa essere approvata; naturalmente siamo
+disponibili se c'è qualche suggerimento da portare come
+variante.
+ROLLANDIN
+- Assessore alla Sanità ed Assistenza
+Sociale - (U.V.)
+: Si è citato marginalmente il problema del
+sistema sanitario e dell'informatica di questo sistema. In un
+volumetto che penso sia di facile consultazione in una delle parti
+si cita: "Storicamente si può dire che la prima iniziativa di
+ricerca su questo tema, che avrebbe anche potuto essere di
+pianificazione se le vicende italiane fossero andate diversamente,
+fu proprio la ricerca del sistema informativo delle U.S.L.
+commissionata all'I.S.P.E. dall'Istituto di Biometria
+dell'Università di Milano nel 1971. Se l'I.S.P.E avesse potuto
+svolgere il suo ruolo di soggetto tecnico della programmazione
+sociale, quella ricerca avrebbe potuto servire da impostazione
+metodologica per la definizione di alcuni indirizzi su scala
+nazionale e locale. Le ragioni per cui questo non è avvenuto sono
+nella politica generale e specifica legate al fatto che
+probabilmente l'imposta contenuta nella ricerca, oggi condivisa da
+moltissimi, risultava allora assolutamente eretica.
+L'altra iniziativa è quella della S.A.G.O., dove erano
+rappresentate tutte le più grosse ditte, la S.A.G.O. (sistema
+automatico governo organizzazione sanitaria) era quindi costituita,
+fu costituita partendo da un originario progetto di automazione
+ospedaliera, elaborato dalla Montedel e i soci risultarono alfine
+essere la FIAT, la MONTEDISON, l'ENI, l'OLIVETTI, l' IRI, per il
+40%, l'INI, l'Istituto di Ricerca Farmacologica Mario Negri, ecc.".
+Seguono poi dieci pagine di bibliografia di ricerche sul sistema
+informativo sanitario.
+Questo volumetto poteva essere allegato come documento al piano
+che ci è stato presentato per rendere facile la consultazione su
+quella che è l'esigenza di avere un sistema informatico sanitario
+che funzioni.
+Ho detto questo perché, quando si è fatto riferimento da parte
+del Consigliere Minuzzo al perché ci dev'essere un sistema
+informativo sanitario che sembra scostarsi, non è così; va tenuto
+conto che il sistema informativo è essenzialmente un metodo
+gestionale oltre che programmatorio, per la parte gestionale il
+primo fatto essenziale è quello di rendere più snelle le procedure
+ed i collegamenti a livello delle strutture operative che sono
+Ospedale e U.S.L., che hanno la necessità di avere impostati i
+programmi e di realizzarli. Non parlo poi della necessità di avere
+i terminali e quindi i vari collegamenti all'interno dell'Ospedale;
+valga per l'accettazione pronto soccorso, letti disponibili,
+movimento malati, utilizzo dei farmaci, ecc..
+Questo è il motivo per cui tutto il sistema sanitario pretende
+uno studio particolare che tenga conto di quale è l'organizzazione
+di fatto a livello locale delle strutture, dei collegamenti che ci
+devono essere fra le varie sedi, non essendoci una sede unica, i
+collegamenti con i sistemi gestionali e poi il collegamento con la
+parte programmatoria della Regione, che deve saper accedere a certi
+dati, a certi livelli, a certe fasce, perché all'Assessorato il
+dato clinico del malato non interessa per niente, interessa un
+certo movimento che può servire per una determinata programmazione.
+Questo vuol dire che certi dati sono presenti nell'anagrafe nel
+sistema regionale e possono essere utilizzati per questo scopo.
+Tengo a precisare che fino ad adesso l'esperienza attuale del
+sistema informativo sanitario è legata al Consorzio piemontese che
+è un Consorzio che serve sia alla Regione Piemonte, che alla
+Regione Valle d'Aosta. La Regione Piemonte in questo campo sta
+sviluppando i contatti con il C.S.I. che si sta attrezzando sulla
+programmazione e sui metodi per sviluppare questo settore.
+Ultimamente si è fatto un viaggio per conoscere il sistema
+informativo inglese, e si è potuto constatare che in trent'anni
+sono stati commessi tanti errori, e per evitare di ricadere nello
+stesso errore, è emersa la necessità di studiare il sistema
+sanitario a parte. Questo non vuol dire che è scollegato dagli
+altri ma che ha una sua specifica importanza ed una sua
+impostazione legata per un certo verso alla Regione, ed ha un
+sistema funzionale di gestione suo proprio.
+PRESIDENTE
+:
+Ha chiesto di parlare il Presidente
+della Giunta Andrione, ne ha facoltà.
+ANDRIONE
+- (U.V.)
+: E' stato detto già praticamente
+tutto per cui sarò breve. Vorrei partire da una considerazione che
+mi sembra importante.
+Il Consigliere Carlassare ha detto giustamente che la conoscenza
+è fondamentale per qualsiasi gestione di potere, però bisogna fare
+una distinzione: non è la conoscenza dell'informatica, perché il
+fatto che Oppenheimer conoscesse meglio di un altro come si
+disintegra l'atomo, non gli ha dato un particolare potere.
+Il problema è quello di utilizzare correttamente la conoscenza e
+quindi di potere avere una somma di conoscenze che vanno molto al
+di là di quella attuale; ringrazio quanti hanno ricordato la mia
+particolare ignoranza in questa materia. Non abbiamo inteso
+risolvere il problema dell'informatica partendo da posizioni
+teoriche e se volete intellettualistiche, dicendo questo è il
+problema, la soluzione corretta sarebbe questa, se poi per caso la
+realtà è differente, è la realtà che ha torto, perché noi
+teoricamente abbiamo impostato il problema in maniera
+impeccabile.
+Abbiamo fatto il ragionamento inverso. Siamo partiti dalla
+situazione di fatto della Regione ed è stato ricordato diverse
+volte che non solo in questa materia, ma particolarmente in questa
+materia, lo strumento umano è di singolare specifica importanza. A
+torto, a ragione, questo riguarda una nostra responsabilità,
+abbiamo creduto di individuare nell'Ingegnere Belgrano questo
+particolare strumento umano che ci può dare una risposta in certe
+materie. E seguendo un metodo già collaudato altre volte e
+normalmente accettabile, abbiamo cercato di definire gli obiettivi
+e di procurarci i mezzi perché questi obiettivi siano
+raggiungibili.
+Abbiamo definito come obiettivo l'anagrafe regionale: anagrafe
+vuol dire il sistema con il quale vengono registrati due fenomeni
+fisici che consistono nella nascita e nella morte. Da qui per
+estrapolazione attraverso dei procedimenti molto rapidi con un
+Centro meccanizzato, è possibile avere per esempio l'anagrafe
+scolastica, oppure l'anagrafe elettorale, che può interessare i
+Comuni per specifici compiti comunali, ecc..
+Questo piano, che non rappresenta il piano regionale ma la
+razionalizzazione delle risorse esistenti in funzione della
+fattibilità di certe cose, è una premessa alla possibilità di agire
+in seguito per la realizzazione di quanto fissato in quegli
+articoli di legge.
+Attraverso questo sistema, che dà una prima risposta ai bisogni
+della Regione che non sono differibili, si ottiene di fare un corso
+di formazione per gli addetti della Regione all'Ufficio di
+Informatica - 14 dipendenti regionali - si ottiene di eliminare,
+attraverso la conoscenza delle procedure già esistenti che vengono
+riprodotte e conosciute da un maggior numero di persone su altre
+macchine, la disfunzionalità di numerose macchine sparse in
+differenti Assessorati e si ottiene infine attraverso un ciclo di
+due anni, una situazione di fatto sufficientemente mutata per poter
+fare un discorso di informatica che poggia su delle basi che non
+siano quelle attuali, per le quali il discorso puramente teorico
+non può essere fatto per mancanza di fondamenta. La prima lode da
+farsi ai consulenti che avevamo scelto è di averci detto che non si
+poteva fare un piano informatico con le strutture che avevamo,
+perché avrebbero avuto interesse a venderci un progetto mirabolante
+e mirifico, tutto completo e perfetto, dopodichè chi ha dato, ha
+dato ... sembra che ci sia una Regione nell'Italia del Sud dove
+questo proverbio viene sovente citato.
+Procediamo in questo modo ed abbiamo la convinzione che
+attraverso questo metodo, facendo il passo lungo come la gamba, si
+possano ottenere dei risultati a vantaggio della Regione.
+Come ultimo punto, non abbiamo niente in contrario là dove è
+scritto "Due Consiglieri regionali" a correggere "di cui uno
+designato dalla minoranza".
+PRESIDENTE
+:
+E' chiusa la discussione generale. E'
+stato chiesto che fosse rappresentata la minoranza e non è stato
+precisato ulteriormente, il Presidente della Giunta dice "due
+Consiglieri regionali di cui uno della minoranza". C'è una dizione
+diversa?
+Ha chiesto di parlare il Presidente della Giunta, ne ha
+facoltà.
+ANDRIONE
+- (U.V.):
+Normalmente i Comitati
+funzionano in funzione inversa al loro numero. Mi sembra che la
+funzione della minoranza in Comitati di questo genere non sia
+quella di rappresentare delle forze, ma di avere a livello
+esecutivo un controllo sulla gestione di un Comitato di
+pianificazione. Mi sembra che le forze di minoranza, anche se
+fossero 17, possano trovare un accordo per esprimerlo.
+PRESIDENTE
+:
+Ha chiesto di parlare il Consigliere
+Mafrica, ne ha facoltà..
+MAFRICA
+- (P.C.I.):
+Quando ho avuto i documenti,
+mi sono premurato come è mio dovere di esaminarli, di richiedere
+delle integrazioni, di assumere dalle fonti che ritenevo più
+opportune altre notizie su questo progetto. Credo che sarebbe molto
+sciocco oltre che non giusto, ammettere l'impossibilità del
+Consiglio regionale, o anche di un solo Consigliere regionale, a
+giudicare un progetto per la sua difficoltà tecnica. Quando diamo
+un giudizio, è su questo piano, di carattere politico-operativo e
+non tiriamo assolutamente in ballo la competenza specifica
+dell'Ing. Belgrano o di tutti gli altri ingegneri
+dell'Italsider.
+Sulla competenza tecnica specifica di questo signore non abbiamo
+assolutamente niente da dire, possiamo pensare che sia il più abile
+professore di Informatica d'Italia, però contestiamo che si sia
+fatta la scelta abbastanza casuale dell'Italsider; è stata scelta
+l'Italsider perché l'Assessore ha incontrato in un caffè uno che se
+ne intendeva, se avesse incontrato uno dell'Italsiel, magari noi
+saremmo stati più contenti. Come metodo, l'Assessore mi consenta, è
+perlomeno discutibile, perché se non trovava proprio quella sera
+quella persona, chissà come sarebbe andata a finire.
+Noi invece sosteniamo che l'Italsider ha messo nella nostra
+Regione, al di là di quello che diciamo nel merito del piano, una
+tutela molto forte che ci preoccupa, perché quando si parla delle
+funzioni dell'Italsider si dice "che il personale Italsider avrà la
+responsabilità di pianificazione, coordinamento e controllo". In
+particolare addirittura "il capo del nostro Centro svolgerà la sua
+azione in stretto collegamento con un Ingegnere
+dell'Italsider".
+Per quello che riguarda le funzioni del personale si dice invece
+che "il personale dovrà acquisire quanto prodotto". A me questa
+funzione di "acquisire" sembra una funzione passiva, "gestire il
+Centro" l'Italsider ha funzione di pianificazione, il nostro
+personale regionale di gestione. "Esercitare un'azione di
+coordinamento in unione con il personale Italsider": la nostra
+preoccupazione è che si sia messo questo Centro con tutte le
+discussioni che sono state fatte sulle conoscenze e sull'importanza
+di queste conoscenze, nelle mani di una struttura esterna alla
+Regione che, come competenza funzionale (non come competenza
+specifica nella materia) non è neanche operante in questo
+settore.
+Avremmo preferito che ci si rivolgesse al C.S.I. che invece di
+essere a Genova è a Torino e svolge già due servizi per la nostra
+U.S.L., fa le paghe per i medici, fa la contabilità anche dei
+magazzini farmaceutici. Lo avremmo preferito anche perché è una
+struttura interamente pubblica, in cui c'è la Regione Piemonte, la
+Provincia di Torino, il comune di Cuneo, l'Università di Torino ed
+il Politecnico, e potenzialmente anche la Valle d'Aosta, com'è
+scritto nello statuto. Quindi invece di andare a trovare
+casualmente l'Italsider che ci fa queste condizioni, sono convinto
+che se ci fossimo collegati con il C.S.I. sia per la fase di
+progettazione che per la fase di formazione di personale e per
+tutte le fasi successive, avremmo avuto un servizio equivalente
+(non voglio dire che questo non sia buono) e indirizzato proprio a
+fini di servizio agli Enti pubblici, senza possibili dubbi sulla
+tutela. Ci sarebbe anche costato meno, perché a quanto mi risulta i
+servizi per l'U.S.L., dopo alcune spese iniziali che si aggirano
+sugli 80 milioni, costano sui 20 milioni all'anno. Tutto questo per
+dire che non critichiamo l'Ing. Belgrano, ma critichiamo il fatto
+che si sia scelta l'Italsider e a queste condizioni.
+Citerò altri due argomenti per cui non possiamo votare a favore
+di questo piano (la mia è una dichiarazione di voto): il piano è a
+nostro giudizio molto vago. Il Presidente della Giunta ha detto:
+"L'anagrafe regionale consiste proprio nell'anagrafe pura e
+semplice da cui si possono poi estrapolare con aggregazioni
+differenti dei dati ulteriori". Certo però l'anagrafe regionale
+potrebbe prendere in considerazione anche per esempio dati relativi
+all'occupazione della persona, che potrebbero permettere delle
+estrapolazioni più complesse, magari più interessanti, non solo il
+fatto di nascere e di morire. Va ben chiarito il progetto,
+l'Assessore Ramera dice "la nostra risposta nei confronti dei
+Comuni non è negativa, noi non vogliamo chiudere".
+Noi abbiamo l'impressione che questo piano sia molto all'interno
+della Regione, perché, Assessore, se noi prevediamo un calcolatore
+medio-grande che debba fare l'anagrafe, la gestione del patrimonio
+e qualche altra cosetta, questo calcolatore dovrà avere determinate
+dimensioni operative. Si è verificato per il gruppo elettrogeno
+della rubinetteria Sottini: per fare determinate operazioni
+occorreva una certa potenza, qui per esercitare determinate
+funzioni occorre un certo tipo di calcolatore. Se andiamo a
+comprare un calcolatore definito per certe operazioni - e siamo
+nell'ordine di miliardi - oppure ad affittarlo - e siamo
+nell'ordine di centinaia di milioni - non so se poi potremo
+utilizzarlo per i Comuni, per le Comunità Montane, per gli
+Artigiani, Commercianti o per altri che potrebbero richiederne
+l'uso.
+ANDRIONE
+- (Presidente della Giunta regionale -
+U.V.):
+Nell'eventualità che la Regione ponga degli obiettivi
+specifici differenti, se necessario prenderemo una macchina più
+grossa. Ma questo non lo fa la Giunta regionale, lo si fa in base a
+delle consulenze.
+MAFRICA
+- (P.C.I.):
+Noi avremmo voluto vedere nel
+piano già queste cose, invece che la procedura per arrivare a
+queste cose. Non ci sono state poi alcune risposte alle domande che
+avevamo fatto e che non avevano carattere di particolare
+presunzione, ma erano per capire come mai ad esempio nei costi non
+è stato calcolato il servizio per il Cerved, eppure questo servizio
+costerà e volevamo averne un'idea.
+Sostanzialmente non siamo favorevoli, perché riteniamo che
+questo piano sia indeterminato e riteniamo che la scelta di
+affidarsi all'Italsider, sia dal punto di vista dell'autonomia e
+della funzionalità stessa, non sia quella giusta.
+In ultimo, in merito alla legge regionale, questa è stata
+disattesa non perché non si parlava del Consigliere di minoranza,
+ma perché si sono invertite le procedure, è la logica che non ha
+funzionato. Secondo la legge regionale prima bisognava nominare un
+Comitato, magari con un Consigliere di minoranza, invece che con
+due, che doveva preparare il piano e poi vedere. Invece qui si
+rovesciano le cose: prima si porta il piano, poi si parla di
+nominare il Comitato, ma il grosso si fa oggi.
+Quindi per queste ragioni non voteremo a favore.
+PRESIDENTE
+:
+Ha chiesto di parlare il Consigliere
+Minuzzo, ne ha facoltà.
+MINUZZO
+- (P.S.D.I.)
+: Annuncio l'astensione del
+mio Gruppo a questo piano operativo, innanzitutto perché non ci dà
+sufficienti garanzie sulle funzioni e responsabilità delle varie
+componenti. L'ho detto prima, forse l'Assessore Ramera si è
+dimenticato di rispondere e poi- chè la discussione generale è
+chiusa, trarremo le nostre conclusioni. Il Comitato ha qui una
+funzione quanto mai importante e non capisco cosa ci stia a fare un
+Consigliere di opposizione in questo Comitato ....... Consigliere
+Faval, non tutti possono essere sempre in maggioranza o esprimere
+una Giunta, può darsi che anche l'Union Valdôtaine vada
+all'opposizione, quindi questa arroganza mi sembra non sia proprio
+il caso di esternarla in questo momento.
+Quando discutiamo di politica, giochiamo pure le nostre carte,
+però, su questo problema di natura tecnica non è il caso di essere
+così arroganti. Giudico che un Consigliere di minoranza è quantomai
+insufficiente non tanto ai fini di un controllo, ma anche per poter
+andare a verificare e a portare il proprio contributo e quello di
+tutta l'opposizione. Infatti c'è un Presidente della Giunta,
+l'Assessore regionale alle Finanze, il Dirigente dell'Assessorato
+alle Finanze, che ha avuto gran parte nella stesura di questo
+piano, c'è il consulente dell'Italsider incontrato per caso
+dall'Assessore Ramera in un bar di Aosta ed un Consigliere di
+maggioranza. Ecco, ritengo che la maggioranza voglia andare sempre
+avanti per la sua strada, senza mai accettare le richieste per
+altro giustificate dell'opposizione, avanzate non certo per una
+questione di potere, per cui invito il Presidente del Consiglio a
+non più convocare il Consiglio regionale due volte al mese per due
+giorni; stiamocene a casa, a questo punto va bene lo stesso.
+PRESIDENTE
+:
+Ha chiesto di parlare il Consigliere
+Faval, ne ha facoltà.
+FAVAL
+- (U.V.)
+: Brevissima dichiarazione di voto.
+Mi pare che stasera il Consigliere Minuzzo sia particolarmente
+suscettibile e forse è la stanchezza, d'altra parte siamo stanchi
+un po' tutti data l'ora tarda. Mi stupisce che possa ritenere la
+mia una manifestazione di arroganza; lui dice che gli sembra
+assolutamente inutile un solo rappresentante dell'opposizione, che
+è rimasta esigua in questo Consiglio, e sottolineo che questo fatto
+va a riconoscimento dell'attività svolta fin qui dalla maggioranza
+per cui altri movimenti e partiti politici, che erano rimasti
+all'opposizione fino dal 1978, chiedono di entrare in questa
+maggioranza. E questa, Consigliere Minuzzo, è la migliore risposta
+a coloro che come lei attribuiscono all'Union Valdôtaine
+l'arroganza del potere.
+C'è stata una richiesta di entrare in maggioranza da parte di
+una forza di opposizione, ebbene l'Union Valdôtaine l'ha accolta. E
+voi ci chiamate ancora arroganti: Consigliere Minuzzo, un minimo di
+buon senso!
+Da tutti il problema è stato definito come un problema di scelta
+politica e non di ordine tecnico: il Consigliere Carlassare ha
+discusso la questione della conoscenza, ha corretto molto
+giustamente il Presidente della Giunta puntualizzando ciò che
+significa l'utilizzazione degli strumenti di conoscenza. Siamo
+assolutamente disponibili a far sì che questi strumenti siano a
+disposizione della maggioranza e della maggior parte non solo dei
+Consiglieri regionali, ma di tutti i possibili potenziali fruitori
+della Valle d'Aosta. Questo è veramente essere molto al di là
+dell'arroganza, è essere pronti a fare sì che tutti nel migliore
+dei modi possano venire a conoscenza degli strumenti che devono
+utilizzare.
+Voteremo a favore perché ci pare di vedere, pur
+nell'incompletezza e nelle indicazioni, correggibili, del piano che
+ci viene oggi proposto, una possibilità di andare al di là di
+quello che è lo stadio al quale ci siamo fermati e al quale non
+dobbiamo arrestarci, indipendentemente dal fatto che l'Ing.
+Belgrano sia stato incontrato in un bar o nella stanza di un
+Ministero: anche lì persone che occupano determinate sedi, arrivano
+per caso.
+PRESIDENTE
+:
+Ha chiesto di parlare il Consigliere
+Carlassare per dichiarazione di voto, ne ha facoltà.
+CARLASSARE
+- (Democrazia Proletaria - Nuova
+Sinistra):
+Oppenheimer e Fermi hanno costruito la bomba
+atomica, il generale Mac Arthur e Truman hanno schiacciato il
+bottone per sganciarla su Hiroshima e Nagasaki. Il resto
+dell'umanità non sapeva che si stava costruendo la bomba atomica, o
+almeno pochissimi lo sapevano. Il discorso per quel che riguarda il
+controllo dell'informatica lo si può correlare con questo esempio,
+ma in una prospettiva meno drammatica. Non è che tutta la
+popolazione valdostana debba essere informata a fondo
+sull'informatica, ma almeno le strutture politiche e sociali devono
+essere in grado di adoperare gli strumenti derivanti dalla
+conoscenza e dallo sviluppo dell'informatica e dall'utilizzo delle
+macchine che sviluppano, coordinano, raggruppano, scelgono questi
+elementi. La conoscenza deriva da un passo a monte che consiste nel
+richiedere certe cose alla macchina ed ai suoi operatori, un
+secondo passo a valle nel trarre i risultati e nel conoscere la
+chiave di lettura di questi risultati traducendoli poi in scelte
+operative, politiche ed economiche.
+In questo consiste il discorso che avevo fatto sull'importanza
+da subito del Comitato di pianificazione. Non può essere un
+discorso ristretto al solo ambito regionale, a costo di correre il
+rischio di avere dei Comitati che non sono così operativi, e perché
+sia accettabile un discorso del genere, il Comitato di
+pianificazione dovrà essere allargato fin d'ora alle forze sociali
+che dovranno usufruire e subire le conseguenze (subire in senso
+negativo ed io penso anche in senso positivo) del fatto che si
+venga a creare un sistema di calcolo, di informazione, in grado di
+raggruppare ed elaborare tutti i dati riguardanti la "Cosa
+Pubblica" ed in prospettiva, l'assistenza sanitaria, economia,
+ecc.. Detto Comitato dovrebbe almeno vedere al suo interno una
+rappresentanza di quegli operatori sociali che come dico, subiscono
+complessivamente, sia in senso positivo che negativo - non gli
+operatori, ma gli strati sociali naturalmente - queste cose, per
+cui per questo motivo ribadisco la mia opposizione a questo
+piano.
+PRESIDENTE
+:
+Con l'emendamento aggiuntivo
+riguardante la composizione del Comitato di pianificazione che
+prevede là dov'è scritto "Due Consiglieri regionali", l'aggiunta
+"di cui uno designato dalla minoranza", metto in approvazione
+l'oggetto iscritto al n. 21.
+Esito della votazione:
+Presenti: ventisette; votanti: ventisei; astenuti: uno
+(Minuzzo); maggioranza: quattordici; favorevoli: diciotto;
+contrari: otto.
+Il Consiglio approva
+Informativa cookies
+Consiglio Regionale della Valle d'Aosta © 2025
+Questo sito utilizza cookies propri e di terze parti. Continuando ad usare questo sito, acconsenti all'utilizzo di questa tecnologia.
+Consulta la nostra
+informativa
+per maggiori informazioni e per istruzioni su come disattivare i cookies.
+OK

@@ -1,0 +1,159 @@
+Consiglio Regionale della Valle d'Aosta - Oggetto del Consiglio n. 2733 del 1° aprile 1987 - Resoconto
+Vai al contenuto principale
+Oggetti del Consiglio
+Invia
+Stampa
+Documenti
+Resoconto
+Classificazione
+(Nessuna classificazione presente)
+Precedente
+Successivo
+Resoconto integrale del dibattito dell'aula
+Oggetto del Consiglio n. 2733 del 1° aprile 1987 - Resoconto
+OGGETTO N. 2733/VIII - ACQUISTO DI ELABORATORI DA ASSEGNARE
+IN DOTAZIONE ALL'UFFICIO REGIONALE PER LA PROTEZIONE CIVILE.
+(Interrogazione).
+PRESIDENTE:
+Do lettura dell'interrogazione in oggetto
+presentata dal Consigliere Sandri:
+INTERROGAZIONE
+RICORDATA la delibera 765 del 29.1.1987
+relativa all'acquisto di strumentazione da assegnare in
+dotazione al Servizio Sistemazioni idrauliche e difesa del suolo
+(Ufficio Protezione Civile), nell'ambito di una unificazione
+tecnica su tutto il territorio nazionale tra gli Uffici di
+Protezione Civile, tramite un programma di lavoro su computer,
+denominato S.I.R.E.;
+RICORDATO che nella stessa delibera il competente Servizio
+sistemazioni idrauliche e Difesa del suolo aveva invitato tre ditte
+a produrre un preventivo di spesa per 1 microelaboratore
+elettronico I.B.M. completo di unità centrale, tastiera, monitor a
+colori e stampante;
+INTERROGA
+l'Assessore all'Agricoltura, Foreste ed Ambiente Naturale per
+conoscere:
+- i dati tecnici relativi al personal computer I.B.M. offerto
+dalla Ditte Informatique computer center e dei personal computers
+M24HD e M19HD, ed in particolare l'entità della RAM, la capacità
+dei floppy disk e degli hard-disk, le colonne di stampa delle
+stampanti a corredo, nonché la loro velocità di stampa ed il numero
+di aghi delle testine;
+- se i personal computer Olivetti hanno le caratteristiche di
+compatibilità necessarie al funzionamento con il sistema S.I.R.E. e
+se è stata verificata con i tecnici del competente Ufficio
+ministeriale;
+- se era stata indicata nella lettere di invito all'appalto
+la possibilità di fornire anche computer I.B.M. - compatibili ed in
+particolare OLIVETTI;
+- se tale sistema è attualmente in uso e con quali
+risultati.
+PRESIDENTE:
+Ha chiesto la parola l'Assessore
+all'Agricoltura, Foreste ed Ambiente Naturale, Perrin; ne ha
+facoltà.
+PERRIN (U.V.):
+Au cours de l'année 86, la Région
+Lombardie avait élaboré un projet qui visait à l'organisation, sur
+le plan collectif et interrégional, des actions de prévention et de
+secours en cas de calamité naturelle ou de catastrophe.
+Ce projet consiste essentiellement en la possibilité, pour
+chaque région, de rédiger au moyen de micro-élaborateurs
+électroniques une banque de données utiles tant aux organismes
+d'intervention des différentes régions qu'aux organismes des
+régions limitrophes.
+Le ministère de la Protection civile, ayant eu connaissance de
+ce projet et conscient évidemment de son importance, avait décidé
+de prendre en charge les dépenses inhérentes à ce projet et de le
+remettre ensuite aux régions. Chaque administration devait, selon
+le ministère de la Protection civile, se doter, de manière
+autonome, d'un micro-élaborateur électronique et les frais y
+relatifs lui auraient été remboursés sur présentation de factures;
+le ministère quant à lui devait pourvoir directement à doter les
+régions du programme d'action.
+Compte tenu de ce projet général, il avait été demandé à trois
+entreprises l'appel d'offre pour l'achat de ce micro-élaborateur.
+Dans la lettre de soumission, nous avions dit - selon les:
+indications de la région Lombardie, chef de file du projet - que
+cet ordinateur devait être un I.B.M.: "...unità centrale tipo
+I.B.M. - EPCXT con microprocessore 8088, tastiera di tipo normale,
+monitor a colore tipo I.B.M. avanzato, ecc...". Il était donc
+demandé soit cet appareil I.B.M., soit quelque chose du même type,
+compatible avec lui.
+Deux entreprises, donc, ont répondu à notre appel d'offre. La
+"Ditta Informatique" proposait "numero 1 PC I.B.M. XT, memoria
+centrale 640 K-bytes, processore 8088; numero 1 tastiera I.B.M.
+tipo normale; numero 1 monitor I.B.M. colore avanzato; numero 1
+ware disk di capacità 20 mega bytes; numero 1 sistema operativo
+I.B.M. DOS 31; numero stampante I.B.M. 4202 XL a 182 colonne
+completa di cavo; numero 1 cavo di collegamento per la stampante;
+numero interfaccia di collegamento per la stampante", le tout pour
+10 millions: 401.000, T.V.A. non comprise. La "Centro sistemi"
+avait fait deux offre pour deux personal computer, l'un M24 HD et
+l'autre M19 HD; nous avions écarté la deuxieme hypotèse. L'offre du
+M24 HD contenait "microprocessore" à 16 bytes, intel 8086, cloque à
+8 mega hertz, ram 640 K-bytes, vidéographique en couleur 12
+"pollici", "tastiere italiana, unità OR disk 20 mega bytes, unità
+minifloppy-disk 5,25 pollici, 360 K-bytes", pour un prix de 5
+millions: 350 mille lires, T.V.A. non comprise et "la stampante ad
+aghi OLIVETTI DM 290, 132 colonne, 160 battute al secondo,
+bidirezionale, grafica, lettere di qualità, con introduttore di
+fogli singoli et spoket regolabile", pour 1 million 50.000 lires,
+T.V.A. non comprise.
+Entre temps, le Ministère avait modifié ses positions et la
+région Lombardie nous avertissait que probablement le Ministère ne
+rembourserait plus les micro-ordinateurs: ceux-ci devant donc être
+pris en charge par les régions. Cela a été confirmé effectivement:
+le ministère de la Protection civile ne fournira gratuitement que
+les programmes.
+Compte tenu de la diversité des prix proposés par les deux
+entreprises, compte tenu du fait qu'il y avait compatibilité entre
+l'appareil offert par le "Centro sistemi", nous avions deux
+possibilités: ou acquérir l'ordinateur I.B.M. pour 10 millions
+420.000 lires, T.V.A. non comprise, annuler l'appel d'offres vu que
+l'on parlait "di eventuale acquisto", ou bien acheter le personal
+computer Olivetti M 24 avec une épargne, pour l'Administration
+régionale, de 4 millions mille lires, plus la T.V.A.
+C'est cette troisième solution que nous avons choisie, pour
+plusieurs raisons: les délais de mise en fonction du programme sont
+très restreints (le ministère devrait nous remettre le programme
+dans les prochaines semaines) et donc l'annulation de l'appel
+d'offres nous aurait fait lancer une nouvelle soumission. D'après
+les contacts que nous avons avec la région Lombardie et avec le
+ministère de la Protection civile, nous avons appris que ce type
+d'ordinateur était parfaitement adapté au programme, car d'autres
+régions y avaient eu recours; des colloques que nous avions eus
+avec le représentant de la Société "Informatique" rien n'empêchait
+l'acquisition de l'Olivetti, puisque l'on nous proposait deux
+possibilités. Voilà les raisons de notre choix.
+PRESIDENTE:
+Ha chiesto la parola il Consigliere Sandri;
+ne ha facoltà.
+SANDRI (N.S.):
+Dans la délibération 756, on ne parlait
+pas de possibilité d'un ordinateur IBM compatible, mais uniquement
+d'un ordinateur IBM. Je me suis donc renseigné pour voir un peu
+plus clair car l'on voit des délibérations d'achats de machines où
+il y a toujours quelque chose qui ne va pas. surtout lorsqu'une
+société telle que la "Centro sistemi" est en jeu.
+Il était difficile de comprendre, dans cette délibération, si
+l'ordinateur IBM était une condition absolue ou une condition
+relative. L'assesseur m'assure que dans la lettre d'appel d'offres
+il y avait la possibilité d'avoir un IBM compatible.
+Par ailleurs, je n'ai pas bien compris si dans l'offre de la
+"Centro sistemi" il y avait même un video couleurs haute
+performance comme dans l'autre...
+Elle y était? Ah bon, je n'avais pas: entendu. Dans ce cas
+j'espère qu'il n'y aura pas de problème du fait que l'ordinateur
+n'est pas encore doté du logiciel. Ce dernier fonctionnera-t-il sur
+cet ordinateur? La région Lombardie nous l'a assuré...
+Je souhaite que pour les futurs achats l'on soit plus explicite
+dans les: appels d'offres car d'autres sociétés: encore peuvent
+fournir des IBM, des Olivetti ou d'autres IBM compatibles.
+Informativa cookies
+Consiglio Regionale della Valle d'Aosta © 2025
+Questo sito utilizza cookies propri e di terze parti. Continuando ad usare questo sito, acconsenti all'utilizzo di questa tecnologia.
+Consulta la nostra
+informativa
+per maggiori informazioni e per istruzioni su come disattivare i cookies.
+OK
