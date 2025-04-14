@@ -1,0 +1,148 @@
+Classificazione
+ASSISTENZA SANITARIA E OSPEDALIERA
+Presidio ospedaliero
+
+
+Resoconto integrale del dibattito dell'aula
+Oggetto del Consiglio n. 816 del 22 settembre 1999 - Resoconto
+OGGETTO N. 816/XI Intendimenti circa la realizzazione di un
+sistema unico di informatizzazione e di un unico dipartimento di
+Patologia clinica presso l'Ospedale regionale.
+(Interrogazione)
+Interrogazione
+Preso atto che l’impegno
+di provvedere alla sostituzione entro il mese corrente del sistema
+d’informatizzazione nel laboratorio di Analisi
+dell’Ospedale regionale sarà rispettato;
+A conoscenza dell’intesa oggi esistente tra i
+primari interessati di dar vita ad un sistema unico
+d’informatizzazione in modo da realizzare il
+dipartimento di patologia clinica e, quindi, la refertazione unica,
+come previsto dal piano socio-sanitario regionale;
+Il sottoscritto Consigliere regionale
+Interroga
+l’Assessore competente per conoscere:
+1) per quali motivi non è stata colta l’occasione
+e quindi non si è provveduto alla unificazione del sistema di
+informatizzazione del laboratorio di Analisi, con quello di
+Microbiologia e del Centro Trasfusionale, in modo da realizzare un
+unico dipartimento di patologia clinica.
+F.to: Beneforti
+Presidente
+La parola all'Assessore alla sanità, salute e
+politiche sociali, Vicquéry.
+Vicquéry (UV)
+In merito all'interrogazione ho chiesto
+informazioni all'USL, che mi ha risposto come segue:
+"Con riferimento all'interrogazione in oggetto citata, e con
+particolare riguardo al sistema unico d'informatizzazione, si
+ritiene utile in questa sede richiamare quanto dall'USL fatto al
+fine d'informatizzare in modo unico e integrato fra le altre le
+unità budgetarie di Analisi cliniche, Microbiologia e Centro
+trasfusionale. In particolare, in ordine cronologico, con
+deliberazione n. 738 dell'8 marzo 1999 si affidava alla società
+Olivetti Sanità di Milano l'incarico di fornitura dei programmi
+necessari alla reinformatizzazione dell'unità budgetaria Analisi
+cliniche, Microbiologia, Centro trasfusionale, reparto di
+Ormonologia. Nelle premesse della succitata deliberazione
+minutamente si evidenziavano tutti i componenti della
+reinformatizzazione di cui trattasi, suddivisi per singola unità
+budgetaria o reparto, dettagliandone i relativi oneri, con ciò
+provvedendo alla parte software della reinformatizzazione in
+questione. In tal senso, la gestione informatica specificatamente
+dell'unità budgetaria di microbiologia è parte sostanziale di un
+unico e più vasto insieme di programmi a tale gestione
+deputati.
+Con deliberazione n. 740 in pari data, 8 marzo 1999, si affidava
+a ditte locali il cablaggio della sede dell'unità budgetaria di
+microbiologia di via Guido Rey 5, portando lo stesso sulla rete di
+trasmissione i dati generali dell'USL, con ciò provvedendo al
+collegamento telematico interno fra unità budgetarie interessate,
+collegamento ovviamente indispensabile al funzionamento del tutto,
+in quanto come sopra accennato i programmi in gestione sono unici.
+Con deliberazione n. 796 del 15 marzo 1999 si acquisivano le
+apparecchiature informatiche, server, personal computer, stampanti,
+lettori ottici, eccetera, necessari alla bisogna, con ciò
+provvedendo in modo unico e uniforme alla parte hardware dell'unità
+budgetaria di Analisi cliniche, Microbiologia e reparto di
+Ormonologia. Con deliberazione n. 1455 del 31 maggio 1999 si
+commissionava alla società Telecom Italia S.p.A. un'apposita rete
+geografica, rete esterna, di trasmissione dati finalizzata fra
+l'altro al collegamento informatico del centro di prelievi di
+Morgex, Donnas, Châtillon e Verrès, portando la stessa sulla rete
+di trasmissione generale dell'USL, con ciò provvedendo al
+collegamento telematico esterno anche delle unità budgetarie
+interessate, che con programmi unici potranno quindi ricevere dati,
+prenotazioni, richieste di esami e quant'altro, anche dal
+territorio. Con deliberazione n. 1678 del 5 luglio 1999 si
+acquisivano fra l'altro per l'unità budgetaria Centro trasfusionale
+le apparecchiature destinate al rinnovo delle esistenti,
+apparecchiature identiche, fornitura, marca, modello,
+manutenzione, a quelle fornite alle unità budgetarie
+precedentemente citate. Con deliberazione n. 1906 del 9 agosto 1999
+si approvava il piano di aggiornamento presentato dal fornitore
+originario INSIL S.p.A. di Trieste, della procedura di gestione
+dell'unità budgetaria del Centro trasfusionale, i cui collegamenti
+con l'unità budgetaria di Analisi cliniche e Microbiologia, sia
+logici (basi, dati e loro contenuti), sia fisici (collegamenti
+telematici interni già esistenti ed esterni come sopra realizzati),
+erano già a loro tempo in sede di progettazione informatica unica
+previsti, analizzati e definiti. In conclusione, per quanto sopra
+esposto, si ritiene impossibile condividere l'eccezione sollevata
+di non unicità del sistema d'informatizzazione in parola che, nel
+rispetto di ogni regola tecnica e in osservanza alle scelte
+sanitarie funzionali dei primari interessati, risulta in ogni sua
+componente unico e integrato non solo nello specifico contesto del
+presente documento, ma anche verso l'intero attuale mondo
+informatico dell'USL nonché aperto ad ogni ulteriore possibile
+collegamento. Si resta a disposizione?"
+, eccetera.
+A me pare che da questa risposta si evinca chiaramente che è
+stata fatta, come da tempo si sta facendo all'USL, una
+progettazione di insieme del tutto, perché tutta la gestione dati
+viene collegata ad un'anagrafe generale degli assistiti, che viene
+utilizzata sia per la revoca e la scelta del medico di base, sia
+per le cartelle cliniche, sia per quant'altro, in questo caso anche
+per il sistema di trasmissione dati dal territorio
+all'ospedale.
+Nel momento in cui funzionerà questo sistema, che è stato
+approvato in data 31 maggio, avremo la possibilità di avere la gran
+parte delle sedi periferiche dei prelievi di analisi collegate
+direttamente con il sistema del laboratorio.
+Aggiungo, per quanto in mia conoscenza, che il piano sanitario
+regionale prevede l'istituzione di un dipartimento di Analisi
+cliniche, ed ovviamente se all'interno di un dipartimento i sistemi
+informativi non colloquiassero fra di loro, la gestione del
+dipartimento stesso sarebbe difficile, anche dal punto di vista
+tecnico. So che il primario del Laboratorio di analisi, che è
+coordinatore del dipartimento, si sta attivando da tempo per
+coordinare meglio i tre settori del Laboratorio di analisi.
+Presidente
+La parola al Consigliere Beneforti.
+Beneforti (PVA-cU)
+Ringrazio l'Assessore per la
+risposta.
+Le informazioni che sono state date dall'USL non sono quelle
+richieste; il discorso di fondo è la refertazione unica fra i tre
+sistemi, cosa che non avviene. Nel momento in cui si rinnova il
+sistema d'informatizzazione del laboratorio e si fanno le
+unificazioni dei vari sistemi, perché non realizzare anche la
+refertazione unica.
+Oggi per una stessa persona un referto lo fa la Microbiologia,
+un altro lo fa il Centro trasfusionale, un altro ancora lo fa il
+Laboratorio di analisi, mentre poteva uscire un referto unico.
+Questo è quello che chiedevano i tre primari del comparto. Quello
+che è avvenuto, lo sapevamo, anzi se mi dà una copia di quello che
+ha letto mi fa una cortesia, ma la richiesta di fondo era che si
+arrivasse a una refertazione unica dei tre reparti, anziché avere
+tre referti distinti!
+Quando nove anni fa fu fatta l'informatizzazione del Laboratorio
+di analisi, i primari non erano d'accordo tra loro. Oggi che sono
+arrivati all'accordo e chiedono la refertazione unica, l'USL non
+l'ha concessa. Li ha messi in comunicazione, ha fatto tutto quello
+che è scritto nella risposta dell'Assessore, ma quello che
+chiedevano non è avvenuto.
+Il discorso della refertazione unica è un aspetto che deve
+essere affrontato e portato avanti, per cui non si comprende perché
+venga rimandato nel tempo un provvedimento che poteva essere preso
+in questo momento. Comunque grazie.

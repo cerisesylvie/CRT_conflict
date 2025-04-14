@@ -1,0 +1,153 @@
+Classificazione
+INFORMAZIONE
+Sistema informativo
+
+
+Resoconto integrale del dibattito dell'aula
+Oggetto del Consiglio n. 2996 del 11 marzo 1998 - Resoconto
+SEDUTA ANTIMERIDIANA DELL'11 MARZO 1998
+OGGETTO N. 2996/X Funzionamento delle Workstations Sparc
+Station. (Interrogazione)
+Interrogazione Venuto a conoscenza del fatto che la gestione dei
+Sistemi Informativi Territoriale, regionale, Nazionale, Ambientale
+e Bacino del Po si avvale di workstations Sun Sparc Station;
+Preso atto delle varie deliberazioni di Giunta in merito ai
+programmi per la realizzazione del Sistema Informativo Territoriale
+regionale dell'Amministrazione regionale;
+il sottoscritto Consigliere regionale
+Interroga
+la Giunta regionale per sapere:
+1) se attualmente le workstations Sun Sparc Station sono attive
+e in che modo hanno operato dalla loro installazione sino ad
+oggi;
+2) qual è stata la spesa di acquisto delle workstations Sun
+Sparc e quanto è stato speso sino ad oggi dall'Amministrazione
+regionale per la loro manutenzione e il loro funzionamento presso i
+sistemi informativi della Regione Autonoma Valle d'Aosta.
+F.to: Lanièce
+Presidente Ha chiesto la parola il Presidente della Giunta,
+Viérin Dino.
+Viérin D. (UV) Je réponds ponctuellement aux questions qui ont
+été posées par Monsieur Lanièce. Je m'excuse si je dois donner
+lecture d'une série de données techniques, mais c'est le désir de
+Monsieur Lanièce qui me l'impose.
+Première question: tous les postes Sun Sparc Stations sont
+actifs et opérationnels, ils sont utilisés par les différents
+services de l'Administration régionale comme suit.
+Présidence du Gouvernement, Direction du système d'information:
+le poste est utilisé comme soutien pour le développement des
+applications en milieu Arc Info ainsi que pour la gestion des
+cartographies inhérentes à la loi régionale n° 39/93; ce même poste
+sera utilisé sous peu pour la production des documents destinés à
+tous les services de l'Administration qui ne sont pas dotés de ce
+type d'équipement. Maintenant le poste est exploité à 50 pour cent
+de ses capacités, d'ici à la fin de l'année 1998 son taux
+d'exploitation passera à 50 pour cent en raison de ces nouvelles
+applications.
+Assessorat de l'agriculture, Direction des forêts: le poste est
+utilisé pour la gestion du patrimoine forestier et de la carte de
+lutte contre les incendies des forêts. Il est également employé
+comme serveur pour les données géographiques de la Direction, taux
+d'exploitation du poste: 80 pour cent.
+Assessorat de l'agriculture, Direction des bassins de montagne
+et de la protection du sol: le poste est utilisé pour la
+réalisation du cadastre des avalanches, du cadastre des décharges
+et pour la gestion de la faune, taux d'exploitation du poste: 70
+pour cent.
+Assessorat de l'environnement, Bureau du plan territorial
+paysager: le poste est utilisé pour la réalisation de la
+cartographie du plan et pour la production des cartes, taux
+d'exploitation du poste: 100 pour cent.
+Assessorat de l'environnement, Direction de l'urbanisme et de la
+protection du paysage: le poste est utilisé pour la réalisation du
+projet sur le plan d'urbanisme; il est également employé comme
+serveur pour toute la Direction, pour les données géographiques
+inhérentes à la planification urbaine, taux d'exploitation du
+poste: 80 pour cent.
+Assessorat de l'environnement, Direction de l'environnement: le
+poste est utilisé comme pôle régional dans le cadre du système
+national d'information environnemental. Maintenant il est également
+utilisé par la Direction de l'aménagement du territoire et des
+réseaux infrastructurels.
+Assessorat de l'éducation et de la culture, Service de
+catalogage: le poste est utilisé pour la réalisation de la
+cartographie du cadastre et pour la gestion du catalogue des biens
+culturels. Il est également utilisé comme serveur par l'Assessorat
+des travaux publics et l'Assessorat de l'environnement pour les
+données géographiques du cadastre, taux d'exploitation du poste:
+100 pour cent.
+Assessorat des travaux publics, Direction de l'aménagement du
+territoire et des réseaux infrastructurels: le poste est utilisé
+pour la gestion des réseaux hydrographiques d'adduction d'eau et
+des égouts, pour le contrôle de la qualité de l'eau et pour la
+gestion du cadastre des branchements des stations
+hydrométrographiques et des concessions hydrauliques. Il est
+également utilisé comme serveur par tout l'Assessorat des travaux
+publics, pour les données géographiques inhérentes aux ressources
+hydriques, taux d'exploitation du poste: 100 pour cent.
+Assessorat des travaux publics, Bureau de la cartographie: le
+poste est utilisé pour la gestion de la carte topographique
+régionale numérique; il est également utilisé comme serveur pour
+les données inhérentes à la CTRN non seulement par l'Assessorat des
+travaux publics, mais aussi par l'Assessorat de l'environnement et
+la Surintendance des biens culturels, taux d'exploitation du poste:
+100 pour cent.
+Assessorat des travaux publics, Service de la cartographie et de
+l'aménagement hydrogéologique: le poste est utilisé pour la
+réalisation du projet des cartes géographiques CARD; maintenant le
+poste est utilisé à 50 pour cent de ses capacités, d'ici à la fin
+de l'année son taux d'exploitation passera à 100 pour cent en
+raison de la réalisation du système de gestion de la CARD.
+Chaque poste de travail a coûté entre 30 et 35 millions de lires
+plus la TVA en fonction de sa configuration. Les postes du Bureau
+du plan territorial paysager et de la Direction de l'environnement
+ont été financés par le Ministère de l'environnement dans le cadre
+de la réalisation du système national d'information
+environnemental. Les premiers postes ont été installés au mois de
+septembre 1994; jusqu'à présent les seules dépenses supportées par
+l'Administration régionale pour leur entretien s'élèvent à
+16.200.000 lires plus TVA.
+Presidente Ha chiesto la parola il Consigliere Lanièce.
+Lanièce (Aut) Ringrazio il Presidente della Giunta per aver
+letto tutti i dati dei quali chiederò poi di avere una copia.
+Possiamo dire che è un conto che sembra non avere mai fine il
+budget destinato dall'Amministrazione regionale per la
+realizzazione, lo sviluppo e la manutenzione del sistema
+informativo regionale. Sono capitoli comunque necessari quelli
+inseriti nel bilancio per la spesa informatica ed è proprio per
+questo motivo che ho voluto sapere - e non è una scelta a caso - a
+che punto è la gestione dei sistemi informativi citati
+nell'interrogazione. Non è un caso, dicevo, perché tale utenza si
+avvale di workstations, informatica all'avanguardia e piuttosto
+costosa; le Sun Sparc Station sono computer molto più potenti di un
+qualsiasi PC e in grado di compiere calcoli complessi, di alta
+definizione, utilizzati soprattutto nel campo della grafica.
+Oltretutto le workstations di tipo Sun servono anche per gestire
+banche dati contenenti milioni di informazioni, sono utili per il
+coordinamento e la gestione dei vari servizi informativi dislocati
+sul territorio. Ecco perché ritengo sia importante verificare come,
+quanto e per quali motivi specifici vengono utilizzate le
+workstations nella nostra Amministrazione. Penso che per il PTP sia
+stata molto utilizzata la workstation presente nell'Assessorato
+dell'ambiente.
+Questi computer, viste le loro caratteristiche eccezionali e
+quindi il loro effettivo costo di acquisto e di utilizzo,
+necessitano senz'altro di operatori in grado di far funzionare al
+meglio del loro rendimento i sistemi informativi e di risolvere gli
+eventuali problemi operativi che l'uso di workstations potrebbe
+comportare. Risulta a questo riguardo - quest'aspetto che dalla
+relazione del Presidente non è stato evidenziato e penso che lo
+verificheremo in seguito - che ci siano stati alcuni problemi
+proprio con un "server", cioè con una banca dati di tipo Sun, nel
+senso che quella presente presso il CED non funzionava più di tanto
+o non funzionava per nulla. Pertanto, se fosse vero questo mio
+sentore, visto che le workstations costano tantissimo e visto che
+il loro utilizzo è indispensabile anche perché sono dei computer
+molto avanzati tecnologicamente, l'invito è quello di adoperarsi
+affinché anche la workstation presente presso il CED funzioni al
+massimo in modo da raggiungere, come ho visto nelle varie
+workstations presenti presso l'Amministrazione regionale, il cento
+per cento.
+Ce ne sono ancora alcune che sono utilizzate ad un 50 - 80
+percento, speriamo che tutte vengano utilizzate al cento per cento
+anche perché, ripeto, il loro costo è molto elevato.

@@ -1,0 +1,323 @@
+Classificazione
+(Nessuna classificazione presente)
+
+
+Resoconto integrale del dibattito dell'aula
+Oggetto del Consiglio n. 2730 del 7 novembre 1991 - Resoconto
+OGGETTO N. 2730/IX Discussione del disegno di legge:
+"Acquisto dell'apparecchiatura per la risonanza magnetica
+(RM)"
+Presidente
+Il Consigliere Ricco ha chiesto la
+parola per illustrare il disegno di legge n. 327 iscritto al punto
+31 bis dell'ordine del giorno; ne ha facoltà.
+Ricco (DC)
+La risonanza magnetica nucleare è
+senz'altro la più recente e, sotto tanti aspetti, la più
+rivoluzionaria tra le indagini neurodiagnostiche venute alla luce
+negli ultimi anni. É un esame la cui evoluzione è stata
+estremamente rapida, tanto che nella interpretazione delle immagini
+si è passati, in pochi anni, dallo stato di "opinioni" a quello di
+"certezze".
+La peculiarità delle immagini ottenute mediante la risonanza
+magnetica nucleare (RMN) risiede nella origine fisica del segnale
+utilizzato. Osservando una radiografia si può comprendere come la
+radiazione utilizzata (X) è assorbita di più sulla struttura ossea
+e meno in quella molle. Pertanto, nella radiografia (negativo) si
+osserva la struttura ossea come parte chiara dell'immagine, mentre
+quella corrispondente ai tessuti molli risulta più scura. Anche
+nelle tecniche ecografiche si ha un fenomeno analogo. In questo
+caso gli ultrasuoni nell'attraversare i tessuti sono anch'essi
+assorbiti diversamente e quindi l'immagine che si ottiene riflette
+il diverso grado di assorbimento degli ultrasuoni da parte dei
+tessuti. In entrambi i casi l'immagine è il risultato,
+rispettivamente, dell'interazione della radiazione X e degli
+ultrasuoni con la struttura elettronica della materia.
+Nel caso della RM le cose sono ben diverse. Infatti, i tessuti
+in esame, ai quali si inviano onde elettromagnetiche a
+radiofrequenze (RF), in presenza di un campo magnetico
+costituiscono essi stessi sorgenti di onde elettromagnetiche e
+radiofrequenza. La RF emessa dai tessuti, cioè il segnale RM,
+rivelato ed opportunamente trattato dà luogo all'immagine.
+Da questa schematica descrizione emerge chiara la natura
+completamente diversa dell'immagine RM rispetto alle altre forme
+finora utilizzate in campo medico.
+Diversamente dai due casi precedentemente riportati, raggi X ed
+ultrasuoni, la risonanza magnetica nucleare si basa sulle proprietà
+magnetiche della materia e sulla interazione delle onde
+elettromagnetiche (RF) con i nuclei e non con gli elettroni. La
+metodica (RM) è basata sul comportamento dei nuclei di idrogeno (H)
+presenti nel corpo umano (circa il 90 percento) e permette di
+formulare la diagnosi di patologia in modo completamente non
+invasivo.
+Il processo di formazione dell'immagine RM, prende origine dalla
+eccitazione alla quale sono sottoposti questi nuclei, quando,
+immersi in un campo magnetico esterno e costante, li orienta in una
+certa direzione, se perturbati da un impulso di radiofrequenza
+(RF). Cessato tale impulso, i nuclei ritornano ad allinearsi
+secondo il campo magnetico originale, emettendo un segnale di
+radiofrequenza (RF) che può essere rilevato, localizzato,
+qualificato ed elaborato fino ad ottenere la ricostruzione di
+sezioni corporee.
+Un apparecchio di risonanza magnetica ha un aspetto simile alla
+TAC, ma con dimensioni maggiori. Esso è caratterizzato dalla
+presenza di un tunnel lungo circa 2 metri, interamente chiuso,
+all'interno del quale il paziente deve rimanere immobile, per tutta
+la durata dell'esame. Gli altri componenti principali dell'impianto
+sono: il magnete, che può essere di tipo permanente e di tipo
+superconduttivo; le sorgenti di radiofrequenza, dette anche bobine
+o antenne, che hanno la funzione di emettere onde di radiofrequenza
+e di provvedere alla ricezione del segnale di risonanza; il
+computer, che costituisce il terzo elemento fondamentale
+dell'impianto RM.
+La risonanza magnetica trova applicazione nel campo
+neuroradiologico, in particolare nella patologia neoplastica, ove
+la RM permette di migliorare la definizione della massa tumorale.
+Anche nella patologia vascolare i risultati sono ragguardevoli, nel
+caso di aneurismi (dilatazione permanente di un vaso sanguigno per
+diminuita elasticità delle pareti) e nelle malformazioni
+artero-venose, con la possibilità di effettuare uno studio
+tridimensionale dei vasi.
+Nello studio degli adenomi ipofisari (tumori benigni della
+ghiandola endocrina situata nella parte interiore dell'encefalo),
+la RM permette la visualizzazione diretta senza l'impiego del mezzo
+di contrasto.
+Nella patologia midollare spinale, la RM costituisce un'indagine
+elettiva nelle sindromi midollari; il midollo cervicale, in
+particolare, è visibile direttamente, insieme al sacco durale e al
+disco invertebrale.
+La RM trova la sua applicazione nel campo cardiovascolare, dove,
+con tecniche di sincronizzazione delle riprese delle immagini con
+segnale elettrocardiografico, è possibile ottenere immagini del
+cuore nelle fasi dinamiche. Inoltre, poiché il sangue in movimento
+non emette segnali, è possibile misurare lo spessore delle pareti
+cardiache.
+Altro importante campo d'indagine è l'angiografia, dove la RM
+permette l'esplorazione del lume vasale senza mezzo di contrasto.
+Esso si presenta infatti come una zona priva di segnale, mentre le
+placche delle pareti, per il loro contenuto lipidico, cioè grasso,
+risultano bene evidenziate.
+La RM trova ancora applicazione nello studio degli organi
+pelvici (parte inferiore del tronco) maschili e femminili, delle
+articolazioni, dei surreni, delle parti molli, del fegato, del
+pancreas e della milza, nello studio delle patologie
+pediatriche...
+Bisogna dire, per contro, che la RM può determinare effetti
+dannosi solo in alcune categorie di pazienti: i portatori di
+clips
+o protesi metalliche ed i portatori di
+pace
+maker
+, nei quali il campo magnetico può alterare il ritmo della
+stimolazione cardiaca.
+Per questo motivo le norme vigenti vietano ai portatori di
+pace maker
+di sottoporsi a campi magnetici.
+Con il disegno di legge n. 327 oggi in discussione, la Regione
+Valle d'Aosta intende acquistare un apparecchio per la risonanza
+magnetica, allo scopo di evitare gli spostamenti fuori Valle dei
+nostri concittadini che potrebbero aver bisogno di indagini sulle
+loro condizioni di salute.
+La suddetta volontà è conforme alle norme statutarie e di
+attuazione, che prevedono l'esercizio delle funzioni legislative ed
+amministrative in materia sanitaria da parte della Regione.
+La spesa complessiva, prevista in 4 miliardi e 500 milioni, è
+ripartita in due esercizi finanziari per la complessità dei sistemi
+di installazione dell'apparecchiatura, nonché per le necessarie
+autorizzazioni previste dall'articolo 5 del decreto del Ministero
+della sanità del 2 agosto 1991, qualora si preveda l'installazione
+di apparecchiature a risonanza magnetica del gruppo A, cioè
+apparecchiature di utilità clinica convalidata e caratterizzate da
+protocolli d'uso e applicazioni largamente consolidate fino a 2
+tesla (unità di misura in questo campo), adeguate alla domanda di
+prestazione attuale o prevista nell'area territoriale e comunque
+nel bacino d'utenza potenziale, secondo quanto stabilito dalla
+programmazione sanitaria della Regione.
+Mi permetto, infine, di presentare un emendamento al disegno di
+legge, nel senso che, dopo il comma 2 dell'articolo 3 è aggiunto il
+seguente comma:
+"3 - in deroga alla legge regionale 27 dicembre 1989, n. 90,
+sono autorizzate le variazioni di bilancio indicate al successivo
+articolo 4".
+Grazie.
+Presidente
+Ha chiesto la parola l'Assessore alle
+finanze, Lavoyer; ne ha facoltà.
+Lavoyer (ADP)
+Ho chiesto la parola per rispondere
+al Consigliere Viérin in merito alle motivazioni che stanno alla
+base delle deroghe che chiediamo all'articolo 44 della legge n.
+90.
+Le motivazioni sono le stesse che stavano alla base delle
+deroghe richieste l'anno scorso e delle deroghe che erano state
+richieste anche dalla Giunta precedente, della quale il Consigliere
+Viérin faceva parte...
+(...interruzione del Consigliere Viérin...)
+... Già l'anno scorso ti ho prodotto la documentazione dalla
+quale emergeva che alcune deroghe erano state richieste addirittura
+nel mese di novembre. Se vuoi te le ripropongo.
+Ricordo che queste deroghe non sono dell'Assessore Lavoyer. Io
+le sottopongo all'approvazione del Consiglio, che è sovrano
+nell'approvarle o meno. Questo semmai potrebbe essere un problema
+della Commissione di Coordinamento, che però finora ha sempre
+approvato le leggi in cui era inserito questo meccanismo. É ovvio
+che in via di principio il Consigliere Viérin può sostenere, anche
+giustamente, la sua tesi.
+Questo chiarimento è necessario perché tutti i disegni di legge
+avranno tale deroga.
+Credo di aver chiarito, nella mia funzione di Assessore alle
+finanze, le motivazioni per le quali è stata scelta questa
+strada.
+Presidente
+Ha chiesto la parola il Consigliere Voyat;
+ne ha facoltà.
+Voyat (UV)
+Vorrei precisare all'Assessore Lavoyer che
+è vero che l'anno scorso ci sono state delle deroghe, ma ci saranno
+anche quest'anno e forse saranno più numerose. Non mi risulta,
+però, che ci siano state delle deroghe prima, perché allora la
+scadenza era a novembre e non ad ottobre.
+Comunque la legge n. 90 del 1989 è stata modificata ed ha
+stabilito la scadenza al 31 ottobre. Pertanto, se la Giunta ritiene
+di dover cambiare, modifichi la legge, così eviterà di proporre una
+deroga ad ogni occasione. A che servono le leggi, se
+sistematicamente vengono proposte delle deroghe? Sarebbe
+preferibile che la Giunta dichiarasse esplicitamente di non essere
+in grado di gestire il bilancio entro la fine di ottobre, nel senso
+che, pur presentando...
+(...interruzione...)
+... Modifichi la legge n. 90, specificando che le variazioni al
+bilancio possono essere apportate entro il 30 novembre, anziché
+entro il 31 ottobre, data che tra l'altro era stata fissata
+deliberatamente, nel senso che si sapeva di poter gestire il
+bilancio, in termini di variazioni, solo entro la fine di
+ottobre.
+Si abbia almeno il coraggio di ammettere che non si vogliono
+effettuare prima prelievi dai fondi globali o apportare modifiche e
+variazioni al bilancio, ma si preferisce farli dopo per irrigidire
+il bilancio con dei semplici impegni di spesa, che bloccheranno i
+finanziamenti per lunghi periodi.
+Lasciando da parte ogni intento polemico, vorrei svolgere alcune
+considerazioni sull'acquisto dell'apparecchiatura per la risonanza
+magnetica nucleare, della quale abbiamo già discusso in Commissione
+ma dovremo discutere ancora in futuro.
+Non riteniamo corretto che la Giunta non rispetti le precise
+direttive istituite dalla Regione, d'accordo con l'USL, per
+l'acquisto delle apparecchiature. In Commissione ho portato un
+esempio occorso alcuni anni fa. Quando un primario propose alla
+Regione l'acquisto di determinate apparecchiature,
+l'Amministrazione regionale ed il Comitato di gestione molto
+ingenuamente accettarono, ma quell'apparecchiatura rimase ferma per
+circa un anno, perché dopo ci si accorse che non solo mancavano gli
+spazi idonei, ma anche il personale specializzato.
+L'Amministrazione regionale aveva approvato con deliberazioni le
+procedure sia per gli acquisti di competenza della stessa
+Amministrazione regionale sia per quelli di competenza dell'USL con
+il ricorso ai finanziamenti del fondo sanitario nazionale. Non mi
+risulta però che quelle schede siano mai state compilate. Le
+deliberazioni, infatti, prevedevano delle schede in cui si
+sarebbero dovute precisare le caratteristiche delle
+apparecchiature, le prestazioni, i vantaggi per la popolazione sia
+nella tipologia delle visite sia nella loro accelerazione, dovevano
+altresì indicare l'eventuale necessità di locali e di personale
+specializzato.
+Torno a ripetere che non mi risulta che tali schede siano mai
+state compilate o almeno così ci ha detto in sede di Commissione
+l'Assessore Beneforti, il quale ha precisato che esisteva solo una
+lettera che risaliva a circa due anni prima, della quale noi
+abbiamo chiesto una copia, ma, come al solito, non ci è ancora
+stata recapitata o, almeno, a me non è stata recapitata. Si
+trattava della lettera di un primario, nella quale si accennava
+all'esistenza delle apparecchiature per la risonanza magnetica e
+alla necessità che una di quelle avrebbe dovuto essere installata
+anche in Valle d'Aosta.
+Certamente la risonanza magnetica non è una scoperta di oggi.
+Ricordo che se ne parlava anche cinque o sei anni fa, ma allora non
+c'era la possibilità di installarla nell'ospedale per mancanza di
+spazi e di personale capace di farla funzionare. Quelle erano
+inoltre solo le prime apparecchiature, che cambiavano ogni tre o
+quattro mesi, tant'è che quelle che l'anno prima erano considerate
+come l'ultimo modello, l'anno dopo erano già considerate
+superate.
+Un'altra difficoltà era frapposta da quel provvedimento che
+vietava un po' a tutte le USL e alle Regioni, ma soprattutto alla
+Valle d'Aosta, l'acquisto di certe apparecchiature in mancanza di
+un bacino di utenza di almeno 350.000 abitanti.
+A detta dell'Assessore, la normativa ora è cambiata. La cosa ci
+fa piacere, però riteniamo che debbano essere risolti anche altri
+aspetti di fondamentale importanza, prima di decidere l'acquisto o
+meno della strumentazione per la risonanza magnetica.
+La prima questione concerne la disponibilità dei locali.
+L'Assessore dice che sono necessari solo circa 120 metri quadri. Ci
+sta bene, però occorre sapere dove reperirli. L'Assessore aggiunge:
+"All'interno dell'ospedale o in un prefabbricato esterno".
+Prima di spendere 4,5 miliardi per un'apparecchiatura che rischia
+di rimanere imballata per un certo periodo di tempo e di essere
+superata da tecnologie più recenti, cerchiamo di trovare i 120
+metri quadri che occorrono e, possibilmente, cerchiamo di trovarli
+all'interno dell'ospedale, perché i prefabbricati esterni
+all'attuale presidio ospedaliero esigerebbero anche dei percorsi
+coperti, perché non si può immaginare di spingere delle barelle
+sotto la neve o sotto la pioggia.
+Vi è poi la questione del personale. Occorre sapere quanto ne
+occorrerà al reparto che si assumerà l'onere di far funzionare
+l'apparecchiatura, di che tipo di personale si dovrà disporre e
+quanto sarà il tempo da adibire alla sua preparazione. Io ritengo
+che i tecnici per tre o quattro mesi dovranno seguire dei corsi
+presso le ditte o presso altri ospedali.
+La risonanza magnetica è certamente indispensabile negli
+ospedali che hanno unità operative di neurochirurgia, che noi non
+abbiamo ancora. Se pensiamo di dover istituire la neurochirurgia,
+ci può anche star bene l'acquisto di questa apparecchiatura, ma
+ritengo ingiusto accennare, nel corso di telefonate a destra e a
+sinistra, all'istituzione di una unità operativa di neurochirurgia,
+se prima non modifichiamo il piano sanitario, il cui aggiornamento,
+illustrato alle forze politiche e sindacali nel gennaio-febbraio
+del 1988, si è risolto con una semplice variazione al funzionamento
+interno e alla pianta organica, ma non si è più saputo nulla di
+tutto il resto e non si sa nulla delle intenzioni di questa
+maggioranza.
+Sarebbe anche opportuno conoscere che cosa pensa
+l'Amministrazione della neurochirurgia. La Giunta, però, non
+dovrebbe limitarsi a dire che la neurochirurgia va bene, perché
+questo è chiaro, ma dovrebbe anche indicarci se c'è un numero
+sufficiente di pazienti che può giustificare l'istituzione di
+questa unità operativa. Non dobbiamo dimenticare, infatti, che tale
+unità non necessita esclusivamente di sale o di apparecchiature, ma
+anche e soprattutto di personale altamente qualificato. Dovunque,
+quando si parla di neurochirurgia o di cardiochirurgia, si
+consiglia sempre di appoggiarsi a grandi centri specializzati,
+piuttosto che creare delle piccole unità che "non hanno la mano",
+perché il numero limitato di casi non consente all'équipe di
+tenersi in esercizio.
+Ricordo che anni fa si accennava anche all'eventualità di
+invitare delle équipe esterne ad operare ogni tanto qui in Valle e
+non ci si riferiva evidentemente solo al campo della
+neurochirurgia. In ogni caso è possibile fare un'accurata indagine
+per accertare l'esistenza o meno dei presupposti numerici necessari
+che giustifichino l'istituzione di un reparto di neurochirurgia.
+Tempo fa, infatti, non c'erano questi presupposti, tant'è che non
+venne ritenuto opportuno istituire una unità di neurochirurgia, che
+esige un'altissima specializzazione, per i pochi casi esistenti in
+Valle, anche perché nelle vicinanze esistevano centri molto
+specializzati che potevano essere facilmente raggiunti con
+l'elicottero.
+Detto questo, oltre ad attendere copia della lettera chiesta
+all'Assessore Beneforti da circa venti giorni, attendo di sapere se
+sono state compilate le schede alle quali ho fatto riferimento,
+anche per evitare di imbatterci in eventuali sorprese in un secondo
+tempo.
+Presidente
+Colleghi Consiglieri, c'è qualcuno che
+si iscrive a parlare in sede di discussione generale?
+Si iscrive il Consigliere Viérin.
+Mi è pervenuta la richiesta del Consigliere Monami Cristina di
+discutere nel pomeriggio di oggi la legge n. 326, di cui è
+relatrice, perché pensa di non poter essere presente nel momento in
+cui sarà discussa secondo l'ordine del giorno.
+Poiché mi sembra di ravvisare in questo senso un certo accordo
+nel Consiglio, nel pomeriggio di oggi, quando esamineremo le varie
+leggi, daremo la precedenza alla legge n. 326.
+I lavori della seduta antimeridiana finiscono qui e
+riprenderanno nel pomeriggio alle ore 16,00.
+La seduta è tolta.

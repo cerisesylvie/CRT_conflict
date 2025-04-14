@@ -1,0 +1,243 @@
+Consiglio Regionale della Valle d'Aosta - Oggetto del Consiglio n. 949 del 19 ottobre 1994 - Resoconto
+Vai al contenuto principale
+Oggetti del Consiglio
+Invia
+Stampa
+Documenti
+Verbale
+Resoconto
+Classificazione
+INDUSTRIA
+Precedente
+Successivo
+Resoconto integrale del dibattito dell'aula
+Oggetto del Consiglio n. 949 del 19 ottobre 1994 - Resoconto
+OGGETTO N. 949/X - Trasferimento a Torino del sistema
+operativo C.E.D. della Cogne. (Interpellanza)
+Interpellanza - Venuti a conoscenza del parziale trasferimento,
+presso la ditta Syntax di Torino, del sistema operativo C.E.D.
+della Cogne S.p.A. in liquidazione e della Cogne Acciai Speciali,
+che avrebbe avuto luogo nel corso del mese di settembre 1994, e del
+conseguente svolgimento di larga parte dell'attività di
+elaborazione informatica dei dati fuori dalla sede di Aosta;
+Constatato che tale mutamento logistico comporta la drastica
+riduzione del personale impiegato presso il C.E.D.: in particolare
+alcuni dipendenti sono già stati collocati in Cassa integrazione
+nel mese di settembre 1994 e per altri si preannuncia una medesima
+soluzione nel breve periodo;
+Considerato che i notevoli interventi finanziari
+dell'Amministrazione regionale a favore del mantenimento
+dell'attività siderurgica nella regione sono finalizzati
+precipuamente alla salvaguardia del profilo occupazionale;
+i sottoscritti Consiglieri regionali
+interpellano
+la Giunta regionale per sapere:
+a) se è a conoscenza di quanto esposto in premessa;
+2) quali sono le motivazioni ufficiali che hanno indotto i
+vertici dirigenziali dello stabilimento Cogne a trasferire il
+sistema operativo del C.E.D. fuori Valle;
+3) quali concrete determinazioni intende adottare per tutelare
+le posizioni dei lavoratori presso il C.E.D. dello stabilimento
+Cogne di Aosta.
+F.to: Tibaldi - Linty
+Presidente -
+Ha chiesto la parola il Consigliere
+Tibaldi.
+Tibaldi (LN) -
+Come abbiamo espresso in maniera
+sufficientemente chiara nella interpellanza proposta, il problema
+che vogliamo sollevare è quello del trasferimento logistico di una
+parte del sistema operativo Centro Elaborazione Dati della Cogne
+S.p.A. in liquidazione e della Cogne Acciai Speciali a Torino.
+Perché lo consideriamo un problema? Lo consideriamo un problema
+per il semplice fatto che questo trasferimento fisico di un insieme
+di elementi informatici,
+hardware
+e
+software
+, sta
+causando un progressivo declino occupazionale del C.E.D. Infatti,
+rispetto ai 18 occupati che prima esistevano nel sistema medesimo,
+c'è stato, sin dal mese di settembre, il collocamento in cassa
+integrazione di un paio di essi, e per altri quattro è previsto un
+analogo trattamento entro la fine dell'anno. Almeno queste sono le
+fonti sindacali che informano in questa maniera.
+Ebbene, l'interpellanza ha come scopo di avere una risposta
+dalla Giunta regionale o dall'Assessore competente, innanzitutto
+per sapere se conosce il problema che comunque riguarda la
+salvaguardia dei posti di lavoro, salvaguardia che è appunto
+oggetto di precipua attenzione da parte dei protocolli di intesa;
+per sapere poi se questo trasferimento logistico ha delle
+motivazioni ufficiali o meno di convenienza, e di che tipo di
+convenienza si tratta, ovvero convenienza tale da giustificare il
+ridimensionamento occupazionale. Vogliamo sapere anche quali sono
+le determinazioni della Giunta per cercare di limitare questa
+emorragia occupazionale, che come già sottolineato in un'altra
+interpellanza relativa all'Ilva Centrali Elettriche, oggi si
+ripropone per il C.E.D.: cioè singoli tasselli dell'industria Cogne
+che sono di volta in volta coinvolti con l'approssimarsi della
+scadenza il 31 dicembre 1994 a tagli occupazionali che sono in
+distonia con quelle che sono le previsioni dei protocolli
+d'intesa.
+Tengo ancora a sottolineare che già in passato sono state fatte
+iniziative politiche a suffragio della tutela occupazionale del
+C.E.D., iniziative politiche ed anche conferimenti di incarico per
+valutare effettivamente qual era il sistema ottimale di gestione
+dei dati dello stabilimento siderurgico valdostano; ne cito una per
+tutte, che è quella del prof. Ballatore di qualche anno fa, dove si
+stabilisce che venga mantenuto, sulla base di valutazioni
+analitiche approfondite, il C.E.D. ad Aosta. Vorrei sapere
+dall'Esecutivo regionale delle risposte in merito a questo
+problema.
+Presidente -
+Ha chiesto la parola l'Assessore
+all'industria, commercio e artigianato, Mafrica.
+Mafrica (GV-PDS-SV) -
+Il problema del C.E.D. della
+Cogne è costantemente seguito; in pratica ogni mese ci sono
+incontri con le Organizzazioni sindacali o con altri soggetti
+interessati alla questione. Credo di dover fare un'osservazione
+preliminare: quella che si è andati alla privatizzazione della
+Cogne e che attualmente il gestore è un imprenditore privato che,
+come è risultato anche nell'incontro di ieri con le commissioni,
+ragiona sulla base di logiche economiche, a cui mi pare che gli
+esponenti della Lega si siano sempre e costantemente
+richiamati.
+Allora, qual è il problema tecnico? Il C.E.D. della Cogne
+preesistente è obsoleto, talmente obsoleto che il costruttore non
+garantisce più neppure l'assistenza, si tratta quindi di andare a
+sostituire sia la parte
+hardware
+sia la parte
+software
+. L'imprenditore che ha rilevato la Cogne giudica,
+in linea con la grande evoluzione che c'è stata in questi anni
+nell'informatica e nella telematica, che non sia più opportuno per
+aziende delle dimensioni della Cogne avere un proprio centro di
+calcolo autonomo, vale a dire con la parte
+hardware
+e con la
+parte
+software
+, perché tale centro risulterebbe rigido e
+costoso, sia dal punto di vista dei necessari aggiornamenti, sia
+dal punto di vista complessivo della spesa. Le soluzioni che
+vengono trovate da aziende di queste dimensioni sono quelle di
+avere all'interno un calcolatore più piccolo, tipo AS 400, non
+presidiato, e avere invece con centri esterni il servizio
+attraverso una rete. Questa è la soluzione che fa sì che un po' in
+tutto il mondo le aziende di servizi siano in continuo sviluppo,
+vale a dire banche, imprese, aziende non trovano più conveniente
+avere un proprio centro autonomo di calcolo; hanno una postazione
+di comunicazione che si collega alla propria rete interna ed
+acquistano all'esterno la potenza di calcolo. Quindi la ragione
+della scelta di un mutamento è di tipo economico, di costi.
+La società ha indetto una gara per ristrutturare il servizio
+informatico. In questa gara, dopo un confronto fatto con le aziende
+valdostane, è risultato vincente un raggruppamento costituito da
+Inva (che per il 40 percento è di proprietà regionale) e da Syntax
+(che è di Ivrea e non di Torino), una società che è in attesa di
+insediarsi in Valle non appena sarà costruito lo stabilimento. É
+una società che già ha relazioni e che già ha assunto personale
+valdostano.
+Credo che sul tipo di scelta, vale a dire di andare ad una
+riorganizzazione del sistema di calcolo, di affidare - in questo
+caso tenendo conto delle esigenze locali - ad una società locale in
+collegamento con un'altra che si insedierà in Valle, non si possa
+intervenire, perché si tratta di scelte di carattere economico
+fatte dall'imprenditore. Quello che abbiamo fatto e che stiamo
+cercando di fare è invece di preoccuparci del personale;
+attualmente sono 18 persone, di cui 6 possono avere e in parte già
+hanno ottenuto, in tempi brevi, la collocazione in cassa
+integrazione. Si tratta degli operatori, cioè della fascia che
+comunque anche quando il centro di calcolo sarà rinnovato non
+troveranno più posto all'interno con i nuovi tipi di calcolatori.
+Per questi operatori si sono già avuti incontri con le
+Organizzazioni sindacali, con l'Agenzia del lavoro, con la stessa
+Cogne, per trovare soluzioni possibili. Le soluzioni possibili,
+ipotizzate, passano attraverso corsi di riqualificazione che
+completino il loro livello di preparazione, e con la disponibilità
+dell'Agenzia del lavoro a collegare questo tipo di offerta con la
+domanda di lavoro presente sul territorio valdostano. Quindi, in
+parte con soluzioni a breve (come già si prospetta per sei
+persone), in parte con corsi di formazione professionali idonei,
+potranno trovare nuova collocazione in aziende operanti in Valle.
+Si sta seguendo con confronti frequenti la strada per risolvere
+questo problema.
+É quindi una questione che viene seguita, ringrazio gli
+interpellanti perché anche loro se ne occupano; è una questione che
+è collegata al rinnovamento complessivo e alle scelte aziendali che
+vanno lungo la linea del risanamento complessivo dell'azienda e
+dell'ammodernamento tecnologico della stessa.
+Si dà atto che, dalle ore 11,25, presiede il Presidente
+Stévenin.
+Presidente -
+Ha chiesto la parola il Consigliere
+Tibaldi.
+Tibaldi (LN) -
+Ringrazio l'Assessore per quanto ha
+espresso, però penso che se si fosse trattato di una inversione di
+ruoli, o meglio: se lui fosse stato al mio posto in questo momento,
+avrebbe analizzato alla stessa maniera la questione.
+Quello che sto dicendo è confortato dal fatto che spesso lui si
+è fatto promotore di interpellanze relative a questo problema e si
+è fatto sempre promotore nel senso di tutelare al più possibile
+l'occupazione valdostana, quindi di verificare la possibilità di
+utilizzare questo centro all'interno dello stabilimento aostano al
+massimo e di ottimizzarne il funzionamento.
+Nessuno vuole mettere in dubbio che la Cogne sia gestita ormai
+in forma privatistica da una figura imprenditoriale che ha una
+estrema potestà decisionale in questo senso, può scegliere i propri
+fornitori di servizi o di beni con la più ampia discrezionalità.
+Però bisogna tener presente che in questa opera di privatizzazione
+la Regione ha un ruolo determinante: primo, perché fornisce un
+apporto finanziario notevole, che se non costituisce un vantaggio
+diretto per l'imprenditore, costituisce comunque un congruo
+vantaggio indiretto, in quanto ha a disposizione aree, energia
+elettrica e tutta un'altra serie di elementi che sono precisamente
+indicati nei protocolli d'intesa; secondo, perché comunque la
+Regione deve presiedere questa operazione di privatizzazione, nel
+senso che deve coordinarla affinché venga effettuata secondo
+criteri di ampia razionalità e di ampia trasparenza.
+Purtroppo, nella risposta dell'Assessore manca un dato
+importante, non so se perché lui non ne ha il possesso o per altre
+ragioni: non si è capito bene qual è la motivazione che ha indotto
+a questa scelta. Mi spiego: non si è capito bene per il fatto che
+questo sistema di gestione esterna da parte di una società di tutti
+i dati contabili ed amministrativi non mi sembrava fosse
+manifestata con la stessa volontà, con la stessa coscienza, anche
+ieri nell'incontro con i responsabili. Mi pare che non tanto l'ing.
+Marzorati, quanto l'ing. Falcone propendesse di più per un centro
+autonomo di calcolo. Questa è l'impressione che ne ho ricavato io,
+anche scambiando alcune osservazioni con il manager addetto al
+risanamento dell'impresa.
+Ci troviamo di fronte ad uno smembramento di quello che è un
+reparto che negli anni ha avuto la sua funzione importante, perché
+gestire i dati di un'impresa, comunque razionalizzarli secondo
+certi canoni è una funzione fondamentale per la gestione
+imprenditoriale; ci troviamo di fronte ad una traslazione di questa
+funzione al di fuori della Valle, con un calo occupazionale che ho
+già segnalato in partenza e con una sorta di passività da parte
+della Regione di fronte a questo fenomeno.
+Una passività che si può accettare fino ad un certo punto,
+perché sì per questi lavori ci sono delle soluzioni possibili: la
+più immediata e la più evidente è quella della collocazione in
+cassa integrazione, poi questi corsi di riqualificazione, e poi
+l'incertezza. Non vorrei che, nonostante tutta la buona volontà
+dimostrata dall'Assessore in questa sua risposta, cadesse nel
+dimenticatoio il problema, anche se si tratta di un problema
+costantemente seguito, di un problema per la cui soluzione ogni
+mese ci sono degli incontri con vertici sindacali, con responsabili
+dei settori, eccetera.
+Quindi, più che manifestare l'auspicio che ci sia un intervento
+più attivo da parte dell'Assessorato per garantire una certa equità
+di trattamento, soprattutto una certa razionalità nelle scelte, non
+mi rimane che ringraziare l'Assessore e invitarlo a farsi parte
+attiva per la tutela di questi occupati.
+Informativa cookies
+Consiglio Regionale della Valle d'Aosta © 2025
+Questo sito utilizza cookies propri e di terze parti. Continuando ad usare questo sito, acconsenti all'utilizzo di questa tecnologia.
+Consulta la nostra
+informativa
+per maggiori informazioni e per istruzioni su come disattivare i cookies.
+OK

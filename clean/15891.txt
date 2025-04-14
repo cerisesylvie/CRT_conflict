@@ -1,0 +1,461 @@
+Classificazione
+ELEZIONI
+
+
+Resoconto integrale del dibattito dell'aula
+Oggetto del Consiglio n. 2208 del 23 ottobre 1996 - Resoconto
+SEDUTA ANTIMERIDIANA DEL 24 OTTOBRE 1996
+OGGETTO N. 2208/X Disegno di legge: "Elezione diretta del
+sindaco, del vice sindaco e del consiglio comunale. Esperimento di
+votazione e scrutinio mediante apparecchiature elettroniche".
+Articolo 1 1. Esclusivamente in occasione del primo turno utile
+per l'elezione diretta del sindaco, del vice sindaco e del
+consiglio comunale, successivo all'entrata in vigore della presente
+legge, in sei uffici elettorali di sezione individuati con decreto
+del Presidente della Giunta regionale, le operazioni di votazione e
+di scrutinio si svolgono, mediante l'uso di apparecchiature
+elettroniche, secondo le disposizioni previste dalla presente
+legge.
+2. L'organizzazione dell'esperimento è affidata alla Presidenza
+della Giunta regionale, che si avvale della collaborazione del
+Dipartimento della funzione pubblica della Presidenza del Consiglio
+dei Ministri e del coordinamento della Direzione centrale per i
+servizi elettorali del Ministero dell'interno, nonché dell'opera
+del personale e delle apparecchiature messe a disposizione dai
+predetti Dipartimento e Direzione centrale.
+Articolo 2 1. In occasione dello svolgimento delle consultazioni
+elettorali previste all'articolo 1 i termini "scheda", "urna" e
+"liste sezionali" contenuti nella legge regionale 9 febbraio 1995,
+n. 4 (Elezione diretta del sindaco, del vice sindaco e del
+consiglio comunale) devono intendersi rispettivamente come "scheda
+virtuale", "urna elettronica" e "liste elettroniche".
+Articolo 3 1. Per lo svolgimento delle consultazioni elettorali
+contemplate all'articolo 1, le procedure previste dalla legge
+regionale 4/95 subiscono i seguenti adattamenti:
+a) articolo 22 (Certificati elettorali), commi 2 e 7:
+2. Il certificato, costituito da una carta intelligente a
+microprocessore, indica la sezione alla quale l'elettore
+appartiene, il luogo della riunione, il giorno e l'ora della
+votazione.
+7. Quando un certificato vada perduto o sia divenuto
+inservibile, l'elettore ha diritto, presentandosi personalmente nel
+giorno antecedente o nel giorno stesso della elezione e contro
+annotazione in altro apposito registro, di ottenere dal sindaco un
+altro certificato, stampato su carta rosa, con scritte di diverso
+colore per maschi e femmine e sul quale deve dichiararsi che è un
+duplicato.
+c) articolo 23 (Ufficio elettorale di sezione), comma 1:
+1. In ciascuna sezione è costituito un ufficio elettorale
+composto di un presidente, di due scrutatori, di cui uno, a scelta
+del presidente, assume le funzioni di vicepresidente, e di un
+segretario.
+d) articolo 38 (Sala della votazione), comma 4:
+4. Il tavolo dell'ufficio deve essere collocato in modo che i
+rappresentanti di lista possano girarvi attorno, allorché sia stata
+chiusa la votazione. Le urne elettroniche fanno parte integrante
+dell'apparecchiatura.
+d) articolo 39 (Accesso alla sala della votazione), comma 1:
+1. Sono ammessi nella sala dell'elezione soltanto gli elettori
+che presentino il certificato di iscrizione alla rispettiva sezione
+di cui all'articolo 22 e il personale tecnico esperto nell'uso
+delle apparecchiature da utilizzare.
+e) articolo 47 (Durata delle operazioni di voto e di scrutinio),
+commi 2 e 3:
+2. Dichiarata chiusa la votazione, il presidente del seggio,
+dopo aver proceduto ad effettuare le operazioni previste
+dall'articolo 51, procede immediatamente alle operazioni per lo
+spoglio dei voti.
+3. Le disposizioni di cui al comma 2 si applicano anche alle
+operazioni per lo spoglio dei voti per il ballottaggio.
+f) articolo 48 (Operazioni preliminari del seggio), commi 1, 5 e
+8:
+1. Successivamente alla costituzione dell'ufficio elettorale, ai
+sensi dell'articolo 28, il presidente, dopo aver effettuato sulla
+lista sezionale le eventuali annotazioni previste dall'articolo 42,
+comma 3, lett. a), e dall'articolo 45, comma 3, lett. a), procede
+all'accensione e all'inserimento dei supporti magnetici del sistema
+elettronico.
+5. Quindi il presidente, constatata l'integrità del sigillo che
+chiude il plico contenente il bollo della sezione, lo apre e fa
+attestazione nel verbale del numero indicato sul bollo stesso.
+8. Il presidente rimanda, quindi, le ulteriori operazioni alle
+ore sette del giorno seguente e, dopo aver provveduto a chiudere il
+plico contenente tutte le carte, i verbali ed il timbro della
+sezione, scioglie l'adunanza.
+g) articolo 50 (Operazioni di votazione), commi 1, 2 e 3:
+1. Riconosciuta l'identità personale dell'elettore mediante la
+carta intelligente, il presidente invita l'elettore a recarsi nella
+cabina.
+2. L'elettore si reca nella cabina dove l'espressione del voto
+avviene con l'apposito indicatore sulla scheda virtuale; qualora
+l'elettore si avveda di aver erroneamente espresso il voto, può
+chiedere al presidente di ripetere l'operazione di voto; in tal
+caso il presidente annulla dal suo terminale l'ultima operazione
+effettuata e riabilita l'apparecchiatura alla votazione.
+3. L'attestazione dell'avvenuto esercizio del diritto di voto
+viene registrata automaticamente dall'apparecchiatura
+elettronica.
+h) articolo 51 (Accertamento del numero dei votanti), comma 1,
+lett. c):
+c) accerta il numero dei votanti che viene fornito
+automaticamente dall'apparecchiatura elettronica mediante la stampa
+di un supporto cartaceo. Le liste, prima che si inizi lo spoglio
+dei voti, devono essere vidimate in ciascun foglio dal presidente e
+da due scrutatori e chiuse in piego sigillato, con facoltà per
+qualunque elettore presente di apporre la propria firma sulla
+busta. Il piego viene immediatamente rimesso alla Pretura di Aosta,
+che ne rilascia ricevuta.
+i) articolo 53 (Modalità di elezione del sindaco, del vice
+sindaco e del consiglio comunale nei comuni con popolazione sino a
+15.000 abitanti), commi 2 e 3:
+2. Nella scheda virtuale sono indicati, a fianco del
+contrassegno, il cognome ed il nome del candidato alla carica di
+sindaco ed il cognome e il nome del candidato alla carica di vice
+sindaco scritti entro un apposito rettangolo; sono inoltre indicati
+il cognome ed il nome di tutti i candidati alla carica di
+consigliere comunale, fra i quali l'elettore può scegliere due
+nominativi.
+3. L'elettore può votare per un candidato alla carica di sindaco
+e per un candidato alla carica di vice sindaco ad esso collegato,
+segnando con l'apposito indicatore un punto qualsiasi del
+rettangolo della scheda virtuale contenente i nominativi stessi;
+l'elettore può altresì esprimere due voti di preferenza per i
+candidati alla carica di consigliere comunale compresi nella lista
+collegata ai candidati alle cariche di sindaco e di vice sindaco
+prescelti, puntando con l'apposito indicatore i nominativi indicati
+sulla scheda; altri segni o indicazioni sono inibiti
+dall'apparecchiatura elettronica.
+l) articolo 54 (Voti di preferenza nei comuni con popolazione
+sino a 15.000 abitanti), comma 3:
+3. Il voto di preferenza si esprime puntando con l'apposito
+indicatore i nominativi dei due candidati prescelti. In caso di
+identità di cognome e nome tra candidati la scheda virtuale
+presenterà anche la data di nascita dei candidati omonimi.
+m) articolo 62 (Spoglio dei voti), commi 1 e 2:
+1. Immediatamente dopo aver effettuato le operazioni di cui
+all'articolo 51, comma 1, lett. c), il presidente da inizio alle
+operazioni di spoglio elettronico dei voti.
+2. Le operazioni di spoglio saranno effettuate automaticamente
+dall'apparecchiatura elettronica, attivata dal presidente; del
+compimento e del risultato delle operazioni medesime deve farsi
+menzione nel verbale.
+n) articolo 64 (Proclamazione degli eletti nei comuni con
+popolazione sino a 15.000 abitanti), commi 1 e 5:
+1. Al termine delle operazioni di spoglio elettronico il
+presidente estrae dall'apparecchiatura elettronica il supporto
+magnetico contenente tutti i dati relativi alla votazione, dichiara
+il risultato dello scrutinio, lo certifica nel verbale e, se il
+comune ha un'unica sezione elettorale, procede alla proclamazione
+degli eletti, salve le definitive decisioni del Consiglio comunale,
+ai sensi dell'articolo 71.
+5. Insieme con l'esemplare del verbale, con tutti gli allegati,
+deve essere inviato alla Presidenza della giunta regionale il
+supporto magnetico contenente tutti i dati relativi alla votazione;
+se il comune ha più di una sezione il supporto magnetico è inviato
+al presidente della prima sezione, che provvederà al successivo
+inoltro al Presidente della Giunta regionale, dopo il compimento
+delle operazioni previste dall'articolo 65.
+o) articolo 65 (Adunanza dei presidenti delle sezioni), commi 1
+e 4:
+1. Il presidente dell'ufficio della prima sezione, quando il
+comune ha più sezioni, terminate le operazioni di scrutinio di
+tutte le sezioni del comune riunisce i presidenti delle altre
+sezioni o chi ne fa le veci e, insieme ad essi, riassume i
+risultati degli scrutini delle varie sezioni, senza poterne
+modificare il risultato, pronuncia sopra qualunque incidente
+relativo alle operazioni ad essi affidate e procede alla
+proclamazione degli eletti, salve le definitive decisioni del
+Consiglio comunale ai sensi dell'articolo 71.
+4. Tutte le operazioni relative all'adunanza delle sezioni
+devono essere ultimate entro dodici ore dal loro inizio.
+Articolo 4 1. In occasione dello svolgimento delle consultazioni
+elettorali previste all'articolo 1 non trovano applicazione le
+seguenti disposizioni della legge regionale 4/95:
+a) articolo 31 (Bolli delle sezioni e urne), comma 1,
+relativamente all'uso delle urne e delle cassette utilizzate per le
+elezioni della Camera dei Deputati;
+b) articolo 46 (Mantenimento dell'ordine pubblico nel seggio),
+comma 7, relativamente alla restituzione delle schede;
+c) articolo 48 (Operazioni preliminari del seggio), commi 2, 3,
+4, e 6 e comma 8, relativamente all'operazione di sigillo delle
+urne e delle scatole contenenti le schede;
+d) articolo 50 (Operazioni di votazione), commi 4, 5 e 6;
+e) articolo 51 (Accertamento del numero dei votanti), comma 1,
+lett. b), d) e f) e commi 2 e 3;
+f) articolo 52 (Verbalizzazione degli incidenti e dei reclami),
+comma 1, relativamente alla nullità dei voti e comma 2,
+relativamente all'attribuzione dei voti contestati;
+g) articolo 54 (Voti di preferenza nei comuni con popolazione
+sino a 15.000 abitanti), commi 4, 5, 6, 7, 9 e 10;
+h) articolo 62 (Spoglio dei voti), commi 3, 4, 5, 6, 7, 8 e
+9;
+i) articolo 63 (Nullità del voto - Schede bianche).
+Articolo 5 1. Il presidente, al termine di tutte le operazioni,
+dopo aver disattivato le apparecchiature elettroniche della
+sezione, provvede a recuperare i supporti magnetici ricevuti in
+dotazione dal Comune e contenenti le liste elettorali, e ad
+inserire i supporti suddetti in appositi plichi sigillati per la
+restituzione al Comune.
+Articolo 6 1. Le disposizioni della presente legge si applicano
+anche in occasione dell'eventuale secondo turno di votazione per
+l'elezione del sindaco e del vice sindaco a seguito delle votazioni
+di cui all'articolo 1.
+Articolo 7 1. Il Presidente della Giunta regionale è autorizzato
+a provvedere, con propri decreti, agli ulteriori adattamenti
+tecnici delle procedure, previste dalla legge regionale 4/95, che
+si renderanno necessari nel corso della predisposizione della
+sperimentazione.
+Articolo 8 1. L'onere derivante dalla presente legge, valutato
+in lire 574 milioni, è interamente coperto dal finanziamento
+statale disposto per il progetto "Carta del cittadino - voto
+elettronico", presentato dalla Regione Valle d'Aosta e dal
+Ministero dell'interno ed approvato con decreto interministeriale
+del 27 luglio 1995, ai sensi dell'articolo 7 del decreto del
+Presidente della Repubblica 19 aprile 1994, n. 303 (Regolamento per
+la disciplina dei progetti finalizzati al miglioramento dei
+servizi, dei progetti sperimentali di tipo strumentale e per
+obiettivo, e dei progetti pilota finalizzati al recupero della
+produttività).
+2. Alle variazioni di bilancio eventualmente necessarie
+all'utilizzo dei fondi di cui al comma 1 provvede la Giunta
+regionale con proprio atto.
+Articolo 9 1. La presente legge è dichiarata urgente ai sensi
+dell'articolo 31, comma terzo, dello Statuto speciale per la Valle
+d'Aosta ed entrerà in vigore il giorno successivo a quello della
+sua pubblicazione nel Bollettino ufficiale della Regione.
+Président La parole au rapporteur, Conseiller Joseph César
+Perrin.
+Perrin G.C. (UV) Lorsqu'en 1994-1995 ce Conseil discuta la loi
+régionale pour les élections des conseils communaux, de plusieurs
+côtés avait été formulée la requête que l'on puisse introduire le
+vote électronique. Il y a deux ans, nous étions évidemment dans
+l'impossibilité d'introduire pour les élections communales de 1995
+un système si innovateur.
+Ce Conseil avait cependant donné mandat au Gouvernement, par
+l'alinéa 2 de l'article 78 de la loi régionale n° 4/95, de
+s'occuper de ce problème, en vérifiant la possibilité
+d'introduction du vote électronique et de présenter les
+modifications nécessaires à la loi susdite le cas échéant.
+Suite à ce mandat et au travail accompli par les techniciens du
+secteur, le Gouvernement a présenté le projet de loi que nous
+discutons, projet visant à expérimenter le vote électronique dans
+un nombre réduit de sections électorales - 6 en l'occurrence - afin
+de tester ce système et de vérifier ainsi la possibilité de
+l'étendre dans le futur sur tout le territoire valdôtain.
+Les 6 sections seront fixées par un décret du Président du
+Gouvernement régional, et toutes les opérations concernant cette
+expérimentation seront suivies par la Présidence du Gouvernement
+même avec la collaboration du Département de la fonction publique
+de la Présidence du Conseil des Ministres, sous la coordination de
+la Direction centrale pour les services électoraux du Ministère de
+l'intérieur. Ces deux organismes fourniront en sus les appareils et
+le personnel technique nécessaire.
+Le financement même, évalué à 574 millions de lires, sera assuré
+par l'Etat dans le cadre du projet "Carta del cittadino - voto
+elettronico", présenté par la Région Vallée d'Aoste et par le
+Ministère de l'intérieur, et approuvé par décret interministériel
+du 27 juillet '95.
+Je n'illustre pas ici le système électronique, qui sera
+introduit dans cette expérimentation, car tout cela est très bien
+expliqué dans le rapport qui accompagne le projet de loi.
+Aux électeurs intéressés une carte électronique sera fournie,
+contenant toutes les données nécessaires; carte qui substituera
+l'ancien certificat électoral. Cela signifiera que toutes les
+opérations préliminaires au vote seront simplifiées.
+L'informatisation de ces opérations de scrutin aura le même
+effet, ainsi que celui de diminuer les temps nécessaires pour les
+opérations de vote.
+Ce système assure le secret du vote exprimé, élimine toute
+possibilité de faute matérielle dans l'expression du vote, diminue
+les dépenses, facilite le vote même, car l'électeur n'aura plus
+besoin d'écrire le nom du candidat, auquel il veut attribuer sa
+préférence, garantit la sûreté de toutes les opérations de vote et
+de scrutin, celui-ci devenant automatique.
+Si l'article 1 fixe les finalités de cette loi, tous les autres
+concernent les modifications lexicales et techniques pour adapter
+la loi régionale n° 4/95 afin de permettre l'expérimentation en
+question.
+Si dà atto che, dalle ore 12,05, presiede il Vicepresidente
+Aloisi.
+Presidente É aperta la discussione generale.
+Ha chiesto la parola il Consigliere Tibaldi.
+Tibaldi (Ind) Da una prima lettura di questo disegno di legge,
+mi è parso che l'introduzione della tecnologia in quella che è la
+formula del voto sia più che mai una cosa naturale ed anche
+auspicabile, perché permette la semplificazione di certe procedure
+sia da parte dell'elettore, sia da parte di coloro che alla fine
+procedono al conteggio dei voti.
+Però da una seconda lettura mi pare che questo disegno di legge
+- però vorrei essere confortato in questo dal relatore o dal
+Presidente - elida una libertà, che è la libertà dell'annullamento
+della scheda. É vero che il diritto costituzionale prevede la
+libertà di voto, di espressione, e potrebbe essere inteso solamente
+in un senso restrittivo, però sotto un altro profilo anche la
+possibilità che un cittadino esprima, o meglio non esprima
+preferenze verso una lista o verso determinati candidati, secondo
+me dovrebbe essere salvaguardata, perché è comunque una
+manifestazione di volontà.
+La mia è un'osservazione interlocutoria, nel senso che o il
+Presidente o il relatore possono essere in grado di colmare questa
+preoccupazione.
+Presidente Ha chiesto la parola il Consigliere Marguerettaz.
+Marguerettaz (PpVA) La materia elettronica per certi versi
+affascina e per certi versi spaventa, almeno la mia sensazione di
+fronte a queste cose è un po' questa.
+Davvero mi preoccupa immaginare - anche se nella relazione è
+detto che si farà di tutto per... - le persone anziane in
+particolare che si recheranno a votare e si troveranno di fronte a
+questa strana macchina, con la quale poco hanno a che vedere. É
+chiaro, si tratta di una sperimentazione, saranno tutte cose che
+vedremo in seguito, però c'è un certo timore ad iniziare questa pur
+piccola sperimentazione.
+Un'altra cosa che mi chiedevo era questa, proprio da un punto di
+vista tecnico. L'elettore che si accorge di aver compiuto un
+errore, la legge dice che si reca dal Presidente del seggio il
+quale ha la potestà di annullare l'ultimo voto. É un meccanismo
+diverso dal precedente, nel senso che poniamo il caso che
+l'elettore entri nella cabina e non esprima la sua votazione - ad
+esempio un anarchico - dopo di che esce e dichiara al Presidente di
+aver sbagliato a votare, il Presidente annulla l'ultima votazione
+che non corrisponde a quella dell'elettore. Con il materiale
+cartaceo questo non succede. Io, abitassi a Jovençan, penso che
+farei così...
+(... ilarità dell'assemblea...)
+Presidente Se nessun altro chiede la parola, dichiaro chiusa la
+discussione generale.
+Ha chiesto la parola il Consigliere Joseph César Perrin.
+Perrin G.C. (UV) Je dois avouer qu'au point de vue technique moi
+je ne connais pas à la perfection ce système, au-delà de ce que
+j'ai pu lire et entendre des responsables du Service électoral, qui
+assurent que, puisque chaque citoyen a sa carte personnelle, il n'y
+a pas de possibilité de manipuler le vote donné par un autre
+électeur. Je ne sais pas dire de quelle façon au point de vue
+technique cela fonctionne, mais je crois que M. Marguerettaz peut
+être assuré de ce côté.
+Pour ce qui concerne les personnes plus âgées, je crois qu'il y
+a une facilitation, parce que maintenant elles doivent voter le
+symbole de la liste et en cas de préférence écrire le nom des
+candidats choisis, auxquels ils veulent réserver la préférence. A
+travers ce nouveau système sur l'écran apparaît le bulletin
+électoral dans son ensemble, avec le nom de tous les candidats et
+avec le crayon particulier l'électeur n'a qu'à appuyer et
+automatiquement le vote est enregistré. Donc cela facilite les
+personnes les plus âgées.
+Quant au problème proposé par M. Tibaldi, c'est-à-dire ce
+système "elide la libertà di annullamento delle schede", cela est
+peut-être vrai, mais au point de vue légal on a droit de voter, on
+a droit de ne pas voter, on n'a pas le droit d'annuler en écrivant
+je ne sais pas quelle expression. Le droit de ne pas voter est
+respecté, parce que l'appareillage permet de voter en blanc et
+immédiatement le vote en blanc est enregistré. Si j'ai bien
+compris, la préoccupation de M. Tibaldi était celle d'annuler le
+bulletin, et cela n'est pas possible parce que l'appareillage
+n'accepte pas plus d'un symbole et cela facilite aussi l'électeur
+parce qu'il se trouve dans les conditions matérielles plus
+favorables. Mais l'annulation d'un bulletin n'est pas un droit du
+citoyen.
+Presidente Ha chiesto la parola il Consigliere Tibaldi per
+dichiarazione di voto.
+Tibaldi (Ind) Sia in commissione che in Consiglio voterò
+favorevolmente questo disegno di legge, però c'è da dire
+questo.
+É vero che esiste il diritto di voto, siamo in una democrazia, e
+quindi esiste la libertà per ogni cittadino di esprimere una
+propria manifestazione di volontà; tra queste manifestazioni di
+volontà - penso di non essere l'unico - faccio rientrare anche
+quella manifestazione di non volontà che si esplicita attraverso
+una scheda bianca, oppure quell'altra manifestazione di non
+volontà, che si esplicita attraverso una scheda che viene
+annullata. D'altronde finora abbiamo visto che ci sono voti per le
+diverse liste, schede bianche ed anche schede nulle, dove
+l'elettore si comporta non esprimendo una volontà, ma esprimendola
+in maniera difforme da quelle che sono le regole canoniche che sono
+previste per l'esercizio del diritto di voto. Però, ripeto, è una
+preoccupazione che mi resta.
+Visto che uno degli scopi del progetto è quello di eliminare gli
+errori materiali sia nell'espressione del voto che nel calcolo dei
+voti, c'è il rischio che il computer o quello che sarà il
+meccanismo informatico elettronico - per carità, in via
+sperimentale, come viene previsto per sei sezioni - impedisca
+all'elettore di compiere quegli errori volontari che costituiscono
+l'espressione di una non volontà di voto. Secondo me questa può
+essere letta anche come una limitazione della gamma di libertà che
+ha previsto il nostro sistema democratico.
+É stato sperimentato in altre parti del nostro Paese, è giusto
+che venga sperimentato anche qui, per questo lo voterò
+favorevolmente, però penso che sia una preoccupazione quanto mai
+condivisibile.
+Presidente Ha chiesto la parola il Presidente della Giunta, Dino
+Viérin.
+Viérin D. (UV) Plusieurs l'ont déjà souligné, il s'agit d'une
+expérimentation, donc il s'agit de dépasser cette crainte qui nous
+saisit tous quand il faut modifier certaines habitudes et surtout
+quand on est confronté à de nouvelles technologies. C'est un peu -
+avec d'autres contextes - les mêmes craintes qui ont accompagné la
+révolution industrielle et le passage à l'ère de
+l'industrialisation.
+Nous sommes aujourd'hui confrontés à une autre révolution
+technologique et tous les instruments télématiques commencent,
+petit à petit, à faire partie de notre société. Et même sur le plan
+des expressions de vote il y a cette nécessité d'utiliser cet
+instrument, pour améliorer le fonctionnement des bureaux de vote et
+également l'efficacité des opérations qui ont trait au
+dépouillement, pour éviter que ces mêmes opérations s'effectuent
+parfois dans des conditions pénibles pour ceux qui font partie du
+Bureau électoral.
+Il faudra vérifier cette expérimentation, ce sont 6 bureaux de
+vote; la commune de Jovençan ne sera pas encore concernée, donc
+nous ne pourrons pas vérifier quel sera le comportement de M.
+Marguerettaz, surtout nous ne pourrons pas lui enlever le plaisir
+d'intervenir sur les problèmes de la commune d'Aoste. Ce seront les
+communes d'Arnad, de La Salle et de Valsavarenche qui seront
+concernées par cette expérimentation, deux bureaux de vote de la
+commune d'Arnad, trois de la commune de La Salle et un de la
+commune de Valsavarenche.
+Nous aurons nous, mais également de concert avec la Présidence
+du Conseil des ministres, la possibilité de vérifier les résultats
+de cette expérimentation.
+Quant aux problèmes de l'expression de la volonté de l'électeur,
+là un débat s'est ouvert; au-delà du respect des volontés: je
+participe au vote, je ne participe pas, je ne veux pas exprimer ma
+volonté et donc je suis pour un bulletin blanc, mais du point de
+vue de l'analyse du vote et surtout des décisions du bureau, la
+plus grande partie des bulletins nuls sont dus à des fautes. Là
+encore il est difficile d'interpréter si ces fautes sont voulues ou
+si elles dépendent simplement de difficultés d'interprétation. Sur
+la base de ces nouvelles dispositions on pourrait avoir des
+résultats différents; je ne veux pas me rapporter à la composition
+de cette assemblée, mais si lors des élections de 88 on avait déjà
+utilisé pour les élections régionales ce système électronique,
+certainement la composition de l'assemblée en aurait été modifiée.
+Ce sont les procès-verbaux des différents bureaux électoraux qui
+nous le confirment.
+Je pense qu'il est en tout cas nécessaire, avec un peu de
+confiance vis-à-vis de ces nouvelles technologies, d'essayer de
+vérifier quel en sera l'impact. C'est pour toutes ces raisons que
+nous avons accepté d'adhérer au projet, qui a été élaboré par la
+Présidence du Conseil des ministres, concernant la Charte
+électronique du citoyen, c'est pour cela que nous confirmons notre
+avis favorable et que nous vous demandons de bien vouloir le
+voter.
+Presidente Si passa all'esame dell'articolato. Pongo in
+votazione l'articolo 1:
+Presenti, votanti e favorevoli: 31
+Presidente Pongo in votazione l'articolo 2:
+Presenti, votanti e favorevoli: 31
+Presidente Pongo in votazione l'articolo 3:
+Presenti, votanti e favorevoli: 31
+Presidente Pongo in votazione l'articolo 4:
+Presenti, votanti e favorevoli: 31
+Presidente Pongo in votazione l'articolo 5:
+Presenti, votanti e favorevoli: 31
+Presidente Pongo in votazione l'articolo 6:
+Presenti, votanti e favorevoli: 31
+Presidente Pongo in votazione l'articolo 7:
+Presenti, votanti e favorevoli: 31
+Presidente Pongo in votazione l'articolo 8:
+Presenti, votanti e favorevoli: 31
+Presidente Pongo in votazione l'articolo 9:
+Presenti, votanti e favorevoli: 31
+Presidente Pongo in votazione la legge nel suo complesso:
+Presenti, votanti e favorevoli: 31

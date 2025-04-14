@@ -1,0 +1,617 @@
+Classificazione
+(Nessuna classificazione presente)
+
+
+Resoconto integrale del dibattito dell'aula
+Oggetto del Consiglio n. 2465 del 24 luglio 1991 - Resoconto
+OGGETTO N. 2465/IX Disegno di legge: "Disposizioni per lo
+sviluppo e la realizzazione del sistema informativo sanitario
+regionale".
+Presidente
+Ha chiesto di parlare il relatore,
+Consigliere Ricco, ne ha facoltà.
+Ricco (DC)
+Quando si parla di informatica, la
+mente corre immediatamente alle aziende, agli studi professionali,
+ai centri di ricerca.
+Ma esiste anche un altro mondo dove il suo ruolo è diventato
+strategico per la risoluzione dei problemi e lo snellimento di
+procedure: la Pubblica Amministrazione e fra cui anche le U.S.L. e
+i Comuni che, della immediata utilità, fanno dell'informatica uno
+strumento di autoriforma organizzativa e funzionale.
+Comincio con il ricordare l'articolo 58 legge 833/1978, che
+riguarda il piano sanitario.
+Nel piano sanitario nazionale sono previsti specifici programmi
+di attività per la rilevazione e la gestione delle informazioni
+epidemiologiche, statistiche e finanziarie occorrenti per la
+programmazione sanitaria nazionale e regionale e per la gestione di
+servizi sanitari.
+I programmi di attività sono attuati dall'Istituto Superiore di
+Sanità.
+Le regioni devono provvedere ai servizi di informatica che
+devono essere organizzati tenendo conto delle articolazioni del
+servizio sanitario nazionale.
+Abbiamo anche l'articolo 17 della legge regionale 21/1981.
+Il piano socio-sanitario regionale determina l'organizzazione
+del sistema informativo del servizio socio-sanitario regionale.
+La sede gestionale del suddetto sistema informativo è ubicata
+nell'Assessorato della sanità presso il quale la Giunta regionale
+provvede per l'impianto e l'utilizzazione dei necessari strumenti
+di elaborazione elettronica e/o elettromeccanografica.
+Ancora gli articoli 53-54 della legge regionale 70/1982.
+Ai fini dell'esercizio delle proprie funzioni di valutazione,
+verifica, indirizzo e programmazione delle attività del servizio
+socio-sanitario regionale, è istituito l'osservatorio
+epidemiologico regionale che costituisce supporto
+tecnico-scientifico al fine di:
+- valutare lo stato di salute della popolazione in relazione al
+tempo, allo spazio ed alle caratteristiche individuali dei
+gruppi;
+- individuare i fattori di rischio negli ambienti di vita e di
+lavoro;
+- valutare l'efficacia degli interventi e i benefici prodotti in
+relazione alle risorse utilizzate;
+- predisporre una relazione annuale sullo stato sanitario della
+Regione;
+- predisporre la relazione sulla gestione ed efficienza dei
+servizi sanitari di cui all'articolo 49 della legge 833/79;
+- favorire e promuovere la ricerca finalizzata alla
+realizzazione degli obiettivi del servizio sanitario regionale;
+- favorire la diffusione della conoscenza dei principi
+fondamentali dell'approccio epidemiologico fra tutti gli operatori
+del servizio sociosanitario regionale.
+L'osservatorio epidemiologico svolge i propri compiti mediante i
+servizi e gli uffici dell'Assessorato regionale della sanità ed
+assistenza sociale e si avvale della collaborazione dei servizi e
+delle strutture dell'U.S.L.
+Quindi anche la nostra Regione è obbligata ad affrontare i
+problemi della informatizzazione del servizio sanitario regio-nale
+relativi alla rilevazione, elaborazione e diffusione dei dati
+informativi che riguardano per esempio, le condizioni della salute
+della popolazione valdostana ed i fattori che determinano gli stati
+di malattia e di disagio; la consistenza delle strutture sanitarie
+e gli aspetti di funzionalità relativi ai carichi di lavoro ed alla
+domanda soddisfatta; gli aspetti economici-finanziari del
+funzionamento del sistema; gli aspetti di tipo relazionale tra i
+soggetti e il servizio sanitario.
+Il disegno di legge oggi in discussione mira a soddisfare le
+esigenze di intervenire nel settore del rinnovamento tecnologico
+delle apparecchiature medico-sanitarie e disciplina sia la
+programmazione che l'attuazione delle iniziative, provvedendo anche
+ad integrare con mezzi finanziari propri i finanziamenti
+provenienti dal Fondo Sanitario Nazionale.
+Presidente
+E' aperta la discussione generale.
+Ha chiesto di parlare il Cnosigliere Louvin, ne ha facoltà.
+Louvin (UV)
+J'aurais quelques remarques à faire et
+des questions également à poser au sujet de ce projet de loi, quant
+à l'articulation que l'on veut donner à ce nouveau système
+informatisé dans le domaine de la santé.
+D'abord, pour ce qui a trait aux aspects économiques et
+financiers, je voudrais poser une question qui concerne les
+relations que l'on entend établir entre le système sanitaire et le
+centre d'élaboration des données de l'Administration régionale.
+Est-ce que par cette intervention nous souhaitons constituer un
+noyau informatisé en quelque sorte autonome, ou bien une structure
+qui soit étroitement liée au S.E.D. de la Région pour ce qui a
+trait à la gestion des données économiques et financières?
+La deuxième question concerne "gli aspetti di tipo relazionale
+fra i soggetti e il sistema sanitario regionale". Est-ce que par là
+nous allons traiter d'une façon informatisée des protestations, des
+requêtes, des sollicitations qui sont adressées par les citoyens,
+ou bien quel est-il cet aspect de type "relazionale" dont on fait
+état dans le rapport qui nous est présenté par l'Assessorat?
+Je demande cela parce qu'un certain nombre de questions me sont
+venues à l'esprit quand me je suis trouvé dans la commission pour
+couvrir une place de concours de vice-dirigeant, il s'agissait
+d'une place que l'on estimait stratégiquement importante,
+responsable de l'informatisation des services pour le département
+de la santé, et au cours de ce concours j'ai appris un certain
+nombre de choses fort intéressantes, notamment qu'il y avait des
+choix importants à faire d'abord entre l'informatisation à base
+hardware et celle software. Là dans le projet de loi on indique
+alternativement l'adoption de ces deux systèmes, mais il paraît
+qu'il y a quand même une certaine différence entre les deux, et
+deuxièmement pour ce qui est des machines à employer.
+Ce n'est pas une pure curiosité, mais ce a trait à la gestion du
+travail et au rapport que auront les fonctionnaires avec les
+machines qu'il devront employer. Il nous avait été signalé une
+distinction fondamentale entre les machines complexes et les
+machines que l'on appelait "a misura di scemo", qui étaient des
+machines que les personnes d'un niveau d'intelligence et de
+pratique habituelle, parmi lesquelles nous sommes très nombreux à
+nous ranger, auraient pu accéder facilement. Cela est important
+dans la mesure où le fonctionnaire, qui n'a pas une compétence
+spécifique dans l'informatique, peut accéder à ces machines et peut
+contribuer aussi au travail, ou bien s'il on adopte des machines
+complexes, il faut avoir du personnel hautement qualifié, donc des
+informaticiens pour la gestion du travail.
+Ce sont celles-là les questions d'ordre plutôt technique que je
+voulais poser à l'Assesseur, de même de lui demander s'il entend
+procéder à l'informatisation en se servant de l'INVA, qui était
+dans l'esprit de l'Administration régionale en peu la cheville
+ouvrière pour l'informatisation de l'ensemble de l'Administration,
+ou bien si l'on entend suivre d'autres chemins pour atteindre les
+objectifs qui sont énoncés dans le projet de loi.
+Presidente
+Ha chiesto di parlare il Consigliere
+Voyat, ne ha facoltà.
+Voyat (UV)
+Vorrei chiedere all'Assessore se ci
+vuole dare qualche dato in più di quello che potrebbe rappresentare
+l'intenzione di questa legge, in quanto sistema informativo
+regionale può comprendere tante cose e ne può escludere altre.
+Per quanto mi ricordo, alcuni anni fa delle regioni avevano
+cominciato a fare un discorso per la informatizzazione regio-nale
+ed erano state bloccate dal consiglio sanitario nazionale, in
+quanto era in quel momento allo studio, ed anzi in fase di
+applicazione, un progetto in due o tre regioni pilota in Italia,
+che poi avrebbe dovuto essere applicato in tutte le Regioni.
+Questo progetto informativo nazionale era stato fortemente
+contestato dalle regioni, in quanto prevedeva quasi esclusivamente
+la ricerca e la trasmissione di dati che servivano allo stato, ma
+non era sufficiente per quelli che erano i dati di cui ogni regione
+aveva bisogno.
+Pertanto, come dicevo, c'erano delle regioni che stavano
+scappando, ognuna cercava di applicare un suo programma informativo
+che andasse secondo le sue esigenze, ma esulava da quelle che erano
+le necessità del progetto informativo nazionale.
+Nella relazione non è scritto, ma penso che se il progetto
+informativo nazionale è andato avanti, quello che verrà applicato
+in Valle d'Aosta dovrà ripercorrere la strada di quel progetto, con
+l'aggiunta al limite di quei programmi che interessano
+specificatamente la Regione. Anche perché al punto 2 della
+deliberazione si dice che gli interventi di cui al comma 1, si
+attuano con provvedimenti della Giunta regionale diretti ad
+attivare e/o acquistare procedure, programmi, metodologie a base di
+informatizzazione software e così via.
+Nello stesso tempo vorrei chiedere se si hanno notizie di un
+piano sui controlli dei consumi dei farmaci, e al limite se questo
+può rientrare nel programma, così come la meccanizzazione (cosa che
+era già stata discussa anni fa) per il rilascio delle cartelle
+cliniche. Questo secondo punto sarebbe molto più specifico e
+solo
+attuabile attraverso un programma da acquistare da un'altra
+regione, invece il primo senz'altro dovrebbe avere un sistema di
+controllo più specifico per la nostra regione.
+Faccio queste domande perché in un progetto informativo possono
+entrare tante cose ed è un po' vago il riportare solo quelle che
+possono essere le condizioni della salute della popolazione, o la
+consistenza delle strutture sanitarie.
+Presidente
+Ha chiesto di parlare il Consigliere
+Rollandin, ne ha facoltà.
+Rollandin (UV)
+La relation qui a été faite de la
+part de M. Ricco est intéressante comme rappel des lois existantes.
+C'est un "Bignami" des lois sur la santé concernant l'évolution
+possible du domaine de la santé.
+C'est sans doute intéressant, mais il n'a rien à voir avec ce
+qu'on voudrais faire. En commission l'Assesseur l'avait avoué: avec
+cet argent on va payer des machines qu'on a achetées pendant
+l'année; par conséquent je comprends qu'il y a eu des difficultés
+et on présente aujourd'hui le projet de loi pour soutenir les frais
+d'achats déjà faits. De ce fait je crois que le dis-cours pourrait
+être aujourd'hui très simple: c'est une "sanatoria".
+Plus important ce serait - je ne sais pas si l'Assesseur aura
+l'intention de le faire - un débat sur ce qui est l'informatisation
+du système sanitaire; à cet égard M. Bajocco pourrait en dire
+quelque chose, étant donné qu'il a présenté à maintes reprises des
+interpellations sur le laboratoire d'analyses de l'hôpital, sur les
+temps d'attente, sur le fonctionnement et cetera Là c'est un des
+secteurs informatisés, c'est un des secteurs qui auraient donné des
+réponses rapides, qui auraient dû donner des résultats par rapport
+à ce qui est le choix qui avait fait il y a quelque temps, de
+présenter une amélioration dans son ensemble du système
+sanitaire.
+En même temps je voudrais rappeler que l'informatisation du
+système sanitaire prévoit différentes propositions et c'est tout à
+fait normal que avec 500 millions on ne pourrait quand même
+résoudre le problème. Là il s'agit d'un projet qui prévoit soit la
+phase administrative, qui doit être gérée à travers la U.S.L. en
+accord avec l'Assessorat compétent, soit une série de données qui
+seraient réglées avec la fameuse "anagrafe degli utenti", qui
+devrait donner comme résultat cette fameuse fiche sanitaire. Cette
+fiche, avec un système sur le type Bancomat, devrait résoudre les
+problèmes pour ce qui est de l'accès aux différents laboratoires et
+en même temps, dans les cas extrêmes, nous devrait donner la
+possibilité de connaître tout de suite le groupe sanguin, et
+cetera
+J'ai voulu rappeler ces aspects pour dire que le système
+d'informatisation de la santé c'est vraiment un problème
+important.
+Je crois que, au contraire, avec cette proposition on va payer
+l'achat de quelques ordinateurs, et alors le problème est assez
+réduit. En commission on avait présenté un amendement au moment du
+débat, là où on prévoyait au point 2 de l'article 1: "Gli
+interventi di cui al comma 1 si attuano con provvedimenti della
+Giunta attraverso la società INVA". Le collègue l'a rappelé, doit y
+être une liaison entre le S.E.D., le centre de l'Administration
+régionale, le centre hypothétique de la santé de la U.S.L.,
+l'Anagrafe qui doit être de base pour la santé comme pour les
+autres domaines, et l'INVA, qui par statut doit déjà suivre les
+différentes élaborations nécessaires. L'Assesseur nous avait donné
+son appui à ce propos, tout en excluant de présenter un amendement,
+car il l'aurait fait tout de même, bonne mémoire de ce qu'on avait
+souligné, et il nous avait assuré que l'INVA c'était la société qui
+s'occupait des différents problèmes des programmes.
+A ce propos je le veux rappeler: pour éviter de présenter des
+amendements à ce projet de loi. On sait quelle a été la difficulté
+de démarrer de la part de cette société. C'est une société mixte
+qui travaille pour les différentes sociétés existant au niveau des
+entreprises privées, au niveau des communes, au niveau de
+l'Administration régionale, en donnant les résultats sur les
+différents thèmes que soit l'Administration régionale que les
+autres Communes ont présentés. Il y a eu, comme c'était logique,
+des programmes de formation du personnel, car c'est important que
+les employés actuels aient la possibilité de comprendre le système
+et de pouvoir utiliser les ordinateurs de façon conséquente.
+Autrement le risque c'est d'avoir une Ferrari qu'on ne sait pas
+piloter: conduire c'est plus difficile que acheter et c'est un peu
+ce qui s'est passé dans certains endroits, là où on avait des
+programmes très sophistiques et par la suite on a eu le malheur de
+ne pas avoir le personnel préparé.
+Vu qu'avec ce financement on paie les dettes, c'était important
+de le dire sans aller trop loin; en effet ici de
+sistema
+epidemiologico
+on n'en parle pas; il ne s'agit pas de déranger
+de gros mots, rien de ces thèmes sera saisi avec ce projet de loi.
+C'est tout autre chose, c'est tout à régler, c'est encore à
+inventer comme possibilité de coordonner, ce qui existe déjà. Je ne
+voudrais pas qu'il y ait des malentendus: des données existent, ce
+qui manque c'est le système de les utiliser. Voilà l'exigence
+d'avoir un système sanitaire unifié, car aujourd'hui des projets
+existent, ce qui manque c'est de donner une réponse à la relation
+de M. Ricco, car les lois existent, la loi régionale existe depuis
+1991, c'est le restant qui manque. M. Ricco, pour donner une
+réponse à sa relation, il ne suffirait pas vingt milliards. C'est
+une petite question. Les lois sont correctes, c'est l'application
+conséquente qui manque; ici on va faire une opération comptable de
+notre système.
+Pour conclure, j'ai voulu rappeler les laboratoires, les
+différentes centres de consultation, les réponses aux centres de
+consultation mêmes, ce serait important qu'ils soient informatisés,
+afin que les réponses puissent être données dans un délai plus
+bref. La même chose pourrait se passer à l'intérieur de ce qui est
+l'organisation du travail de l'hôpital, ce qu'on est en train de
+faire avec des programmes par secteur.
+Je m'attends de la part de l'Assesseur au moins deux mots, afin
+qu'il puisse réaffirmer sa volonté d'utiliser les bureaux de l'INVA
+et l'expérience de l'INVA pour le futur; pour le restant je crois
+qu'on peut partager le fait que, même si par étapes, on puisse
+arriver à la réalisation d'un système informatif conséquent.
+Presidente
+Ha chiesto di parlare il Consigliere
+Viérin, ne ha facoltà.
+Viérin (UV)
+Je voudrais formuler une
+recommandation à l'Assesseur. Une recommandation qui est la
+conséquence de la réunion du comité régional pour l'informatique.
+Je fait partie, avec Mme Monami de ce comité et, lors de la
+réunion, en discutant avec les responsables régionaux du secteur,
+est ressortie l'exigence, par ailleurs affirmée à l'article 2 du
+projet de loi, d'une coordination étroite entre le système
+informatique sanitaire et le sys-tème informatique régionale quant
+à la compatibilité des logiciels utilisés.
+A cet égard, je veux donc prier l'Assesseur de bien vouloir
+suivre avec attention l'application effective de cet article 2, qui
+pourra nous assurer la mise en service d'un système informatisé,
+avec possibilités d'intercommunication et donc d'exploitation
+accrue quant aux besoins et aux nécessités.
+Presidente
+Dichiaro chiusa la discussione
+generale.
+Ha chiesto di parlare l'Assessore alla Sanità e Assistenza
+Sociale Beneforti, ne ha facoltà.
+Beneforti (DC)
+Credo di dover chiarire le
+motivazioni di questo disegno di legge, che non è certamente un
+oggetto strano, come abbiamo detto anche a livello di commissione
+quando ci siamo incontrati.
+Questo disegno di legge ha due obiettivi fondamentali: il primo,
+e mi pare che qualche intervento lo abbia ricordato, è quello di
+soddisfare le richieste di informatizzazione che ci sono state
+inoltrate dalla USL e dai suoi servizi, e che sono state già
+esaminate dalla apposita commissione e accettate. Richieste che
+sono state accettate dalla commissione, che era stata costituita e
+della quale fanno parte l'Assessorato, il SED e la USL, e che sono
+rimaste inevase in quanto non c'erano finanziamenti; con questo
+disegno di legge si intende prelevare dal fondo globale 500 milioni
+per far fronte anche a questi impegni che erano stati assunti. Non
+sto qui a farvi l'elenco degli interventi che dovevano essere
+fatti, ve lo posso far avere.
+Il secondo obiettivo è quello di costruire un sistema
+informativo sanitario regionale, che sia coordinato con gli
+sviluppi del sistema informativo generale della Regione, e questo
+lo ribadiamo nel disegno di legge; non vogliamo fare niente di
+anormale, vogliamo costruire un sistema informativo della sanità a
+livello regionale che sia coordinato con il sistema informativo che
+esiste nella nostra Regione. Quindi non è che vogliamo andare ad
+inventare niente, o a fare qualcosa che è in contrasto con quello
+che è stato deciso o qualcosa di nuovo che vogliamo mettere in
+atto. Nel settore della sanità, in questo campo, non si può più
+certamente accusare ritardi, è una scelta, questa della legge, che
+ci proviene da uno stato di necessità che è quotidiano; senza un
+sistema informativo non si può programmare nè far fronte e superare
+molte delle carenze oggi esistenti, come non si può certamente
+mettere ordine nelle richieste che ci provengono dalla USL e dalle
+singole unità operative dell'ospedale regionale, e anche dai
+poliambulatori esistenti sul territorio. Quindi ci deve essere
+nell'ambito della sanità un coordinamento di tutte le iniziative,
+ma questo sempre riferito all'ambito regionale.
+Per impostare e realizzare una politica sanitaria programmata e
+senza dover vivere alla giornata, come molte volte accade, occorre
+conoscere certi dati: i dati informativi sullo stato della salute
+della popolazione, i fattori che determinano gli stati di malattia
+e di disagio; occorre conoscere la consistenza delle nostre
+strutture sanitarie, gli aspetti di funzionalità, i carichi di
+lavoro, come viene soddisfatta la domanda. Occorre altresì
+conoscere gli aspetti che sussistono fra gli utenti e il sistema
+sanitario, se vogliamo mettere in atto tutti quei sistemi
+correttivi che sono necessari, oggi, nel settore della sanità.
+Inoltre è necessario anche in questo campo evitare iniziative
+scoordinate da parte della USL e delle singole unità operative.
+I costi che abbiamo di fronte e i servizi che ci vengono
+richiesti ci impongono un nuovo modo di gestire la sanità, che non
+può essere più in forma artigianale come è stato fino ad oggi in
+certi settori. Non possiamo più pensare di continuare per quanto
+riguarda, ad esempio, il problema relativo alle prenotazioni
+all'interno dell'ospedale, con il quadernino di quinta elementare
+da parte di alcune infermiere o impiegate che sono alle
+prenotazioni.
+Ecco perché mi permetto di invitare il Consiglio a votare questo
+disegno di legge; non sono un tecnico dell'informatica, per cui
+parlo più da politico che da tecnico, e da politico vi ho detto gli
+obiettivi che con questo disegno di legge intendiamo realizzare:
+avere una sanità più efficiente in futuro di quella che è
+attualmente.
+Però riconfermo e assicuro tutti, checché se ne dica, che presso
+l'Assessorato alla Sanità non si costituisce nessun nuovo centro di
+calcolo, e tantomeno vengono assunti operatori, così come è stato
+detto da qualche parte; che l'INVA continuerà (almeno fino a quando
+la Giunta e il Consiglio decidono diversamente) a disegnare e
+produrre i sistemi informativi e il SED a gestirli; che sul piano
+tecnico si farà sempre riferimento al SED. L'Assessorato avrà la
+gestione solo delle informazioni di carattere prettamente sanitario
+che non possono essere demandate ad altri.
+Quindi assicuro che questi aspetti saranno rispettati
+dall'Assessorato e che il disegno di legge ha questi obiettivi che
+vi ho illustrato. Per questo invito il Consiglio, nell'interesse
+del settore sanitario, ad approvare il disegno di legge.
+Presidente
+Si passa all'esame dell'articolato. Do
+lettura dell'articolo 1:
+Articolo 1 (Finalità ed obiettivi)
+1. La Regione Valle d'Aosta nell'ambito delle finalità e degli
+obiettivi di cui all'articolo 58 della legge 23 dicembre 1978, n.
+883 "Istituzione del servizio sanitario nazionale" ed al titolo IV
+della legge regionale 25 ottobre 1982, n. 70, "Esercizio delle
+funzioni in materia di igiene e sanità pubblica, di medicina
+legale, di vigilanza sulle farmacie ed assistenza farmaceutica"
+accelera con propri interventi programmatori, organizzativi ed
+economico-finanziari lo sviluppo e la realizzazione del sistema
+informativo sanitario regionale di cui alla legge regionale 21
+aprile 1981, n. 21 "Articolazione organizzativa e funzionamento del
+servizio socio-sanitario regionale".
+2. Gli interventi di cui al comma uno si attuano con
+provvedimenti della Giunta regionale diretti ad attivare e/o
+acquisire procedure, programmi e metodologie a base informatizzata
+(software) per la programmazione e gestione dei servizi sanitari,
+nonché mediante assunzione diretta di spese per l'acquisto di
+tecnologie informatiche (hardware).
+Presidente
+Ha chiesto di parlare il Consigliere
+Voyat, ne ha facoltà.
+Voyat (UV)
+Chiedo all'Assessore Beneforti la
+prossima volta di leggere la relazione prima dei nostri interventi,
+perché poi si dimentica di rispondere alle domande che noi
+poniamo.
+(...Interviene l'Assessore Beneforti, senza
+microfono...)
+Per carità, mi sfuggono tante cose, tant'è vero che non ero
+presente in commissione e non sapevo che questa era solo una
+sanatoria per l'acquisto di certe apparecchiature.
+Leggendo la legge, pensavo chissà che cosa, non pensavo che
+fossero acquisti di apparecchiature già fatti alla USL.
+Quindi avevo posto una domanda per sapere se questo progetto
+informativo era in linea con quello che deve mettere fuori lo
+Stato, perché dicevo prima che c'erano tre regioni pilota che
+dovevano studiare un piano informativo regionale, che poi doveva
+essere applicato nelle diverse regioni. Dicevo prima che
+evidentemente ogni regione doveva poi adattare questo programma
+alle sue specifiche esigenze.
+Quindi ero molto al di là e non ero solo al fatto di comprare
+alcune apparecchiature.
+Nello stesso tempo dicevo che eravamo stati scelti nel 1988 come
+regione pilota per studiare e per applicare uno studio sui
+controlli dei consumi dei farmaci, e chiedevo se questo rientrava
+in questo disegno informativo.
+Così come si era discusso, anche se un po' a margine, la
+meccanizzazione per il rilascio delle cartelle cliniche, che adesso
+vengono fatte a mano con i risultati che ben conosciamo, e chiedevo
+se anche questo rientrava. Non ho avuto nessuna risposta. Ho
+sentito una relazione generale, evidentemente quella che può essere
+fatta ad un pubblico che non sta discutendo un disegno di legge.
+Infatti dicevo che dalla legge come è formulata, dalle relazioni
+che c'erano, questo disegno di legge voleva dire tutto e
+niente.
+Chiedevo all'Assessore quali erano gli interventi prioritari,
+quali erano questi software che si voleva acquistare
+inizialmente.
+Pregherei l'Assessore la prossima volta di fare prima una
+relazione più completa, così forse ci risparmia di porre delle
+domande che non hanno risposta e di doverle poi riformulare.
+Presidente
+Ha chiesto di parlare l'Assessore alla
+Sanità e Assistenza Sociale Beneforti, ne ha facoltà.
+Beneforti (DC)
+Ho cercato di dire le motivazioni
+che ci hanno indotto a presentare questo disegno di legge, e sono
+state due: la sanatoria di certe apparecchiature e il coordinamento
+di una informatizzazione della sanità nell'ambito della
+informatizzazione regionale.
+Mi sono state poste delle domande: cosa si fa dell'INVA? Si
+mettono delle apparecchiature all'Assessorato alla Sanità? Si
+vogliono mettere degli operatori? Si vuol fare un mostro nuovo? Ho
+detto di no ed ho risposto a tutto quello che mi è stato chiesto
+dai Consiglieri Louvin, Rollandin, Viérin. Non ho risposto a lei,
+Consigliere Voyat, e le rispondo adesso sulle cose che mi ha
+chiesto.
+A livello nazionale non c'è più niente sul discorso della
+informatizzazione, siamo ancora fermi al discorso del lettore
+ottico per quanto riguarda la farmaceutica. Il fondo nazionale ha
+finanziato il lettore ottico, che abbiamo lì e che sta mettendo in
+piedi l'INVA, ma che ancora non funziona, per il controllo della
+spesa farmaceutica; punto e basta.
+Di finanziamenti per quanto riguarda l'informatica a livello
+nazionale non ce ne sono, l'unico finanziamento che abbiamo avuto è
+per il lettore ottico.
+Presidente
+Ha chiesto di parlare il Consigliere
+Rollandin, ne ha facoltà.
+Rollandin (UV)
+Je remercie l'Assesseur pour avoir
+réaffirmé certaines prises de position face à des engagements qui
+avaient déjà été l'objet du débat au niveau de commission et que je
+n'ai pas voulu rappeler.
+Je veux en même temps souligner deux aspects. Le système pour
+réaliser le plan sanitaire régional a été approuvé avant que le
+plan sanitaire national soit approuvé, car le parlement jamais a
+approuvé le plan sanitaire national.
+Ce plan devait tracer les lignes maîtresses, là où il fallait
+destiner les investissements. Une des lignes principales de ce plan
+était l'informatisation, car sur la base de l'informatisation on
+pouvait faire les contrôles. Quelqu'un en pourrait dire plus que
+moi que, si on veut faire un contrôle correct, il faut avoir des
+données sérieuses et surtout dans un temps réel.
+En effet c'est là l'aspect intéressant d'un plan
+d'informatisation, qu'on a déjà conçu depuis longtemps et qu'on est
+en train de réaliser par étapes; à cet égard je peux comprendre les
+difficultés existant, car il y a parfois même des résistances à
+accepter un système de travail, qui met en contact non voulu
+certains secteurs, car le moment où j'ai un ordinateur, je peux
+connaître certaines données qui se passent, sans qu'il y ait
+l'exigence d'aller chez le collègue les demander. C'est en effet le
+système le meilleur pour obliger dans son ensemble, à travailler de
+façon différente, par équipe. Le travail par équipe est possible si
+on connaît ce que fait l'autre, ce qui aujourd'hui est très
+difficile.
+Chacun est jaloux de son travail, et au niveau d'hôpital la
+chose a des retombées négatives, car très souvent si on avait la
+possibilité tout de suite de connaître, le moment où il y a un
+secours, quel est l'état sanitaire de la personne concernée, on
+éviterait une série de temps perdus, qui parfois donnent comme
+résultat l'impossibilité de faire les soins nécessaires.
+J'ai cru insister sur ce point, en me souhaitant que par la
+suite il y ait la possibilité de présenter le résultat du travail
+que l'INVA est en train de faire depuis quelque temps.
+Ici on a choisi de présenter une loi pour un financement de
+certains achats; on pouvait choisir une autre méthode, on pouvait
+allouer cet argent à la USL, car - comme M. Beneforti vient de le
+dire - il y a eu des choix en accord avec la USL même. Ici on a cru
+de financer directement les achats, mais on pouvait trans-férer les
+financements nécessaires qui manquent de la part de l'état; pour
+l'assistance indirecte, par exemple, ce n'est pas que chaque fois
+on a mis dans la loi de budget le financement pour l'ensemble des
+interventions qui sont gérées de la USL. Ici on a voulu choisir une
+procédure différente. Tout de même on partage les finalités, on est
+d'accord sur l'importance de travailler avec une méthode
+différente.
+J'insiste à dire que sur ce thème on a fait de longs débats
+depuis longtemps, c'est toujours le résultat conséquent qui parfois
+manque et là l'Assesseur l'a dit, il a appris que sur certains
+thèmes, malgré la bonne volonté, il y a encore des difficultés.
+On apprécie le fait que avec ce financement il n'y ait pas la
+constitution d'un nouveau centre à l'intérieur de celle qui est la
+gestion de l'Assessorat; j'ai apprécié en même temps le fait qu'on
+a rappelé le système de coordonner l'activité du SED, l'activité de
+programmation et la gestion qui doit être faite de la part de la
+santé.
+Tout en soulignant que c'est un système complexe, on croit qu'il
+est nécessaire de maintenir certains engagements et par conséquent
+on invite dans le plus bref délai à présenter le résultat de
+l'étude du programme de l'INVA.
+Presidente
+Pongo in votazione l'articolo 1:
+Esito della votazione
+Presenti, votanti e favorevoli: 32
+Il Consiglio approva all'unanimità
+Presidente
+Do lettura dell'articolo 2:
+Articolo 2 (Coordinamento fra sistema informativo sanitario e
+sistema informativo regionale)
+1. Al fine di coordinare gli interventi previsti dalla presente
+legge con il sistema informativo regionale, la Giunta regionale
+procede, su proposta dell'Assessore regionale alla sanità ed
+assistenza sociale, in rapporto ai temi e alle specifiche
+problematiche da affrontare, alla costituzione di appositi gruppi
+di lavoro interdisciplinari, formati dai responsabili dei servizi
+regionali interessati e integrati con la partecipazione dei
+responsabili dei servizi dell'Unità sanitaria locale o personale
+dirigente delle unità operative interessate, nonché da esperti
+individuati in rapporto ai temi ed alle problematiche da
+affrontare.
+Presidente
+Pongo in votazione l'articolo 2:
+Esito della votazione
+Presenti, votanti e favorevoli: 32
+Il Consiglio approva all'unanimità
+Presidente
+Do lettura dell'articolo 3:
+Articolo 3 (Disposizioni finanziarie)
+1. Per l'applicazione della presente legge è autorizzata per
+l'anno 1991 la spesa di lire 500 milioni.
+2. Gli oneri derivanti dall'applicazione della presente legge
+graveranno sul capitolo 60470 "Spese per lo sviluppo e la
+realizzazione del sistema informativo sanitario regionale" (di
+nuova istituzione) del bilancio di previsione della Regione per
+l'anno 1991.
+3. Alla copertura degli oneri di cui al comma uno si provvede
+mediante riduzione dell'importo di lire 500 milioni dello
+stanziamento iscritto al capitolo 67030 del bilancio di previsione
+della Regione per l anno 1991 "Fondo globale per il finanziamento
+di spese di investimento" sull'intervento previsto all'allegato n.
+8, (codice di riferimento C 2.3.) del bilancio di previsione del
+corrente esercizio finanziario relativo alla gestione dei servizi
+dell'Unità sanitaria locale.
+4. A decorrere dal 1992 gli oneri necessari saranno determinati
+con la legge di bilancio ai sensi dell'articolo 15 della legge
+regionale 27 dicembre 1989, n. 90 "Norme in materia di bilancio e
+di contabilità generale della Regione autonoma Valle d'Aosta".
+Presidente
+Pongo in votazione l'articolo 3:
+Esito della votazione
+Presenti, votanti e favorevoli: 32
+Il Consiglio approva all'unanimità
+Presidente
+Do lettura dell'articolo 4:
+Articolo 4 (Variazioni di bilancio)
+1. Al bilancio di previsione della Regione per l'anno 1991 sono
+apportate le seguenti variazioni in termini di competenza e di
+cassa:
+Parte Spesa
+Variazione in diminuzione
+Capitolo 67030 "Fondo globale per il finanziamento di spese di
+investimento"
+Lire 500.000.000
+Variazione in aumento
+Programma regionale 2.2.3.02
+Codifica 2.1.1.4.1.2.8.8.08
+Capitolo 60470 (di nuova istituzione) "Spese per interventi
+finanziari per lo sviluppo e la realizzazione del sistema
+informativo sanitario regionale".
+Lire 500.000.000
+Presidente
+Pongo in votazione l'articolo 4:
+Esito della votazione
+Presenti, votanti e favorevoli: 32
+Il Consiglio approva all'unanimità
+Presidente
+Pongo in votazione la legge nel suo
+complesso:
+Esito della votazione
+Presenti, votanti e favorevoli: 32
+Il Consiglio approva all'unanimità

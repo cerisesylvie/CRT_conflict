@@ -1,0 +1,568 @@
+Consiglio Regionale della Valle d'Aosta - Oggetto del Consiglio n. 4486 del 13 aprile 1993 - Resoconto
+Vai al contenuto principale
+Oggetti del Consiglio
+Invia
+Stampa
+Documenti
+Resoconto
+Classificazione
+(Nessuna classificazione presente)
+Precedente
+Successivo
+Resoconto integrale del dibattito dell'aula
+Oggetto del Consiglio n. 4486 del 13 aprile 1993 - Resoconto
+OGGETTO N. 4486/IX Disegno di legge: "Norme per la
+costituzione del Sistema Informativo Territoriale regionale
+(S.I.T.R.)".
+Presidente
+Ha chiesto di parlare il relatore,
+Consigliere Viérin, ne ha facoltà.
+Viérin (UV)
+Le territoire et l'environnement,
+matières dans lesquelles la région a compétence primaire,
+acquièrent de plus en plus une importante signification en tant que
+ressources stratégiques pour la Vallée d'Aoste.
+Pour exercer d'une manière efficace ces fonctions
+institutionnelles dans un secteur en constante évolution,
+l'Administration régionale nécessite des bases d'information
+spécifiques, les plus actuelles et complètes possibles, sur le
+territoire régional tout entier, ainsi qu'un système
+organisationnel et technique efficace, susceptible de fournir
+l'appoint nécessaire dans le cadre des décisions qui s'imposent en
+matière de programmation, gestion et protection du territoire et de
+l'environnement.
+L'Administration régionale entend répondre à ces exigences
+d'information par la constitution du système d'information
+territorial régional qui, par le biais des instruments
+technologiques offerts par l'informatique pour le traitement de ce
+type particulier d'informations, permettra de recueillir, de
+faciliter l'analyse et de procéder au traitement et à la
+divulgation de toutes les données nécessaires pour les activités de
+gouvernement susdites.
+Le système ne se distingue pas seulement par la spécialité des
+informations traitées, qui exige des instruments et des procédures
+bien différentes de celles qui sont généralement utilisées,
+typiques des systèmes administratifs d'information, mais par le
+fait qu'il s'agit d'un système à extension régionale. Cela suppose
+et requiert un rapport et un agencement étroits entre le système
+d'information interne de l'Administration régionale et des
+collectivités locales. Ce n'est que de cette manière, par exemple,
+que l'on parvient à conjuguer à la perfection les capacités de
+relèvement des informations élémentaires des collectivités locales
+et des traitements de synthèse typiques de l'échelon régional, avec
+une garantie maximale de fiabilité des données et une plus grande
+transparence dans les processus de décision d'après les
+dispositions des récentes lois sur les autonomies locales et sur
+l'administration publique.
+Le système d'information territorial régional se compose de deux
+structures: l'une au service de l'Administration régionale et
+l'autre caractérisée par un échange important de données avec la
+première et partagée entre les collectivités locales qui, aux
+différents niveaux et avec différentes responsabilités, ont à gérer
+des informations de type territorial.
+Etant donné que les communautés de montagne et les communes sont
+des organismes qui ont affaire quotidiennement à des démarches et
+mesures administratives inhérentes à des plans d'urbanisme ou de
+circonscription, et qui ont à gérer des réseaux technologiques
+complexes au service du citoyen, il est évident qu'elles sont
+concernées.
+Par cette mesure, à l'égard des collectivités locales, ladite
+loi entend aller au-delà de l'optique de la simple subvention et
+souhaite, encourage et facilite la réalisation d'un système des
+autonomies locales efficace par le transfert des connaissances et
+des méthodes, le financement pour l'achat d'équipements et
+d'appareils de logiciel d'appoint professionnels spécialisés et par
+la création de bases d'information, dans le respect des spécialités
+et de l'autonomie des décisions des collectivités elles-mêmes,
+suivant des méthodes de collecte, de traitement et d'archivage des
+informations territoriales et environnementales définies de concert
+entre les collectivités locales et région à l'échelon régional.
+Au sein de l'Administration régionale le système d'information
+territorial régional se traduit par l'introduction d'équipements et
+de logiciels spéciaux, susceptibles d'assurer une gestion efficace
+sur la base notamment des cartes, des informations en matière de
+sol, eaux, climat, ressources, patrimoine naturel et zootechnique,
+voirie et transports, infrastructures technologiques, services,
+bâtiments, urbanisme, milieu et population.
+Si ce système se révèle un support indispensable pour les choix
+de planification et de gouvernement du territoire, il facilitera
+par ailleurs l'amélioration et de la productivité et de la qualité
+de la gestion administrative quotidienne, en contribuant
+parallèlement à augmenter non seulement l'efficacité mais aussi le
+professionnalisme du personnel des différents secteurs.
+Cette action est envisagée sur trois ans, période minimale
+nécessaire à l'installation et à la mise en route du système; au
+terme de cette première phase la gestion et la mise à jour des
+bases d'information assumeront une importance considérable.
+Le coût prévu par ce projet de loi qui, par ailleurs représente
+l'aboutissement d'un travail de deux années des différentes
+commissions, est de 2.600 millions de lires pour le système destiné
+à l'Administration régionale et de 3.600 millions de lires pour ce
+qui est des subventions relatives à l'installation des systèmes
+d'information territoriaux à l'échelon local.
+Cette évaluation a été effectuée d'après deux plans triennaux,
+illustrant les interventions détaillées pour le développement du
+système au niveau des collectivités locales et de la région; plans
+qui ont été jugés nécessaires pour faire face aux exigences
+actuelles d'information.
+Le projet de loi, enfin, contient également les dispositions
+d'application et définit les procédures pour l'attribution des
+subventions aux collectivités locales.
+Presidente
+É aperta la discussione generale.
+Se nessun Consigliere chiede di parlare, si passa all'esame
+dell'articolato. Do lettura dell'articolo 1:
+Articolo 1 Finalità
+1. La Regione Autonoma Valle d'Aosta, al fine di meglio
+esercitare le funzioni di programmazione, di gestione e di tutela
+del territorio regionale ed in applicazione della legge regionale
+29 gennaio 1979, n° 6 (Sistema informativo regionale), promuove la
+costituzione del Sistema Informativo Territoriale regionale, di
+seguito denominato S.I.T.R., favorendo inoltre la realizzazione di
+sistemi informativi territoriali locali, omogenei e coordinati,
+gestiti dagli Enti locali.
+2. Il S.I.T.R. è finalizzato alla raccolta ed all'organizzazione
+su base informatica delle conoscenze necessarie per le attività di
+governo e di programmazione del territorio, consentendo altresì la
+definizione degli indirizzi della Regione nei settori territoriale
+ed ambientale, nonché il raccordo con le scelte degli Enti locali e
+con le politiche di intervento a scala nazionale.
+Presidente
+Pongo in votazione l'articolo 1.
+Esito della votazione:
+Presenti: 20
+Votanti: 18
+Favorevoli: 18
+Astenuti: 2 (Gremmo e Maquignaz)
+Il Consiglio approva
+Presidente
+Do lettura dell'articolo 2:
+Articolo 2 Indirizzi per la realizzazione del Sistema
+Informativo Territoriale regionale
+1. Nello sviluppo delle iniziative per la realizzazione del
+S.I.T.R. la Regione promuove, d'intesa con gli enti locali:
+a) lo studio, la progettazione e la realizzazione di sistemi
+informatici specifici, lo sviluppo di applicazioni integrate, la
+creazione di basi di dati e di archivi informatizzati, nonché il
+loro coordinamento nella fase evolutiva e la manutenzione nella
+conseguente gestione operativa;
+b) lo sviluppo di studi per l'individuazione, la definizione e
+la strutturazione di basi informative finalizzate alla
+programmazione, alla gestione ed alla tutela del territorio e
+dell'ambiente, nonché l'individuazione e la definizione degli
+standard tecnici, metodologici ed informatici per la
+rappresentazione della realtà territoriale su scala regionale ed
+infraregionale;
+c) la definizione delle intese necessarie tra gli Enti locali e
+tra questi e la Regione al fine di favorire e garantire la
+circolazione e lo scambio delle informazioni essenziali per lo
+svolgimento delle attività amministrative di competenza;
+d) la realizzazione del raccordo con gli altri Enti di settore,
+con le organizzazioni economiche e sociali, pubbliche e private,
+per la formazione di conoscenze sul territorio e l'ambiente di
+utilità generale;
+e) lo sviluppo del rapporto di collaborazione con le
+Amministrazioni centrali e periferiche dello Stato al fine di
+favorire e garantire l'interscambio di dati tra il S.I.T.R. ed i
+sistemi informativi a dimensione sovraregionale e nazionale.
+2. In coerenza con la legge regionale 29 gennaio 1979, n° 6, la
+Regione indirizza e promuove presso gli Enti locali:
+a) lo sviluppo dei relativi sistemi informativi territoriali, la
+cui realizzazione è di fondamentale importanza per garantire la
+qualità dei dati di interesse del S.I.T.R. o che sono con questo
+strettamente pertinenti ed integrabili;
+b) la realizzazione di iniziative di formazione professionale e
+di addestramento del personale interessato alla gestione ed
+all'utilizzo del S.I.T.R..
+Presidente
+Pongo in votazione l'articolo 2.
+Esito della votazione:
+Presenti: 20
+Votanti: 18
+Favorevoli: 18
+Astenuti: 2 (Gremmo e Maquignaz)
+Il Consiglio approva
+Presidente
+Do lettura dell'articolo 3:
+Articolo 3 Articolazione del Sistema Informativo Territoriale
+regionale
+1. Il S.I.T.R. si articola a livello di Regione, di comunità
+montana e di Comune, secondo le disposizioni contenute negli
+articoli 4, 5 e 6. Ciascun livello, in modo autonomo sul piano
+operativo e nell'ambito delle proprie competenze, acquisisce,
+verifica, aggiorna, elabora ed integra i flussi informativi ed
+assicura l'unificazione delle basi informative fondamentali.
+Presidente
+Pongo in votazione l'articolo 3.
+Esito della votazione:
+Presenti: 20
+Votanti: 18
+Favorevoli: 18
+Astenuti: 2 (Gremmo e Maquignaz)
+Il Consiglio approva
+Presidente
+Do lettura dell'articolo 4:
+Articolo 4 Funzioni della Regione
+1. La Regione esercita le seguenti funzioni:
+a) definisce, con il concorso degli Enti locali interessati,
+l'architettura del S.I.T.R., delle basi informative fondamentali e
+provvede alle azioni di sperimentazione e di coordinamento
+tecnico-metodologico ad esse connesse;
+b) cura autonomamente la creazione delle basi informative di
+interesse regionale ed elabora i dati necessari per la
+programmazione regionale e per le attività dei servizi
+specialistici dell'Amministrazione;
+c) provvede alla creazione delle basi di dati ed alle
+elaborazioni necessarie per soddisfare le esigenze informative del
+livello sovraregionale.
+Presidente
+Pongo in votazione l'articolo 4:
+Esito della votazione
+Presenti: 20
+Votanti: 18
+Favorevoli: 18
+Astenuti: 2 (Gremmo e Maquignaz)
+Il Consiglio approva
+Presidente
+Do lettura dell'articolo 5:
+Articolo 5 Funzioni delle comunità montane
+1. Nel rispetto di quanto stabilito dalle leggi 3 dicembre 1971,
+n. 1102 (Nuove norme per la montagna), 23 marzo 1981, n. 93
+(Disposizioni integrative della legge 3 dicembre 1971, n. 1102,
+recante nuove norme per lo sviluppo della montagna), dagli articoli
+28 e 29 della legge 8 giugno 1990, n. 142 (Ordinamento delle
+autonomie locali), e dalla legge regionale 2 novembre 1987, n. 91
+(Norme concernenti le comunità montane), le comunità montane hanno
+facoltà di:
+a) realizzare e gestire le basi informative di interesse
+intercomunale e comprensoriale nel rispetto degli standard
+concordati a livello regionale;
+b) coordinare e validare le basi informative di interesse del
+S.I.T.R. realizzate a scala comunale, in accordo con gli standard
+concordati a livello regionale;
+2. Nel caso in cui le comunità montane realizzino le attività di
+cui al comma 1, esse assicurano:
+a) il collegamento con le strutture di elaborazione operanti a
+livello regionale, indirizzando e promuovendo le opportune forme di
+raccordo informativo ed informatico tra i comuni.
+b) il ritorno ai comuni delle elaborazioni riassuntive e di
+raffronto effettuate a livello intercomunale e comprensoriale.
+3. Per le finalità di cui al comma 1 e anche al fine di snellire
+i rapporti con la Regione, la comunità montana può promuovere
+intese con i comuni della rispettiva zona omogenea.
+Presidente
+Pongo in votazione l'articolo 5.
+Esito della votazione:
+Presenti: 20
+Votanti: 18
+Favorevoli: 18
+Astenuti: 2 (Gremmo e Maquignaz)
+Il Consiglio approva
+Presidente
+Do lettura dell'articolo 6:
+Articolo 6 Funzioni dei comuni e raccordo informativo a scala
+regionale
+1. Il Comune costituisce il livello primario per l'acquisizione
+delle basi informative fondamentali, nel rispetto degli standard
+concordati a livello regionale.
+2. La Regione favorisce la collaborazione tra i comuni per la
+realizzazione di sistemi per la gestione e l'elaborazione di dati
+territoriali, individuando di norma nella comunità montana la sede
+idonea a tal fine quando l'automazione non risulti conveniente a
+livello di singolo Comune.
+Presidente
+Pongo in votazione l'articolo 6.
+Esito della votazione:
+Presenti: 20
+Votanti: 18
+Favorevoli: 18
+Astenuti: 2 (Gremmo e Maquignaz)
+Il Consiglio approva
+Presidente
+Do lettura dell'articolo 7:
+Articolo 7 Raccordo con gli Enti Locali per la realizzazione
+del Sistema Informativo Territoriale regionale
+1. Al fine di istituire un raccordo a livello istituzionale e
+tecnico-operativo per l'elaborazione degli indirizzi e dei progetti
+di realizzazione del S.I.T.R. è istituita una commissione di
+indirizzo e di coordinamento nominata dalla Giunta regionale e
+composta da quattro rappresentanti dell'Amministrazione regionale,
+due rappresentanti dell'Associazione dei Presidenti delle comunità
+montane, due rappresentanti dell'Associazione dei Sindaci della
+Valle d'Aosta e da due tecnici specializzati nel trattamento
+informatico di dati territoriali, di cui uno designato dal Servizio
+elaborazione dati della Presidenza della Giunta e uno designato
+d'intesa dagli enti locali.
+2. La Giunta regionale, sentito il parere della commissione di
+cui al comma 1, approva il programma triennale, predisposto dal
+Servizio elaborazione dati, per la realizzazione del S.I.T.R.,
+articolato per sottoprogrammi annuali.
+3. La Commissione di indirizzo e di coordinamento determina i
+parametri in base ai quali individuare il livello ottimale di
+automazione, di cui al comma 2 dell'articolo 6.
+4. Qualora i componenti della Commissione di indirizzo e di
+coordinamento non siano amministratori o dipendenti dei rispettivi
+enti, hanno diritto al rimborso delle spese di viaggio e soggiorno
+sostenute per partecipare alle riunioni, se non residenti nel
+comune di Aosta, nella misura prevista per i dipendenti
+regionali.
+Presidente
+Pongo in votazione l'articolo 7.
+Esito della votazione:
+Presenti: 20
+Votanti: 18
+Favorevoli: 18
+Astenuti: 2 (Gremmo e Maquignaz)
+Il Consiglio approva
+Presidente
+Do lettura dell'articolo 8:
+Articolo 8 Interventi per la realizzazione del S.I.T.R.
+presso l'Amministrazione regionale
+1. Per la realizzazione ed il funzionamento del S.I.T.R.
+all'interno dell'Amministrazione regionale la Giunta regionale è
+autorizzata al finanziamento:
+a) delle spese per la definizione e la realizzazione di progetti
+finalizzati alla creazione, alla gestione ed alla manutenzione di
+basi informative fondamentali per la conoscenza e la gestione del
+territorio e dell'ambiente a livello regionale, nonché degli
+interventi necessari per soddisfare i fabbisogni informativi a
+livello sovraregionale;
+b) delle spese per l'acquisizione di strumenti informatici e
+telematici necessari per il funzionamento di quanto previsto dalla
+lettera a);
+c) delle spese per la formazione professionale e l'addestramento
+del personale interessato dal S.I.T.R.;
+d) di altre spese, relative all'elaborazione ed alla
+pubblicazione dei dati, nonché finalizzate alla diffusione
+dell'informazione ed all'accesso alle basi informative del
+S.I.T.R..
+2. Le attività previste nel comma 1 sono promosse e gestite
+operativamente dal Servizio Elaborazione Dati della Presidenza
+della Giunta regionale, in accordo con quanto espresso da una
+commissione tecnica permanente, con funzioni di indirizzo e di
+coordinamento del S.I.T.R., nominata con deliberazione della Giunta
+regionale e composta da funzionari dell'Amministrazione regionale
+preposti a settori che hanno competenze in materia di territorio e
+ambiente. Per l'espletamento delle proprie funzioni, la commissione
+può disporre di apporti professionali specifici reperiti sia
+all'interno che all'esterno dell'Amministrazione regionale.
+3. Il Servizio Elaborazione Dati, nel rispetto della normativa
+vigente, può avvalersi, per la realizzazione e per l'assistenza
+tecnica relative alle attività previste nel comma 1, dell'apporto
+tecnico di organizzazioni, aziende ed enti, pubblici e privati,
+specializzati nella gestione di sistemi informativi territoriali.
+Possono inoltre essere attribuiti incarichi specifici di
+progettazione ed assistenza tecnica a esperti del settore.
+Presidente
+Pongo in votazione l'articolo 8.
+Esito della votazione:
+Presenti: 20
+Votanti: 18
+Favorevoli: 18
+Astenuti: 2 (Gremmo e Maquignaz)
+Il Consiglio approva
+Presidente
+Do lettura dell'articolo 9:
+Articolo 9 Interventi per la realizzazione del S.I.T.R.
+presso gli Enti locali
+1. La Regione, oltre che con la cessione a titolo gratuito agli
+Enti locali di sistemi software, o di parti di questi, e di basi di
+dati risultanti da propri interventi, concorre nella misura massima
+del 70 percento al finanziamento:
+a) degli oneri derivanti da progetti informatici degli Enti
+locali finalizzati alla conoscenza, alla creazione ed alla gestione
+di basi informative territoriali fondamentali o all'adeguamento di
+sistemi informativi territoriali già operanti, in coerenza con gli
+standard definiti su base regionale ed inerenti i temi specificati
+nel comma 2;
+b) degli oneri per progetti-pilota di interesse regionale,
+proposti dagli Enti locali e finalizzati alla predisposizione di
+software o alla realizzazione di sistemi hardware-software e di
+reti telematiche, purché contenuti nel programma di cui al
+precedente articolo 7.
+2. I sottosistemi informatici che concorrono a formare il
+S.I.T.R. a livello comunale ed intercomunale, finanziabili con la
+presente legge, appartengono alle aree applicative del territorio e
+dell'ambiente e consentono specificatamente la conoscenza e la
+gestione di:
+a) piani comprensoriali,
+b) piani urbanistici,
+c) piani commerciali,
+d) catasto,
+e) toponomastica,
+f) anagrafe edilizia,
+g) pratiche edilizie,
+h) reti tecnologiche,
+i) cartografia numerica,
+l) catasto incendi,
+m) viabilità e traffico,
+n) lavori pubblici,
+o) manutenzione,
+p) monitoraggio ambientale,
+q) parchi e riserve naturali.
+3. La richiesta di finanziamento deve essere inoltrata dagli
+Enti locali alla Presidenza della Giunta regionale corredata della
+seguente documentazione:
+a) piano finanziario dal quale emerga, nel tempo, la
+disponibilità delle risorse proprie riservate al progetto;
+b) elaborato progettuale contenente:
+1) gli obiettivi del progetto ed i risultati che si intendono
+conseguire, sia di ordine operativo che gestionale;
+2) i sottosistemi di riferimento, specificando le
+caratteristiche funzionali dei processi informativi per cui è
+previsto l'intervento di automazione;
+3) le scelte progettuali concernenti la configurazione di
+sistema, le basi di dati, le eventuali reti di comunicazione e le
+specifiche del software applicativo;
+4) gli standard di riferimento sia per quanto attiene i sistemi
+(hardware e software) che le basi di dati;
+5) le caratteristiche di connettività e di interscambio dati con
+il S.I.T.R.;
+c) giustificazione dei costi previsti nella fase realizzativa e
+valutazione previsionale dei costi nei primi tre anni di
+esercizio;
+d) piano di realizzazione, dettagliato per obiettivi
+intermedi;
+e) piano di addestramento per il personale coinvolto nella
+gestione e nell'utilizzo delle procedure automatizzate.
+4. La documentazione, insieme con la richiesta di finanziamento,
+è esaminata dal Servizio elaborazione dati, che verifica la
+conformità della richiesta con quanto disposto dai precedenti
+commi, la rispondenza del progetto alle specifiche concordate a
+livello regionale, la congruenza dei prezzi esposti e la coerenza
+con i piani di cui all'articolo 7 e, in caso di mancata rispondenza
+del progetto ai suddetti criteri, può richiedere, motivandola, la
+revisione o la variazione di parte del progetto.
+La Giunta regionale, sentito il parere della commissione di cui
+all'articolo 7, delibera in merito al finanziamento del progetto di
+informatizzazione. Le funzioni operative di erogazione dei fondi
+previsti sono
+svolte dal Servizio elaborazione dati.
+L'erogazione dei fondi avviene su presentazione della
+documentazione contabile relativa a ciascun stato di
+avanzamento.
+Presidente
+Pongo in votazione l'articolo 9.
+Esito della votazione:
+Presenti: 20
+Votanti: 18
+Favorevoli: 18
+Astenuti: 2 (Gremmo e Maquignaz)
+Il Consiglio approva
+Presidente
+Do lettura dell'articolo 10:
+Articolo 10 Norme transitorie
+1. Entro 90 giorni dall'entrata in vigore della presente legge,
+gli Enti locali che abbiano già avviato un sistema informativo per
+la gestione del territorio in data successiva al 1° gennaio 1992
+possono richiedere l'ammissione al finanziamento previsto
+all'articolo 9.
+2. L'ammissione al finanziamento è subordinata a quanto disposto
+dall'articolo 9.
+Presidente
+Pongo in votazione l'articolo 10.
+Esito della votazione:
+Presenti: 20
+Votanti: 18
+Favorevoli: 18
+Astenuti: 2 (Gremmo e Maquignaz)
+Il Consiglio approva
+Presidente
+Do lettura dell'articolo 11:
+Articolo 11 Disposizioni finanziarie
+1. Per l'applicazione della presente legge sono autorizzate nel
+triennio 1993-1995 le seguenti spese:
+a) Lire 2.600 milioni per il Sistema Informativo Territoriale
+dell'Amministrazione regionale così ripartiti:
+Lire 600 milioni per l'anno 1993,
+Lire 1.000 milioni annui per gli anni 1994 e 1995;
+b) Lire 3.600 milioni per contributi agli enti Locali, in
+applicazione dell'articolo 9, cosi ripartiti:
+Lire 600 milioni per il 1993,
+Lire 1.500 milioni annui per gli anni 1994 e 1995.
+2. Gli oneri di cui al comma 1 graveranno, per il Sistema
+Informativo Territoriale dell'Amministrazione regionale, sul
+capitolo 20467 di nuova istituzione "Spese per la realizzazione del
+Sistema Informativo Territoriale regionale (S.I.T.R.)" e, per i
+contributi agli Enti Locali, sul capitolo 20610 di nuova
+istituzione "Contributi agli Enti Locali per la realizzazione del
+Sistema Informativo Territoriale regionale (S.I.T.R.)" del bilancio
+di previsione per il 1993 e sui corrispondenti capitoli per i
+successivi esercizi finanziari.
+3. Alla copertura dell'onere si provvede per il 1993 nel modo
+seguente:
+a) quanto a lire 600 milioni mediante utilizzo delle
+disponibilità già iscritte nel capitolo 20465;
+b) quanto ai restanti 600 milioni mediante il prelevamento dal
+capitolo 69020 a valere sull'accantonamento iscritto nell'allegato
+n° 8 al bilancio per il corrente esercizio finanziario concernente
+"Contributi agli Enti locali per la realizzazione di discariche per
+lo smaltimento di rifiuti inerti" (Cod. C.2.2.).
+Per il 1994 ed il 1995 alla copertura degli oneri si provvede
+mediante utilizzo per lire 2.000 milioni delle disponibilità già
+iscritte nel capitolo 20465 e per lire 3.000 milioni delle
+disponibilità iscritte al capitolo 69020 del bilancio pluriennale
+1993/1995.
+4. A decorrere dal 1994 alla determinazione delle quote di spesa
+si provvederà con la legge di approvazione del bilancio, ai sensi
+dell'articolo 17 della legge regionale 27 dicembre 1989, n° 90,
+come modificata dalla legge regionale 7 aprile 1992, n° 16 ("Norme
+in materia di bilancio e di contabilità generale della Regione
+Autonoma Valle d'Aosta").
+Presidente
+Pongo in votazione l'articolo 11.
+Esito della votazione:
+Presenti: 20
+Votanti: 18
+Favorevoli: 18
+Astenuti: 2 (Gremmo e Maquignaz)
+Il Consiglio approva
+Presidente
+Do lettura dell'articolo 12:
+Articolo 12 Variazione di bilancio
+1. Alla parte spesa del bilancio di previsione per l'anno 1993
+sono apportate le seguenti variazioni di competenza e di cassa:
+Parte Spesa
+a) Variazioni in diminuzione:
+Cap. 20465: "Spese per acquisto di apparecchiature e programmi
+per l'elaborazione dei dati"
+lire 600.000.000
+Cap.69020: "Fondo globale per il finanziamento di spese di
+investimento"
+lire 600.000.000
+b) Variazioni in aumento:
+Cap. 20467: (di nuova istituzione) Programma regionale: 1.3.
+Codificazione: 2.1.2.2.0.3.1.1.2. "Spese per la realizzazione del
+Sistema Informativo Territoriale regionale (S.I.T.R.)"
+legge regionale ... , N
+lire 600.000.000
+Cap. 20610: (di nuova istituzione) Programma regionale:
+2.1.1.01. Codificazione: 2.1.2.3.4.3.1.1.2. "Contributi agli Enti
+Locali per la realizzazione del Sistema Informativo Territoriale
+regionale (S.I.T.R.)"
+legge regionale ... , N
+lire 600.000.000
+Presidente
+Pongo in votazione l'articolo 12.
+Esito della votazione:
+Presenti: 20
+Votanti: 18
+Favorevoli: 18
+Astenuti: 2 (Gremmo e Maquignaz)
+Il Consiglio approva
+Presidente
+Pongo in votazione la legge nel suo
+complesso.
+Esito della votazione:
+Presenti: 20
+Votanti: 18
+Favorevoli: 18
+Astenuti: 2 (Gremmo e Maquignaz)
+Il Consiglio approva
+Informativa cookies
+Consiglio Regionale della Valle d'Aosta © 2025
+Questo sito utilizza cookies propri e di terze parti. Continuando ad usare questo sito, acconsenti all'utilizzo di questa tecnologia.
+Consulta la nostra
+informativa
+per maggiori informazioni e per istruzioni su come disattivare i cookies.
+OK

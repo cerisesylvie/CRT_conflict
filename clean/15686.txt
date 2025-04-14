@@ -1,0 +1,1112 @@
+Classificazione
+INFORMAZIONE
+Sistema informativo
+
+
+Resoconto integrale del dibattito dell'aula
+Oggetto del Consiglio n. 1989 del 5 giugno 1996 - Resoconto
+SEDUTA POMERIDIANA DEL 5 GIUGNO 1996
+OGGETTO N. 1989/X Disegno di legge: "Programmazione,
+organizzazione e gestione del sistema informativo regionale.
+Ulteriori modificazioni alla legge regionale 17 agosto 1987, n. 81
+(costituzione di una società per azioni nel settore dello sviluppo
+dell'informatica), già modificata dalla legge regionale 1° luglio
+1994, n. 32. Abrogazione di norme".
+Articolo 1 (Piano pluriennale)
+1. Per lo sviluppo del sistema informativo regionale, il
+Consiglio regionale approva un piano pluriennale volto sia allo
+sviluppo, alla modernizzazione ed alla diffusione degli strumenti,
+delle tecnologie telematiche e dei sistemi informativi
+dell'Amministrazione regionale, sia all'intervento regionale nel
+settore dell'informatica avente particolare riguardo allo sviluppo
+ed alla realizzazione di una rete di collegamenti informatici
+interessante l'intera Amministrazione regionale ed aperta alle
+interrelazioni con gli altri enti pubblici territoriali valdostani
+e con le amministrazioni dello Stato. Tale piano pluriennale deve
+necessariamente essere, per i periodi interessati, corrispondente
+al relativo bilancio di previsione triennale della Regione e può
+subire, di anno in anno, ogni necessario aggiornamento od
+attualizzazione.
+2. Ogni anno la Giunta regionale adotta, ai sensi dell'articolo
+23 della legge regionale 23 ottobre 1995, n. 45 (Riforma
+dell'organizzazione dell'Amministrazione regionale della Valle
+d'Aosta e revisione della disciplina del personale), in coerenza
+con il corrispondente bilancio di previsione, il piano operativo
+annuale per l'anno successivo, dedotto dal piano pluriennale di cui
+al comma 1, tenendo conto di ogni possibile esigenza di miglioria o
+variazione che si sia, nel frattempo, resa necessaria od opportuna.
+Tale piano operativo annuale è suddiviso in parti, ciascuna delle
+quali ha riguardo ad uno o più obiettivi presenti nel piano in
+questione.
+3. La predisposizione dei piani di cui ai commi 1 e 2, nonché il
+controllo nella realizzazione degli stessi e la verifica nel
+raggiungimento dei risultati, sono di competenza della Presidenza
+della Giunta regionale, che vi provvede per il tramite della
+struttura competente in materia di elaborazione dati, osservando
+quanto in proposito specificato dalla legge regionale 45/1995.
+Articolo 2 (Strumenti per la realizzazione del piano
+pluriennale)
+1. Per la realizzazione del piano pluriennale di cui
+all'articolo 1 con le modalità ivi indicate, la Regione si avvale
+di apposita società a partecipazione mista di capitale della
+Regione, di altri enti pubblici territoriali valdostani, dell'Unità
+sanitaria locale (USL) e di imprese di cui alla legge regionale 17
+agosto 1987, n. 81 (Costituzione di una Società per azioni nel
+settore dello sviluppo dell'informatica), già modificata dalla
+legge regionale 1° luglio 1994, n. 32.
+Articolo 3 (Sostituzione dell'articolo 2 della legge regionale
+81/1987)
+1. L'articolo 2 della legge regionale 81/1987, già sostituito
+dall'articolo 1 della legge regionale 32/1994, è sostituito dal
+seguente:
+" Articolo 2
+(Soci)
+1. Oltre alla Regione possono acquisire, in aggiunta e/o in
+sostituzione anche parziale degli attuali soci, la qualità di soci
+azionisti dell'INVA spa altri enti pubblici territoriali
+valdostani, l'USL ed imprese, in forma singola o associata, che per
+apporti finanziari o tecnologici possono contribuire alla
+valorizzazione della società."
+Articolo 4 (Sostituzione dell'articolo 3 della legge regionale
+81/1987)
+1. L'articolo 3 della legge regionale 81/1987 è sostituito dal
+seguente:
+" Articolo 3
+(Finalità)
+1. L'INVA spa ha come esclusiva finalità sociale la
+realizzazione e la gestione del sistema informativo regionale,
+nell'ambito del piano pluriennale e secondo le indicazioni previste
+nel piano operativo annuale approvato dalla Giunta regionale. In
+analogia, tale esclusiva finalità sociale può essere applicata
+anche in riferimento agli enti pubblici territoriali valdostani e
+all'USL, in possesso della qualità di socio."
+Articolo 5 (Sostituzione dell'articolo 4 della legge regionale
+81/1987)
+1. L'articolo 4 della legge regionale 81/1987, già modificato
+dall'articolo 2 della legge regionale 32/1994, è sostituito dal
+seguente:
+" Articolo 4
+(Capitale sociale)
+1. Alla Regione è riservata la proprietà di almeno il quaranta
+per cento delle azioni e la somma delle azioni di proprietà della
+Regione, degli altri enti pubblici territoriali valdostani e
+dell'USL deve essere superiore al cinquanta per cento delle
+azioni.
+2. Il capitale sociale è costituito in lire 1.000.000.000,
+suddiviso in 1.000.000 di azioni del valore nominale di lire
+1.000."
+Articolo 6 (Adeguamento degli strumenti sociali)
+1. Entro sei mesi dall'entrata in vigore della presente legge,
+l'INVA S.p.A. provvede ad adeguare i propri strumenti sociali
+secondo quanto in essa previsto, cedendo altresì eventuali attività
+e partecipazioni non conformi all'oggetto sociale quale determinato
+nell'articolo 3 della legge regionale 81/1987, come sostituito
+dall'articolo 4 della presente legge.
+Articolo 7 (Convenzione)
+1. Un'apposita convenzione, da approvarsi dalla Giunta regionale
+entro sei mesi dal termine indicato all'articolo 6, regola i
+compiti dell'INVA S.p.A. per la realizzazione, ai sensi
+dell'articolo 1, del piano pluriennale di cui si tratta, le
+reciproche obbligazioni tra Regione e INVA S.p.A., nonché gli
+obiettivi operativi e le condizioni che INVA S.p.A. deve
+rispettare.
+2. In analogia a quanto stabilito dal comma 1, gli altri soci
+possono stipulare apposite convenzioni per quanto di propria
+competenza.
+Articolo 8 (Abrogazioni)
+1. La legge regionale 29 gennaio 1979, n. 6 (Sistema informativo
+regionale) e la legge regionale 1° luglio 1994, n. 32, concernente
+modificazioni alla legge regionale 81/1987, sono abrogate.
+Articolo 9 (Dichiarazione d'urgenza)
+1. La presente legge è dichiarata urgente ai sensi dell'articolo
+31, comma terzo, dello Statuto speciale per la Valle d'Aosta ed
+entrerà in vigore il giorno successivo a quello della sua
+pubblicazione nel Bollettino ufficiale della Regione.
+Presidente Ha chiesto la parola il Consigliere Tibaldi, per
+mozione d'ordine.
+Tibaldi (Ind) Per il semplice fatto che questo disegno di legge,
+che concerne la programmazione, l'organizzazione, la gestione del
+sistema informativo regionale e prevede delle modificazioni
+legislative di altri atti intervenuti precedentemente, è stato
+adottato senza il parere, o perlomeno la consultazione che ritengo
+importante, del comitato di pianificazione dell'informatica
+regionale. Il comitato di pianificazione è stato costituito
+all'inizio di questa legislatura ed ha dei precisi compiti
+istituzionali, riconosciuti da una delibera del 1982, compiti
+istituzionali che sono stati by-passati da questo provvedimento
+che, oltre a passare in II commissione, arriva adesso qui senza
+perlomeno la preventiva cognizione da parte dei consiglieri, che
+sono il sottoscritto per l'opposizione e per la maggioranza il
+Consigliere Parisi.
+Ritengo che la definizione delle strategie dell'informazione
+della pubblica amministrazione costituisca la funzione specifica di
+questo comitato, che ha il diritto di essere sentito e di
+approfondire queste tematiche.
+Abbiamo fatto una sola riunione il 14 dicembre 1993 e fra gli
+intenti che ci eravamo riproposti vi era quello - leggo qui nel
+verbale - che fosse necessario indire almeno una riunione a cadenza
+trimestrale.
+Questo è un atto di pianificazione di notevole importanza,
+chiedo con la mozione d'ordine il rinvio dell'esame di questo
+disegno di legge previa analisi di questo comitato.
+Presidente Ha chiesto la parola il Presidente della Giunta, Dino
+Viérin.
+Viérin D. (UV) Il est vrai que l'article 2 de la loi n° 6 du 29
+janvier 1979 prévoit au 2ème alinéa que le plan - non pas le projet
+de loi - qui sera présenté au Conseil régional par le Gouvernement,
+c'est-à-dire le plan concernant l'organisation et la planification
+des activités dans le domaine de l'informatique soit soumis à
+l'examen d'un comité, composé de 5 représentants des forces
+politiques élus par le Conseil, de manière à consentir la
+représentation des deux forces politiques appartenant à la minorité
+et de deux techniciens désignés par le Gouvernement. Mais il s'agit
+d'un organe qui a été institué et qui a un pouvoir consultatif.
+Comme l'affirme M. Tibaldi, il est vrai qu'il a été réuni une seule
+fois, et par la suite n'a plus été réuni, mais au moins pour
+l'année 1994 les projets et les données qui avaient été requises
+lors de cette réunion ont été envoyés.
+La convocation de cet organe à titre consultatif s'impose pour
+l'examen du plan, mais ici il ne s'agit pas de discuter du plan, il
+s'agit de discuter d'un projet de loi portant réforme de la loi
+instituant l'INVA. Tant il est vrai que le projet de loi prévoit
+expressément l'abrogation de cette loi de 1979 et que l'examen du
+plan pluriannuel soit confié, en tant qu'approbation, au Conseil.
+Donc de ce point de vue je considère qu'il y a respect des
+dispositions et je ne partage pas la motion d'ordre qui a été
+présentée par M. Tibaldi, parce qu'aucun projet de loi n'est soumis
+à ce comité. S'il s'agissait de discuter ici du plan, alors je
+partagerais les propos tenus par M. Tibaldi, mais le projet de loi
+que nous allons examiner prévoit expressément à l'article 1 que ce
+soit le Conseil régional qui approuve le plan pluriannuel et qu'il
+soit du ressort du Gouvernement ensuite de donner application à ce
+plan pluriannuel, en l'inscrivant au budget de la région.
+Donc, de ce point de vue une chose est de discuter sur le fait
+de la convocation ou non de la convocation de ce comité, et je
+pense que nous aurons, au cours de la discussion, la possibilité
+d'examiner ce thème, mais je ne crois pas que l'on puisse motiver
+la proposition de renvoi en prétextant que ce projet de loi devait
+être préalablement examiné par ce comité, dont la tâche était
+d'examiner le plan et non pas des projets de loi.
+C'est pour ces raisons que je déclare notre opposition au renvoi
+qui a été proposé.
+Presidente Il Consigliere Tibaldi intende ritirare la proposta?
+Altrimenti sono obbligato a metterla in votazione.
+Ha chiesto la parola il Consigliere Tibaldi.
+Tibaldi (Ind) Chiedo che venga messa in votazione, poi darò in
+sede successiva eventuali spiegazioni su questi paradossi.
+Presidente Pongo in votazione la richiesta del Consigliere
+Tibaldi di rinviare il disegno di legge in oggetto:
+Presenti: 27
+Votanti: 25
+Favorevoli: 4
+Contrari: 21
+Astenuti: 2 (Dujany e Lanivi)
+Il Consiglio non approva
+Presidente Ha chiesto la parola il relatore, Consigliere
+Rini.
+Rini (UV) La loi régionale n. 6 du 29 janvier 1979 portait
+dispositions pour la constitution du système régional
+d'informatisation. Par la loi régionale n° 81 du 17 août 1987 il a
+été pourvu à la création d'une société d'économie mixte, l'INVA,
+dont le but était de favoriser l'essor de l'informatique en Vallée
+d'Aoste.
+La loi régionale n° 32 du 1er juillet 1994 apportait des
+modifications quant à la participation au capital social.
+Depuis la constitution de l'INVA la réglementation des sociétés
+par actions d'économie mixte a changé; il y a lieu à présent de
+légitimer l'existence de cette structure, de manière à ce que les
+rapports entre la région et ladite société soient conformes aux
+lois en vigueur.
+Le but principal de l'INVA était de remplir des fonctions pour
+le compte de la région. La nouvelle législation en la matière, et
+notamment les lois nn° 142, 299 et 498 de 1992, posent des limites
+insurmontables. Grâce à l'approbation du présent projet de loi, la
+région pourra faire appel à plein titre aux sociétés par actions
+créées spécialement pour fournir des services spécifiques tels que
+l'information des systèmes administratifs et le soutien à l'essor
+de l'informatique régionale. Cette loi modifiera donc la
+participation au capital social de l'INVA, ainsi que son objet
+social, afin qu'il soit conforme aux lois susmentionnées.
+En particulier, l'article premier prévoit l'approbation par le
+Conseil régional d'un plan pluriannuel, susceptible de favoriser
+l'essor du système régional d'information. Au nombre des objectifs
+de ce plan figurent le développement, la modernisation et la
+diffusion des moyens, des technologies télématiques et des systèmes
+d'information de l'administration régionale, ainsi que la mise en
+place d'initiatives dans le secteur de l'informatique. Une
+attention particulière doit être accordée à la réalisation d'un
+réseau reliant les services de l'administration régionale ainsi que
+les autres établissements publics intéressés. La Présidence du
+Gouvernement sera chargée de rédiger ce plan, de contrôler son
+application et d'en vérifier les résultats.
+Aux sens de l'article 2, pour la réalisation du plan prévu par
+l'article 1 la région peut faire appel à une société d'économie
+mixte, dont le capital serait détenu par la région, les autres
+collectivités territoriales valdôtaines, l'USL et les entreprises
+visées à la loi régionale n° 81/87.
+Aux sens de l'article 3 les autres collectivités territoriales,
+l'USL et les entreprises, isolées ou groupées, pouvant contribuer à
+la valorisation de la société par des apports financiers ou
+technologiques, peuvent figurer au nombre des actionnaires de
+l'INVA, en plus et/ou en remplacement même partiel des associés
+actuels.
+L'article 4 a trait aux objectifs de l'INVA, à savoir la mise en
+place de la gestion du système d'information de la région, des
+collectivités territoriales valdôtaines et de l'USL, en leur
+qualité d'associés.
+L'article 5 stipule que 40 pour cent au moins des actions est
+réservé à la région et que la somme des actions appartenant à la
+région, aux autres collectivités territoriales et à l'USL doit
+dépasser 50 pour cent.
+L'article 6 prévoit que dans les six mois qui suivent l'entrée
+en vigueur de la présente loi, l'INVA apporte à son organisation
+les modifications nécessaires, en cédant éventuellement les
+activités qui ne seront pas conformes aux dispositions en
+vigueur.
+Aux termes de l'article 7 le Gouvernement valdôtain devra
+approuver une convention concernant les fonctions de l'INVA dans le
+cadre de la réalisation du plan pluriannuel, les obligations
+réciproques, les objectifs opérationnels et les conditions à
+respecter.
+L'article 8 enfin abroge les lois régionales nn° 6 du 29 janvier
+1979 et n° 32 du 1er juillet 1994.
+Je tiens à souligner que le présent projet de loi a obtenu
+l'avis favorable de la II commission, qui a examiné le rapport sur
+la situation économique et patrimoniale de la société INVA, dressé
+par la société CAST de Milan pour le compte de la région autonome
+de la Vallée d'Aoste.
+Presidente Ha chiesto la parola il Presidente della Giunta, Dino
+Viérin.
+Viérin D. (UV) Permettez-moi tout d'abord de remercier le
+rapporteur et la II commission pour avoir bien voulu approfondir ce
+projet de loi, en analysant les tenantset les aboutissants. C'est
+un projet de loi qui modifie la structure générale de la société
+INVA, sur la base aussi d'un engagement que nous avions pris au
+sein de cette assemblée lors de la discussion d'une interpellation
+qui avait été présentée au mois de décembre dernier par M.
+Chiarello. Au cours de cette séance et lors de la discussion de
+cette interpellation concernant "Iniziative e intendimenti della
+regione nel settore dell'informatica e delle telecomunicazioni",
+nous avions déjà esquissé les thèmes et les objectifs
+qu'aujourd'hui nous vous soumettons avec ce projet de loi.
+En me réservant d'intervenir à la fin de la discussion générale
+sur les requêtes et sur les demandes d'éclaircissement ou sur les
+remarques qui seront faites au cours du débat, je veux simplement,
+dans cette phase, définir quelles sont les finalités que le
+Gouvernement veut atteindre avec la présentation de ce projet de
+loi.
+Tout d'abord, il s'agit de définir quelle est la mission de
+INVA. Nous avions souvent souligné que la situation actuelle se
+prêtait à des malentendus ou à une confusion quant à la mission de
+cette société, compte tenu de sa double personnalité:
+d'interlocuteur privilégié de l'administration régionale et de
+partenaire à plein titre qui ?uvrait dans le secteur privé.
+C'est une réalité qui a également donné suite à des remarques ou
+à des critiques de la part des entreprises privées du secteur.
+Il s'agit donc d'une volonté de la part de la majorité de
+définir avec exactitude cette mission, en séparant ces deux
+fonctions, de façon qu'il y ait pour ceux qui ont un rapport
+privilégié avec le secteur public, notamment avec l'administration
+régionale, la possibilité de se servir de cette société, qui devra
+?uvrer dans le domaine des grands projets et de la planification,
+et devenir ainsi l'instrument qui puisse permettre à
+l'administration régionale, mais également aux autres collectivités
+publiques, de donner application à leurs projets d'informatisation
+des administrations.
+Cette séparation de fonctions permet aussi de mieux définir le
+rôle des entreprises privées, en évitant une confusion entre une
+entreprise à participation publique et le secteur privé.
+De plus, ce projet de loi découle également d'une nécessité, à
+savoir le respect des dispositions communautaires qui réglementent
+le marché public. Jusqu'à présent l'administration avait un rapport
+de convention avec la société INVA, ce rapport a été prorogé en
+attendant la présentation de ce nouveau projet de loi, parce que
+sur la base des dispositions communautaires on ne peut plus suivre
+ces mêmes procédures et donc ce changement aurait créé des
+difficultés quant à l'activité, mais surtout quant aux emplois de
+cette même société.
+Enfin, nous pensons que la séparation des activités publiques
+par rapport aux activités privées contribue également à l'essor ou
+à la relance du secteur informatique, tout en assurant une présence
+forte et qualifiée au Val d'Aoste d'une société à majorité
+publique, dont la mission sera maintenant clairement définie et
+dont les fonctions se limiteraient à cette activité d'assistance et
+de conseil vis-à-vis des administrations publiques, en laissant
+l'application de ces projets et de ces programmes aux entreprises
+privées et donc au secteur privé de l'informatique valdôtaine.
+Il s'agit d'une finalité importante, parce qu'elle s'inscrit
+dans la perspective, qui a été tracée par la majorité et par le
+Gouvernement, de redéfinir les fonctions de l'administration
+régionale en laissant au marché privé les fonctions de gestion, de
+réalisation, d'application des programmes qui sont promus par les
+administrations publiques.
+Presidente E' aperta la discussione generale.
+Ha chiesto la parola il Consigliere Tibaldi, per mozione
+d'ordine.
+Tibaldi (Ind) Prendo spunto dalle argomentazioni utilizzate dal
+Presidente della Giunta per respingere la mozione d'ordine che
+avevo proposto, mozione che tendeva solamente a rinviare per un
+tempo congruo all'esame del comitato di pianificazione
+dell'informatica regionale questo disegno di legge e tutte le
+iniziative che si intendono adottare nel settore.
+Ho appreso dalle risposte fornite dall'Assessore che
+implicitamente assistiamo ad una soppressione di questo comitato.
+E' stato istituito già tempo fa, convocato una volta sola nel corso
+di quest'anno, nonostante siano intervenuti dei provvedimenti
+modificativi dell'assetto del sistema di informatica regionale, ed
+ora paradossalmente viene soppresso.
+Viene soppresso nel momento in cui si prevede con questa legge
+l'approvazione di un piano pluriennale: da una parte si dice che si
+vuole pianificare la materia, dall'altra sopprimiamo quell'ente che
+poteva, soprattutto per l'apporto delle professionalità tecniche lì
+previste, incidere in maniera qualificante alla definizione delle
+strategie della regione in materia di informatica.
+E' un paradosso che abbiamo raccolto oggi in apertura di
+discussione, che va unito ad una serie di ambiguità che si sono
+sempre verificate nel settore.
+Non possiamo negare che il ruolo di INVA non è mai stato molto
+chiaro; benché definito dalla legge dell'88 in quattro punti
+essenziali che erano: il coordinamento tecnico ed operativo delle
+iniziative degli enti pubblici e degli enti locali attraverso lo
+scambio di informazioni e di conoscenze e la standardizzazione
+delle procedure; la formazione e l'aggiornamento del personale per
+l'utilizzo di tecniche informatiche; il sostegno o lo sviluppo
+dell'informatica in Valle d'Aosta mediante la predisposizione di un
+censimento dei fabbisogni; l'identificazione dei progetti
+prioritari e la predisposizione di un piano conseguente di
+intervento; lo sviluppo e la gestione di procedure automatizzate;
+lo sviluppo della ricerca e della didattica rivolte alle esigenze
+della pubblica amministrazione, all'attività programmatoria e alla
+crescita dell'imprenditorialità locale nel settore.
+Possiamo dire che in questi otto anni di attività dell'INVA non
+c'è mai stata una precisa definizione, o esercizio, da parte di
+questa società nell'ambito di quelle che erano le competenze
+assegnate allora, al momento della sua istituzione.
+Il ruolo di INVA quindi non è mai stato compiutamente delineato
+e secondo me questa definizione non avviene neppure con questo
+disegno di legge, che dietro un paravento dell'adeguamento al
+quadro normativo che si è modificato, come diceva prima il
+Presidente, interviene con alcuni provvedimenti sostanziali. Prima
+di vedere cosa cambia nella sostanza, è opportuno fare un'analisi
+della gestione di questi otto anni, che forse non tutti i
+consiglieri hanno potuto verificare su quello che è uno studio
+approfondito, che è lo studio CAST, dove viene fatta una
+valutazione economico-patrimoniale della società, le cui
+conclusioni sono abbastanza significative e che si possono
+riassumere in 6 punti.
+Il primo punto è la capacità di garantire un profitto agli
+azionisti; la redditività del capitale investito è di circa il 2
+percento, quindi è bassissima, ben al di sotto degli altri
+rendimenti di riferimento. Benché INVA non abbia obiettivi
+prioritari di profitto, si legge, ha dimostrato di non presentare
+autonome capacità di generare ricchezza.
+Il secondo punto è la posizione competitiva e la strategia
+dell'azienda. Fino a quando la regione non definirà in modo chiaro
+ed inequivocabile la propria posizione, INVA non potrà essere in
+grado di elaborare una strategia chiara ed efficace. Quindi questa
+definizione chiara ed inequivocabile, secondo quanto detto dal
+Presidente, dovrebbe intervenire con questo progetto di legge, sul
+quale mi soffermerò dopo. Alla data della valutazione la parte di
+fatturato extraregionale non presenta valore aggiunto soddisfacente
+per poter rappresentare un fattore appetibile per un acquirente
+esterno.
+Il terzo punto sono le competenze aziendali. Le principali
+capacità di INVA sono attualmente riconducibili principalmente
+all'abilità di utilizzare la propria posizione privilegiata, la
+maggior parte delle attuali risorse sono di estrazione
+tecnico-operativa, che non possono gestire con completezza il tipo
+di offerta cui punta l'azienda.
+Il quarto punto è la capacità di ritenzione delle risorse umane.
+Nel '94 si sono dimesse tre persone, che rappresentano circa un
+quinto dell'organico, mentre una nel '95. Dalle interviste
+effettuate da questa società, pare di capire che altri dipendenti
+sarebbero disposti ad accettare un'altra eventuale offerta.
+Il quinto punto riguarda l'immagine e la reputazione sui clienti
+e fornitori. I progetti forniti da INVA sono a basso valore
+aggiunto e l'azienda è considerata da alcuni operatori un fattore
+inibitore dello sviluppo e della imprenditoria locale. Questo va in
+contraddizione con quella che doveva essere una sua precisa
+vocazione, cioè lo sviluppo dell'informatica nell'ambito del
+mercato regionale, che avevo letto prima citando un passo della
+legge del 1988.
+Il portafoglio ordini è il sesto punto: la parte di competenza
+INVA, cioè l'effettiva capacità di generazione di valore aggiunto
+rappresenta solo una minima parte del portafoglio, anche se è
+apprezzabile l'importo generale degli ordini acquisiti ancora da
+fatturare. Sono circa 7 miliardi, non ancora circolarizzati alla
+data del 12 gennaio '96.
+E' una fotografia che delinea in maniera chiara qual è stata la
+confusione del ruolo di INVA nel panorama di quelli che sono gli
+enti, le entità, gli organi che si devono occupare della
+pianificazione e della gestione dell'informatica regionale.
+Sappiamo dallo studio CAST che anche come valore di avviamento
+INVA lo ha praticamente nullo, secondo me è un dato qualificante e
+confortante per una regione che ha investito risorse e speranze in
+questo ente.
+Bisogna anche vedere dove si trovano le cause di questo stato di
+cose, che non ha portato agli obiettivi sperati nel momento in cui
+il legislatore intendeva dare avvio a questa società.
+Ci sono state, ripeto, confusioni di ruolo che sono state
+segnalate anche da esperti di settore e dagli stessi dipendenti in
+un incontro avvenuto con i capigruppo regionali diversi mesi fa,
+dove si chiedeva un quadro di riferimento preciso, in assenza del
+quale l'INVA non è in grado di espletare le funzioni che le sono
+assegnate. Ci sono state spesso sovrapposizioni di ruoli fra INVA e
+SED, servizio elaborazione dati, che dovrebbe interpretare le
+esigenze della regione, in particolare del Presidente della Giunta,
+visto che è un servizio che dipende pressoché esclusivamente dal
+suo ufficio, mentre sappiamo che il ruolo degli assessorati è
+decisamente minore. Un servizio, questo del SED, che ha una certa
+povertà di risorse professionali non in senso di qualità - non si
+vuole mettere in dubbio la qualità -, ma nel senso che un dirigente
+e due vicedirigenti lo scorso anno hanno lasciato il servizio per
+raggiunti limiti di anzianità.
+Come ha fatto fronte la Giunta a questa povertà di risorse
+disponibili? Con una ricchezza di consulenze esterne, alcune delle
+quali sono state megamilionarie, altre sono state adottate (come si
+legge nel documento fornito già tempo fa dalla delegazione INVA,
+quando è venuta ad incontrare i capigruppo) con metodi alquanto
+discutibili.
+Quindi, c'è stata confusione di ruoli fra la parte della
+programmazione, della pianificazione, della gestione e della
+realizzazione di quelli che sono gli interventi in materia di
+informatica regionale; ruoli che hanno portato alla dispersione di
+risorse preziose, ruoli che hanno portato anche alla difficoltà di
+perseguire determinati obiettivi.
+Cosa si fa con questo disegno di legge che oggi ci viene
+proposto?
+Prima di tutto, come dicevo, si procede ad una pianificazione
+pluriennale adottata dalla Giunta regionale su base annuale. Ma gli
+aspetti più significativi sono quelli che citava anche il relatore
+Rini e che riguardano i soci. Si prevede una modificazione
+dell'assetto societario: oltre alla regione possono acquisire in
+aggiunta e/o in sostituzione anche parziale degli attuali soci le
+qualità di socio azionista dell'INVA S.p.A. altri enti pubblici
+territoriali valdostani, ovvero l'USL e imprese in forma singola e
+associata che per apporti finanziari o tecnologici possono
+contribuire alla valorizzazione della società.
+Leggendo questo articolo si capisce che, rispetto alla
+modificazione normativa del '94 che aveva inserito anche gli enti
+locali, qui si prevede di inserire anche l'USL ed è naturale che,
+dal momento che se ne prevede l'inserimento, siano già state date
+delle disponibilità da parte dell'ente sanitario.
+Nell'articolo 4, capitale sociale, è chiarito meglio quale sarà
+la compagine azionaria: alla regione è riservata la proprietà di
+almeno il 40 percento delle azioni (praticamente la percentuale
+rimane invariata) e la somma delle azioni di proprietà della
+regione, degli altri enti pubblici territoriali e dell'USL, cioè di
+quello che viene definito il comparto pubblico, deve essere
+superiore al 50 percento delle azioni.
+Si cambia dunque radicalmente la natura della società, da una
+partecipazione minoritaria alla società pur sempre mista da parte
+degli enti pubblici si inverte e si va alla partecipazione pubblica
+maggioritaria. Questa è una scelta politica bella e buona che
+stride con quanto detto non più tardi di stamani dall'Assessore
+Lévêque, ovvero che si tende ad alleggerire la presenza pubblica
+della regione nelle società.
+L'Assessore diceva: regione leggera, la volete, ve la diamo.
+Certo che con la Digrava, dove si procede alla privatizzazione a
+costo zero, sono capaci tutti a privatizzare con la regione che si
+carica di oneri e di impegni non indifferenti. Qui la regione
+invece aumenta in maniera significativa, con altri partner di tipo
+pubblico, la sua presenza, per cui le perplessità che stamani
+raccoglievo da alcune dichiarazioni dell'Assessore Lévêque vengono
+confermate con atti legislativi. La regione intende controllare
+insieme all'USL, ad altri enti locali e ad altri enti pubblici
+territoriali valdostani, l'INVA.
+Cosa si vuole fare dell'INVA? Si possono dire tante cose. A mio
+avviso si vuole creare l'ennesimo imbuto politico, all'interno del
+quale vengono filtrate un po' tutte le iniziative che riguardano il
+settore informatico. L'INVA diventa una società fiduciaria della
+Giunta, o magari anche della Presidenza della Giunta, e questo
+rischia di andare ad inquinare quello che è l'assetto di un mercato
+abbastanza precario anche in questo settore. In poche parole si
+crea attraverso questo strumento una veicolazione capillare di
+quelle che possono essere commesse, consulenze o iniziative
+similari in materia informatica, il tutto sotto lo stretto
+controllo della regione.
+Penso che questa tendenza alla regionalizzazione di qualsiasi
+ente che possa avere una incidenza in un settore produttivo, debba
+essere stoppata.
+Chiedo sinceramente, anche al Presidente della Giunta o agli
+Assessori che risponderanno, se questa è la reale intenzione, di
+andare cioè ad un controllo capillare anche in questo settore. Si
+rischia di trasformare l'INVA da strumento di sostegno allo
+sviluppo per l'imprenditorialità locale, qual era la sua vocazione
+originaria, a strumento di impedimento, o meglio, di sviluppo
+informatico che alla fine viene pianificato dalla regione. E' una
+scelta a mio avviso di carattere dirigistico.
+Oltretutto all'articolo 3, dove si parla di finalità, dove si
+dice che l'INVA S.p.A. ha come esclusiva finalità sociale la
+realizzazione e la gestione del sistema informativo regionale,
+restringendo così notevolmente la sua area di operatività, bisogna
+sapere chi fa la progettazione. Nella parola realizzazione è
+contenuto anche questo termine? I termini realizzazione e gestione
+sono comprensivi di una molteplicità di significati, che possono
+facilmente essere elusi e portare a quella ambiguità che finora ha
+caratterizzato il settore e i rapporti fra gli enti che lavorano
+nel settore.
+Fra l'altro nello stesso articolo 3 non si fa più riferimento
+alle imprese che possono essere soci, di cui all'articolo 2, mentre
+all'articolo 3 questa finalità esclusiva di gestione e
+realizzazione del sistema informativo regionale può essere
+applicata anche in riferimento agli enti pubblici territoriali
+valdostani e all'USL, che hanno la qualità di socio, ma le imprese
+vengono assolutamente escluse. Anche qui l'eventuale beneficio che
+potrebbe trarne l'imprenditorialità privata viene dimenticato.
+Ho espresso quelle che sono le mie perplessità in merito a
+questo disegno di legge, mi riservo di sentire le repliche della
+Giunta per procedere poi alla dichiarazione di voto.
+Si dà atto che, dalle ore 17,56 presiede il Vicepresidente
+Aloisi.
+Presidente Ha chiesto la parola il Consigliere Marguerettaz.
+Marguerettaz (PpVA) Diventa oltremodo problematico presentare
+altre considerazioni dopo l'intervento del collega Tibaldi, che è
+stato ampio ed articolato, non esaustivo altrimenti non sarei
+intervenuto.
+La prima considerazione di tipo politico da farsi credo sia la
+seguente: è inevitabile fare un parallelismo fra questo disegno di
+legge e la delibera di questa mattina inerente la fuoriuscita della
+partecipazione regionale alla società Digrava. Perché? Innanzitutto
+per una impostazione evidentemente del tutto opposta rispetto alla
+scelta che è stata fatta questa mattina. Stamani si è scelto di
+uscire da una società che faceva acqua da tutte le parti (per
+meglio dire: cercava di prendere acqua da tutte le parti), questo
+pomeriggio invece permettiamo con questo disegno di legge, ed è già
+il secondo che assumiamo in questo senso, a quella piccola
+componente di privati di abbandonare questa società, nel senso che
+già con il precedente disegno di legge questa intenzione non era
+stata celata; c'era questa società Intesa che ha una partecipazione
+pari al 20 percento all'interno dell'INVA, che più volte in passato
+aveva manifestato l'intenzione di uscire dall'INVA e per questo
+motivo (e per altri evidentemente) già alcuni mesi or sono
+modificammo con quel disegno di legge l'originale legge, che
+indicava quali erano i compiti e la composizione azionaria di
+INVA.
+Un altro parallelismo inevitabile con la scelta di stamani va
+fatto per quanto riguarda il giudizio che già avevo avuto modo di
+esprimere. Va dato atto che questa Giunta e questa maggioranza
+hanno degli slanci di coraggio, nel senso che mettono mano a
+situazioni alle quali appunto va messa mano, ma è un coraggio che
+poi deve fare i conti anche con la politica nel senso più deleterio
+forse del termine. Così abbiamo visto che questa mattina questo
+coraggio iniziale di porre mano a Digrava ha fatto sì che si
+prendesse la decisione di uscire, ma con un accordo, che è stato
+definito capestro per l'amministrazione; questo pomeriggio su
+questo disegno di legge c'è il coraggio iniziale di mettere mano a
+INVA, ma anche qui non si porta a compimento l'opera.
+Perché? Perché c'è una domanda alla quale la commissione non ha
+ottenuto una risposta esauriente ed era una domanda che aleggiava e
+che è stata posta ai diversi interlocutori che abbiamo incontrato
+nel corso dei lavori; è una domanda molto semplice: ha ancora senso
+che esista INVA? A questa domanda non si è data una risposta certa,
+decisa, importante, sicura, ma gli è per certi versi girato
+intorno.
+Dicevamo che a questa società andava messo mano, e anche qui
+dopo anni ormai di sollecitazioni in questo Consiglio, anche da
+parte dell'opposizione, sulla situazione societaria di INVA, ci è
+stato consegnato lo studio CAST commissionato dalla Giunta. Anche
+questo è un atto di coraggio, perché dello studio CAST tutto si può
+dire tranne che sia uno studio "indirizzato". Anzi, lo stesso
+dottor Provinciali che abbiamo avuto modo di sentire in seno alla
+II commissione ha più volte ribadito alcuni concetti espressi
+all'interno dello studio CAST, assumendosi ufficialmente tutta la
+responsabilità di ciò che veniva affermato nello studio stesso.
+Non mi addentro nell'analisi dello studio, perché lo ha fatto il
+collega Tibaldi in maniera esauriente questa volta, ma oggi non
+possiamo assumere questo disegno di legge senza che la Giunta da un
+punto di vista politico dia delle controdeduzioni alle osservazioni
+contenute nello studio CAST. Lo studio CAST non fa la fotografia
+della situazione dell'ultimo mese o degli ultimi due mesi, ma una
+ben più ampia che possiamo far risalire agli inizi di questa
+amministrazione. Anche qui - direbbe Lubrano - sorge spontanea una
+domanda: era davvero necessario che passasse tutto questo tempo per
+accorgersi - sempre fatto salvo che lo studio CAST sia condiviso
+dalla Giunta - che questa era la situazione di INVA? Dovevano
+passare tre anni perché questa amministrazione si sentisse dire da
+uno studio quale lo studio CAST che questa era una azienda
+screditata (per non usare un termine più volgare, ma forse più
+chiaro) con tutti gli interlocutori con cui veniva a contatto?
+Una azienda talmente screditata, e anche qui una risposta di
+tipo politico ci vuole, che gli stessi servizi regionali - il SED,
+per essere chiari - che avevano frequenti rapporti con INVA
+risultano dare nello studio un giudizio negativo sull'attività e
+sui rapporti intercorsi fra regione e INVA. Da qui la domanda:
+perché, nonostante questi giudizi negativi, si è andati avanti per
+anni con convenzioni trimestrali regione-INVA, continuamente
+rinnovate, senza fermarsi ad analizzare la situazione?
+Sono tutte domande alle quali mi auguro di avere risposta nella
+replica del Presidente.
+Per quanto riguarda il disegno di legge in sé, il collega
+Tibaldi ha già posto delle domande che chiedono di fare maggiore
+chiarezza sul significato del disegno stesso; io vorrei farne
+un'altra. Posto la decisione di riorganizzare anche dal punto di
+vista della composizione azionaria questa azienda, rimane una
+questione che credo sia di difficile soluzione ed è la questione di
+INVA Consulting, controllata al 100 percento da INVA. Dentro questa
+situazione bisognerà mettere chiarezza, perché sappiamo che ad oggi
+INVA ha in piedi tutta una serie di contratti con privati con
+scadenze che vanno in là nel tempo, da domani o da quando questo
+disegno di legge entrerà in vigore è evidente che la nuova azienda
+INVA non potrà più portare avanti questi rapporti con i privati,
+perché l'interlocutore unico di INVA diventa l'amministrazione
+regionale. Allora, cosa si farà per non contrastare gli indirizzi
+che diamo con questo disegno di legge? Cosa concretamente si farà
+per regolarizzare una situazione che non sarà più regolare? Qui mi
+piacerebbe sentire l'Assessore Lévêque dal punto di vista
+dell'esperienza che indubbiamente ha.
+Una cosa che non ho capito è l'esigenza che hanno questi piccoli
+imprenditori, che si erano consorziati per partecipare all'azienda,
+di fuoriuscire da INVA e come mai l'altro partner privato, ben più
+grosso e importante, Olivetti, non ha invece mostrato alcun
+interesse ad uscire dall'azienda. Sui motivi di questa duplice
+posizione di soggetti privati, certamente diversi in capacità,
+qualità, quantità, mi piacerebbe sentire il giudizio
+dell'Assessore.
+In conclusione devo fare forse un processo alle intenzioni, ma
+in politica si fa anche questo. Credo che l'arte del possibile sia
+stata un po' esercitata, cioè il sospetto è che, nonostante lo
+sforzo che è stato fatto con l'altro disegno di legge di accorpare
+le due cariche, ampiamente remunerate, che dirigevano questa
+azienda proponendo un'unica carica, quest'unica carica oggi
+equivalga anche a livello di remunerazione quasi ad un Assessorato,
+e credo che da questo punto di vista qualche forza politica abbia
+fatto di tutto perché in questo passaggio amministrativo, ma anche
+politico, appunto la politica diventasse l'arte di tutto il
+possibile.
+Presidente Ha chiesto la parola il Consigliere Chiarello.
+Chiarello (RC) Avevo sollecitato varie volte con mozioni il
+chiarimento della situazione dell'INVA. Leggendo la legge i punti
+che mi interessavano non sono ben specificati; ad esempio, il SED
+che fine farà? Ci saranno due società informatiche regionali? E
+dove si dice che l'USL può contribuire alla valorizzazione della
+società, non si poteva scrivere "deve"? Sappiamo che in questo
+momento l'USL ha contatti con società informatiche di Milano e
+Torino; con questo disegno di legge l'USL si rivolgerà a INVA o
+continuerà i contatti che ha attualmente? Insomma, quale sarà il
+carico di lavoro dell'INVA?
+Presidente Altri intendono intervenire in sede di discussione
+generale? Se nessuno chiede la parola, dichiaro chiusa la
+discussione generale.
+Ha chiesto la parola il Presidente della Giunta, Dino
+Viérin.
+Viérin D. (UV) Je veux remercier tout d'abord les conseillers
+qui sont intervenus, parce que leur intervention permet de mieux
+éclaircir certains points de ce projet de loi.
+Quant au paradoxe auquel fait référence M. Tibaldi, à mon avis
+il n'existe pas parce que, vu qu'aujourd'hui les parallélismes sont
+à la mode, s'il y a un parallélisme entre la présentation d'un plan
+informatique et donc la soumission de ce plan à l'examen préalable
+du comité informatique, il y a le même parallélisme entre la
+présentation d'un projet de loi portant réforme de la loi du
+secteur et l'examen de ce projet de loi de la part non d'un comité
+consultatif, mais de la part d'une commission permanente du
+Conseil.
+C'est pour cette raison que la motion d'ordre ne pouvait être
+acceptée, parce qu'il s'agit d'un projet de loi; ce projet de loi a
+été soumis à l'analyse de la IIe commission qui l'a examiné en
+profondeur, elle a même réécrit le texte, donc de ce point de vue
+il me semble que la fonction politique d'une assemblée permanente
+du Conseil est plus importante que celles d'un comité créé avec une
+fonction consultative qui voit une présence mixte des membres de
+cette assemblée et des techniciens.
+Par ailleurs la présence de ces techniciens n'est pas amoindrie.
+M. Tibaldi disait qu'avant, avec la présence de ce comité l'on
+pouvait compter sur des compétences spécifiques parce qu'au sein du
+comité l'on pouvait examiner le plan, tandis que maintenant, avec
+l'abrogation de la loi de 1989, on ne pourra plus compter sur ces
+compétences. Mais le troisième alinéa de l'article 1er prévoit
+expressément que le plan pluriannuel qui sera présenté au Conseil -
+il y a aura donc la possibilité de la part des commissions
+d'examiner ce même plan - soit préparé "per il tramite della
+struttura competente in materia di elaborazione dati, osservando
+quanto in proposito specificato dalla legge regionale 45". Nous
+avons donc voulu réaffirmer le rôle technique important de la
+structure administrative et insérer cette fonction dans le cadre
+des nouvelles dispositions de la loi portant réforme des services
+de l'administration régionale. Donc à mon sens il n'y a pas
+paradoxe, il y a respect des fonctions et des compétences de cette
+assemblée et des services de l'administration régionale.
+L'on a fait à juste titre référence aux finalités de la loi
+portant création INVA et à l'étude CAST que, M. Marguerettaz l'a
+déjà souligné, le Gouvernement a voulu; c'est sur la base d'une
+délibération du Gouvernement du 27 octobre 95 qu'a été confié "al
+dr. Federico Provinciali della società CAST l'incarico di
+consulenza nella valutazione economico-patrimoniale della società
+INVA , approvazione del disciplinare di incarico". Et donc c'est là
+une volonté délibérée du Gouvernement de disposer de tous les
+éléments pour prendre une décision et il me semble que des
+déclarations faites et par M. Tibaldi et par M. Marguerettaz il
+ressort qu'un changement s'imposait: et du fait que les finalités
+de cette loi n'avaient pas été totalement atteintes et du fait des
+limites, des difficultés de fonctionnement de cette société, des
+difficultés de rapport entre cette même société et différents
+services de l'administration régionale, des difficultés également
+de cette société vis-à-vis du secteur privé de l'informatique.
+C'est un thème que nous avons examiné et nous avons voulu proposer
+ce changement pour dépasser ce, c'est le mot de M. Tibaldi,
+"confusione di ruoli".
+Et là j'aborderais le thème le plus important, parce qu'à mon
+sens il y a une clé de lecture différente par rapport aux finalités
+et aux orientations que nous vous soumettons. Avant de le faire,
+une petite considération quant au personnel et du service
+informatique de l'administration régionale et au personnel de INVA
+s'impose. Il est vrai, le responsable du SED a pris sa retraite, il
+n'a pas été remplacé, mais ce n'est pas le seul service de
+l'administration régionale qui soit actuellement dépourvu de
+dirigeant à plein titre; c'est un choix délibéré que nous avons
+fait en attendant le plan général de réorganisation de
+l'administration régionale.
+Il était inutile de nommer quelqu'un ou de lancer un concours
+sans avoir le cadre défini des nouvelles fonctions des dirigeants
+de l'administration régionale, compte tenu également de l'accord
+que nous avons signé avec les organisations syndicales quant au
+nombre des dirigeants que nous souhaitons avoir à l'intérieur de
+cette administration. Pour ce qui est par contre de l'autre
+personnel, nous avons pourvu à utiliser le concours et donc à
+attribuer le personnel nécessaire pour que le SED puisse
+fonctionner. Le problème est différent si l'on considère INVA; à la
+rigueur, si nous voulons, INVA a un surnombre de personnel et donc
+c'est un problème qui doit être considéré d'une façon
+différente.
+Les missions que nous avons confiées l'ont été sur la base des
+requêtes qui nous ont été soumises par les différents services de
+l'administration régionale et sur la base d'une analyse sérieuse
+des compétences, dont nous disposons au sein de cette
+administration, et de la nécessité de donner suite à ces
+requêtes.
+Les articles 2 et 4 font référence à une société, et il est
+vrai, c'est une société mixte à majorité publique, il y a de ce
+point de vue un changement et c'est dans cette direction que nous
+avons voulu définir la mission de INVA, en dépassant la confusion
+des rôles qui pouvait exister auparavant.
+Avant la société était mixte à majorité privée, maintenant elle
+est mixte à majorité publique, et l'on prévoit la présence de la
+Région, d'autres collectivités territoriales locales, de l'USL et
+ce, tout en respectant l'autonomie....
+(...Interruzione del Consigliere Chiarello fuori
+microfono...)
+...Chiarello, ce sont des mots auxquels nous attribuons tous une
+importance fondamentale quand nous les prononçons, mais nous devons
+également être conséquents: nous formulons ici une sollicitation,
+nous exprimons même à la rigueur une volonté: que l'USL puisse
+participer à cette société pour que l'on valorise les énergies
+valdôtaines et que l'on puisse éviter de recourir à des énergies
+externes; mais l'on ne pouvait pas mettre "deve", l'on met "può"
+parce que c'est une "azienda" maintenant et nous devons considérer
+cette situation.
+Il y a également la prévision de la présence des entreprises
+privées; nous n'avons pas voulu exclure cette possibilité: "imprese
+in forma singola o associata che per apporti finanziari o
+tecnologici possono contribuire alla valorizzazione della società",
+donc nous avons repris intégralement la formulation de la loi
+32/94. Nous avons voulu également considérer la situation actuelle,
+M. Marguerettaz l'a souligné: une partie de ces partenaires privés
+(Intesa) depuis toujours sollicitent une possibilité de vente de
+ces quotes-parts, ce n'est pas dit que tous veulent nécessairement
+céder leur quote-part. Cet article 2 voit sa définition avec
+l'article 4, dans le sens que de toute façon nous voulons que le
+capital social de cette société prévoie une majorité publique:
+"alla regione è riservata la proprietà di almeno il 40 per cento
+delle azioni e la somma delle azioni di proprietà della regione,
+degli altri enti pubblici territoriali valdostani e dell'USL deve
+essere superiore al 50 per cento delle azioni". C'est sur la base
+de cette prévision que nous pouvons affirmer que les affirmations
+que la région augmente sa présence à l'intérieur du secteur ne
+correspondent pas à la vérité; elle augmente sa présence à
+l'intérieur de la société, mais non pas au sein du secteur
+informatique, et ce n'est pas vrai que la région veut avoir le
+contrôle de tout le secteur informatique. La volonté va exactement
+dans une direction opposée: avant on avait une société avec une
+présence de 40 pour cent de l'administration publique, qui ?uvrait
+avec un rapport privilégié avec la même administration publique et
+qui, parallèlement à ce rapport avec les collectivités
+territoriales agissait également dans le secteur privé.
+Il s'agit maintenant pour nous, compte tenu de l'importance
+stratégique que depuis toujours nous avons reconnu au processus
+d'informatisation de l'administration régionale, compte tenu du
+fait que nous savons qu'on ne pourra pas faire face à ces exigences
+exclusivement avec des ressources internes, à moins d'avoir une
+augmentation démesurée des effectifs de l'administration régionale,
+et qu'il sera nécessaire de recourir à des compétences externes, il
+s'agit pour nous d'avoir un rapport de pouvoir, et cela est prévu
+maintenant par toutes les dispositions de loi dans le secteur des
+services, même par la Merloni pour ce qui est "delle società
+concessionarie", donc nous voulons pouvoir compter sur une société
+qui ait pour objectif exclusif (c'est l'article 4) les problèmes de
+l'administration régionale et des collectivités territoriales en
+général, sortant ainsi du secteur privé.
+C'est dans ce sens que nous parlons de privatisation, parce
+qu'il n'y aura plus de confusion. Nous nous limitons à confier à
+cette société la réalisation de nos objectifs, de ce plan
+pluriannuel, qui sera voté par cette assemblée. Pour tout ce qui a
+trait ensuite aux aspects qui voient la présence d'entreprises,
+nous ne serons plus concernés, ce sera le secteur privé. Il y aura
+donc une possibilité pour le secteur privé valdôtain de pouvoir
+compter sur ces commandes et sur ces projets et sur la possibilité
+de les réaliser. Cela est tellement évident, que même M. Tibaldi
+l'a souligné. Dans un article il est fait référence à la présence
+des particuliers, mais à l'article 3, lorsque définit les finalités
+de cette société sont définies, l'on affirme que l'INVA a "come
+esclusiva finalità sociale la realizzazione e la gestione del
+sistema informativo regionale", donc l'on ne fait plus référence
+aux entreprises privées, parce qu'il s'agit d'un choix délibéré de
+l'administration régionale de sortir de ce secteur, dans un certain
+sens donc de privatiser..
+C'est sur la base de cette considération que nous ne partageons
+pas le fait qu'il n'y ait pas de parallélismes avec des décisions
+que nous avons prises auparavant ou avec la présentation de la
+volonté de sortir de Digrava, dont on a parlé ce matin, parce qu'il
+est vrai que nous augmentons notre présence au sein d'une société,
+mais nous sortons du secteur informatique et nous donnons la
+possibilité aux partenaires privés de s'en aller.
+Je sais gré à M. Marguerettaz, de nous reconnaître certains
+élans, mais là également quand nous avons examiné ce thème il y
+avait aussi une autre possibilité, peut-être plus cohérente avec
+certains principes de privatisation, à savoir que l'administration
+régionale sorte de INVA: c'était clair, facile à faire, mais qui
+assume la responsabilité des retombées de cette privatisation?
+C'est pour cette raison que nous voulons aller vers la
+privatisation, mais en tenant compte d'un certain cadre social. Il
+n'est pas dans notre volonté de procéder à des privatisations
+sauvages parce que, dans le cas contraire, ce serait ce même
+Conseil qui nous demanderait de faire face aux difficultés d'ordre
+social du personnel et de ceux qui font partie de cette
+société.
+Nous avons également donné une réponse à la question: est-ce que
+la présence de INVA a encore un sens aujourd'hui? A notre avis oui,
+d'une INVA transformée, d'une INVA avec une majorité publique qui
+constitue la tête pensante de l'administration régionale pour
+réaliser ces objectifs d'ordre général sur le plan des projets et
+des programmes dans le secteur informatique.
+C'est une première phase, ici on jette les bases parce que par
+la suite dans les six mois qui suivent l'on devra procéder à
+"adeguare i propri strumenti sociali secondo quanto in esso
+previsto, cedendo altresì eventuali attività e partecipazioni non
+conformi all'oggetto sociale, quale determinato dall'article 3 come
+sostituito dall'article 4 della presente legge". C'est un problème
+que nous nous sommes posé; nous avons déjà, au mois de mars,
+adressé un courrier à la société INVA, dans lequel nous
+sollicitions cette société "al fine di permettere alla regione di
+utilizzare appieno per la fornitura di un servizio
+all'amministrazione gli strumenti societari esistenti, nonché di
+adattare la legislazione regionale in materia al mutato quadro
+normativo statale, la Giunta regionale ha adottato e deciso di
+sottoporre al Consiglio regionale" le projet de loi que nous sommes
+en train d'examiner; "il disegno di legge di cui trattasi risponde
+dunque alle necessità di conformare alla vigente normativa
+concernente le società a capitale misto i rapporti fra INVA e
+regione, permettendo una volta approvato di ottimizzare l'azione di
+tale società preposta alla realizzazione della informatizzazione
+della pubblica amministrazione in Valle anche e soprattutto
+attraverso uno specifico sostegno allo sviluppo dell'informatica
+regionale. Si richiede pertanto di voler assumere ogni iniziativa
+opportuna, affinché la fase di adeguamento della società ai criteri
+ispiratori della legge sia la più rapida e migliore possibile,
+adottando sin da ora tutti i provvedimenti ritenuti necessari al
+fine di facilitare la separazione delle commesse private da quelle
+pubbliche. In tale contesto transitorio si invita inoltre la
+società a soprassedere alla nomina di un nuovo direttore generale,
+affidando temporaneamente all'attuale amministratore delegato tali
+funzioni. Si ritiene infine indispensabile durante tutta la fase
+transitoria escludere o limitare qualsiasi iniziativa non
+assolutamente indispensabile, quali assunzioni di nuovo personale a
+fini di consulenza a qualsiasi titolo o investimenti in conto
+capitale senza il propedeutico e necessario avallo di questa
+amministrazione e dei soci"..
+Ceci de façon à préparer ce passage, ce que le conseil
+d'administration de INVA a appliqué, parce que dans ses réunions il
+a tenu compte de ces orientations. Il est à préciser que toute
+cette opération a été concertée avec les autres partenaires, que ce
+soit Intesa ou Olivetti, et ensemble nous avons trouvé un accord
+sur cette proposition.
+En tout cas il sera nécessaire, en vue de la séparation de ces
+activités, de tenir compte du secteur et notre intention, après
+avoir approuvé ce projet de loi, est de faire participer par le
+biais de leurs associations toutes les sociétés qui oeuvrent à
+l'intérieur de la Vallée d'Aoste, pour vérifier si elles sont
+intéressées par la privatisation des activités actuelles de INVA,
+l'Associazione valdostana imprenditori terziario avanzato, de façon
+qu'il y ait là le maximum de transparence quant aux passages de ces
+fonctions.
+Pour ce qui est du SED, à l'article 1er, 3ème alinéa, la
+finalité du SED est prévue, donc il n'y aura pas de malentendus
+quant à sa mission.
+Enfin pour ce qui est des idées de M. Marguerettaz, je laisse à
+M. Marguerettaz le soin d'en vérifier le bien-fondé: qui vivra
+verra et nous aurons donc la possibilité de le vérifier.
+Presidente Per dichiarazione di voto ha chiesto la parola il
+Consigliere Marguerettaz.
+Marguerettaz (PpVA) Dopo le controdeduzioni del Presidente,
+vorrei fare alcune osservazioni in questo senso. E' più chiaro di
+prima, ed è la prima osservazione. Rimangono tuttavia alcune
+questioni aperte, anzitutto - forse non era questa l'occasione mi
+dirà il Presidente, peccato perché penso che dopo questa non ce ne
+saranno più - quella di avere un giudizio politico sullo studio
+CAST. Nel discorso del Presidente si sottintendeva che siamo già
+più avanti, "scurdammoce u' passato" diceva quella canzone, per noi
+diventa un po' difficile scordarcelo, comunque guardiamo
+avanti.
+Quando poi il Presidente dice, giustamente a mio avviso, che vi
+era anche un'altra opzione di fronte alla situazione disastrosa
+nella quale si trovava l'azienda, che era quella della
+privatizzazione, se il Presidente mi dice che la scelta che andiamo
+a fare oggi con questa decisione va nella direzione della
+necessità, così come in parte ha sostenuto, per questa
+amministrazione di avere una struttura quale quella che si va a
+prospettare per l'organizzazione stessa della struttura regione, è
+più o meno convincente, nel senso che sicuramente conosce più lui
+di me queste necessità. Quando però il Presidente dice che, fra le
+altre valutazioni che sono state fatte, vi è anche quella per così
+dire sociale dei dipendenti, questo credo sia un tasto sul quale
+forse troppo spesso si torna, cercando di toccare le corde del
+sentimento e inalberando la difesa dello stato sociale, che tanto
+di moda va in questo periodo.
+Vede, Presidente, ci sono circa 15 dipendenti in questa società,
+il problema è che finora questa società non solo non ha raggiunto
+gli scopi per i quali era stata creata, ma ha ottenuto dei
+risultati contrari agli scopi che si proponeva, soprattutto in
+rapporto al favorire lo sviluppo dell'imprenditoria privata nel
+settore informatico. Stando proprio ai privati, l'INVA fin qui ha
+lavorato contro questa espansione del settore privato. Ora, con la
+riformulazione dell'azienda, con questo tirarsi fuori da mercati
+che non sono propri di questa azienda, credo che quelle 15 persone,
+aprendo per così dire un certo mercato privato, avrebbero invece
+trovato una collocazione non solo sicura, ma certamente più
+gratificante rispetto a quella che hanno oggi. Presidente, ha letto
+il passaggio dello studio CAST, in cui proprio a proposito del
+personale di INVA si dice, sintetizzo, che queste sono persone che
+non vedono l'ora di andarsene? Il motivo è che hanno un lavoro che
+non è gratificante.
+Allora se la giustificazione è l'altra, ripeto, la prendiamo con
+beneficio di inventario nel senso che vedremo quali saranno gli
+sviluppi nel futuro; immagino che a questo punto le consulenze che
+sono state date in passato direttamente dalla Giunta non ci saranno
+più, perché sarà tutta una gestione di INVA, quindi in questo senso
+si farà chiarezza ed è sicuramente un passo avanti rispetto al
+passato. Per tutto quello che sarà il futuro vedremo gli sviluppi
+di questa nuova impostazione che si vuole dare all'azienda. Rimane,
+come diceva il Presidente, che è della persona e che è
+difficilmente verificabile che dentro questa soluzione sia ancora
+presente un condizionamento di tipo politico.
+Per queste motivazioni, pur ammettendo che un passo avanti si fa
+rispetto al passato, questo passo decisamente ancora non ci
+convince, per cui ci asterremo dal votare questo disegno di
+legge.
+Presidente Ha chiesto la parola il Consigliere Tibaldi, per
+dichiarazione di voto.
+Tibaldi (Ind) Ringrazio il Presidente perché senz'altro il suo
+intervento qualche chiarimento in più lo ha dato che né dalla
+relazione dell'Assessore né dalla relazione fatta dal Consigliere
+Rini si poteva evincere.
+Rimane per quanto mi riguarda un dubbio, che ha esternato
+poc'anzi il Consigliere Marguerettaz. Innanzitutto il Presidente
+dice che la volontà della regione non è quella di controllare
+attraverso INVA questo settore, bensì è il contrario. E questa
+volontà di non controllare la esplicita attraverso questo strumento
+legislativo che prevede l'inversione di natura nell'INVA: da
+partecipazione pubblica minoritaria a partecipazione pubblica
+maggioritaria.
+Il Presidente ci ha fatto una serie di argomentazioni, che
+possono essere anche plausibili, ma che lasciano qualche
+perplessità; fra queste spicca quella che citava poc'anzi
+Marguerettaz che il filtro di tutto quello che sarà la testa
+pensante, il ruolo che avrà INVA per quanto riguarda
+l'informatizzazione regionale transiterà attraverso questa società.
+Da qui cosa si può capire? Che determinati incarichi potranno
+essere o verranno pilotati (nel senso buono della parola,
+naturalmente) da questa società. Una società che prima ho definito
+fiduciaria del Presidente della Giunta o della Giunta, e questo
+dalle spiegazioni date dallo stesso Presidente sembra essere
+confermato. Questo significa che l'INVA per la sua natura
+privatistica di S.p.A. potrà pilotare consulenze ed incarichi,
+eludendo le regole normalmente previste dal diritto pubblico quando
+gli incarichi vengono conferiti dalla Giunta. Questa è una
+perplessità che potrebbe condizionare il mercato. Il Presidente
+dice di no, io qualche dubbio lo mantengo, per cui dichiaro
+l'astensione dal votare questo provvedimento.
+Presidente Ha chiesto la parola il Presidente della Giunta, Dino
+Viérin.
+Viérin D. (UV) Tout en confirmant l'avis favorable du
+Gouvernement quant au projet qui a été présenté, je voudrais
+éclaircir un aspect pour éviter tout malentendu à ce propos.
+Il est vrai, le point fondamental est dans la finalité
+maintenant sociale de INVA, la nouvelle mission qu'on lui attribue,
+en partant de la considération que l'informatisation d'une
+administration publique revêt aujourd'hui une importance
+stratégique et il est nécessaire à cet effet qu'un rapport de
+confiance s'établisse entre l'administration et ceux qui sont
+appelés à donner application à ces objectifs.
+Pour ce faire, ne pouvant pas compter exclusivement sur les
+compétences et sur les ressources internes, force nous est de nous
+adresser à l'extérieur. Plutôt que de nous s'adresser à n'importe
+qui, nous voulons pouvoir compter sur une société à majorité
+publique; mais pour ce faire la société doit avoir cette majorité
+publique, d'où la transformation..
+Si cela est vrai, l'hypothèse précédente de la privatisation
+telle qu'elle a été définie par M. Marguerettaz ne tient plus,
+parce que nous aurions dû sortir de INVA, abandonner ce personnel à
+sa destinée, pour reconstituer aussitôt après une autre société,
+qui soit à même de remplir ces fonctions..
+(...Interruzione del Consigliere Marguerettaz, fuori
+microfono...)
+Non, le chemin était celui de s'adresser encore et exclusivement
+à des conseils particuliers en donnant des missions, parce que si
+nous voulons pouvoir compter sur une structure, la région devait de
+concert avec les autres collectivités locales, constituer une autre
+société. Il nous a paru opportun d'éviter ce double passage et donc
+d'utiliser avec le consentement des partenaires actuels une société
+déjà en fonction.
+Presidente Si passa all'esame dell'articolato secondo il nuovo
+testo licenziato dalla II commissione.
+Pongo in votazione l'articolo 1:
+Presenti: 27
+Votanti e favorevoli: 22
+Astenuti: 5 (Collé, Lanièce, Marguerettaz, Tibaldi e Marco
+Viérin)
+Presidente Pongo in votazione l'articolo 2:
+Presenti: 27
+Votanti e favorevoli: 22
+Astenuti: 5 (Collé, Lanièce, Marguerettaz, Tibaldi e Marco
+Viérin)
+Presidente Pongo in votazione l'articolo 3:
+Presenti: 27
+Votanti e favorevoli: 22
+Astenuti: 5 (Collé, Lanièce, Marguerettaz, Tibaldi e Marco
+Viérin)
+Presidente Pongo in votazione l'articolo 4:
+Presenti: 27
+Votanti e favorevoli: 22
+Astenuti: 5 (Collé, Lanièce, Marguerettaz, Tibaldi e Marco
+Viérin)
+Presidente Pongo in votazione l'articolo 5:
+Presenti: 27
+Votanti e favorevoli: 22
+Astenuti: 5 (Collé, Lanièce, Marguerettaz, Tibaldi e Marco
+Viérin)
+Presidente Pongo in votazione l'articolo 6:
+Presenti: 27
+Votanti e favorevoli: 22
+Astenuti: 5 (Collé, Lanièce, Marguerettaz, Tibaldi e Marco
+Viérin)
+Presidente Pongo in votazione l'articolo 7:
+Presenti: 27
+Votanti e favorevoli: 22
+Astenuti: 5 (Collé, Lanièce, Marguerettaz, Tibaldi e Marco
+Viérin)
+Presidente Pongo in votazione l'articolo 8:
+Presenti: 27
+Votanti e favorevoli: 22
+Astenuti: 5 (Collé, Lanièce, Marguerettaz, Tibaldi e Marco
+Viérin)
+Presidente Pongo in votazione l'articolo 9:
+Presenti: 27
+Votanti e favorevoli: 22
+Astenuti: 5 (Collé, Lanièce, Marguerettaz, Tibaldi e Marco
+Viérin)
+Presidente Pongo in votazione la legge nel suo complesso:
+Presenti: 27
+Votanti e favorevoli: 22
+Astenuti: 5 (Collé, Lanièce, Marguerettaz, Tibaldi e Marco
+Viérin)
+Il Consiglio approva

@@ -1,0 +1,400 @@
+Classificazione
+INFORMAZIONE
+Sistema informativo
+
+
+Resoconto integrale del dibattito dell'aula
+Oggetto del Consiglio n. 2306 del 11 dicembre 1996 - Resoconto
+SEDUTA POMERIDIANA DELL'11 DICEMBRE 1996
+OGGETTO N. 2306/X Approvazione del Piano pluriennale 1997-1999,
+per lo sviluppo del sistema informativo regionale, di cui alla
+legge regionale 12 luglio 1996, n. 16.
+Deliberazione Il Consiglio
+Richiamata la legge regionale 12 luglio 1996, n. 16, recante
+norme per la "Programmazione, organizzazione e gestione del sistema
+informativo regionale". Ulteriori modificazioni alla legge
+regionale 17 agosto 1987, n. 81 (Costituzione di una Società per
+azioni nel settore dello sviluppo dell'informatica), già modificata
+dalla legge regionale 1° luglio 1994, n. 32. Abrogazione di
+norme;
+Ricordato come l'articolo 1 (Piano pluriennale) della predetta
+legge preveda al suo comma 1) che sia sottoposto ad approvazione
+del Consiglio regionale un piano pluriennale volto sia allo
+sviluppo, alla modernizzazione ed alla diffusione degli strumenti,
+delle tecnologie telematiche e dei sistemi informativi
+dell'Amministrazione regionale, sia all'intervento regionale nel
+settore dell'informatica avente particolare riguardo allo sviluppo
+ed alla realizzazione di una rete di collegamenti informatici
+interessante l'intera Amministrazione regionale ed aperta alle
+interrelazioni con gli altri Enti pubblici territoriali valdostani
+e con le amministrazioni dello Stato;
+Atteso che in ottemperanza a quanto espresso al comma 3) dei
+suddetti articolo e legge la struttura regionale competente in
+materia di elaborazione dati, osservando quanto in proposito
+specificato dalla legge regionale 45/1995, ha provveduto alla
+stesura del piano pluriennale di cui trattasi;
+Parimenti atteso che, in analogia al disposto del sopra citato
+comma ed articolo, l'Ufficio di Presidenza del Consiglio regionale
+ha provveduto a predisporre ed approvare analogo piano triennale
+avente riferimento al proprio sistema informativo;
+Ritenuto, stante la specificità della materia trattata e l'alto
+grado di interconnessione tra i due piani, di sottoporre entrambi
+contestualmente all'approvazione del Consiglio regionale;
+Precisato che, all'atto della loro pratica attuazione, i
+suddetti piani graveranno sui rispettivi bilanci;
+Specificato che il periodo di tempo cui i piani in questione si
+riferiscono è esteso al triennio 1997 - 1999;
+Viste le motivazioni ed i contenuti dei piani pluriennali di cui
+trattasi;
+Visto il parere favorevole di legittimità rilasciato dal
+Dirigente del Servizio Affari Generali della Presidenza del
+Consiglio e dal titolare delle funzioni di responsabile del
+Servizio Elaborazione Dati della Presidenza della Giunta, ai sensi
+dell'articolo 72 della legge regionale n. 3/1956 e successive
+modificazioni e del combinato disposto degli articoli 13, comma 1,
+lettera e) e 59, comma 2 della legge regionale 45/1995, in ordine
+alla legittimità della presente deliberazione;
+Delibera
+1) di approvare l'allegato piano pluriennale 1997 - 1999,
+predisposto dal SED regionale e dall'Ufficio di Presidenza del
+Consiglio regionale, per lo sviluppo, la modernizzazione e la
+diffusione degli strumenti, delle tecnologie telematiche e dei
+sistemi informativi dell'Amministrazione regionale nonché per
+l'intervento regionale nel settore dell'informatica avente
+particolare riguardo allo sviluppo ed alla realizzazione di una
+rete di collegamenti informatici interessante l'intera
+Amministrazione regionale ed aperta alle interrelazioni con gli
+altri Enti pubblici territoriali valdostani e con le
+amministrazioni dello Stato;
+2) di sottoporre la presente deliberazione al controllo della
+Commissione di Coordinamento per la Valle d'Aosta, ai sensi e per
+gli effetti dell'articolo 8, lettera b), del decreto legislativo 22
+aprile 1994, n. 320.
+Allegati
+(...omissis...)
+Président La parole au Président du Gouvernement, Viérin
+Dino.
+Viérin D. (UV) Sur la base de ce qui est établi par l'article
+1er de la loi 16/96 les services informatiques de la Présidence du
+Gouvernement, le SED, ainsi que le bureau de la Présidence du
+Conseil régional vous soumettent ce plan pluriannuel, portant
+interventions dans le secteur informatique et définissant ainsi non
+seulement les finalités et les objectifs que l'on veut atteindre au
+cours de cette période, mais également les interventions qui
+devront donner application à ces objectifs.
+Ce plan a été présenté à la IIe commission, donc il y a eu la
+possibilité de l'analyser dans les détails; je me bornerai donc à
+résumer les objectifs que nous nous proposons et à insérer ces
+interventions dans un cadre de planification globale.
+Le premier objectif est une meilleure utilisation des ressources
+informatiques, de façon à mieux rationaliser les différentes
+interventions, non seulement de l'Administration régionale mais
+également des collectivités locales, qui actuellement existent sur
+le territoire. Ensuite, promouvoir et en quelque sorte stimuler le
+marché; lors des discussions précédentes nous avons déjà abordé ce
+sujet et l'un des points qui a fait l'objet de discussion était le
+rapport entre les programmes de l'Administration régionale et le
+marché valdôtain de l'informatique.
+Ce plan vise, partant, l'objectif de stimuler les différents
+agents qui sont présents à l'intérieur du marché valdôtain. Et ce,
+par le biais - c'est la troisième considération - d'une
+augmentation des ressources qui sont prévues au cours de cette
+période, donc l'augmentation des investissements qui seront
+affectés à ce secteur. En effet, l'on prévoit une dépense de
+quelque 16 milliards par an pendant trois ans et ce plan, qui est
+le premier plan triennal en application de la loi, néanmoins peut
+être considéré comme un plan de transition. Pour cette année, tout
+en gardant ces finalités, il a repris les différentes initiatives
+qui sont déjà en cours et également les différentes interventions
+que nous avons déjà inscrites au budget de l'année 1997 et au
+budget triennal 1997-1999, cependant il est important de le
+présenter parce que sur la base de ces lignes stratégiques nous
+serons à même - et après l'approbation de la part de cette
+assemblée le Gouvernement y pourvoira avant la fin de l'année - de
+les traduire année par année dans des plans opérationnels sur base
+annuelle.
+Donc ce plan représente en quelque sorte une photographie d'une
+situation qui est en évolution et réalise une connexion entre les
+différents moments de l'action régionale, tels que la gestion
+administrative et la gestion opérationnelle, et enfin fournit à
+tous les conseillers régionaux une vision la plus complète possible
+de l'évolution que l'on prévoit du système informatique régional
+ainsi que de ses lignes de développement avec le rapport sur le
+territoire, compte tenu des interventions que les collectivités
+locales ont programmées dans ce même secteur.
+Je me réserve, après cette présentation de caractère général,
+d'intervenir sur la base des requêtes ou sur la base des précisions
+qui seront sollicitées par les conseillers.
+Président La discussion générale est ouverte.
+La parole au Conseiller Marguerettaz.
+Marguerettaz (PpVA) Come ha ben detto il Presidente, questo atto
+è l'adempimento a ciò che prevede la legge con la quale abbiamo
+riorganizzato INVA.
+Allora le osservazioni di carattere generale che ritengo utile
+fare sono le seguenti, premesso che abbiamo avuto modo a livello di
+II commissione di conoscere l'argomento grazie alla disponibilità
+dei dirigenti e consulenti che ci hanno illustrato anche tramite
+audiovisivi il piano stesso.
+Al di là del voler vedere gli obiettivi programmatici contenuti
+in questo piano, è opportuno fare una riflessione sulla situazione
+esistente dal punto di vista del sistema informativo all'interno
+della regione, e qui balzano agli occhi due dati.
+Oggi nell'amministrazione ci sono tre personal computer ogni 4
+dipendenti, questo è un dato che ci ha fatto per un attimo
+sobbalzare sulla sedia come suol dirsi, perché se pensiamo che -
+verrebbe da dire - il povero quarto dipendente è senza computer...
+ma obiettivamente viene più da chiedersi se davvero gli altri tre
+che sono presenti siano così necessari al funzionamento della
+macchina regionale.
+La sensazione che peraltro sembrava essere condivisa anche da
+quei dirigenti che ci illustravano il piano è che una riflessione
+sull'uso di questi computer nei vari uffici dell'amministrazione
+regionale vada fatta preliminarmente, anche se ci veniva fatta
+presente una certa difficoltà sulla quale abbiamo delle riserve,
+nel senso che non penso che bisogna avere un sistema informativo
+per controllare l'uso che dei computer si fa; credo che ci siano
+dei metodi molto più empirici che potrebbero dare dei risultati
+migliori forse e in tempi più ridotti.
+Un'altra considerazione su queste macchine è che un terzo di
+tutte le apparecchiature oggi esistenti all'interno
+dell'amministrazione è obsoleto, quindi abbiamo delle macchine non
+adeguate alle necessità che invece gli uffici o la regione ha. Mi
+suggeriscono che probabilmente il campo minato o il solitario è
+presente in tutti i personal computer e anche in quelli obsoleti
+funziona molto bene... sotto la voce giochi....
+A parte le battute, questo è un punto sul quale dobbiamo fare
+una riflessione, anche perché dire che un terzo delle macchine è
+obsoleto può portare a due soluzioni: o approfittiamo del fatto di
+avere dei macchinari obsoleti per pianificare e riorganizzare
+magari riducendo anche il numero dei macchinari presenti, o
+sostituiamo le macchine senza fare troppa pianificazione e troppa
+verifica della situazione esistente. Su questo a dire il vero non
+ci è stata data risposta.
+Un altro dato che è emerso da questo piano pluriennale è
+l'istituzione, adesso mi perdonerete se non userò i termini giusti,
+ma il campo è specifico e difficile, del sito regione Valle d'Aosta
+all'interno di Internet. Se non abbiamo capito male, anziché
+appoggiarci a società che possono inserire qualsiasi servizi si
+voglia all'interno di Internet, la regione autonoma Valle d'Aosta
+avrà un suo proprio sito in Internet. Anche qui una piccola
+battuta: l'unica cosa che non era ancora dell'amministrazione
+regionale della Valle d'Aosta era il provider, che l'hanno
+inventato credo pochi anni fa, e siamo riusciti a fare della
+regione autonoma Valle d'Aosta anche un provider, evviva Dio, come
+si dice!
+Ma se la regione autonoma Valle d'Aosta diventa un provider,
+anche qui una riflessione va fatta. Nel corso in particolare di
+quest'ultimo anno i diversi assessorati o le diverse presidenze si
+sono mosse in questo settore, abbiamo visto diversi progetti essere
+presentati in questa sala o in giunta o in commissione, che ci
+hanno sempre dato l'idea di essere molto scollegati fra loro, nel
+senso che ogni assessore o ogni presidente si alzava (nel senso
+buono, ovviamente) una mattina con l'idea di mettere un servizio in
+Internet e se lo realizzava, con il risultato che, come ci dicevano
+gli esperti, in Internet ci sono seimila voci Valle d'Aosta, ed è
+iniziato l'altro ieri.
+Sarebbe interessante vedere di queste seimila quante provengono
+dall'amministrazione regionale e magari scoprire che sono situate
+in siti diversi, per cui l'iniziativa della Presidenza del
+Consiglio è in un certo sito, l'iniziativa della Presidenza della
+Giunta è in un altro. Questo è segnale di scollegamento, che ci
+auguriamo invece con la realizzazione della "Valle d'Aosta
+provider" venga accorpato. Almeno così ci è stato detto.
+Una raccomandazione allora in questo senso. Non so quali saranno
+i tempi di realizzazione di questo servizio, ma se i tempi
+dovessero andare disgraziatamente per le lunghe, inviterei i vari
+assessori e i vari presidenti a fermarsi un attimo nei loro
+investimenti in questo campo in attesa di fare questo lavoro più
+omogeneo.
+Tutto questo piano pluriennale che ci potrebbe anche convincere
+sotto i diversi aspetti, perché le suggestioni che ci vengono
+presentate sono di indubbia efficacia, anche se lasciatemelo dire,
+pur con tutta la fiducia e nei tecnici e nella gestione che questo
+piano avrà, questo piano ci sembra talmente mirare in alto quasi da
+apparire difficilmente realizzabile, ma staremo a vedere; però al
+di là di questo c'è un'ombra che si allunga su questo piano
+pluriennale e questa ombra, nonostante la legge che abbiamo
+approvato nel luglio scorso, si chiama ancora INVA. Di questo non
+faccio colpe a nessuno, ma è un dato di fatto che ci è stato
+confermato all'interno della commissione.
+All'interno della commissione abbiamo avuto anche un'audizione
+della associazione che raggruppa in particolare le ditte che
+esercitano nel settore commerciale dell'informatica e giustamente
+la loro preoccupazione era: ma di tutti questi miliardi a cui
+faceva riferimento anche il Presidente della Giunta, riceveremo
+qualcosa? Ovvero, significano una opportunità anche per noi, quindi
+per la crescita di un certo sistema economico nel campo, oppure
+saranno dei soldi che andranno a finire ancora una volta nel
+calderone INVA.? E se abbiamo una legge a monte che dà delle
+risposte che all'epoca definimmo non troppo chiare, anche se il
+Presidente tentò di convincerci spiegando alcune impostazioni che
+la legge aveva, oggi oltre a rimanere i dubbi sulla impostazione di
+quella legge (dalla quale finché il meccanismo non prenderà avvio
+non si potranno avere risposte) c'è un dato di fatto che rimane e
+che ci è stato confermato anche in commissione: che quei passi che
+la legge prevedeva che INVA dovesse fare ad un suo completo
+azionariato pubblico sono ancora al di là da venire.
+Se il Presidente dice che non è così mi fa piacere, si vede che
+coloro che ci sono stati inviati in commissione come esperti non
+erano esperti in questo senso, perché ci è stato riferito che i
+vari passaggi, le varie dismissioni di ordini che INVA con le sue
+partecipate aveva fino all'epoca precedente della legge devono
+ancora, perlomeno in parte se non completamente, essere riviste.
+Tant'è che ci è stato anche prospettato il modo in cui almeno
+ancora per un anno (immagino ci si riferisse al '97) sarà gestito
+questo piano pluriennale e l'impressione che ho tirato almeno
+personalmente dalle audizioni che abbiamo avuto in commissione è
+stata che la gestione sarà niente meno che com'era prima
+dell'approvazione della legge.
+Questo non per cattiva volontà della Giunta o del Presidente, ma
+per una situazione oggettiva che non è ancora chiara, e quindi
+ancora per un anno potremmo assistere ad ancora ulteriori
+sovrapposizioni così come abbiamo avuto modo di vedere in passato
+più volte fra competenze di INVA, competenze del SED, competenze
+delle varie consulenze per la gestione di questo piano. Questa
+situazione ci mette perlomeno in una posizione di aspettativa, non
+può essere altrimenti, in primo luogo per verificare cosa significa
+realmente quella legge del luglio scorso sulla riorganizzazione
+dell'IN.VA, in secondo luogo per vedere come questo piano sarà
+concretamente attuato a partire dal '96.
+Nell'attesa della risposta del Presidente della Giunta, dichiaro
+già (così visto che sono stato lungo faccio un favore anche al
+Presidente del Consiglio) la nostra astensione sul progetto.
+Président S'il n'y a pas d'autres conseillers qui demandent la
+parole, je déclare close la discussion générale et je passe la
+parole au Président du Gouvernement, Viérin Dino.
+Viérin D. (UV) Pour apporter quelques compléments d'information
+sur ce thème.
+Les réflexions qui ont été formulées par M. Marguerettaz sont en
+partie acceptables, dans le sens que nous devons réfléchir quant à
+l'impact de l'instrument informatique au sein de l'Administration
+régionale. Il ne suffit pas de fournir des ordinateurs, si ensuite
+non seulement ces ordinateurs ne sont pas utilisés, mais ils ne
+sont pas connectés entre eux, pour créer un système qui puisse être
+à même de répondre à un réseau. Donc, la réflexion et sur le nombre
+d'ordinateurs et surtout sur ceux qui ne pourraient pas faire
+partie d'un réseau c'est un des objectifs que nous nous posons et
+fait partie également, à part la mission à attribuer à notre
+service informatique, de la restructuration générale des services
+de l'Administration régionale. De ce point de vue, je ne peux que
+partager la réflexion qui a été exprimée, parce que nos
+considérations vont dans la même direction.
+Pour ce qui est, par contre, de la rationalisation des
+initiatives en cours, à part qu'il n'y a pas dix mille initiatives
+- à ma connaissance il y en deux, donc ce n'est pas un nombre
+excessif - en ce qui nous concerne c'est une initiative que nous
+avons adoptée pour une promotion de l'image du Val d'Aoste en
+utilisant cet instrument, mais une promotion à terme, temporaire,
+parce qu'on travaillait pour institutionnaliser en quelque sorte
+cette présence de la région au sein de Internet. Ce qui a été fait
+avec la présentation de ce projet "Vallée d'Aoste au net", qui pour
+être accompli dans sa globalité prévoit une échéance d'une année,
+mais après 3-4 mois on pourra déjà disposer du site et, donc, on
+pourra commencer à l'utiliser. L'objectif c'est de concentrer
+toutes les initiatives de l'Administration régionale, toutes les
+actions de celle-ci dans ce site Vallée d'Aoste Internet.
+Pour ce qui est du plan, toutes les fois que nous venons au
+Conseil et que nous nous bornons à présenter quelque chose de
+concret, nous subissons les critiques, on dit en disant que nous
+n'avons pas d'ampleur etc.; maintenant que nous présentons un plan,
+nous subissons la critique inverse; on dit que oui, c'est un très
+beau plan, mais vu qu'il est si beau peut-être il n'est pas
+réalisable. C'est toujours le même problème du verre à moitié vide
+ou à moitié plein.
+Par contre, je pense qu'il est nécessaire d'apporter encore
+quelques précisions à ce sujet, parce que c'est là une question
+d'actualité, à savoir quel sera l'impact de ce plan sur la
+situation actuelle, compte tenu des modifications qui ont été
+prévues et dans l'organisation du service informatique de
+l'Administration régionale et en ce qui concerne la structure et la
+mission de INVA.
+Là je veux faire deux considérations, l'une pour réaffirmer
+notre volonté, à savoir nous voulons donner application à cette loi
+qui apporté des modifications à la mission de INVA, en faisant de
+notre service informatique l'organe qui devra remplir les fonctions
+de planification et de contrôle. Ce service informatique, pour la
+réalisation de certains projets stratégiques, pourra s'appuyer sur
+l'INVA, une société où le capital public est majoritaire, où seront
+présents en plus de l'Administration régionale, la commune d'Aoste,
+l'USL certainement à la date d'aujourd'hui, d'autres collectivités
+locales aussi, la Présidence du Conseil et, par contre, pour ce qui
+est de la réalisation, de la gestion, de l'entretien du hardware il
+s'adressera au marché. C'est ce que nous avons affirmé lors de la
+présentation de la loi, c'est ce que nous confirmons
+aujourd'hui.
+M. Marguerettaz aura la possibilité de le vérifier, mais en tout
+cas je peux confirmer que c'est là notre volonté, parce que si
+d'une part, compte tenu et de l'importance et surtout de la
+confidentialité de certains éléments liés à l'informatisation d'une
+administration publique. Ces éléments justifient une soumission
+directe à une société telle que la société INVA, publique, sans
+passer par le marché, d'autre part nous avons voulu que les
+contradictions qui existent actuellement soient dépassées et que
+l'on puisse pour tout autre problème recourir au marché, parce que
+c'est là la façon pour soutenir les opérateurs valdôtains et pour
+faire croître le secteur informatique en Vallée d'Aoste.
+En ce qui concerne l'état d'application de cette modification et
+de la structure sociétaire et de la mission de INVA, l'assemblée
+générale de INVA est convoquée pour la semaine prochaine, afin de
+pourvoir à toutes ces opérations qui sépareront les activités
+privées des fonctions publiques. Au cours de la semaine prochaine
+nous pourrons entreprendre les actes et toutes les formalités
+nécessaires pour définir cette nouvelle structure actionnaire et
+donc la mission de INVA. Ensuite, il faudra passer les conventions,
+mais ce n'est pas là une prévision d'aujourd'hui: la loi prévoit
+que dans les six mois l'on puisse passer cette convention avec
+INVA, pour qu'elle puisse être à même de gérer ces différentes
+actions. Et donc nécessairement au cours de 97, au moins pour la
+première partie de l'année 97, il y aura une prorogation des
+fonctions qui actuellement sont exercées et par INVA et par
+d'autres entreprises (la prorogation n'est pas limitée à INVA, mais
+également à toutes les entreprises valdôtaines qui ont un rapport
+avec l'Administration régionale), de façon que dans ce délai l'on
+puisse par une convention fixer quels sont les aspects spécifiques
+qui seront confiés à INVA. Par contre pour réaliser tout ce qui
+n'est pas établi dans cette convention, le service informatique de
+l'Administration régionale fera recours au marché selon les
+procédures ordinaires. Là nous aurons réalisé cet objectif de
+séparation des aspects publics d'avec les aspects privés, et donc
+de relance du secteur informatique au Val d'Aoste.
+Président La parole au Conseiller Marguerettaz.
+Marguerettaz (PpVA) Chiedo scusa, ma mentre ascoltavo la replica
+del Presidente della Giunta mi sono venute in mente alcune
+brevissime riflessioni ancora da fare, pur confermando l'astensione
+del mio gruppo.
+Intanto, battuta per battuta, a proposito di bicchieri: qui non
+è che il bicchiere sia sempre a metà pieno, è che a volte è scarso
+e a volte deborda, in questo caso ci sembra che il vino sia uscito
+dal bicchiere.
+Dicevo, intervengo per alcuni suggerimenti, uno è questo. Per
+quanto riguarda le macchine che o verranno cambiate o verranno
+abbandonate (questo in base alla riflessione che verrà fatta),
+sarebbe da prendere in considerazione l'ipotesi di fare donazione
+di questi personal, che non servono più all'amministrazione, alle
+scuole della Valle. So che alcune scuole sono già dotate di queste
+macchine, ma la stragrande maggioranza non lo è e le
+apparecchiature che sono vetuste per l'amministrazione potrebbero
+essere ancora utilissime alle scuole.
+Il secondo suggerimento va in questo senso. Sarebbe a mio avviso
+interessante che questo progetto "Vallée d'Aoste honnête" aprisse
+un attimo le porte, si coniugasse un po' con il progetto "Portes
+ouvertes", perché sarebbe interessante che l'amministrazione
+regionale non gestisse come dentro un guscio questa risorsa, ma che
+invece questo progetto potesse diventare una opportunità anche per
+i privati della Valle d'Aosta, certamente vagliando le iniziative
+che essi possono portare avanti. Credo che se questo progetto
+diventasse un contenitore aperto anche a contributi di esterni,
+potrebbe essere una esperienza positiva.
+Un'ultima considerazione. Tra i vari siti che vi sono oggi in
+giro in Internet c'è il sito INVA, allora senza pretendere che mi
+sia data risposta dico solo: delle due cose l'una, o INVA disdice
+domattina il contratto per questo sito su Internet, o che almeno
+sia lo stesso sito che verrà trasformato in "Vallée d'Aoste
+honnête".
+Confermo l'astensione del mio gruppo.
+Président Les Conseillers sont invités à voter:
+Presenti: 28
+Votanti e favorevoli: 23
+Astenuti: 5 (Lanièce, Linty, Marguerettaz, Tibaldi e Viérin
+Marco)
+Il Consiglio approva

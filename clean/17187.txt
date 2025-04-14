@@ -1,0 +1,140 @@
+Classificazione
+ZONA FRANCA
+
+
+Resoconto integrale del dibattito dell'aula
+Oggetto del Consiglio n. 533 del 7 aprile 1999 - Resoconto
+SÉANCE DU 7 AVRIL 1999 (MATIN)
+OGGETTO N. 533/XI Notizie in merito al sistema informatizzato
+per l'erogazione del carburante in esenzione fiscale.
+(Interrogazione)
+Interrogazione Premesso che il sistema informatizzato per
+l'erogazione del carburante in esenzione fiscale ha comportato
+l'assegnazione di circa 74.000 "Carte Vallée";
+Che il 60% dello spazio di memoria disponibile sul
+microprocessore è stato acquistato dalla Regione Autonoma Valle
+d'Aosta;
+Rilevato che con deliberazione di Giunta n° 748 viene approvato
+l'acquisto di 8.000 nuove carte quale fabbisogno previsto per
+l'anno 1999;
+i sottoscritti Consiglieri regionali
+Interrogano
+l'Assessore all'Industria, artigianato ed energia per
+sapere:
+1) quanti nuovi utenti abbiano acquisito, negli ultimi tre anni,
+il diritto all'erogazione del carburante in esenzione fiscale;
+2) in base a quali parametri è stato calcolato il fabbisogno
+1999;
+3) quanta memoria occupi la gestione del carburante;
+4) quanto incida l'acquisto della suddetta percentuale nel costo
+della carta.
+F.to: Frassy - Tibaldi
+Président La parole à l'Assesseur à l'industrie, à l'artisanat
+et à l'énergie, Ferraris.
+Ferraris (GV-DS-PSE) La prima domanda riguarda la richiesta di
+sapere quanti nuovi utenti abbiano acquisito negli ultimi tre anni
+il diritto all'erogazione del carburante in esenzione fiscale.
+Dall'elenco utenti relativo al primo anno di registrazione risulta
+nel triennio 1996-1998 una tendenza a circa 2.800 nuovi utenti
+all'anno, è una proiezione ovviamente che deriva dal fatto che i
+nuovi utenti sono stati 3.266 nel 1996, 2.777 nel 1997 e 2.753 nel
+1998.
+La seconda domanda richiede in base a quali parametri è stato
+calcolato il fabbisogno 1999. Tale fabbisogno è stato calcolato
+sulla base dei seguenti parametri: a) il primo acquisto, effettuato
+da Assocredito, riguardò 82.500 carte per persone fisiche, società
+e nuovi aventi diritto, carte a microprocessore al prezzo di 19.200
+lire comprese di IVA; il lotto minimo successivo acquistabile, come
+risulta da apposito preventivo di spesa fornito da Assocredito, è
+di 10.000 carte al fine di conservare inalterato il prezzo
+iniziale. Di tale lotto 8.000 carte verranno utilizzate per le
+emissioni destinate ai nuovi utenti e per quelle dovute a mal
+funzionamento e non imputabili all'utente stesso, mentre 2.000
+saranno utilizzate esclusivamente da Assocredito per i mal
+funzionamenti imputabili all'utente.
+Il numero di utenti nuovi stimati per il 1999 è di 3.000 come
+era stato detto al punto precedente, il numero medio di mal
+funzionamenti non imputabili all'utente è stimato in circa 1.000
+per anno. Nei primi tre mesi del 1999 i mal funzionamenti sono
+stati 240, ovviamente questi sono dati che si tratterà di andare a
+verificare a consuntivo, ma sono proiezioni che sono state fatte
+sulla base della situazione attuale.
+Si chiede con la terza domanda quanta memoria occupi la gestione
+del carburante. Lo spazio di memoria occupato nell'applicazione dei
+carburanti in esenzione fiscale è di 524 caratteri ossia 0,51 KB;
+di cui 248 caratteri, pari a 0,24 KB, sono utilizzati per i dati
+anagrafici e sono disponibili anche per altre future possibili
+applicazioni riservate alla Pubblica Amministrazione.
+In sintesi, della disponibilità totale per l'Amministrazione
+regionale di 3.696 caratteri, pari a 3,6 KB, pari al 60 percento
+della memoria, sono attualmente utilizzati 524 caratteri, pari a
+0,51 KB, ovvero sia il 25 percento dei caratteri disponibili è
+utilizzato per i buoni benzina.
+L'ultima domanda chiede quanto incida l'acquisto della suddetta
+percentuale nel costo della carta. La percentuale di memoria
+utilizzata per l'applicazione di carburanti in esenzione fiscale
+non incide sul costo della carta poiché l'onere relativo viene
+determinato sulla base dello spazio riservato all'Amministrazione
+regionale che è del 60 percento come stabilito da apposita
+convenzione stipulata fra Amministrazione regionale, Assocredito
+valdostana, ANCI e USL approvata con deliberazione della Giunta
+regionale n. 3.738 in data 22 ottobre 1997. In ogni caso, è
+possibile fare una valutazione di quanto costi la parte di memoria
+utilizzata per la Carte Vallée, per i buoni benzina e il calcolo
+può essere fatto in questo modo: il costo totale di ogni carta è di
+lire 19.200 IVA inclusa, lo spazio acquistato dalla Regione Valle
+d'Aosta è pari al 60 percento del totale, quindi a lire 11.520, lo
+spazio occupato per i buoni carburante è del 25 percento, quindi
+pari a lire 4.800 IVA inclusa per ogni carta.
+Président La parole au Conseiller Frassy.
+Frassy (FI) Ringrazio l'Assessore perché è stato esaustivo dal
+punto di vista dei dati richiesti, anzi poi gli chiederò che mi dia
+copia del prospetto che immagino gli uffici gli abbiano
+predisposto. Devo però dire che, nonostante la precisione della
+risposta fornita, sono aumentate le perplessità sul funzionamento
+di questo meccanismo e mi spiego meglio.
+Il meccanismo Carta Vallée era nato con l'intendimento anzitutto
+di andare incontro all'utenza e la convenzione con Assocredito
+sembrava essere la strada più semplice e meno onerosa per
+l'Amministrazione regionale.
+Mi rendo conto invece, leggendo le delibere che si sono
+susseguite da quando la convenzione con Assocredito è decollata,
+che forse la filosofia iniziale si è smarrita per strada. Infatti
+il quantitativo minimo, che fa intendere ad una logica
+utilitaristica e di economicità e di investimento praticata da
+Assocredito, per certi versi smentisce questo servizio a parità di
+costi che Assocredito nelle intenzioni iniziali avrebbe dovuto
+garantire con la sua prestazione e con la sua collaborazione.
+Non si capisce poi perché la delibera faccia riferimento a 8.000
+nuove carte, mentre l'Assessore parlava di 10.000 carte come stock
+minimo di acquisto e non si capisce nemmeno se il cattivo
+funzionamento delle carte imputabile a problemi di tipo informatico
+e a difetti delle carte stesse, debbano gravare alla fin fine
+sull'Amministrazione o se invece rimangano poi come onere in capo
+ad Assocredito.
+L'altro elemento di perplessità nasce invece sul meccanismo di
+utilizzo di questa carta o meglio sull'utilizzo delle potenzialità
+che questa carta in sé contiene. Da quanto l'Assessore ci ha appena
+detto, apprendiamo che solo il 25 percento di quello che è il
+potenziale della Carta Vallée viene utilizzato per la gestione del
+carburante in esenzione fiscale.
+Ora, tutto il residuo, considerato che l'Amministrazione compra
+il 60 percento non della carta - in quanto si dice che la carta
+rimane comunque di proprietà di Assocredito - ma della memoria, è
+un investimento che ha un'utilità nella misura in cui verrà
+effettivamente gestito e speso. Perciò prossimamente torneremo su
+quest'aspetto che è stato oggetto di una convenzione, ma sappiamo
+benissimo che le convenzioni, se poi non si traducono in fatti
+concreti, lasciano il tempo che trovano e portano come unica
+conseguenza l'incremento dei costi.
+Perciò ribadiamo la soddisfazione dei dati precisi forniti, ma
+ribadiamo la perplessità sul meccanismo che con Assocredito si sta
+instaurando. Non vorremmo che il meccanismo Carta Vallée alla fine
+diventi uno dei tanti, non chiamiamoli carrozzoni perché
+probabilmente la definizione non sarebbe esatta, ma sicuramente uno
+dei tanti momenti in cui le risorse regionali vengono spese senza
+il controllo dei risultati e senza il controllo soprattutto delle
+necessità e dei costi.
+Ritorneremo di conseguenza sull'argomento, verificando
+l'utilizzo di questa memoria disponibile al momento non
+utilizzata.
