@@ -1,0 +1,197 @@
+Consiglio Regionale della Valle d'Aosta - Oggetto del Consiglio n. 29 del 23 luglio 2003 - Resoconto
+Vai al contenuto principale
+Oggetti del Consiglio
+Invia
+Stampa
+Documenti
+Verbale
+Resoconto
+Classificazione
+AMMINISTRAZIONE REGIONALE
+Ordinamento degli uffici e del personale
+Precedente
+Successivo
+Resoconto integrale del dibattito dell'aula
+Oggetto del Consiglio n. 29 del 23 luglio 2003 - Resoconto
+OGGETTO N. 29/XII - Incarico per la predisposizione di uno
+studio di fattibilità per la realizzazione di un sistema di
+rilevazione delle presenze dei dipendenti regionali.
+(Interrogazione)
+Interrogazione
+Premesso
+che la Giunta regionale ha recentemente affidato un incarico
+per predisporre uno studio di fattibilità finalizzato alla
+realizzazione di un sistema per la rilevazione delle presenze dei
+dipendenti regionali a fini di controllo;
+i sottoscritti Consiglieri regionali
+Interrogano
+il Presidente della Regione o l'Assessore delegato per
+sapere:
+1. quali motivazioni giustificano l'adozione del sistema di
+cui in premessa;
+2. quali saranno le modalità di funzionamento del sistema di
+controllo;
+3. per quali ragioni è stato affidato un incarico esterno e
+non sono state utilizzate risorse professionali interne
+all'Amministrazione regionale.
+F.to: Tibaldi - Frassy - Lattanzi
+Président - La parole à l'Assesseur au budget, aux finances, à
+la programmation et aux participations régionales,
+Marguerettaz.
+Marguerettaz (UV) - L'adozione di un sistema per la rilevazione
+delle presenze è previsto dalla contrattazione collettiva
+decentrata dell'Amministrazione regionale, sottoscritta con le
+organizzazioni sindacali il 16 novembre 2001. L'articolo 4, "Durata
+e articolazione dell'orario di lavoro", prevede infatti che
+l'orario di lavoro comunque articolato sia accertato mediante forme
+di controlli obiettivi e con l'introduzione di un controllo di tipo
+automatizzato. A tal fine, le competenti strutture del Dipartimento
+del sistema informativo e del Dipartimento personale e
+organizzazione hanno avviato un progetto che si propone di
+raggiungere i seguenti obiettivi:
+- semplificare e automatizzare il processo di rilevazione delle
+presenze;
+- consultare e monitorare i dati delle presenze in tempo
+reale;
+- preservare gli investimenti in termini di apparecchiature e
+applicazioni già effettuati;
+- analizzare, infine, i dati di presenze/assenze.
+In particolare, la semplificazione e l'automazione del processo
+di rivelazione delle presenze rappresenta l'obiettivo trainante del
+progetto e si propone di rendere omogenei i comportamenti
+dell'organizzazione, di digitalizzare le regole relative alle
+presenze riportate nella contrattazione collettiva di comparto, di
+gestire il flusso delle informazioni - ove possibile - in modalità
+maggiormente efficaci ed efficienti, di ridurre il carico di lavoro
+delle segreterie dei dipartimenti che ad oggi svolgono un numero
+rilevanti di operazioni manuali di controllo, con costi e rischio
+di errore elevati, di consentire ad ogni dipendente la
+consultazione via computer dei dati relativi al riepilogo delle
+presenze e all'utilizzo dei vari istituti contrattuali e, infine,
+di elaborare in modo automatizzato la retribuzione degli eventi
+relativi al mese precedente (attualmente sono trattati quelli di
+due mesi prima).
+Il progetto prevede inoltre il riutilizzo e l'integrazione del
+sistema delle attuali apparecchiature di controllo, accessi e
+relativi "badges" di prossimità come mezzo per la raccolta degli
+eventi di entrata e di uscita. Si tratta di un progetto che
+permetterà di ottenere un rilevante impatto organizzativo e
+produttivo, nella misura in cui permetterà la riduzione del tempo
+che ogni dipendente e ogni segreteria di dipartimento dedicano
+attualmente alla compilazione dei riepiloghi mensili degli eventi
+con impatto economico alla gestione delle presenze ed assenze, di
+ridurre il volume di documenti prodotti e archiviati, di ridurre le
+attività manuali di inserimento relative alla gestione delle paghe,
+di raggiungere una maggiore efficacia nella gestione degli istituti
+contrattuali quali ferie, congedi, permessi, eccetera, oltre che di
+effettuare analisi generali sui fenomeni relativi alle presenze dei
+dipendenti.
+Il raggiungimento dell'obiettivo prevede due fasi: la prima con
+scadenza 31 ottobre 2003, la seconda alla fine del 2004. Il primo
+passo, cosiddetto "sperimentale", riguarda un sottoinsieme di
+dipendenti e uno o due dipartimenti, e l'obiettivo, nel suo
+complesso, deve essere già raggiunto in questa fase. Alla fine del
+secondo passo, anche quanto tralasciato inizialmente dovrà essere
+soddisfatto e l'obiettivo dovrà essere considerato raggiunto solo
+se il 90% dei dipendenti seguirà regole e modalità definite con il
+nuovo sistema.
+Il sistema automatizzato per la rilevazione delle presenze,
+costituito da componenti hardware, software e telematiche, dovrà
+operare secondo differenti modalità:
+- utilizzo in forma integrata dei sistemi di controllo accessi e
+dei badges magnetici in dotazione ai dipendenti delle sedi già
+infrastrutturate o la cui infrastrutturazione è in previsione;
+- utilizzo di un'applicazione Web presso le sedi non dotate di
+strumento di controllo accessi ma raggiungibili da Internet
+aziendale;
+- utilizzo del cellulare aziendale come strumento di rilevamento
+per il personale dipendente in servizio sul territorio e già dotato
+di tale strumento per esigenze di servizio (ad esempio i
+cantonieri);
+- utilizzo del sistema cartaceo esclusivamente per le sedi
+presso le quali risulta impossibile installare qualsiasi tipo di
+apparato (il sistema cartaceo potrà essere utilizzato in via
+straordinaria quale procedura alternativa in caso di caduta o
+malfunzionamento del sistema informatico);
+- possibilità per il dipendente di verificare la propria
+posizione riguardante i vari istituti, ferie, straordinari e
+permessi, via personal computer o presso postazioni self
+service.
+La Direzione "Amministrazione del personale" potrà monitorare i
+dati di presenza/assenza autonomamente e in tempo pressoché reale,
+ovvero con un differimento dipendente dall'uso della tecnologia di
+rilevazione impiegata e dalle frequenze di trasmissione dei flussi
+di aggiornamento delle varie sedi di lavoro. Nell'ambito del
+progetto è stata richiesta la redazione di uno studio di
+fattibilità normalmente richiesto a professionisti del settore, da
+ricercarsi sul mercato. Nell'ambito del ciclo di sviluppo di un
+progetto, si richiede la redazione di uno studio di fattibilità
+quando il progetto denota una complessità tecnologica funzionale
+organizzativa rilevante, ed è necessario pertanto affidarsi a
+personale con comprovata esperienza in materia. L'insieme di tali
+caratteristiche non è attualmente rilevabile presso il personale
+interno all'Amministrazione regionale, per cui si è reso
+indispensabile rivolgersi all'esterno.
+Président - La parole au Conseiller Tibaldi.
+Tibaldi (CdL) - Posso capire che il rigido sistema delle
+deleghe, che è stato stamani presentato da Presidente della
+Regione, comporti delle risposte da parte dei relativi titolari.
+Una risposta più compiuta e più pertinente rispetto a quella che ci
+ha dato l'Assessore Marguerettaz poteva "forse" essere fornita al
+gruppo consiliare della "Casa delle Libertà" da qualcuno degli
+Assessori che hanno partecipato all'adozione di questa
+deliberazione, datata 22 aprile 2003 e, "forse", una risposta da
+parte dello stesso Presidente sarebbe stata auspicabile in questo
+senso! Tuttavia, abbiamo preso atto di un intervento da parte
+dell'Assessore che cerca di giustificare ciò che in realtà è
+ingiustificabile!
+Con una deliberazione di Giunta del 22 aprile scorso viene
+affidato un incarico - non meglio precisato - per la
+predisposizione di uno studio di fattibilità finalizzato alla
+realizzazione di un sistema per la rilevazione delle presenze
+presso l'Amministrazione regionale e il relativo impegno di spesa.
+Sappiamo benissimo che da diversi anni, da quando c'è stata la
+lunga "era Viérin", nei palazzi della Regione e degli assessorati è
+stato realizzato un sistema di rilevamento delle presenze e di
+controllo degli accessi e delle uscite dai singoli uffici
+attraverso questo sistema che abbiamo nell'atrio, e non solo,
+sistemi di controllo di diverso tipo che abbiamo vissuto e anche
+subito per certi versi!
+Ora, questi controlli vengono estesi, ma non si capisce perché
+vengano affidati nel periodo che va dal 22 aprile, e si consumino
+entro il 10 giugno, con un impegno di spesa di oltre 18.000 euro e,
+guarda caso, si conclude esattamente il 10 giugno! Nella
+deliberazione il progetto non è stato descritto - come lei ci ha
+detto - né nelle premesse, né nel disciplinare che è allegato alla
+stessa deliberazione: di conseguenza, si capisce che è stato
+riempito di contenuti "ex post". Probabilmente la lettura che oggi
+lei ci ha fornito è un po' la sintesi dell'elaborazione del
+consulente che è stato incaricato, però, veramente, non riusciamo a
+capire cosa si voglia rilevare come presenza da parte dei
+dipendenti regionali: vi sono dei problemi, dei fenomeni di
+assenteismo? Volete controllare ciò che in realtà già state
+controllando? Forse i dipendenti regionali, anche quando sarà
+necessario per loro soddisfare dei bisogni fisiologici, dovranno o
+timbrare un tesserino o comunicarlo via Web a un dirigente di
+dipartimento!
+Non so se l'Assessore Marguerettaz ha potuto, oltre alla
+semplice lettura del documento che gli hanno preparato,
+approfondire la portata e la concretezza e la sostanza di questa
+iniziativa; una iniziativa che ha tutto l'aspetto e la sostanza di
+una di quelle numerose deliberazioni che la Giunta ha adottato in
+un periodo come quello elettorale, che va da aprile a giugno, e
+sono deliberazioni che elargiscono favori e prebende! Lei forse non
+è abituato direttamente, le viveva più da spettatore. Qual è
+l'utilità per l'Amministrazione regionale o per la collettività non
+è dato conoscerlo, quale sia la "utilitas" per chi ha provveduto ad
+adottare tale atto o ad eseguirlo è facile immaginarlo!
+Vi chiediamo quindi una copia di questo studio, di cui lei ci ha
+magnificato la portata, affinché possiamo anche noi fare gli
+approfondimenti del caso.
+Informativa cookies
+Consiglio Regionale della Valle d'Aosta © 2025
+Questo sito utilizza cookies propri e di terze parti. Continuando ad usare questo sito, acconsenti all'utilizzo di questa tecnologia.
+Consulta la nostra
+informativa
+per maggiori informazioni e per istruzioni su come disattivare i cookies.
+OK

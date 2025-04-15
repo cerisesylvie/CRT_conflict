@@ -1,0 +1,315 @@
+Classificazione
+AMBIENTE
+Inquinamento
+
+
+Resoconto integrale del dibattito dell'aula
+Oggetto del Consiglio n. 1597 del 15 novembre 2000 - Resoconto
+OGGETTO N. 1597/XI Notizie in merito all'eventuale esistenza
+di pericoli di inquinamento elettromagnetico in Valle d'Aosta.
+(Interrogazione)
+Interrogazione Preso atto che, nel corso del Dibattito
+pubblico, organizzato dal Conacem (Coordinamento Nazionale dei
+Comitati per la tutela dai campi elettromagnetici) e dal Cpoe-Aosta
+(Comitato Prevenzione Onde) su "Campi elettromagnetici: quali
+rischi per la salute?", svoltosi ad Aosta il 30 settembre 2000,
+sono state segnalate dal pubblico alcune situazioni di inquinamento
+elettromagnetico presenti sul territorio regionale, ulteriori e
+diverse rispetto a quella già nota provocata
+dall’elettrodotto di Hône, che ha visto come vittime
+i coniugi Praduroux;
+Considerato che alcune di tali situazioni richiederebbero
+interventi immediati onde salvaguardare la salute dei cittadini,
+residenti e non, che vivono esposti ad alti livelli di inquinamento
+elettromagnetico;
+i sottoscritti Consiglieri regionali
+Interrogano
+l’Assessore competente per sapere:
+1) se l’amministrazione regionale è a conoscenza
+di situazioni di inquinamento elettromagnetico diverse da quella
+dell’elettrodotto di Hône;
+2) in quali vi ravvisa elementi di pericolosità per la salute
+dei cittadini e, in questi casi, quali iniziative sono state, o
+saranno, prese dalle autorità competenti.
+F.to: Squarzino Secondina - Curtaz
+Président
+La parole à l'Assesseur à la santé, au bien-être
+et aux politiques sociales, Vicquéry.
+Vicquéry (UV)
+Il DPCM 23 aprile 1992, "Limiti massimi di
+esposizione ai campi elettromagnetici, generati dalla frequenza
+industriale nominale (50 hertz) negli ambienti abitativi e
+nell'ambiente esterno", stabilisce limiti di campo elettrico e
+magnetico (all'articolo 4) e distanze minime delle linee dai
+fabbricati (all'articolo 5).
+I limiti di campo sono molto poco restrittivi, tutelano
+dall'insorgenza di effetti acuti, ma non possono essere considerati
+cautelativi dell'insorgenza di eventuali effetti a lungo
+termine.
+Le distanze minime sono assai più restrittive. Sul territorio
+regionale esse vanno verificate in diverse situazioni di prossimità
+tra elettrodotti e abitazioni, soprattutto in relazione ad
+elettrodotti ad alta tensione nei Comuni di La Salle, Aymavilles,
+Jovençan, Gressan, Pollein, Brissogne, Chambave, Châtillon e
+Champdepraz.
+Le azioni di risanamento devono essere effettuate a cura dei
+gestori a seguito di presentazione di progetti di risanamento e
+loro valutazione da parte dei Ministeri dell'ambiente, della
+sanità, dell'industria e dei lavori pubblici (articolo 7).
+Tuttavia il DPCM 28 settembre 1995, "Norme tecniche e
+procedurali di attuazione del DPCM del 1992", stabilisce che per la
+prima fase di attuazione del DPCM le azioni di risanamento vengono
+effettuate in base alle prescrizioni dell'articolo 4 (quello che
+riguarda i livelli di campo). Esse, come si è detto, sono assai
+meno restrittive che le distanze dell'articolo 5.
+Sulla base del DPCM del 1995 l'ENEL ha individuato criticità in
+relazione all'elettrodotto Albertville-Rondissone (codice 354) e
+Villeneuve-Châtillon (codice 209). Le criticità sono state stimate
+dall'ENEL in riferimento a valori presunti massimi di campo
+elettrico in esterno. All'interno di abitazioni o fabbricati il
+valore limite di campo elettrico non è mai raggiunto e il valore
+limite di campo magnetico non è mai raggiunto né in esterno né in
+interno.
+Il programma di risanamento (trasmesso dall'ENEL il 19 febbraio
+1996 al Ministero dell'ambiente per la parte interessante la Valle
+d'Aosta) prevede la presentazione del programma di risanamento
+entro il 19 ottobre 2002 per la linea Albertville-Rondissone.
+Per quanto riguarda la linea Villeneuve-Châtillon è in
+predisposizione da parte dell'ENEL il progetto di rifacimento
+integrale della linea con spostamento in zone non abitate; il
+progetto dovrà naturalmente passare attraverso tutte le fasi
+istruttorie tecnico-amministrative preliminari alla fase
+esecutiva.
+Questo per quanto riguarda la normativa ad oggi in vigore, ma
+come è noto sono in discussione oggi presso il Senato i decreti
+contenenti i limiti per la tutela della popolazione da eventuali
+effetti a lungo termine dall'esposizione a campi elettrici e
+magnetici a 50 hertz. Al momento attuale la situazione è
+questa.
+Il testo del Decreto contiene i seguenti valori di riferimento
+per il campo magnetico (induzione magnetica), validi per edifici
+adibiti a permanenze non inferiori a 4 ore giornaliere:
+- valore medio annuo: 0,5 uT (microtesla)
+- valore massimo su ogni intervallo di 0,1 sec: 2 uT
+- obiettivo di qualità in corrispondenza di spazi dedicati
+all'infanzia: 0,2 uT
+- obiettivo di qualità per nuove linee e installazioni
+elettriche: 0,2 uT
+Questi livelli sono attualmente superati in Valle d'Aosta in
+molte abitazioni. La loro adozione richiederà la predisposizione
+(da parte degli enti gestori) di estesi piani di intervento per la
+riduzione dei livelli ambientali di campo.
+Per rispondere al punto 2 dell'interrogazione oltre a Hône si è
+a conoscenza attualmente delle seguenti altre situazioni.
+Nuova cabina di trasformazione di La Sounère-Châtillon:
+indubbiamente la scelta di installare una cabina di trasformazione
+in vicinanza di una scuola elementare non è delle più felici data
+l'ipersensibilizzazione sui possibili effetti dei campi magnetici a
+50 hertz. Di fatto, la situazione che si verrà a creare sarà la
+seguente: nessun aumento di esposizioni a campo magnetico negli
+spazi accessibili ai bambini, ma riduzione degli spazi medesimi
+utilizzati per il gioco all'aperto.
+L'ARPA ha già effettuato rilievi nell'area circostante e
+all'interno della scuola prima dell'entrata in funzione della
+cabina in modo da valutare il fondo elettromagnetico preesistente.
+A cabina in funzione, i rilievi verranno ripetuti e si provvederà a
+cintare l'area in cui si rileverà un incremento dei valori di
+fondo.
+Il comune, nel corso di una pubblica riunione tenutasi presso la
+scuola di La Sounère il giorno 11 aprile 2000, si è impegnato ad
+acquisire un terreno adiacente per fornire spazio ai giochi
+all'aperto dei bambini.
+La seconda situazione è il traliccio di Muranche a Valtournenche
+con antenne televisive e recenti installazioni di stazioni
+radiobase per la telefonia cellulare. Sono già state effettuate
+rilevazioni presso l'abitazione della persona interessata. I
+livelli misurati sono trascurabili, cosa peraltro intuibile visto
+che tutte le antenne sono rivolte verso valle dalla parte opposta
+rispetto alle abitazioni in questione. Nuovi rilievi sono in
+programma nel corso della già citata campagna di valutazione
+complessiva dell'esposizione della popolazione a radiofrequenze in
+tutto il Comune di Valtournenche.
+Ristorante Résidence Les Fleurs, Gressan: questa è una
+situazione di chiaro superamento dei limiti, che va risanata.
+L'ARPA è intervenuta su richiesta dei proprietari del locale e le
+misure effettuate hanno permesso di evidenziare la situazione
+anomala.
+Condominio Collignon, Via Saint-Martin de Corléans, Aosta: vi è
+stato un lungo colloquio presso la sede dell'ARPA con la persona
+interessata e a tutt'oggi non è ancora pervenuta alcuna richiesta
+di intervento.
+Rispetto alle azioni dell'ARPA in riferimento ai campi generati
+dagli elettrodotti, poi ritorneremo ai campi elettromagnetici da
+radiofrequenza, l'ARPA sta facendo su richiesta di privati dei
+rilievi di campi magnetici ed elettrici in abitazioni poste in
+prossimità di elettrodotti o installazioni elettriche.
+Alcuni di questi rilievi hanno permesso di identificare già fin
+d'ora situazioni che dovranno essere necessariamente prese in
+considerazione per la riduzione dei livelli ambientali, di campo
+nel caso in cui venga approvato il decreto in questione.
+Sta facendo la quantificazione complessiva dell'esposizione
+della popolazione del Comune di Châtillon ai campi a 50 hertz
+generati dagli elettrodotti ad alta tensione transitanti sul
+territorio comunale.
+Lo studio è concluso e fornisce indicazioni su quanti abitanti
+sono interessati ad esposizioni a campi da elettrodotti rispetto ai
+valori di riferimento attualmente in discussione. Il metodo per
+esso utilizzato potrà servire per estendere l'indagine a tutto il
+territorio regionale.
+Sta facendo la quantificazione complessiva dell'esposizione
+della popolazione del Comune di Hône ai campi a 50 hertz generati
+da elettrodotti ad alta e media tensione e dalle cabine di
+trasformazione. Il lavoro è nella fase preparatoria.
+Sta collaborando con l'Amministrazione regionale per il
+censimento e la caratterizzazione di tutte le situazioni di
+prossimità fra spazi e strutture dedicate all'infanzia e sorgenti
+di campi a 50 hertz. In questa prima fase l'attenzione è
+concentrata sugli elettrodotti ad alta tensione (380-230 e 132 KV)
+successivamente l'indagine si estenderà alla media tensione (15 KV)
+e alle cabine di trasformazione.
+Sta partecipando insieme con la sezione della Valle d'Aosta
+dell'Istituto zooprofilattico, all'Istituto superiore di sanità e
+al servizio veterinario dell'USL a un progetto di ricerca
+presentato per l'approvazione al Ministero della sanità rivolto
+all'indagine esplorativa di effetti dell'esposizione prolungata di
+animali domestici a campi a 50 hertz.
+Si tratterebbe di uno dei primissimi studi, se approvato,
+condotti su animali con criteri di tipo
+epidemiologico-protezionistico.
+Rispetto ai campi elettromagnetici, alla radiofrequenza, per le
+radiofrequenze i livelli normativi di riferimento per il campo
+elettrico a livello nazionale sono stabiliti dal decreto
+ministeriale n. 381. A livello regionale, come sapete, è stata
+emanata la legge regionale 21 agosto 2000, "Disciplina per
+l'installazione e l'esercizio di impianti di
+radiotelecomunicazioni". Essa è incentrata su una logica di
+pianificazione e razionalizzazione degli insediamenti degli
+impianti emettitori, la quale, salvaguardando la copertura omogenea
+e completa del territorio regionale per quanto riguarda la
+fruibilità dei servizi da parte dei cittadini, sia vincolata al
+rispetto dei valori radioprotezionistici di riferimento nonché dei
+valori paesaggistici e ambientali. Essa non stabilisce obiettivi di
+qualità più restrittivi degli attuali valori di riferimento
+nazionali, ma in nessun modo li esclude come già è stato ampiamente
+detto dal collega Vallet quando ha illustrato il testo del disegno
+di legge.
+Numerosi rilievi di campo elettromagnetico a radiofrequenza sono
+stati effettuati dall'ARPA a partire dalla sua istituzione, per lo
+più su richiesta di privati e residenti in prossimità di antenne
+per radiotelecomunicazioni; in uno di tali rilievi, di cui ho già
+parlato in località Les Fleurs di Gressan, è stata rilevata una
+situazione di superamento dei livelli limiti del decreto
+ministeriale n. 381. Ad essa ha fatto seguito la tempestiva
+segnalazione all'autorità comunale in data 3 ottobre 2000 e la
+richiesta di verifica della proprietà delle installazioni sul sito
+e della regolarità di permessi di installazioni. Il sito sarà
+quindi soggetto a procedura di riduzione di emissioni a conformità
+secondo quanto previsto dall'allegato C del decreto ministeriale n.
+381.
+In sintesi devono ridurre percentualmente la potenza delle
+antenne; mi risulta che proprio oggi ci sia un incontro in questo
+senso con il Comune di Gressan e questo è l'unico caso di
+superamento dei livelli limiti per le radiofrequenze riscontrato
+nel corso dei diversi interventi di misura ad oggi effettuati sul
+territorio regionale.
+Su questo versante l'ARPA, come ho già detto, effettua rilievi
+di campo elettromagnetico a radiofrequenza su richiesta dei
+privati; su richiesta dell'amministrazione comunale è in corso la
+valutazione complessiva dell'esposizione della popolazione a campi
+a radiofrequenze nel Comune di Valtournenche e un lavoro analogo è
+stato richiesto dal Comune di Saint-Vincent che verrà iniziato il
+più presto possibile.
+La legge regionale, di recente approvazione, assegna all'ARPA un
+ruolo importante nella rilevazione sperimentale e nella valutazione
+revisionale dei livelli di campo a radiofrequenza generati da
+diversi emittori presenti sul territorio regionale. L'ARPA dovrà
+inoltre curare la redazione e l'aggiornamento dell'archivio
+regionale delle sorgenti di emissione a radiofrequenze. Siamo
+all'inizio di un processo lungo e complesso che sicuramente ci darà
+elementi informativi nel medio, lungo periodo molto importanti per
+la programmazione e la pianificazione regionale.
+Termino facendo alcuni riferimenti sui rischi per la popolazione
+che mi pare che poi sia di fatto il contenuto forte
+dell'interrogazione dei colleghi Squarzino e Curtaz.
+I livelli limiti per le radiofrequenze del decreto ministeriale
+n. 381 e quelli previsti nel decreto in discussione relativo agli
+elettrodotti per la frequenza di 50 hertz sono misure di cautela
+finalizzate a minimizzare l'esposizione della popolazione rispetto
+a potenziali fattori di rischio per il quale non esistono a questi
+livelli di esposizioni accertate correlazioni causa/effetto, ma il
+cui effetto dannoso, soprattutto per quanto riguarda i campi a 50
+hertz generati dalle linee elettriche, non può neppure essere
+escluso.
+Di conseguenza le situazioni sopraindicate relative al
+territorio della Valle d'Aosta vanno considerate non come
+situazioni di accertato rischio in atto per gli occupanti delle
+abitazioni, ma come situazioni in cui sono o saranno necessari
+interventi in nome di un principio di cautela nei confronti di un
+agente la cui nocività, per quanto non accertata, non può essere
+esclusa. Questo è il significato della classificazione dei campi
+magnetici a 50 hertz fra i possibili agenti cancerogeni fatta
+ultimamente dal National Institute of environmental service sulla
+base dei risultati di diversi studi epidemiologici effettuati.
+Proprio perché le conoscenze sono carenti e perché l'effetto
+nocivo non può essere escluso il principio di cautela fatto proprio
+dalla legislazione italiana è a nostro parere giusto e
+condivisibile e su questo versante sicuramente attueremo tutte le
+azioni di nostra competenza.
+Président
+La parole à la Conseillère Squarzino
+Secondina.
+Squarzino (PVA-cU)
+Ringrazio l'Assessore per questa
+risposta articolata, ricca di dati, che denota come ci sia
+un'attenzione da parte dell'Assessorato rispetto a questo tema.
+Mi rendo conto che la situazione da cui siamo partiti era molto
+vaga e generica. Fino a due anni fa si avevano pochissime
+informazioni rispetto a questo problema e non era stato attivato
+ancora nessun programma di accertamento, di indagine, di
+attenzione, ora, sia su sollecitazione di eventi che purtroppo sono
+capitati, vediamo l'esempio di Hône che è stato l'elemento
+scatenante che però ha attirato l'attenzione su questo tema, sia
+perché anche a livello nazionale questa attenzione si è rafforzata
+e a livello regionale si è tradotta nella legge regionale, sia
+perché c'è l'ARPA che ha fra i suoi compiti anche questo, sia
+perché c'è da parte della popolazione una sempre maggior richiesta
+di salute, questo problema è diventato di attualità.
+Credo che per tutti questi elementi anche l'Amministrazione
+regionale abbia attivato una serie di azioni e di indagini che
+ritengo molto positive.
+Se c'è un elemento che vorrei sottolineare e suggerire
+all'Assessore è forse un elemento di informazione; non c'è stata e
+non c'è attualmente nessuna iniziativa di informazione su questo
+pericolo alla popolazione. Prendiamo atto che l'informazione finora
+è stata esercitata in Valle proprio dal Comitato prevenzione onde
+che è nato ad Aosta in collegamento con il Conacem, Coordinamento
+nazionale dei comitati per la tutela dai campi
+elettromagnetici.
+L'ultimo convegno svoltosi recentemente ad Aosta a settembre è
+un esempio di questa tipologia di informazione. Anche in quel
+convegno è emerso come molte persone non sapessero nulla e alcuni
+dei casi che lei mi ha elencato sono casi che sono stati segnalati
+durante quel convegno.
+Allora trovo poco funzionale, usiamo questo termine, il fatto
+che l'informazione alla popolazione sia fatta da comitati di
+volontari, che forniscono ai cittadini degli elementi per leggere
+in modo diverso il proprio territorio e la propria situazione.
+Credo che non tocchi alla Regione arrivare buona seconda in questo
+tipo di lavoro; lei stesso, Assessore, ha detto e riconosciuto, e
+su questo noi concordiamo pienamente che, mentre c'è chiarezza
+sugli effetti negativi all'esposizione per limiti molto alti di
+inquinamento elettromagnetico, non ci sono evidenze scientifiche
+per quanto riguarda una prolungata esposizione a bassi campi
+elettromagnetici perché questo richiede forti finanziamenti, perché
+bisogna finanziare ricerche a lungo termine che durano 10, 15, 20
+anni anche, non solo 2, 3 anni o pochi mesi perché in questo caso
+si valutano soltanto gli effetti immediati su acuti.
+Quindi quello che noi chiediamo all'Assessore sono due cose: la
+prima preventivare una campagna informativa seria, capillare alla
+popolazione e anche alle amministrazioni, proprio adesso che c'è
+questa legge regionale è utile che gli amministratori siano
+informati e che si rendano conto che questo è uno degli elementi da
+prendere in considerazione; la seconda, verificare se ci sono
+attualmente delle ricerche in atto o dei progetti di ricerca in
+atto proprio sull'inquinamento a lungo termine sulle persone da
+poter eventualmente finanziare.

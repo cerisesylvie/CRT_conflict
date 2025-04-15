@@ -1,0 +1,218 @@
+Classificazione
+AMMINISTRAZIONE REGIONALE
+Ordinamento degli uffici e del personale
+
+
+Resoconto integrale del dibattito dell'aula
+Oggetto del Consiglio n. 1128 del 9 febbraio 2000 - Resoconto
+OGGETTO N. 1128/XI Partecipazione al programma europeo
+"ISA-SET" finalizzato all'utilizzo della firma digitale.
+(Interpellanza)
+Interpellanza Appreso che la Giunta ha deliberato la
+partecipazione della Regione al programma europeo denominato
+"ISA-SET" finalizzato all’utilizzo della firma
+digitale;
+Rilevato che tali tecnologie informatiche sono già in uso nella
+pubblica amministrazione statale;
+i sottoscritti Consiglieri regionali
+Interpellano
+il Presidente della Giunta per sapere:
+1) quali risvolti applicativi abbia per
+l’Amministrazione regionale
+l’adesione a tale programma;
+2) quali oneri comporti e quali vantaggi;
+3) quali motivazioni hanno indotto la Giunta a non considerare
+l’impiego delle tecnologie già in uso.
+F.to: Frassy - Lattanzi
+Presidente
+La parola al Consigliere Frassy.
+Frassy (FI)
+Ritengo che l'interpellanza sia
+sufficientemente chiara, per cui intervengo molto brevemente ad
+integrazione di quanto è scritto nell'interpellanza.
+Abbiamo appreso di questo progetto, che è contenuto in una
+delibera recentemente adottata dalla Giunta regionale, sappiamo che
+l'informatica è il metro con cui tutti noi ci dobbiamo confrontare,
+di conseguenza anche e soprattutto le pubbliche amministrazioni.
+Volevamo però capire meglio che tipo di risvolti concreti avrà
+questo tipo di adesione a un progetto europeo, sapendo che comunque
+la firma digitale è già oltre quella che è la fase pionieristica,
+nel senso che diverse pubbliche amministrazioni - penso
+all'amministrazione finanziaria dello Stato, penso alla vicina
+Regione Piemonte - già utilizzano questo strumento di tipo
+informatico. La Regione Valle d'Aosta si sta attrezzando invece in
+questo senso, aderisce ad un progetto che probabilmente avrà
+qualche valore aggiunto, per cui vorremmo capire i risvolti
+applicativi, le tempistiche, oneri e vantaggi dell'adesione a
+questo progetto e soprattutto compatibilità dello stesso con quelle
+che sono le gestioni già in atto nelle amministrazioni che ho
+citato prima, o comunque con quelle che sono le altre procedure di
+firma digitale adottate dalle altre amministrazioni.
+Presidente
+La parola al Presidente della Giunta, Viérin
+Dino.
+Viérin D. (UV)
+Le Gouvernement valdôtain au point 1 du
+dispositif de sa délibération du 10 janvier dernier a approuvé la
+demande de participation de la Région au projet communautaire
+dénomme ISA-SET, et non pas la participation en elle-même, car ce
+projet n'est pour l'instant qu'une proposition, qui doit encore
+être accueillie par l'Union européenne.
+Il faut également souligner que l'expérimentation dans la
+fonction publique italienne des techniques de signature digitale de
+documents électroniques vient seulement de commencer. Par ailleurs,
+les dispositions en vigueur dans ce domaine ne sont applicables
+qu'aux documents électroniques ayant une valeur légale "erga
+omnes".
+Le projet ISA-SET vise quant à lui à garantir la sécurité des
+réseaux IPE, les réseaux sur lesquels se base Internet, par le
+recours à des technologies particulières, selon les mêmes principes
+théoriques qui régissent la signature digitale et conformément aux
+normes techniques internationales.
+L'Administration régionale peut ainsi être certaine de ne pas
+développer de projets télématiques sur une voie sans issue. Bien au
+contraire elle pourra trouver aux premiers rangs de l'évolution en
+cours à l'échelle européenne.
+Mais pour revenir aux points spécifiques de l'interpellation,
+quelques précisions s'imposent tout d'abord quant aux conséquences
+que comporterait pour la Région son adhésion à ce projet. L'annexe
+technique de la délibération susmentionnée fournit la réponse à
+toutes les questions soulevées quant aux conséquences, donc je fais
+renvoi?
+Frassy
+(fuori microfono)
+? le difficoltà della
+comprensione della lingua inglese?
+Viérin D. (UV)
+? nous la rédigerons en langue française la
+prochaine fois pour faire un plaisir à M. Frassy.
+Le préambule de cette délibération indiquait déjà qu'une
+structure à clé publique, ce qu'on appelle un PKI (public key
+infrastructure), serait réalisée et mise en service en Vallée
+d'Aoste dans l'espace de 12 mois. Il est notamment question
+d'introduire des mécanismes de signature digitale destinés à
+assurer la véracité des signatures à apposer sur les actes transmis
+par voie informatique, ainsi que l'inaltérabilité de ces actes et
+des données relatives à leur expéditeur et à leur destinataire.
+Cette structure permettra d'activer certains services
+administratifs qui exigent la légalisation de la signature de
+l'usager, mais également de veiller à la sécurité de l'ensemble du
+réseau régional et de ses connexions avec les citoyens et les
+structures touristiques, ainsi qu'à celles du site Internet de
+l'Administration régionale, pour la délivrance d'actes portant sur
+une signature électronique et de celui servant à la
+commercialisation des produits typiques ou d'offres touristiques
+locales.
+Les services administratifs concernés seront définis au moment
+où le projet ISA-SET et donc la participation de la Vallée d'Aoste
+recevra l'approbation de la Commission européenne en fonction de
+l'état d'avancement des projets informatiques actuellement en cours
+de réalisation.
+Il s'agira en particulier de services télématiques, c'est-à-dire
+de services permettant l'accès à distance à des procédures
+administratives, par exemple l'octroi de subventions, l'instruction
+de dossiers, qui exigent l'identification certaine de l'usager
+ainsi que la garantie de la transmission de l'information correcte
+au bon destinataire sans possibilité d'intromission de tiers.
+On peut déjà constater que les retombées de cette initiative
+dépassent la simple signature digitale, mais concernent l'ensemble
+des réseaux télématiques et informatiques de l'Administration
+régionale, leur connexion et leur sécurisation.
+En ce qui concerne les dépenses découlant de cette démarche,
+l'Union européenne offre un financement à fonds perdu, qui couvre
+tous les frais de réalisation du projet: frais de déplacement,
+traitement du personnel supplémentaire spécialement recruté à cet
+effet sous contrat à durée déterminée et coûts relatifs aux
+équipements nécessaires. Il n'y a pas de frais à la charge de
+l'Administration régionale, qui devra uniquement assurer la
+disponibilité de ses fonctionnaires.
+Pour ce qui est des avantages, ils ne seront pas uniquement
+d'ordre économique. La Région sera l'une des administrations
+publiques italiennes à participer à un projet européen de
+recherche, portant sur la sécurité des réseaux et sur la signature
+digitale, ce qui lui permettra d'acquérir une expérience précieuse
+dans le domaine des possibilités d'interconnexion des systèmes et
+de la compatibilité de ceux-ci avec les normes en usage.
+Venons enfin aux raisons pour lesquelles le Gouvernement
+n'aurait pas pris en compte les technologies déjà existantes. A cet
+égard aucun choix n'a encore été fait, si bien que l'ébauche que
+nous avons formulée ne spécifie pas quelle technologie sera
+utilisée pour l'obtention des résultats escomptés. De plus, il
+arrive souvent que dans le cadre de ce type de projet un partenaire
+offre gratuitement aux autres la technologie dont il dispose, pour
+qu'il l'atteste. Cela dit, le moment venu la Région décidera du
+moyen technologique qu'elle jugera le mieux adapté pour atteindre
+les objectifs fixés.
+Par ailleurs le Gouvernement a approuvé le 30 décembre 1999
+l'attribution d'un mandat pour la rédaction d'une étude de
+faisabilité en vue de l'introduction et de l'utilisation de la
+signature digitale dans l'Administration régionale, suivant les
+règles dictées par l'AIPA, l'organe italien compétent en matière
+d'informatique dans la fonction publique. Ce mandat a été confié à
+M. Limone, Président coordinateur et membre de plusieurs
+commissions de l'AIPA et du Département de la fonction publique de
+la Présidence du Conseil des ministres, qui exerce entre autres les
+fonctions de Coordinateur de la commission AIPA, chargée du suivi
+de l'application de la loi n° 59/97 relative à la validité des
+documents informatiques et de la signature digitale.
+Je tiens à faire remarquer que cette étude de faisabilité, ainsi
+que l'éventuelle participation au projet ISA-SET fourniront à
+l'Administration régionale tous les éléments nécessaires pour que,
+dans des conditions de sécurité garanties par le recours à la
+signature digitale, elle puisse faire appel à l'informatique dans
+la communication d'actes officiels. Nous serons ainsi alignés à la
+fois sur les innovations techniques et législatives introduites à
+l'échelon étatique sous l'égide de l'AIPA, et sur la recherche
+européenne dans le domaine des technologies de pointe. Rappelons en
+effet que la Vallée d'Aoste participerait au projet ISA-SET en tant
+que partenaire associé de l'école polytechnique de Turin, l'un des
+promoteurs de cette initiative, au côté du Joseph Institut de
+l'Université de Lubiana en Slovénie, qui en est le chef de file,
+ainsi que du collège de l'Université de Londres, du réseau
+scientifique et éducatif tchèque et de l'Université de la
+technologie de Vroclaw en Pologne.
+N'oublions pas enfin que l'école polytechnique de Turin gère
+depuis le 1er janvier 2000 le top level CA, l'organe de
+certification le plus important du réseau Europe PKI, ainsi que son
+correspondant italien. Elle sera ainsi à même de garantir les
+liaisons avec ce réseau de certification, issu des projets
+européens, financé par l'Union et récemment achevé, le seul ?uvrant
+à l'heure actuelle à l'échelle transnationale.
+Voilà les raisons, les conséquences, les retombées et les
+objectifs que nous nous sommes fixés avec cette demande de
+participation à ce projet européen ISA-SET.
+Si dà atto che, dalle ore 11,30, presiede il Vicepresidente
+La Torre.
+Presidente
+La parola al Consigliere Frassy.
+Frassy (FI)
+Prendiamo atto della risposta data dal
+Presidente della Giunta, che sicuramente è una risposta articolata.
+Vorremmo però solo fare alcune riflessioni in merito allo sviluppo
+di questo progetto.
+Sicuramente è positivo che questo progetto nell'ambito europeo
+abbia una copertura totale dei costi che in prospettiva la Regione
+dovrebbe assumersi per la formazione e per l'installazione di
+questo tipo di procedura, e ci auguriamo che una volta effettuate
+le coperture e attivata la procedura della firma digitale, si possa
+avere un beneficio e che non accada ciò che è accaduto nella
+gestione della Carte Vallée e mi spiego meglio.
+Mentre leggiamo con sorpresa in questi giorni che aziende nate
+dal niente quali Tiscali hanno capitalizzato nel giro di pochi mesi
+quanto capitalizza un colosso dell'industria mondiale come è la
+FIAT, e non è un caso che sono aziende che utilizzano tecnologie
+innovative, queste stesse tecnologie quando varcano i confini di
+Pont-Saint-Martin diventano deficitarie. L'Assessore Ferraris mi
+guarda con aria sorpresa, ma il riferimento non può non andare a
+quel più 200 milioni di costi annui che la Carte Vallée comporta
+per il bilancio regionale?
+(interruzione dell'Assessore Ferraris, fuori
+microfono)
+? il dibattito sull'evoluzione della borsa di oggi lo rimando
+nella pausa di pranzo!
+Comunque sia, la gestione dei procedimenti informatici e "on
+line" riduce i costi; non è capitato per la Carte Vallée. Perciò ci
+auguriamo che una volta approvato il progetto ISA-SET, una volta
+ottenuti i finanziamenti europei, questo tipo di procedura non
+comporti oneri aggiuntivi, ma anzi comporti dei risparmi a
+bilancio. Questo è l'auspicio che ci sentiamo di fare.

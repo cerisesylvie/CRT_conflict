@@ -1,0 +1,167 @@
+Classificazione
+BENI CULTURALI
+Musei, biblioteche, archivi storici e aree di interesse archeologico
+
+
+
+Oggetto del Consiglio n. 1098 del 26 gennaio 2005 - Resoconto
+OGGETTO N. 1098/XII - Collegamenti informatici tra la Biblioteca
+regionale e le singole biblioteche comunali. (Interrogazione)
+Interrogazione
+Tenuto conto del ruolo importante che svolge il sistema
+bibliotecario valdostano in ambito culturale;
+Considerato che una delle peculiarità di tale sistema è il
+collegamento che esiste tra la biblioteca regionale e le singole
+biblioteche comunali;
+Atteso che l'elemento cardine che consente tale collegamento
+risiede nella possibilità di far parte dello stesso sistema
+informatico che dovrebbe consentire ad ogni singola biblioteca,
+come nodo della rete del sistema, di far riferimento all'intero
+patrimonio bibliografico presente nell'insieme delle
+biblioteche;
+Ritenuto opportuno avere informazioni al riguardo;
+la sottoscritta Consigliera regionale
+Interroga
+l'Assessore competente per sapere:
+1) quali sono le caratteristiche fondamentali del sistema
+informatico, e quando è stato adottato;
+2) se tale sistema risponde alle esigenze delle singole
+biblioteche comunali, come, ad esempio, quella di estrarre dal
+catalogo generale i dati loro relativi e di apportarvi i necessari
+adeguamenti;
+3) se nel sistema adottato si sono rilevati inconvenienti
+tali da suggerire eventuali modifiche o in prospettiva l'adozione
+di un altro sistema e, in questo caso, se l'attuale sistema
+consentirebbe il trasferimento in altro sistema dei dati
+attualmente in suo possesso.
+F.to: Squarzino Secondina
+Président - La parole à l'Assesseur au budget, aux finances, à
+la programmation et aux participations régionales,
+Marguerettaz.
+Marguerettaz (UV) - Nell'interrogazione si chiede quali sono le
+caratteristiche fondamentali del sistema informatico e quando è
+stato adottato.
+Questo progetto è stato avviato molti anni or sono, lo studio
+sulla automazione del sistema bibliotecario della Regione Valle
+d'Aosta è stato presentato da "INVA" nel settembre 1989 e portò in
+allora alla scelta di un sistema denominato "GEAC Advance", della
+società francese "GEAC". Tale scelta fu fondata sulle seguenti
+motivazioni. L'esperienza e l'affidabilità della società "GEAC",
+specializzata nel settore dell'automazione delle biblioteche e con
+importanti referenze a livello internazionale; inoltre l'aderenza
+del sistema a tutti gli standard internazionali per lo scambio dati
+bibliografici, "Unimark ISO 2709".
+La prima versione del sistema installata fu la 1.9, era un
+sistema operativo Unix, database Univers, con accesso via terminale
+con interfaccia a caratteri. I diversi moduli componenti il sistema
+sono stati attivati progressivamente a partire da tale data: il
+modulo per la catalogazione, settembre 1990, il modulo per la
+consultazione del catalogo al pubblico "OPAC", dicembre 1991, il
+modulo per la gestione delle procedure di acquisto inizio 1992.
+Tra la fine del 1995 e l'inizio del 1996, in preparazione
+dell'apertura della nuova Biblioteca regionale, il sistema fu
+aggiornato di un considerevole ampliamento "hardware" e "software".
+Nel settembre 1996, in concomitanza con l'apertura della
+Biblioteca, è stato attivato il modulo per la gestione dei
+prestiti. All'inizio del 1998 è stato attivato il modulo per la
+gestione dei periodici. Nel 2001 è stato pubblicato su Internet,
+all'interno del sito regionale, il catalogo collettivo delle
+biblioteche valdostane con aggiornamenti in tempo reale. Tra la
+fine del 2003 e la primavera del 2004, dopo 7 anni di esercizio
+senza disservizi tanto all'interno quanto verso il pubblico, il
+sistema è stato oggetto di un aggiornamento "hardware" e
+"software", avente l'obiettivo di migliorare e ammodernare le sue
+caratteristiche tecnologiche e architetturali - infrastruttura,
+funzione di gestione bibliotecaria, consultazione Internet Intranet
+del catalogo - e di creare i presupposti per un rilascio dei
+servizi sul territorio, secondo un percorso che parte dalle
+biblioteche comprensoriali fino a raggiungere le biblioteche
+comunali.
+L'aggiornamento ha comportato la sostituzione del "software",
+l'installazione e la configurazione del "software", la migrazione
+dei dati della precedente versione del sistema, la formazione del
+personale e il "follow up" nella fase di avviamento. Nel secondo
+semestre 2004 sono state svolte attività di configurazione e
+impostazione di reti virtuali private, per permettere l'utilizzo
+dei vari moduli del sistema - gestione prestiti, gestione catalogo
+interno, ad uso professionale... - alle sedi bibliotecari
+comprensoriali/comunali tramite l'utilizzo di Internet. In tale
+modo sarà possibile garantire, unitamente alle azioni organizzative
+e formative necessarie l'accesso al sistema da parte delle
+biblioteche, senza richiedere investimenti rilevanti per il
+collegamento fisico fra periferia e centro, semplificando
+notevolmente gli aspetti di gestione e garantendo adeguati livelli
+di sicurezza.
+Gli obiettivi del sistema bibliotecario valdostano, in accordo
+con l'Assessore Charles, che di fatto sono stati riportati nelle
+impostazioni del sistema, sono i seguenti. La disponibilità di un
+catalogo unico, uniforme e condiviso sul territorio regionale, la
+gestione di un unico archivio utenti ancora condiviso fra le
+biblioteche e gestito centralmente, l'utilizzo di un unico sistema
+di accesso ai servizi di prestito e una unica tessera utilizzabile
+in ogni biblioteca.
+Rispetto alla seconda domanda, come affermato in precedenza, il
+sistema è stato concepito secondo i presupposti su esposti, con
+l'obiettivo della gestione in rete di più biblioteche, secondo una
+logica di sistema bibliotecario. Poiché le operazioni di
+catalogazione sono svolte centralmente dalla direzione archivio e
+biblioteche, gli operatori delle biblioteche comunali non hanno
+necessità di modificarne i dati. Alla occorrenza, qualunque dato
+riguardante la singola biblioteca potrebbe comunque essere reso
+modificabile attraverso le opportune autorizzazioni di accesso al
+sistema. Le informazioni presenti sulla base dati possono essere
+estratte con le aggregazioni/selezioni ritenute più opportune.
+Rispetto alla terza domanda, si dice se il sistema adottato non
+ha comportato inconvenienti tali da suggerirne modifiche rilevanti
+o una sua eventuale sostituzione. Poiché il sistema è in uso da
+oltre dieci anni, qualora vi fossero stati tali presupposti non si
+sarebbe proceduto al recente aggiornamento dello stesso,
+indirizzandosi verso la selezione di un nuovo prodotto. Il sistema
+è in grado di importare ed esportare dati in qualunque formato e
+secondo la norma "ISO 2709". Tutti i dati sono quindi trasferibili
+in qualunque altro sistema che supporti tale formato, ivi compreso
+il servizio bibliotecario nazionale.
+Président - La parole à la Conseillère Squarzino Secondina.
+Squarzino (Arc-VA) - Prendo atto della risposta articolata e
+ringrazio se me ne sarà data una copia.
+La nostra interpellanza nasceva da una serie di osservazioni,
+che le biblioteche comunali hanno fatto e stanno ancora facendo,
+nel senso che queste non si ritrovano in questa gestione del
+sistema bibliotecario dei dati, tant'è vero che diverse biblioteche
+comunali hanno provveduto a dotarsi di un loro data base locale
+comunale, perché non riuscivano a trovare le modalità per
+interagire in modo efficace ed efficiente con questo sistema.
+Lei ha dato una risposta molto generica, che dovrò analizzare
+meglio per capire cosa significhi il fatto che le singole
+biblioteche, se hanno delle esigenze, fanno delle richieste
+specifiche per avere dei moduli appropriati. Il problema non
+consiste nel non dare risposta alla singola esigenza della singola
+biblioteca, ma di capire se le esigenze delle biblioteche comunali
+trovano risposta in questo sistema.
+A quanto mi consta, diverse esigenze non trovano una risposta,
+altrimenti non avrei fatto questa interrogazione sollevando il
+problema, e soprattutto nel momento in cui si cerca di individuare
+un regolamento unitario comune a tutte le biblioteche. Ci si rende
+conto che le biblioteche comunali e di comprensorio non riescono ad
+essere attive nella gestione del sistema bibliotecario. Questo
+comporta un aggravio di lavoro a livello cartaceo e un aggravio di
+spesa, perché le singole biblioteche si sono dotate di un loro
+software apposito e allora quella che doveva essere la finalità
+dell'intero sistema viene vanificata nella gestione in periferia
+dei dati. Non metto in discussione la gestione a livello Biblioteca
+regionale complessivo, ma nella gestione periferica.
+Secondo elemento a cui l'Assessore ha dato indirettamente una
+risposta, a mio parere, non chiara. Forse andava formulata
+diversamente la domanda, quando si tratta di trasferire in altro
+sistema i dati attualmente in possesso, sì, posso trasferirli in un
+altro sistema - vedi Biblioteca nazionale -, ma se per caso la
+Regione intendesse cambiare il sistema che ha comperato, che ha
+adottato, lo potrebbe fare avendo a sua disposizione i dati che
+questo sistema ha incamerato? Questa è la domanda
+fondamentale...
+(interruzione dell'Assessore Marguerettaz, fuori
+microfono)
+... la risposta è sì. Appunto, la risposta è sì nel senso che
+vengono trasferiti i dati, ma se voglio annullare quell'appalto
+sono in grado di poterlo fare? E questo è un problema che ci
+riserviamo eventualmente di sollevare in futuro.

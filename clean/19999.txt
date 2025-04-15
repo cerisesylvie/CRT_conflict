@@ -1,0 +1,543 @@
+Classificazione
+AGRICOLTURA
+
+
+Resoconto integrale del dibattito dell'aula
+Oggetto del Consiglio n. 3180 del 14 aprile 2003 - Resoconto
+OGGETTO N. 3180/XI Disegno di legge: "Istituzione e gestione del
+sistema informativo agricolo regionale (SIAR) e dell'Anagrafe
+regionale delle aziende agricole valdostane".
+Articolo 1 (Finalità e oggetto)
+1. Al fine di semplificare e di accelerare lo svolgimento dei
+procedimenti amministrativi in materia di agricoltura, di disporre
+di dati costantemente aggiornati per la programmazione degli
+interventi in campo agricolo e agro-ambientale, nonché per il
+monitoraggio in modo continuo della loro portata ed efficacia, la
+presente legge detta norme per la realizzazione e la gestione del
+Sistema informativo agricolo regionale (SIAR) e dell'Anagrafe
+regionale delle aziende agricole valdostane.
+Articolo 2 (Sistema informativo agricolo regionale)
+1. Il SIAR realizza l'integrazione delle informazioni
+disponibili per fornire strumenti e servizi adeguati agli operatori
+e agli utenti del settore agricolo, garantendo la protezione delle
+informazioni acquisite, nel rispetto della normativa vigente in
+materia di trattamento e protezione dei dati personali.
+2. Il SIAR opera nell'ambito del Sistema informativo regionale
+(SIR), disciplinato dalla legge regionale 12 luglio 1996, n. 16
+(Programmazione, organizzazione e gestione del sistema informativo
+regionale. Ulteriori modificazioni alla legge regionale 17 agosto
+1987, n. 81 (Costituzione di una Società per azioni nel settore
+dello sviluppo dell'informatica), già modificata dalla legge
+regionale 1° luglio 1994, n. 32. Abrogazione di norme), e
+costituisce articolazione territoriale, su base regionale, del
+Sistema informativo agricolo nazionale (SIAN), istituito ai sensi
+dell'articolo 15 della legge 4 giugno 1984, n. 194 (Interventi a
+sostegno dell'agricoltura); esso può essere integrato ai sistemi
+informativi delle pubbliche amministrazioni mediante la rete
+unitaria delle pubbliche amministrazioni (RUPA).
+3. I flussi informativi tra gli operatori del sistema avvengono
+principalmente per via telematica, mediante la rete telematica
+regionale quale infrastruttura di base per il governo e la gestione
+dei servizi comuni agli operatori del settore agricolo.
+4. La Giunta regionale con propria deliberazione definisce le
+modalità per l'aggiornamento, da parte dei soggetti interessati,
+delle informazioni contenute nel SIAR.
+5. Alla realizzazione e alla gestione del SIAR provvede la
+struttura regionale competente in materia di politiche agricole, di
+seguito denominata struttura competente, in collaborazione con la
+struttura regionale competente in materia di sistemi
+informativi.
+Articolo 3 (Anagrafe regionale delle aziende agricole
+valdostane)
+1. Nell'ambito del SIAR, è istituita l'Anagrafe regionale delle
+aziende agricole valdostane, di seguito denominata Anagrafe.
+2. Sono inserite nell'Anagrafe le informazioni relative ai
+soggetti pubblici e privati che abbiano intrattenuto o
+intrattengano, a qualsiasi titolo, rapporti con l'Amministrazione
+regionale per ragioni connesse all'attività agricola,
+agro-alimentare e forestale.
+3. I soggetti di cui al comma 2 sono identificati attraverso il
+codice fiscale di pertinenza, che costituisce il codice unico di
+identificazione delle aziende agricole (CUUA).
+4. L'Anagrafe individua, per ciascun soggetto esercente attività
+agricola, agro-alimentare e forestale, le unità tecnico-economiche
+facenti capo allo stesso.
+Articolo 4 (Unità tecnico-economica)
+1. Per unità tecnico-economica si intende l'insieme dei mezzi di
+produzione, degli stabilimenti e delle unità zootecniche condotti,
+a qualsiasi titolo, dal titolare dell'azienda ed aventi una propria
+autonomia produttiva. Ai fini dell'Anagrafe, l'unità
+tecnico-economica, ubicata in una specifica porzione di territorio,
+è identificata tramite il codice ISTAT del Comune ove ricade in
+misura prevalente.
+2. L'alpeggio, per le peculiari caratteristiche tecniche,
+economiche ed organizzative, è considerato unità aziendale autonoma
+ad operatività esclusivamente stagionale.
+Articolo 5 (Iscrizione all'Anagrafe)
+1. I soggetti di cui all'articolo 3, comma 2, sono iscritti
+d'ufficio all'Anagrafe, previo accertamento dell'attualità e della
+correttezza dei dati identificativi in possesso della struttura
+competente.
+2. Nell'ipotesi in cui la struttura competente non disponga in
+modo completo dei dati di cui al comma 1, sospende l'iscrizione dei
+relativi soggetti interessati e comunica agli stessi il termine
+entro il quale devono procedere alla regolarizzazione o
+all'aggiornamento dei dati. L'inadempimento comporta la mancata
+registrazione dell'azienda negli archivi dell'Anagrafe.
+3. I soggetti iscritti all'Anagrafe sono tenuti altresì a
+comunicare ogni variazione inerente ai dati comunicati, compilando
+il modello di variazione predisposto e fornito dalla struttura
+regionale competente, sulla base dello schema-tipo adottato con
+provvedimento del dirigente della struttura competente.
+Articolo 6 (Fascicolo aziendale)
+1. Per ciascun soggetto iscritto all'Anagrafe è costituito il
+fascicolo aziendale, composto da un modello cartaceo e da uno
+elettronico, riepilogativi dei dati identificativi aziendali.
+2. Le informazioni e i dati contenuti nel fascicolo aziendale
+sono utilizzati dalle strutture regionali competenti ai fini
+dell'istruttoria dei procedimenti amministrativi di competenza
+relativi ai soggetti iscritti, salva diversa valutazione o
+integrazione dei dati disponibili e comunque necessari.
+3. In sede di prima applicazione della presente legge, il
+fascicolo aziendale è costituito sulla base dei dati comunicati
+alla struttura competente dai soggetti iscritti ai sensi
+dell'articolo 5. Successivamente, gli iscritti sono tenuti a
+comunicare ogni altro dato utile richiesto dalla struttura
+regionale competente ai fini della rilevazione dei dati necessari
+alla costituzione dei contenuti informativi dell'Anagrafe di cui
+all'articolo 7.
+Articolo 7 (Contenuti informativi dell'Anagrafe)
+1. Le informazioni sui singoli soggetti contenute nell'Anagrafe
+sono, in particolare, le seguenti:
+a) i dati anagrafici del legale rappresentante dell'azienda;
+b) la sede legale, l'ubicazione dell'azienda e delle unità
+tecnico-economiche, identificate tramite il codice ISTAT, ai sensi
+dell'articolo 4, comma 1;
+c) i dati di produzione, trasformazione e commercializzazione
+dei prodotti agricoli, agro-alimentari e forestali;
+d) la consistenza zootecnica complessiva delle aziende e delle
+singole unità tecnico-economiche;
+e) la consistenza territoriale, il titolo di conduzione e
+l'individuazione catastale, ove esistente, degli immobili,
+comprensiva dei dati aerofotogrammetrici, cartografici e di
+telerilevamento;
+f) le domande di ammissione a programmi di intervento
+concernenti l'applicazione di normative comunitarie, nazionali e
+regionali in materia di aiuti e lo stato dei singoli
+procedimenti;
+g) le risultanze dei controlli e delle ispezioni eseguiti presso
+le aziende ai sensi della normativa vigente;
+h) l'iscrizione ad enti associativi con conferimento di delega
+per i rapporti con l'Amministrazione regionale;
+i) le variazioni giuridicamente rilevanti inerenti alla
+titolarità dell'azienda e dei beni strumentali che la
+costituiscono;
+j) ogni altro dato o informazione utile, comunque attinente
+all'esercizio dell'attività svolta.
+Articolo 8 (Accesso all'Anagrafe)
+1. Possono accedere alle informazioni e ai dati iscritti
+all'Anagrafe:
+a) le pubbliche amministrazioni, per i propri fini
+istituzionali, previa stipulazione di apposita convenzione con la
+Regione;
+b) i soggetti iscritti all'Anagrafe ed i soggetti dalle stesse
+delegati nonché le loro forme associative, limitatamente ai dati
+alle stesse inerenti.
+2. Gli accessi all'Anagrafe dei soggetti di cui al comma 1 sono
+registrati su appositi archivi, conservati presso la struttura
+competente.
+Président
+La parole au rapporteur, le Conseiller
+Cottino.
+Cottino (UV)
+Voglio precisare subito che questa relazione
+è stata concordata con il collega Bionaz, il quale è relatore per
+incarico della II Commissione, così come lo sono per la III
+Commissione, per cui è anche a nome suo che mi accingo a presentare
+in Consiglio la relazione al disegno di legge in oggetto.
+Questo disegno di legge, come chiaramente enunciato nella
+relazione accompagnatoria, si pone quale obiettivo l'istituzione
+dell'anagrafe regionale delle aziende agricole valdostane che, al
+di là di quanto previsto dalla normativa europea e nazionale, si
+pone quale obiettivo quello di facilitare sia i diretti interessati
+sia le associazioni di categoria nei rapporti con gli enti
+pubblici. Per enti pubblici si intendono evidentemente non solo
+Regione e comuni, ma anche Unione Europea e Stato italiano.
+L'applicazione del Piano di sviluppo rurale per la Valle d'Aosta
+ai sensi del Reg. (CE) n. 1257/99, principale riferimento normativo
+per gli aiuti in agricoltura, ha determinato un notevole
+cambiamento anche nell'organizzazione procedurale dell'Assessorato
+dell'agricoltura e risorse naturali. Gli obiettivi più lapalissiani
+sono quelli di un monitoraggio completo e preciso sia durante il
+periodo di erogazione dei contributi, sia del successivo controllo
+di verifica dei risultati raggiunti. Un po' meno evidente è forse
+il controllo preventivo di tutti gli indicatori di sviluppo che
+sono fondamentali per la nuova programmazione degli interventi nel
+settore agricolo come previsti dal già citato Piano di sviluppo
+rurale. In questo contesto l'anagrafe regionale si pone l'obiettivo
+di raggruppare in un unico dossier tutti i dati riguardanti le
+singole aziende del settore agricolo.
+Come già ricordato all'inizio, ciò permetterà un'immediata
+valutazione di tutti quegli indicatori di sviluppo previsti
+dall'Unione Europea, così come permetterà, anche in ossequio ai
+piani nazionali, la facilitazione e la semplificazione di tutte le
+pratiche che necessitano ad ogni richiedente interventi previsti
+dalla normativa vigente. Infatti, poter attingere ad un'unica fonte
+tutti i dati e documenti richiesti dalle varie pratiche è
+sicuramente più agevole che non correre da un ufficio all'altro per
+richiedere le stesse cose ed è senza dubbio per l'utente un'enorme
+risparmio di tempo e fatica, oltre che di dispendio economico.
+Inoltre, grazie alla già ricordata possibilità di avere
+un'immediata valutazione dei requisiti di ammissibilità, dovrebbe
+anche accelerare notevolmente l'iter di tutte le pratiche.
+L'accesso al fascicolo dell'anagrafe regionale delle aziende
+agricole significa di fatto poter, per tutti, accedere allo
+sportello unico dell'agricoltura.
+Prima di prendere in esame i vari articoli di questo disegno di
+legge è ancora il caso di sottolineare che il Sistema informativo
+agricolo regionale - il cosiddetto SIAR - ha anche come obiettivo -
+in parte già raggiunto - l'integrazione delle diverse informazioni
+disponibili relative al settore agricolo e contenute in diversi
+archivi informatici non sufficientemente collegati fra di loro. Il
+SIAR opera all'interno del SIR (Sistema informativo regionale) ed è
+integrabile al SIAN (Sistema informativo agricolo nazionale).
+L'insieme dei vari strumenti informatici ci permettono anche
+l'integrazione con gli altri sistemi informativi disponibili quali
+la RUPA (Rete unitaria delle pubbliche amministrazioni) e il CSIA
+(Centro smistamento informazioni anagrafiche), oltre che con le
+banche dati di altri enti e associazioni.
+Questo disegno di legge si compone di 8 articoli che, per la
+loro linearità e chiarezza, mi permettono di esaminarli in questa
+relazione in modo molto veloce:
+- l'articolo 1 definisce le finalità in modo molto preciso e
+prevede la realizzazione del sistema informativo e dell'anagrafe
+delle aziende agricole;
+- l'articolo 2 chiarisce l'operatività degli strumenti che con
+questo disegno di legge si vuole istituire per il raggiungimento
+delle finalità previste dall'articolo 1, definisce l'utilizzazione
+di sistemi informativi già in essere sia a livello nazionale che
+regionale. Prevede inoltre chi gestisce il sistema informativo,
+come lo si deve gestire e, infine, prevede che la Giunta regionale,
+attraverso un regolamento ad hoc, emani le modalità di
+aggiornamento dello stesso;
+- l'articolo 3 prevede l'istituzione dell'anagrafe e chi ne deve
+far parte. In questo articolo è previsto anche un modello di
+identificazione delle aziende agricole attraverso il codice
+unico;
+- l'articolo 4 spiega cosa si intende con il concetto di "unità
+tecnico-economica" prevista dall'ultimo comma dell'articolo 3.
+Introduce inoltre un concetto che ritengo estremamente importante
+da sottolineare ed è quello che l'alpeggio venga considerato "unità
+aziendale autonoma" che opera evidentemente con carattere
+stagionale;
+- l'articolo 5 precisa le modalità di iscrizione e i soggetti
+che ne fanno parte. Disciplina i casi di sospensione e di mancata
+registrazione quando si verifichino determinate situazioni. Prevede
+inoltre l'obbligo, per i soggetti iscritti all'anagrafe, di
+comunicazioni di ogni variazione dei dati comunicati al momento
+dell'iscrizione alla stessa;
+- l'articolo 6 disciplina le modalità della costituzione del
+fascicolo aziendale precisando che verrà composto sia da un modello
+cartaceo che da uno elettronico. Precisa poi come avviene
+l'istituzione del fascicolo in fase di prima attuazione della legge
+e le modalità del suo aggiornamento;
+- l'articolo 7 si limita ad elencare quali informazioni devono
+essere contenute nell'anagrafe;
+- l'articolo 8 precisa i soggetti aventi diritto d'accesso ai
+dati e alle informazioni dell'anagrafe.
+Va precisato che quando si parla di "convenzione per l'accesso
+all'anagrafe da parte delle pubbliche amministrazioni", limitato
+peraltro strettamente ai propri fini istituzionali, si intende
+soprattutto concordare le modalità tecniche e non certamente di
+altro genere.
+Président
+Je déclare ouverte la discussion
+générale.
+La parole au Conseiller Frassy.
+Frassy (LCdL)
+Il nostro gruppo ha esaminato con
+attenzione questo disegno di legge e dobbiamo dire che possiamo
+condividere le finalità che lo ispirano, ma, contestualmente,
+esprimiamo alcune preoccupazioni rispetto alle finalità indicate
+all'articolo 1 del disegno di legge - peraltro ribadite con enfasi
+dal relatore - le quali, a nostro parere, non hanno chiara
+percezione nel sintetico articolato dello stesso disegno di legge.
+Ci spieghiamo meglio.
+Se è condivisibile il fine di semplificare e accelerare le
+pratiche degli utenti del mondo agricolo da una parte e,
+dall'altra, avere un quadro di insieme il più possibile aggiornato
+in tempo reale, le perplessità insorgono dal fatto che,
+nell'esaminare gli articoli successivi, si evidenziano alcuni
+obblighi a carico degli operatori del settore agricolo senza andare
+ad eliminare altri obblighi che attualmente già gravano sugli
+operatori del settore agricolo. Questo soprattutto nell'articolo 5,
+dove, al comma 3, si precisa che ogni variazione inerente i dati
+comunicati deve essere successivamente comunicata all'anagrafe con
+la procedura quivi indicata.
+Noi immaginiamo e auspichiamo - e su questo argomento
+presenteremo un emendamento - che queste variazioni, nel momento in
+cui si verificano, siano da comunicare solo se non sono già state
+comunicate in base alle procedure vigenti ad altri servizi, sul
+principio che se gli operatori di settore hanno l'obbligo per un
+insieme normativo pre-esistente di comunicare questi dati di
+variazione ad altre strutture, ad altri servizi
+dell'Amministrazione, questi dati vengano direttamente acquisiti
+dall'anagrafe attraverso meccanismi di comunicazione telematica e
+informatica interna. Questo però non è scritto; di conseguenza,
+rimane in legge l'obbligo di comunicare comunque ogni variazione
+all'anagrafe, prescindendo dal fatto che questa variazione sia
+stata già comunicata - oppure no - ad altri uffici o servizi. Sul
+fascicolo aziendale abbiamo la perplessità del comma 3, dove si
+dice nel secondo periodo che gli iscritti sono tenuti a comunicare
+ogni altro dato utile richiesto dalla struttura regionale
+competente. Tale perplessità nasce dal fatto che la struttura
+regionale competente è la struttura amministrativa, che
+diventerebbe immediatamente soggetto attuatore di questa
+semplificazione legislativa, senza che questi elementi utili
+tornino all'aula del Consiglio o comunque alla valutazione della
+Giunta.
+Noi sappiamo, per esperienza, che difficilmente la burocrazia
+riesce a contenersi, ma, molto spesso, con il condivisibile
+principio di essere più efficace e più efficiente, finisce alla
+fine per produrre ulteriori aggravi di tipo burocratico. Di
+conseguenza, se ogni altro dato utile dovrà essere comunicato,
+riteniamo sia opportuno che tale dato sia oggetto di una
+valutazione in sede politica a livello amministrativo, quanto meno
+di Giunta, e che non venga data una delega in bianco all'apparato.
+Su quanto detto presentiamo un emendamento di tipo abrogativo di
+questo comma 3.
+Riteniamo importante quanto è stato scritto nella relazione
+illustrata dal collega Cottino, riguardo alla possibilità di avere
+questa visione di insieme, con una tempistica che sia il più
+possibile una tempistica reale; riteniamo che questo sia un dato
+importante non solo per la struttura amministrativa e per i singoli
+operatori di settore - in relazione, ovviamente, alle proprie
+posizioni aziendali -, ma per tutti quanti abbiano interesse ad
+attingere ad analisi, valutazioni di quello che è il comparto
+agricolo.
+Di conseguenza, proporremmo, con un ulteriore emendamento, di
+istituire un comma 3 all'articolo 8, nel quale chiediamo che
+l'insieme di questi dati, preservando la riservatezza, vengano
+aggregati in una sezione di tipo statistico che venga messa in rete
+e che sia disponibile a tutti accedendo al sito Internet della
+Regione: questo proprio per far sì che vi sia una percezione di
+quella che è la situazione del settore in tempo reale, accessibile
+a tutti dal punto di vista statistico.
+L'ultima preoccupazione o perplessità è che questa legge non
+dovrebbe comportare oneri aggiuntivi, perché non c'è alcuna
+previsione di impegno a bilancio; ci auguriamo che sia così,
+perché? Perché nel settore dell'informatizzazione gli investimenti
+fatti da questa Amministrazione sono stati ingenti, importanti per
+quelle che sono le cifre investite, perlomeno per l'ultimo
+triennio!
+Se questo è il frutto di una parte di quegli investimenti,
+chiaramente la nostra condivisione a questo disegno di legge
+potrebbe essere maggiore rispetto ad una soluzione di impronta
+diversa. Il giudizio finale su questo disegno di legge lo
+sospendiamo all'esito di quelli che sono gli emendamenti che
+depositiamo e che in sintesi ho illustrato; di conseguenza, ci
+riserviamo, a seguito della valutazione che verrà data ai nostri
+emendamenti, di esprimere un giudizio più compiuto su questo
+disegno di legge.
+Président
+La parole au Conseiller Ottoz.
+Ottoz (UV)
+Se ho capito bene, il Consigliere Frassy
+propone di cassare il comma 3 dell'articolo
+5…
+(interruzione del Consigliere Frassy, fuori
+microfono)
+… dell'articolo 6, che dice una cosa
+diversa. Qui, senza abolirlo, si potrebbe fare riferimento alla
+legge n. 19… adesso non ricordo
+esattamente l'articolo dove si dice che nessuno è tenuto a fornire
+un'informazione che l'Amministrazione già detiene. Questo permette
+di fornire l'informazione qualora non sia un'informazione che
+l'Amministrazione ha già, e di poter fare riferimento
+all'informazione che l'Amministrazione ha già nel caso che ce
+l'abbia, a seconda della fattispecie. L'abolizione "tout court" -
+non so quale sia la posizione della Giunta - mi sembra però un po'
+troppo!
+Président
+La parole à l'Assesseur à l'agriculture
+et aux ressources naturelles, Perrin.
+Perrin (UV)
+Etant donné la présentation d'amendements de
+nature technique, je demanderais cinq minutes de suspension pour
+les analyser.
+Président
+Le Conseil est suspendu pendant cinq
+minutes.
+Si dà atto che la seduta è sospesa dalle ore 21,43 alle ore
+21,56.
+Président
+Nous reprenons nos travaux.
+La parole au Conseiller Frassy.
+Frassy (LCdL)
+Per comunicare che a seguito della
+sospensione per l'esame degli emendamenti proposti dal nostro
+gruppo, gli emendamenti come distribuiti sono stati recepiti con le
+variazioni di cui darei lettura.
+Il primo emendamento, riformulato, recita:
+"I dati già in
+possesso di altre strutture…"
+e poi
+prosegue come era già scritto nel testo distribuito. Il secondo
+emendamento viene così modificato:
+"Abrogare… "
+non più il comma
+tre, ma
+"… il secondo periodo del
+comma tre"
+. Il terzo emendamento rimane tale e quale a quello
+distribuito.
+Président
+Je ferme la discussion générale.
+La parole à l'Assesseur à l'agriculture et aux ressources
+naturelles, Perrin.
+Perrin (UV)
+Deux brièves considérations. Avant tout pour
+remercier le rapporteur, les Commissions et les bureaux de
+l'Assessorat, qui ont beaucoup travaillé pendant ces années, afin
+de réorganiser l'Assessorat et d'avoir la possibilité d'arriver
+aujourd'hui à définir un bureau qui doit devenir un point de
+référence pour toutes les instances de l'Assessorat.
+C'est dans cette direction que la loi en question va: réussir à
+simplifier et faciliter surtout les usagers qui s'approchent de
+l'Assessorat à l'agriculture, avoir à disposition des données
+précises pour pouvoir programmer les interventions, opérer les
+contrôles nécessaires et surtout pour accélérer les procédures; par
+conséquent, accélérer le payement des différentes aides du
+secteur.
+C'est une loi très simple, mais qui aura des effets très
+positifs surtout quant à l'approche des usagers, qui auront des
+facilitations quant aux procédures liées aux nombreuses instances
+qui sont adressées à l'Assessorat. Nous avons accepté volontiers
+les amendements, puisqu'ils vont dans le sens d'améliorer encore
+cette disponibilité envers les usagers.
+Président
+On passe à l'examen de la loi. Je rappelle que
+la II
+ème
+Commission a donné son avis favorable à la
+majorité, ainsi que la III
+ème
+Commission.
+Sur l'article 1
+er
+la parole au Conseiller Frassy.
+Frassy (LCdL)
+Brevemente, perché avevamo sospeso il
+giudizio finale su questo provvedimento alla valutazione sugli
+emendamenti che avevamo presentato. Non possiamo che ribadire, di
+conseguenza, il nostro giudizio positivo su un disegno di legge di
+semplificazione e riteniamo in parte di aver contribuito a
+"semplificare la semplificazione" - con un gioco di parole - con
+una utile precisazione in seno a questo disegno di legge.
+Un disegno di legge che potrà rendere meno complessa la parte di
+burocrazia che interessa molti settori, che in particolare grava su
+quei settori più distanti dall'Amministrazione, come è il settore
+che qui si va a regolamentare: quello degli operatori agricoli.
+Président
+Je soumets au vote l'article
+1
+er
+:
+Conseillers présents et votants: 29
+Pour: 29
+Le Conseil approuve à l'unanimité.
+Je soumets au vote l'article 2:
+Conseillers présents et votants: 29
+Pour: 29
+Le Conseil approuve à l'unanimité.
+Je soumets au vote l'article 3:
+Conseillers présents et votants: 29
+Pour: 29
+Le Conseil approuve à l'unanimité.
+Je soumets au vote l'article 4:
+Conseillers présents et votants: 29
+Pour: 29
+Le Conseil approuve à l'unanimité.
+A l'article 5 il y a un amendement du groupe "La Casa delle
+Libertà", dont je donne lecture:
+Emendamento Articolo 5 - Aggiungere alla fine del comma tre:
+"I dati già in possesso di altre strutture regionali non sono
+oggetto di specifica comunicazione e vengono acquisiti d'ufficio
+dall'Anagrafe".
+Je soumets au vote l'article 5 dans le texte ainsi amendé:
+Articolo 5 (Iscrizione all'Anagrafe)
+1. I soggetti di cui all'articolo 3, comma 2, sono iscritti
+d'ufficio all'Anagrafe, previo accertamento dell'attualità e della
+correttezza dei dati identificativi in possesso della struttura
+competente.
+2. Nell'ipotesi in cui la struttura competente non disponga in
+modo completo dei dati di cui al comma 1, sospende l'iscrizione dei
+relativi soggetti interessati e comunica agli stessi il termine
+entro il quale devono procedere alla regolarizzazione o
+all'aggiornamento dei dati. L'inadempimento comporta la mancata
+registrazione dell'azienda negli archivi dell'Anagrafe.
+3. I soggetti iscritti all'Anagrafe sono tenuti altresì a
+comunicare ogni variazione inerente ai dati comunicati, compilando
+il modello di variazione predisposto e fornito dalla struttura
+regionale competente, sulla base dello schema-tipo adottato con
+provvedimento del dirigente della struttura competente. I dati già
+in possesso di altre strutture regionali non sono oggetto di
+specifica comunicazione e vengono acquisiti d'ufficio
+dall'Anagrafe.
+Conseillers présents et votants: 29
+Pour: 29
+Le Conseil approuve à l'unanimité.
+A l'article 6 il y a un amendement du groupe "La Casa delle
+Libertà", dont je donne lecture:
+Emendamento Articolo 6 - Abrogare il secondo periodo del comma
+tre.
+Je soumets au vote l'article 6 dans le texte ainsi amendé:
+Articolo 6 (Fascicolo aziendale)
+1. Per ciascun soggetto iscritto all'Anagrafe è costituito il
+fascicolo aziendale, composto da un modello cartaceo e da uno
+elettronico, riepilogativi dei dati identificativi aziendali.
+2. Le informazioni e i dati contenuti nel fascicolo aziendale
+sono utilizzati dalle strutture regionali competenti ai fini
+dell'istruttoria dei procedimenti amministrativi di competenza
+relativi ai soggetti iscritti, salva diversa valutazione o
+integrazione dei dati disponibili e comunque necessari.
+3. In sede di prima applicazione della presente legge, il
+fascicolo aziendale è costituito sulla base dei dati comunicati
+alla struttura competente dai soggetti iscritti ai sensi
+dell'articolo 5.
+Conseillers présents et votants: 29
+Pour: 29
+Le Conseil approuve à l'unanimité.
+Je soumets au vote l'article 7:
+Conseillers présents et votants: 29
+Pour: 29
+Le Conseil approuve à l'unanimité.
+A l'article 8 il y a un amendement du groupe "La Casa delle
+Libertà", dont je donne lecture:
+Emendamento Articolo 8 - Aggiungere il seguente comma:
+"3. L'Anagrafe aggiorna semestralmente a fini divulgativi una
+sezione statistica liberamente accessibile dal sito internet della
+Regione Autonoma Valle d'Aosta"
+Je soumets au vote l'article 8 dans le texte ainsi amendé:
+Articolo 8 (Accesso all'Anagrafe)
+1. Possono accedere alle informazioni e ai dati iscritti
+all'Anagrafe:
+a) le pubbliche amministrazioni, per i propri fini
+istituzionali, previa stipulazione di apposita convenzione con la
+Regione;
+b) i soggetti iscritti all'Anagrafe ed i soggetti dalle stesse
+delegati nonché le loro forme associative, limitatamente ai dati
+alle stesse inerenti.
+2. Gli accessi all'Anagrafe dei soggetti di cui al comma 1 sono
+registrati su appositi archivi, conservati presso la struttura
+competente.
+3. L'Anagrafe aggiorna semestralmente a fini divulgativi una
+sezione statistica liberamente accessibile dal sito internet della
+Regione Autonoma Valle d'Aosta.
+Conseillers présents et votants: 29
+Pour: 29
+Le Conseil approuve à l'unanimité.
+Je soumets au vote la loi dans son ensemble:
+Conseillers présents et votants: 30
+Pour: 30
+Le Conseil approuve à l'unanimité.

@@ -1,0 +1,416 @@
+Consiglio Regionale della Valle d'Aosta - Oggetto del Consiglio n. 1579 del 9 novembre 2005 - Resoconto
+Vai al contenuto principale
+Oggetti del Consiglio
+Invia
+Stampa
+Documenti
+Verbale
+Resoconto
+Collegamenti
+Iter atto
+Classificazione
+AMMINISTRAZIONE REGIONALE
+Ordinamento degli uffici e del personale
+INFORMAZIONE
+Sistema informativo
+Precedente
+Successivo
+Resoconto integrale del dibattito dell'aula. I documenti allegati sono reperibili nel link "iter atto".
+Oggetto del Consiglio n. 1579 del 9 novembre 2005 - Resoconto
+OGGETTO N. 1579/XII - Ottimizzazione dei costi di gestione in
+campo informatico. (Interpellanza)
+Interpellanza
+Evidenziata la necessità, visti i recenti tagli alla Legge
+Finanziaria regionale, di ottimizzare, per quanto possibile, i
+costi di gestione dell'apparato regionale, anche per quanto
+riguarda l'acquisto di licenze e di software per la pubblica
+amministrazione;
+Tenuto conto che nella grande maggioranza dei personal
+computer in uso negli uffici regionali è installato "software
+proprietario", di norma il pacchetto "Office" di Microsoft, nelle
+sue varie versioni, così da permettere ai dipendenti di svolgere le
+loro mansioni, per il quale l'Amministrazione regionale ha pagato
+una licenza d'uso e dovrà pagare in futuro in caso di
+aggiornamento;
+Ritenuto che l'utilizzo di tali software, per ragioni di
+compatibilità, costringe anche i vari enti pubblici presenti in
+Valle a dotarsi dei medesimi programmi, per i quali è necessario a
+loro volta, pagare una licenza d'uso per l'acquisto e per i futuri
+aggiornamenti;
+Venuti a conoscenza dell'istituzione del formato aperto
+libero ed universale denominato "Open Document - ODF" che presenta
+le analoghe funzionalità dei programmi proprietari attualmente in
+uso negli uffici regionali ed utilizzabile con altri diversi
+software, tra cui "OpenOffice.org", pacchetto libero e gratuito a
+disposizione di chiunque, anche delle pubbliche amministrazioni,
+con evidenti miglioramenti rispetto agli attuali programmi in
+uso;
+Considerato che il formato "Open Document" sta diventando lo
+standard accettato e richiesto da governi e amministrazioni
+pubbliche, come già avvenuto negli Stati Uniti, in Massachusetts, e
+come sembra voglia fare anche l'Unione Europea;
+i sottoscritti Consiglieri regionali
+Interpellano
+l'Assessore competente per sapere:
+1) quanto ha speso l'amministrazione regionale negli ultimi
+cinque anni per l'acquisto del software e delle relative licenze
+d'uso, nonché per gli aggiornamenti dei diversi programmi
+proprietari;
+2) se è a conoscenza del formato "Open Document" ed, in caso
+di risposta positiva, se non si è pensato di utilizzarlo negli
+uffici regionali;
+3) se intende, in funzione anche di un abbassamento dei costi
+di gestione della pubblica amministrazione, agevolare l'utilizzo
+del software "OpenOffice.org", estendendone l'uso anche agli enti
+locali, ottimizzando i costi e migliorando la funzionalità dei
+programmi presenti.
+F.to: Lanièce - Stacchetti - Comé
+Président - La parole au Conseiller Lanièce.
+Lanièce (SA) - Il formato "Open Document", noto con l'estensione
+"ODF", è l'abbreviazione di "Oasis Open Document Format for Office
+Applications" e viene utilizzato per il salvataggio e lo scambio di
+documenti per la produttività di ufficio, come documenti di testo,
+fogli di calcolo, diagrammi e presentazioni. Dopo essermi accorto
+che anche l'Unione europea sta lavorando per utilizzare come
+"standard" l'"Open Document", ho ritenuto opportuno a nome del
+gruppo presentare questa interpellanza per sapere se si intende,
+come Amministrazione regionale, in funzione anche di un
+abbassamento dei costi di gestione della pubblica amministrazione,
+agevolare l'utilizzo della "suite OpenOffice.org", estendendone
+l'uso anche agli enti locali, così migliorando anche la
+funzionalità dei programmi presenti. Infatti il formato "Open
+Document" è basato sul formato di "file" creato originariamente da
+"OpenOffice.org", la "suite" libera recentemente rilasciata nella
+sua versione "2.0"; questo "standard" è pubblicamente accessibile e
+può essere implementato da chiunque senza restrizioni, fornendo
+così un'alternativa aperta a formati proprietari, fra cui i famosi
+"doc", "xls", "ppt" usati da "Microsoft Office". In questo modo le
+organizzazioni che memorizzano i loro dati in un formato aperto
+come "Open Document" evitano di essere bloccati da un singolo
+produttore "software", ma sono liberi di cambiare "software" nel
+caso in cui il produttore stesso del loro attuale "software"
+dovesse uscire dal mercato, alzare i prezzi, cambiare il
+"software", o cambiare i propri temi di licenza per qualcosa di
+meno favorevole. Credo sia un obbligo prioritario di un sistema che
+si definisce democratico come il nostro non avere i propri
+documenti pubblici vincolati in qualche tipo di formato
+proprietario, magari non visualizzabile in futuro o soggetto a un
+sistema di licenza proprietario che ne restringe l'accesso. Dal
+momento che un obiettivo dei formati aperti come "Open Document" è
+quello di garantire accesso a lungo termine ai dati, senza barriere
+legali o tecniche, le amministrazioni pubbliche e i governi sono
+diventati progressivamente consapevoli dei formati aperti come
+questioni che riguardano le politiche pubbliche. Ho quindi ritenuto
+opportuno coinvolgere il Governo regionale su questa importante
+questione dopo aver saputo che diversi Paesi e amministrazioni
+pubbliche, volendo garantire accesso a lungo termine ai dati senza
+barriere legali o tecniche, stanno adottando "Open Document" come
+"standard"; fra questi vi è lo Stato americano del Massachusetts,
+il Ministero della difesa di Singapore, quello delle finanze
+francese, quello della salute brasiliano, la città di Monaco di
+Baviera in Germania, il Consiglio comunale di Bristol nel Regno
+Unito e la città di Vienna in Austria.
+Visto che si presenta la necessità, in occasione dei recenti
+tagli alla legge finanziaria regionale, di ottimizzare per quanto
+possibile i costi di gestione dell'apparato regionale anche per
+quanto riguarda l'acquisto di licenze e di "software" per la
+pubblica amministrazione e tenuto conto che abbiamo verificato che
+nella gran parte dei "personal computer" in uso negli uffici
+regionali è installato di norma il "pacchetto Office di Microsoft",
+per il quale l'Amministrazione regionale ha pagato la licenza d'uso
+e dovrà ancora pagare in futuro in caso di aggiornamento, "Open
+Document" potrebbe rappresentare la soluzione semplice, pacifica e
+gratuita, con un diminuzione dei costi rispetto a un problema che
+abbiamo tutti, e promette di essere una vera rivoluzione
+nell'informatica, restituendo libertà a un mercato reso stantio dal
+monopolio. Volendo fare un esempio, il programma "Word" di
+"Microsoft" è diffusissimo per cui molta gente genera documenti
+usando questo formato, ma in pratica il formato utilizzato da
+"Word" è leggibile e modificabile solo con "Word". Siccome "Word"
+costa, tanta gente non se lo può comperare e quindi o se lo
+"pirata" commettendo un reato, oppure rinuncia a leggere e
+modificare i "documenti Word". Può sembrare una rinuncia facile
+finché nasce il problema del lavoro, delle scuole e delle pubbliche
+amministrazioni. Se la pubblica amministrazione spedisce un
+"documento Word", mi obbliga a comperarlo per interagire e questo
+mi sembra un chiaro favoritismo verso un prodotto specifico di
+un'azienda privata e contribuisce anche a mantenere il monopolio.
+Dobbiamo quindi essere liberi di continuare ad usare "Word" e
+"Office" se ci va, non perché siamo obbligati e vogliamo farlo
+senza dover imporre i nostri gusti agli altri; per assurdo è come
+se la scuola accettasse solo alunni che hanno un tipo di zainetto e
+mandasse a casa tutti gli altri. La soluzione semplice a questa
+discriminazione è fare in modo che tutti i programmi di scrittura
+commerciale o gratuiti usino lo stesso formato, in questo modo chi
+vuole pagare di più e usare "Word" può farlo, chi vuole spendere
+meno e usare "OpenOffice.org" o altri programmi ancora li può
+usare, nessuno si accorge della differenza, quasi tutti possono
+scambiare documenti con tutti, senza creare cittadini di serie A e
+di serie B.
+Questo formato universale è "Open Document", la "Microsoft"
+finora ha rifiutato di supportarlo, facendo campagne di protesta
+contro la sua adozione, ma l'adozione di un formato universale non
+è una pratica anti-commerciale, come possiamo constatare in tutti i
+settori della tecnologia dove vi sono formati chiamati "standard".
+È infatti grazie agli "standard" che possiamo montare l'autoradio
+di una marca a scelta nella nostra auto, invece di essere obbligati
+a comprare quella imposta dal fabbricante dell'auto, o ancora
+comprare un "compact disc" musicale di qualsiasi casa discografica
+e ascoltarlo su un lettore di qualsiasi marca. In altre parole, gli
+"standard" favoriscono il libero mercato e la concorrenza.
+"Microsoft" non supporta questo "standard" emergente perché teme di
+perdere il mercato se la gente non è più obbligata ad usare i suoi
+prodotti; potreste quindi chiedervi perché non possiamo adottare il
+formato "Word" come "standard" in tutti i programmi visto che è
+così diffuso. Questo non succede perché "Microsoft" non lo concede,
+quindi la soluzione semplice a tale discriminazione è che
+"Microsoft", come gli altri, adotti anche il formato "Open
+Document" nei suoi prodotti.
+Considerato che questi altri "software" della "Microsoft", per
+ragioni di compatibilità, costringono anche i vari enti pubblici
+presenti in Valle a dotarsi dei medesimi programmi, per i quali
+devono pagare una licenza d'uso per l'acquisto e per gli
+aggiornamenti, se consideriamo che anche la Commissione europea ha
+sottoscritto l'uso dell'"Open Document", raccomandandolo come base
+per formati di "file standard" e per lo scambio di documenti, mi è
+sembrato opportuno portare a conoscenza del Consiglio l'esistenza
+di questo importante formato libero, invitando il Governo ad
+agevolare l'utilizzo del "software OpenOffice.org", estendendone
+l'uso all'Amministrazione regionale e agli enti locali, in modo da
+ottimizzare i costi e migliorare la funzionalità dei programmi
+presenti.
+Président - La parole à l'Assesseur au budget, aux finances, à
+la programmation et aux participations régionales,
+Marguerettaz.
+Marguerettaz (UV) - Un'interpellanza così tecnica necessita di
+una risposta che io non ero in grado di dare, se non con il
+supporto dei tecnici dell'Assessorato, perché abbiamo portato quasi
+una discussione fra Bill Gates e i suoi collaboratori!
+Prima di rispondere puntualmente ai quesiti posti
+dall'interpellanza, vorrei premettere alcune considerazioni per
+meglio inquadrare la problematica dell'ottimizzazione dei costi di
+gestione nel settore informatico. L'elemento che "balza all'occhio"
+ai non addetti è il costo della licenza di un prodotto, in realtà
+questa componente è solo uno dei numerosi fattori che determinano
+l'effettivo costo della soluzione adottata. Di norma i costi di
+gestione e manutenzione del prodotto tendono a superare nel tempo
+il costo di acquisto, questo sia nel caso ci si trovi di fronte a
+un prodotto commerciale, ad esempio la "suite Office", che ad un
+prodotto "Open Source", nominalmente gratuito, come può essere in
+questo caso il prodotto "Open Office". Di conseguenza, all'atto
+dell'introduzione di un nuovo prodotto occorre valutare
+attentamente numerosi fattori spesso occulti, che producono costi
+di gestione, fra questi possiamo ricordare i costi di aggiornamento
+delle licenze, i costi legati all'installazione del prodotto,
+compatibilità con i sistemi operativi in uso, costi legati alla
+necessità di formare il personale all'utilizzo del prodotto, costi
+legati alla riconversione degli archivi ed applicazioni esistenti,
+riscrittura delle "macro" e dei "database", costi legati alla
+gestione della sicurezza, integrità del codice inteso come verifica
+dell'assenza di "back door" e possibilità di intrusione
+informatica. Normalmente i costi legati all'acquisto della licenza
+e al suo aggiornamento tendono ad essere una componente non
+prevalente nel caso di aziende dotate di sistemi informatici
+complessi e/o un numero elevato di utenti, come nel caso
+dell'Amministrazione regionale. In campo nazionale ed europeo sono
+presenti numerosi esempi, sia nel settore pubblico che in quello
+privato, di organismi che hanno dovuto tornare sui propri passi per
+aver sottovalutato le componenti di costi sopradescritte, avendo
+basato le proprie decisioni solo sul costo di listino del prodotto.
+Nello specifico il "software Open Source" presenta una grossa
+attrattiva, presentando costi di acquisto e di licenza e di
+aggiornamento della stessa molto bassi e in alcuni casi persino
+gratuiti. Volendo cercare dei riferimenti sulle scelte fatte da
+altre organizzazioni in campo mondiale, ragionando in termini di
+penetrazione di prodotto, mentre è significativa la presenza di
+"software", "Open Source" nei settori dei "server" con grandi tassi
+di crescita, è insignificante quella nel settore del "PC" con ritmi
+di crescita modesti localizzati nel settore domestico, quindi è
+lecito affermare che ben poche amministrazioni pubbliche utilizzano
+oggi prodotti "Open Source" installati sui "PC" dei funzionari, in
+particolare la "suite Open Office". L'Amministrazione regionale nei
+confronti di formati e "software" aperti ha seguito una politica
+allineata a quella delle altre organizzazioni, Stato italiano
+compreso; allo stato attuale sono utilizzati anche per applicazioni
+critiche "server" basati su sistemi operativi "Linux", mentre
+stanno testando soluzioni "desktop" alternative alla "suite
+Office", al fine di adottare tali tipi di prodotto non appena essi
+rappresentino una reale alternativa ai "software" in uso.
+Nell'ambito delle premesse è stata citata la scelta
+dell'Amministrazione dello Stato del Massachusetts e questa
+amministrazione ha scelto di adottare tale formato a partire dal
+gennaio 2007, questo indica una dichiarazione di intento
+condivisibile, ma allo stesso tempo testimonia il fatto che tale
+transazione debba essere condotta con estrema attenzione su archi
+temporali lunghi, non essendo attuabile da subito e in tempi
+brevi.
+Fatta questa premessa, venendo ai quesiti dell'interpellanza,
+siccome è stata richiesta una spesa negli ultimi 5 anni, do copia
+della risposta per meglio dettagliare, perché, distinguendo anno
+per anno, abbiamo distinto il numero di "computer", l'acquisto, il
+costo unitario della licenza, la manutenzione e l'aggiornamento, il
+costo unitario della manutenzione per arrivare a un totale costo
+annuo. La situazione riportata nei diversi anni rispecchia le
+modifiche avvenute nel corso del tempo delle politiche di vendita
+della "Microsoft", che hanno indotto necessariamente una diversa
+modalità contrattuale di acquisizione dei prodotti da parte
+dell'Amministrazione regionale, in particolare la politica messa in
+atto da parte di "Microsoft" di rendere non più aggiornabili i
+prodotti acquistati antecedentemente a un prefissato limite
+temporale ha indotto l'Amministrazione ad abbandonare la
+tradizionale politica di mero acquisto della "suite Office" assieme
+al "PC" e legata alla vita del "PC" stesso verso un contratto che
+prevede la copertura manutentiva dell'intero parco macchine.
+Parallelamente i costi unitari hanno subito un abbassamento in
+ragione di un miglior rapporto commerciale con "Microsoft",
+attraverso il contratto denominato "Enterprise agreement
+government", che posiziona l'Amministrazione nella massima fascia
+di sconto; grazie a questo rapporto contrattuale è anche possibile
+per gli altri enti locali di usufruire dello stesso tasso di sconto
+praticato all'Amministrazione regionale nell'ambito del disegno
+sinergico attuato con l'accordo quadro di programma relativo al
+progetto "RUPAR".
+Riguardo al secondo quesito, i tecnici dell'Amministrazione
+regionale e della società "IN.VA." monitorizzano costantemente le
+soluzioni presenti sul mercato per ricercare le migliori soluzioni
+in termini di prestazioni e costi di esercizio nel rispetto del
+"budget" assegnato. Sono presenti anche le soluzioni "Open Source",
+di conseguenza è stata testata anche la soluzione "Open Office" con
+i propri formati di salvataggio dei dati, sia con sistemi operativi
+"Open" - "Linux" -, sia su sistema operativo "Microsoft", il tutto
+nell'ottica di un possibile utilizzo all'interno
+dell'Amministrazione regionale in sostituzione del tradizionale
+"Microsoft Office".
+Entrando nel merito del formato "Open Document", si ricorda che
+l'"Oasis" - "Organisation for advanced structured information
+standard" - non è un ente preposto alla definizione di "standard",
+ma un consorzio internazionale "non profit" che guida lo sviluppo,
+la convergenza e l'adozione di "standard e-business
+"
+. Il
+formato "Open Document" è stato pubblicato nella sua veste attuale
+da "Oasis" il 1° maggio 2005 e solo il 30 settembre 2005 è stato
+sottoposto all'Organizzazione internazionale per la
+standardizzazione internazionale dell'elettronica, organismo
+tecnico e neutrale. Attualmente tale "standard" è in attesa di
+essere ratificato da un organo ufficiale di standardizzazione e per
+essere certificato come "standard" di riferimento potrebbe subire
+ulteriori modifiche. In definitiva, siamo di fronte a un formato di
+recentissima introduzione. Un plauso al collega Lanièce che ha
+subito colto queste opportunità; in effetti la "suite Open Office"
+che gestisce il nuovo formato è la versione "2.0", rilasciata da
+pochi giorni - 20 ottobre 2005 - nella versione di test ancora
+soggetta a malfunzionamento e non ancora rilasciata in lingua
+italiana. La versione stabile è la "1.1.4" in lingua italiana, che
+non supporta tale formato di documento. I test condotti ad oggi
+riguardano l'utilizzo della versione "1.1.4" essendo la "2.0"
+troppo recente, in sintesi le risultanze dei test hanno
+sconsigliato l'introduzione del programma "Open Office" negli
+uffici regionali. Le principali problematiche riguardano problemi
+di compatibilità nell'apertura di "file" prodotti con "software"
+diversi, mancanza di una versione multilingua - nel caso del
+"pacchetto Open Office" deve essere disinstallato il "language
+pack" e reinstallato quello della lingua desiderata -, necessita di
+dover formare il personale, mancanza di un "database" semplice e
+intuitivo come "Microsoft Access", tempi più lunghi per la
+pubblicazione delle "patch" di sicurezza e scarsa assistenza
+tecnica del prodotto, costi legati all'installazione del prodotto,
+riscrittura "macro", conversione documenti, "database", costi
+legati al maggior tempo impiegato dai funzionari per la conversione
+di documenti in formato "Office" provenienti dalla pubblica
+amministrazione centrale e altre entità extraregionali. Formiamo
+una tabella comparata relativamente alle componenti di costo,
+facendo un raffronto da "Microsoft Office 2000" ed "Open Office
+1.1.4", l'acquisto, la formazione personale, l'installazione,
+distribuzione "patch", migrazioni "macro", migrazioni "DB Access",
+conversione documenti provenienti da altre pubbliche
+amministrazioni, il totale del raffronto dei costi porta a un costo
+di 238.760 euro, contro un costo dell'"Open Office 1.1.4" di
+621.000 euro. Come si può vedere, l'operazione ha un tempo di
+ritorno del costo di investimento pari a 2 anni, senza avere
+significativi vantaggi dal punto di vista di funzionalità aggiunte
+nel prodotto, ma solo svantaggi sopradescritti, rimanendo
+significativo negli anni successivi il costo di gestione. La
+versione "2.0" di "Open Office" appare più promettente dal punto di
+vista delle problematiche risolte ed è attualmente al vaglio dei
+tecnici, per cui alcune delle considerazioni sopraesposte
+potrebbero essere riviste e non più valide al termine delle
+attività di test del prodotto.
+Riguardo al terzo quesito, si ricorda che ciascuna
+organizzazione gestisce in autonomia il proprio sistema
+informatico, Consiglio regionale compreso, e che l'Amministrazione
+regionale non può estendere l'uso di qualsivoglia prodotto ad altri
+enti in assenza di specifici atti di intesa. Come evidenziato al
+punto precedente, un atto unilaterale di adozione di un certo tipo
+di formato di "file" per i documenti porterebbe oggi
+paradossalmente a un possibile aumento dei costi da sostenersi da
+parte degli enti locali e a un rallentamento dell'azione
+amministrativa causata dalla necessità di formazione del personale
+e riconversione dei "file".
+Nel momento in cui l'effettivo costo totale della soluzione
+"Open Office", a fronte di un'effettiva possibilità di utilizzo
+all'interno dell'Amministrazione regionale, renda consigliabile la
+"migrazione" verso tale soluzione potrebbe verificarsi un effetto
+volano tale da indurre la "migrazione" agli altri enti locali
+valdostani sulla scia dell'esperienza dell'Amministrazione
+regionale. Va precisato che, come descritto in premessa, alcune
+soluzioni valide in enti di determinate dimensioni possono non
+essere valide e così incisive all'interno di enti di diverse
+dimensioni e organizzazioni. L'arco temporale di riferimento per
+l'introduzione di tali tipi di formato potrebbe essere compatibile
+con quello dichiarato dallo Stato del Massachusetts.
+Président - La parole au Conseiller Lanièce.
+Lanièce (SA) - Prendo atto della risposta molto dettagliata
+dell'Assessore ma, come ho detto nella presentazione, non siamo qui
+per insegnare nulla, ma per sottoporre all'attenzione del Governo
+regionale una novità in campo informatico. Sappiamo bene che il
+campo dell'informatica è un settore dove occorre essere "al passo
+con i tempi" e anzi cercare di anticipare le situazioni per averne
+i maggiori benefici. È in questa ottica che è stata presentata tale
+interpellanza, perché, in base alle informazioni di cui sono venuto
+in possesso, si sta parlando di questo formato libero, che è al
+vaglio della Comunità europea, che è stato sottoposto all'"ISO"
+("International standard organisation") per la definitiva
+standardizzazione e diversi Paesi stanno verificando la possibilità
+di attuarlo.
+Ho parlato della "suite" libera versione "2.0", sulla quale sono
+stati fatti i test, non di quella di cui ha parlato l'Assessore,
+per cui l'invito che faccio è di far sì che gli uffici stiano
+attenti a verificare se vi è tale convenienza, perché, se l'Unione
+europea darà via libera alla standardizzazione di questo formato,
+non vorrei che poi finisse come per il digitale, che non sappiamo
+bene se siamo "al passo con i tempi" o se siamo indietro. Per me è
+importante in un campo tecnologicamente avanzato come
+l'informatica, dove ogni giorno che passa vi sono novità,
+dimostrare l'interesse dell'Amministrazione regionale su qualcosa
+che potrebbe portare alla riduzione dei costi e questo è uno degli
+obiettivi. Per cui abbiamo ritenuto opportuno firmare e presentare
+tale interpellanza, sapendo che, quando si parla di tecnologia
+avanzata, la politica viene dopo e vengono prima gli esperti del
+settore. Penso sia opportuno evitare di liquidare una vicenda
+dicendo che si tratta di test e invece prendere spunto da tale
+richiesta per demandare agli uffici di verificare se questo formato
+libero "Open Document" possa portare ad una riduzione dei costi. È
+vero che, oggi come oggi, non facendo riferimento al "2.0", vi sono
+delle incompatibilità e dei costi maggiori per la conversione dei
+documenti e per formare il personale, ma questi stessi costi
+c'erano prima, quando è stato adottato "Microsoft Office", quindi
+cerchiamo di evitare di semplificare le cose. Se vi è un sistema
+nuovo è ovvio che si dovranno sopportare degli altri costi... ma se
+alla fine il risultato è migliore ed è un prodotto gratuito e non
+assoggettato a licenze o a un sistema di monopolio, credo sia
+legittimo indagare se questo corrisponde al vero e, in caso
+affermativo, pensare di introdurlo, anche se sarà fra 10 anni, ma,
+se è migliore dell'attuale, ci porterà a un risparmio dei costi, e
+allora perché evitarlo? Spero che questa nostra iniziativa venga
+interpretata in tale ottica, quindi l'invito è quello di seguire
+con attenzione l'evolversi a livello europeo delle analisi e degli
+studi su tale sistema molto innovativo nel mondo
+dell'informatica.
+Informativa cookies
+Consiglio Regionale della Valle d'Aosta © 2025
+Questo sito utilizza cookies propri e di terze parti. Continuando ad usare questo sito, acconsenti all'utilizzo di questa tecnologia.
+Consulta la nostra
+informativa
+per maggiori informazioni e per istruzioni su come disattivare i cookies.
+OK

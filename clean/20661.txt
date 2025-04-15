@@ -1,0 +1,279 @@
+Classificazione
+INFORMAZIONE
+Radiotelecomunicazioni
+
+
+
+Oggetto del Consiglio n. 695 del 23 giugno 2004 - Resoconto
+OGGETTO N. 695/XII - Diffusione nella regione della tecnologia
+DSL. (Interrogazione)
+Interrogazione
+Preso atto dell'evoluzione tecnologica che, tramite internet,
+sta riducendo sempre più le distanze ed i tempi di comunicazione,
+anche multimediale;
+Considerato che da diverso tempo, esiste la tecnologia DSL,
+che permette, tramite il normale cavo telefonico, previa
+installazione di un'apposita centrale telefonica, la
+trasmissione/ricezione dati ad alta velocità;
+Verificato che in Valle d'Aosta, sono operative solo otto
+centrali telefoniche DSL su 74 comuni serviti dalla rete
+telefonica, rendendo così disponibile la tecnologia ad alta
+velocità solo in pochi centri abitati come ad esempio Aosta,
+Saint-Vincent e Verrès;
+Atteso che lo sviluppo della tecnologia DSL, da parte di
+Telecom Italia, unico proprietario della rete telefonica, è molto
+lento e, in certi casi, neppure previsto a causa di prospettive
+economiche non convenienti;
+Constatato che, in alternativa alla tecnologia DSL, tutti gli
+altri metodi di trasmissione/ricezione dati via cavo telefonico o
+tramite segnale satellitare sono più costosi, tecnologicamente
+complessi e comunque meno efficienti;
+Ricordato che da tempo l'Amministrazione regionale si sta
+adoperando per evitare l'abbandono dei piccoli centri abitati che,
+per ora, nell'attuale stato delle cose, non possono usufruire della
+tecnologia DSL;
+I sottoscritti Consiglieri regionali
+Interrogano
+l'Assessore competente per conoscere:
+1) lo stato attuale della disponibilità della tecnologia DSL
+in Valle d'Aosta;
+2) se è intenzione dell'Amministrazione regionale, adoperarsi
+presso Telecom Italia al fine di consentire lo sviluppo totale di
+tale tecnologia, rendendola così fruibile in tutti i 74 comuni
+della Valle d'Aosta;
+3) se l'Amministrazione regionale ha preso in considerazione
+la possibilità di realizzare, in collaborazione con gli enti locali
+e le comunità montane ed eventualmente in partnership con Telecom
+Italia, una propria rete tecnologica DSL tale da permettere alla
+Valle d'Aosta di colmare il gap tecnologico che la divide dalle
+altre regioni italiane.
+F.to: Lanièce - Comé - Viérin Marco - Stacchetti
+Président - La parole à l'Assesseur au budget, aux finances, à
+la programmation et aux participations régionales,
+Marguerettaz.
+Marguerettaz (UV) - Con un'interrogazione così articolata sono
+costretto ad impegnarmi in una risposta altrettanto articolata.
+Faccio una premessa rispetto alle risposte puntuali
+all'interrogazione quindi, anziché parlare di tecnologia "DSL",
+ritengo più corretto parlare di "larga banda", intendendo con
+questa definizione, usata normalmente nelle telecomunicazioni, un
+insieme di tecnologie che consentono di fornire all'utente
+collegamenti di velocità notevolmente superiori rispetto a quelli
+concessi dalla normale rete telefonica. Essendo forte il legame fra
+le infrastrutture e i servizi abilitati, si usa poi indicare con il
+termine "larga banda" l'ambiente tecnologico, costituito da
+applicazioni, servizi, contenuti ed infrastrutture, che consente
+l'utilizzo delle tecnologie digitali ad elevati livelli di
+interattività; è evidente l'importanza della larga banda per
+pubbliche amministrazioni, imprese, cittadini. Le infrastrutture a
+larga banda possono essere incentrate su diverse tecnologie, che
+risultano più o meno efficienti, come viene ricordato
+nell'interrogazione, e necessarie a seconda delle condizioni di
+utilizzo (trasmissione voci, dati, video, creazione di reti).
+Queste infrastrutture quindi potrebbero essere "DSL", che è
+l'acronimo di "digital subscriber line" - che utilizza il
+tradizionale doppino in rame -, collegamenti via satellite,
+collegamenti "wireless", fibra ottica. La decisione di quale
+tecnologia utilizzare è fortemente condizionata dai servizi che si
+intende erogare.
+Se da un lato la banda larga rappresenta l'occasione per lo
+sviluppo di nuovi servizi ed applicazioni, dall'altro occorre far
+presente che la sua evoluzione è - in particolare ora che si opera
+in regime di non monopolio - strettamente guidata da logiche di
+mercato. Ne consegue che si verrà a creare una forte disparità fra
+zone che già cominciano a disporre della larga banda, zone che ne
+disporranno progressivamente nel prossimo futuro e realtà
+territoriali alle quali la logica economica negherà questa
+opportunità, in quanto gli operatori tendono ad investire laddove
+esiste profitto, cioè in zone ad alta densità abitativa e
+fortemente industrializzate. Credo che sia un po' questa la logica
+dell'interrogazione. Quello del divario "digital divide" esistente
+fra le diverse aree è un problema che tocca i vari Paesi
+dell'Unione europea e le diverse regioni italiane.
+Da un'analisi effettuata dal "Formez", istituto che opera a
+livello nazionale e risponde al Dipartimento della funzione
+pubblica, in collaborazione con il Ministero per l'innovazione e le
+tecnologie, che mette a confronto i piani delle regioni italiane,
+situazione rilevata a marzo 2003, per sostenere un ruolo attivo
+nell'infrastrutturazione digitale nel territorio, risulta la
+seguente situazione: 6 regioni non hanno alcuna politica e alcuna
+iniziativa programmatica; 4 regioni hanno cominciato a definire una
+politica per la diffusione della larga banda nella pubblica
+amministrazione; 4 regioni, oltre ad aver definito una politica,
+hanno previsto iniziative per lo sviluppo della larga banda sul
+loro territorio; 4 regioni, fra cui la Valle d'Aosta, hanno avviato
+iniziative concrete, seppur con impegni finanziari ancora limitati;
+2 regioni, Emilia Romagna e Piemonte, hanno avviato in modo
+concreto la diffusione della larga banda. Analizzando la dotazione
+di infrastruttura a larga banda in Emilia Romagna - Regione che,
+come definito nel documento del "Formez", occupa un posto di
+rilievo nello sviluppo della larga banda, ma anch'essa soffre del
+"digital divide" in una larga parte del proprio territorio - si
+nota che, mentre la copertura in termini di popolazione è intorno
+al 79%, contro il 66% a livello nazionale, risultano scoperti dal
+servizio "DSL" oltre il 50% dei comuni; da lì si evince che sono
+servite le grandi aree metropolitane, ma tutti i piccoli comuni ne
+sono esclusi. È appena il caso di far presente la diversità
+geografica e i diversi interessi economici che contraddistinguono
+le due Regioni (Valle d'Aosta ed Emilia). Le iniziative che vengono
+portate avanti nella nostra Regione riguardano: interventi volti a
+favorire gli investimenti degli operatori nello sviluppo di reti e
+servizi (poi entreremo nel dettaglio); interventi a livello
+centrale o locale per l'avvio di propri piani (sto parlando della
+"Rupar"); interventi volti a favorire la disponibilità di servizi
+particolarmente interessanti, "internet" e posta elettronica presso
+biblioteche, postazioni pubbliche multimediali ad uso del
+cittadino; programmi dell'Amministrazione regionale per la
+creazione di una rete regionale a banda larga, quindi non
+necessariamente "DSL", che passano attraverso vari progetti di
+rilevante importanza.
+Evoluzione anello in fibra ottica: la sua realizzazione - da
+terminare entro agosto 2004 - va incontro alle nuove esigenze di
+banda per un collegamento ad alta velocità tra le principali 12
+sedi dell'Amministrazione regionale; abbiamo quindi questo anello
+ottico che collega Piazza Deffeyes, Piazza della Repubblica,
+località Amérique, Quart, eccetera. L'intervento approvato con la
+deliberazione di Giunta del 23 febbraio 2004 permette, oltre ad una
+flessibilità d'uso della banda disponibile sull'anello ottico, un
+collegamento veloce complessivo minimo di 10 Mb, che può essere
+ripartito in modo autonomo e discrezionale per i collegamenti voci
+e dati, essendo che le varie sedi regionali devono trasmettere sia
+voci che dati. Qui mi ricollego a un ragionamento che anche la
+"Casa delle Libertà" aveva fatto in passato, per sottolineare che
+per tale implementazione è stato sfruttato l'anello ottico posato
+in Aosta in occasione del progetto "VDA Cablata" e che, per venire
+incontro alle esigenze dell'Amministrazione regionale, "Telecom" ha
+potenziato le sue infrastrutture. Di tale potenziamento possono già
+da subito beneficiare anche enti come comune, USL e altri operatori
+locali che insistono sull'anello ottico. Con questa operazione la
+città di Aosta, pur non potendo competere in termini di ritorno
+economico, si colloca al pari delle 28 principali città
+italiane.
+Con il progetto "Rupar" - avremo modo di riparlarne in questo
+stesso Consiglio nell'ambito del piano triennale - con la
+realizzazione del SIE (sistema interconnessione enti), connessione
+attiva da circa 10 anni, la Regione ha posto le basi per la
+realizzazione di una rete di comunicazione che collega i comuni
+della Valle. Il sistema è stato utilizzato regolarmente per la
+trasmissione dei dati relativi al progetto "CSIA" (centro
+smistamento informazioni anagrafiche), a supporto in particolare di
+procedure regionali come il rilascio della Carte Vallée per la
+gestione del carburante in esenzione fiscale e per il sistema di
+veicolazione e pubblicazione dei dati relativi alle varie
+consultazioni elettorali. L'evoluzione tecnologica e la maturata
+conoscenza delle opportunità che le nuove tecnologie mettono a
+disposizione (navigazione "internet", posta elettronica, strumenti
+di lavoro di gruppo, banche dati condivise, servizi turistici,
+servizi catastali) hanno portato l'Amministrazione regionale a
+procedere con l'evoluzione di tale sistema con la realizzazione di
+una rete regionale. In questo senso sono già state avviate alcune
+sperimentazioni che hanno coinvolto i Comuni della Comunità montana
+Grand-Paradis con risultati incoraggianti. La realizzazione della
+"Rupar", in stretto accordo con le linee guida definite a livello
+nazionale dapprima come "Rupa" (rete unitaria pubblica
+amministrazione) e successivamente volute nel sistema pubblico di
+connettività, è quindi un'iniziativa di elevato valore strategico,
+che rappresenta lo strumento essenziale per l'organizzazione nella
+pubblica amministrazione in rete e, in prospettiva, potrà evolvere
+verso un sistema territoriale, integrando reti diverse pubbliche e
+private.
+Per rispondere alle tre domande, quindi lo stato attuale della
+disponibilità della tecnologia "DSL" in Valle, secondo quanto
+indicato dal gestore... oltre alla tecnologia "ISDN" - già in molti
+casi sufficiente e che copre la totalità del territorio regionale -
+la tecnologia "DSL" copre attualmente circa il 25% delle centrali,
+con una copertura di circa il 55% della popolazione, interessando
+comuni come Courmayeur, Pré-Saint-Didier, Morgex, Saint-Pierre,
+Aymavilles, Aosta, Saint-Christophe, Quart, Châtillon,
+Saint-Vincent, Verrès, Pont-Saint-Martin.
+Per quel che attiene le intenzioni della pubblica
+amministrazione nei confronti di "Telecom", con la realizzazione
+dei progetti sopra segnalati e l'utilizzo di infrastrutture
+tecnologiche già acquisite all'interno del progetto "Vinces" esiste
+una concreta possibilità di avvicinamento in tempi brevi alla
+copertura pressoché totale del territorio con la banda larga. Tale
+operazione non può prescindere da un forte coinvolgimento della
+società "Telecom", che dovrà da parte sua valutare l'utilizzo di
+tecnologie alternative al rame o alla fibra ottica, cosa che
+peraltro avviene già attualmente con l'utilizzo di ponti radio per
+servire alcune zone della Valle, quali satelliti, "laser"...
+Si può quindi affermare che l'Amministrazione regionale ha già
+svolto, e continua a svolgere, un'azione propulsiva verso gli
+operatori: "fast web" per il progetto "Vinces", "Telecom" per gli
+altri progetti, favorendo la disponibilità della larga banda presso
+ogni comune. Le logiche di mercato porteranno poi i vari operatori
+verso il singolo cittadino. Vale la pena ricordare che un
+collegamento "DSL" è possibile fino a qualche chilometro,
+attualmente massimo 5 chilometri dalla centrale; quindi vi sono
+alcuni problemi che sono legati alla morfologia della Valle
+d'Aosta, per cui il sistema di banda larga è un sistema che
+cercherà dove è possibile di valorizzare la tecnologia "DSL", dove
+non sarà possibile valorizzare tutte quelle altre soluzioni che
+ovviamente hanno caratteristiche diverse, ma che permetteranno uno
+sviluppo di un certo tipo, cioè con la cosiddetta "messa a
+disposizione della banda larga".
+Rete tecnologica proprietaria: in considerazione di quanto
+indicato al punto precedente, si può affermare che non è
+intenzione, né compito dell'amministrazione creare una propria
+rete; dopodiché, se vi saranno situazioni particolari, potranno
+essere prese in esame. Ricordo anche che, in merito a questo
+discorso, l'Amministrazione regionale indirettamente partecipa in
+diverse società, che indirettamente hanno delle attività e, per
+fare un esempio, vi sto parlando della RAV e dei due tunnel, dove
+in superficie abbiamo una strada per i veicoli e sotto strutture e
+collegamenti tecnologici che possono poi supplire. Non ultimo vi
+ricordo tutto il sistema ex "ENEL": parlo della distribuzione di
+tutti i collegamenti che attualmente hanno una funzione per la
+distribuzione dell'energia elettrica, ma che in un futuro possono
+avere sviluppi, quindi si tratta di fare un ragionamento integrato.
+Per cui la Regione, più che avere una proprietà di reti, deve
+essere propulsore ed incentivare tutta questa attività, che
+ovviamente va nel senso di superare questo "digital divide", che
+potrebbe precludere alcune possibilità al territorio valdostano e
+soprattutto alle aree più marginali, ma al tempo stesso più
+preziose.
+Président - La parole au Conseiller Lanièce.
+Lanièce (SA) - Prendiamo atto della risposta molto lunga
+dell'Assessore, al quale chiedo una copia per poterla verificare
+nella sua interezza.
+Abbiamo presentato questo problema per evidenziare la tematica
+riguardante la trasmissione tecnologica, in modo particolare "DSL".
+Si tratta di una tematica importante nell'ottica del maggior
+sviluppo della nostra Regione e anche nell'ottica di venire
+incontro ad un problema che spesso viene affrontato in quest'aula:
+evitare lo spopolamento delle nostre vallate; infatti il poter
+portare tecnologie su tutto il territorio permette di venire
+incontro a questa esigenza da tutti sentita. Dalla risposta
+dell'Assessore - che ha parlato molto più della larga banda - si
+può notare un impegno dell'Amministrazione in questa direzione;
+ovviamente noi guardiamo più alla concretezza, e quindi aspetteremo
+di verificare sul territorio se quanto l'Assessore ha detto verrà
+concretizzato al più presto.
+Rimaniamo comunque dell'avviso - parlando sempre dell'argomento
+oggetto dell'interrogazione - che, in merito alla tecnologia "DSL",
+vi è ancora poco, perché è vero che la trasmissione non può
+superare i 5 chilometri da dove è posizionata la stazione, ma
+questo non significa che le stazioni non possano essere posizionate
+in più comuni; la verità è che per adesso vi sono solo una decina
+di stazioni che sono posizionate. Sappiamo bene che da parte di
+"Telecom", che è il gestore, non vi è la volontà di perseguire
+questa azione per ragioni puramente economiche, ma giustamente la
+Regione deve farsi forte di fronte al gestore, dicendo che questa è
+anche una scelta politica, se crede in questo potenziamento delle
+strutture tecnologiche, perché questa è una scelta politica che la
+Regione deve cercare di imporre al gestore. Per questo motivo
+abbiamo inserito nella terza domanda una proposta: se "Telecom",
+per questioni puramente economiche, continua a trattenersi dallo
+sviluppare maggiori stazioni sul territorio valdostano, la proposta
+che lanciamo - da verificare - è quella di fare in modo che sia la
+Regione a farsi parte attiva, sentendo i comuni e le comunità
+montane, a creare, in "partnership" con "Telecom", la propria rete,
+per cercare di superare questa situazione. Invitiamo quindi
+l'Assessore a valutare se non sia il caso di fare maggiore
+pressione sulla "Telecom" per favorire la creazione di nuove
+stazioni, o altrimenti a verificare questa proposta che abbiamo
+indicato in questa interrogazione, anche perché è importante lo
+sviluppo di questa tecnologia "DSL", che fra la trasmissione via
+"modem" - diciamo così, meno veloce - e la trasmissione satellitare
+- con costi nettamente superiori - è la migliore tecnologia per la
+trasmissione dei dati ad alta velocità.

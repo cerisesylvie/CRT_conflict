@@ -1,0 +1,943 @@
+Classificazione
+INFORMAZIONE
+Sistema informativo
+
+
+
+Oggetto del Consiglio n. 707 del 23 giugno 2004 - Resoconto
+OGGETTO N. 707/XII - Approvazione del Piano pluriennale
+2004-2006 per lo sviluppo del sistema informativo regionale, di cui
+alla legge regionale 12 luglio 1996, n. 16.
+Il Consiglio
+Richiamata la legge regionale 12 luglio 1996, n. 16, recante
+norme per la "Programmazione, organizzazione e gestione del sistema
+informativo regionale. Ulteriori modificazioni alla legge regionale
+17 agosto 1987, n. 81 (Costituzione di una Società per azioni nel
+settore dello sviluppo dell'informatica), già modificata dalla
+legge regionale 1° luglio 1994, n. 32. Abrogazione di
+norme.
+"
+;
+Ricordato come l'articolo 1 (Piano pluriennale) della
+predetta legge preveda al suo comma 1) che sia sottoposto ad
+approvazione del Consiglio regionale un piano pluriennale volto sia
+allo sviluppo, alla modernizzazione ed alla diffusione degli
+strumenti, delle tecnologie telematiche e dei sistemi informativi
+dell'Amministrazione regionale, sia all'intervento regionale nel
+settore dell'informatica avente particolare riguardo allo sviluppo
+ed alla realizzazione di una rete di collegamenti informatici
+interessante l'intera Amministrazione regionale ed aperta alle
+interrelazioni con gli altri Enti pubblici territoriali valdostani
+e con le amministrazioni dello Stato;
+Richiamata la deliberazione della Giunta regionale n. 4875
+del 22 dicembre 2003 concernente l'approvazione delle linee guida
+per l'elaborazione del piano pluriennale in argomento, nonché gli
+obiettivi che lo stesso dovrà perseguire;
+Rammentato che la predetta deliberazione:
+- dava mandato all'Assessore al Bilancio, Finanze,
+Programmazione e Partecipazioni regionali di avviare la stesura del
+piano pluriennale per il triennio 2004-2006, con il coinvolgimento,
+oltre che di rappresentanti del Dipartimento Sistema Informativo,
+anche di rappresentanti del Consiglio Permanente degli Enti Locali
+della Valle d'Aosta, del Comune di Aosta, dell'Università della
+Valle d'Aosta, dell'Azienda Unità Sanitaria Locale della Valle
+d'Aosta, della Camera di Commercio e della Società partecipata
+IN.VA. S.p.A., al fine di ottenere un piano organico di
+sviluppo;
+- costituiva, allo scopo, un apposito gruppo, che doveva
+ultimare i suoi lavori entro il 15 marzo 2004, così
+composto:
+* Assessore regionale Bilancio, Finanze, Programmazione e
+Partecipazioni regionali, o suo delegato, con funzioni di
+Presidente,
+* Coordinatore del Dipartimento Sistema Informativo, o suo
+delegato,
+* un rappresentante del Consiglio Permanente degli Enti
+Locali della Valle d'Aosta,
+* un rappresentante del Comune di Aosta,
+* un rappresentante dell'Azienda Unità Sanitaria Locale della
+Valle d'Aosta,
+* un rappresentante dell'Università della Valle
+d'Aosta,
+* un rappresentante della Camera di Commercio della Valle
+d'Aosta,
+* un rappresentante della partecipata IN.VA. S.p.A.;
+- dava atto che alla costituzione del gruppo di lavoro di cui
+sopra, avrebbe provveduto, con apposito atto, l'Assessore al
+Bilancio, Finanze, Programmazione e Partecipazioni regionali e che
+il funzionamento del gruppo medesimo non avrebbe comportato oneri a
+carico del bilancio regionale.
+Visto che con Decreto n. 01/04, prot. n. 1952/DSI del 2 marzo
+2004, è stata approvata la composizione del gruppo di lavoro
+previsto dalla citata deliberazione n. 4875/2003, nel seguente
+modo:
+* dall'Assessore al Bilancio, Finanze, Programmazione e
+Partecipazioni regionali, o suo delegato, con funzioni di
+Presidente,
+* dal Coordinatore del Dipartimento Sistema Informativo,
+ruolo attualmente ricoperto dal Sig. Luigi Giai, o suo
+delegato,
+* dal Sig. Fulvio Bovet, in qualità di membro effettivo, e
+dal Sig. Giovanni Chiodo, in qualità di membro supplente, in
+rappresentanza del Consiglio Permanente degli Enti Locali,
+* dal Sig. Roberto Gens, in rappresentanza del Comune di
+Aosta,
+* dalla Sig.ra Cristiana Charrère, in rappresentanza
+dell'Azienda Unità Sanitaria Locale della Valle d'Aosta,
+* dal Sig. Alessandro Gentile, in rappresentanza
+dell'Università della Valle d'Aosta,
+* dal Sig. Sergio Enrico, in rappresentanza della Camera di
+Commercio della Valle d'Aosta,
+* dal Sig. Gianni Fabiole Nicoletto, in rappresentanza della
+partecipata IN.VA. S.p.A..
+Rilevato che il gruppo di lavoro in questione ha concluso il
+suo compito nei termini indicati e ha prodotto l'allegato piano
+pluriennale;
+Precisato che il periodo di tempo cui il piano in questione
+si riferisce è esteso al triennio 2004-2006 e che,
+finanziariamente, lo stesso corrisponde al relativo bilancio di
+previsione triennale della Regione;
+Vista la legge regionale 12 luglio 1996, n. 16 e, in
+particolare, l'articolo 1 della stessa (Piano pluriennale);
+Viste le motivazioni ed i contenuti del piano pluriennale di
+cui trattasi;
+Richiamata la deliberazione della Giunta regionale n. 5016 in
+data 30 dicembre 2003 concernente l'approvazione del bilancio di
+gestione per il triennio 2004/2006 con attribuzione alle strutture
+dirigenziali di quote di bilancio e degli obiettivi gestionali
+correlati e di disposizioni applicative;
+Visto il parere favorevole di legittimità rilasciato dal
+Coordinatore del Dipartimento Sistema Informativo, ai sensi del
+combinato disposto degli articoli 13, comma 1, lettera e) e 59,
+comma 2, della legge regionale 23 ottobre 1995, n. 45, sulla
+presente deliberazione;
+Visto il parere della II Commissione consiliare
+permanente;
+Delibera
+di approvare l'allegato piano pluriennale 2004-2006,
+predisposto dall'apposito gruppo di lavoro costituito con
+deliberazione della Giunta regionale n. 4875 del 22 dicembre 2003,
+per lo sviluppo, la modernizzazione e la diffusione degli
+strumenti, delle tecnologie telematiche e dei sistemi informativi
+dell'Amministrazione regionale nonché per l'intervento regionale
+nel settore dell'informatica avente particolare riguardo allo
+sviluppo ed alla realizzazione di una rete di collegamenti
+informatici interessante l'intera Amministrazione regionale ed
+aperta alle interrelazioni con gli altri Enti pubblici territoriali
+valdostani e con le amministrazioni dello Stato.
+Allegato
+(Omissis)
+Président - La parole à l'Assesseur au budget, aux finances, à
+la programmation et aux participations régionales,
+Marguerettaz.
+Marguerettaz (UV) - Cercherò di presentare in modo sintetico
+questo piano, che ha avuto una serie di passaggi in commissione e
+colgo l'occasione per ringraziare i Commissari per il contributo
+dato.
+Faccio una premessa, che non particolarmente attiene al piano
+triennale, che, come sapete, è previsto da una legge regionale, ma
+sul metodo che la Giunta ha voluto seguire per la predisposizione
+del piano, che deve soddisfare le esigenze dell'Amministrazione
+regionale. La legge prevede una programmazione che, da un lato,
+deve soddisfare le esigenze interne, che poi troveranno
+applicazione con un piano annuale e che deve dare delle risposte
+concrete ad esigenze ben precise. In realtà, l'attività
+dell'Amministrazione regionale è un'attività che non solo soddisfa
+delle esigenze proprie, ma l'Amministrazione regionale fa da
+propulsore rispetto a tutta una serie di temi. Se voi considerate
+anche gli articoli di oggi dei giornali, in diversi punti si parla
+della cultura dell'innovazione e l'innovazione passa anche per i
+sistemi tecnologici avanzati. Noi abbiamo la necessità di investire
+su questo tema e non solo investire in strutture, perché molte
+volte ci si innamora della tecnologia, ci si innamora - banalizzo -
+dei cavi e dei computer; in realtà quello che dobbiamo fare è
+invece uno sforzo suppletivo per condividere culturalmente un certo
+processo. È proprio in virtù di questo ragionamento che questo
+piano triennale è nato, cercando di coinvolgere tutti gli attori
+che operano in Valle d'Aosta ed è per questo che la Giunta
+regionale nel mese di dicembre ha approvato la costituzione di un
+gruppo di lavoro che, oltre alle strutture regionali, coinvolgesse
+il Consiglio permanente degli enti locali, il Comune di Aosta,
+l'Università della Valle d'Aosta, l'ASL, la Camera di commercio, la
+società partecipata "INVA".
+Colgo l'occasione per questo tipo di presentazione per dire che
+in quel momento la Giunta regionale, in virtù di prassi e di
+consuetudine, non ha coinvolto le strutture organiche del Consiglio
+regionale; non vi era assolutamente una preclusione, la volta
+scorsa avete visto che, in seguito al dibattito avvenuto in sede di
+commissione, è stato chiesto il rinvio del piano triennale, perché
+dalla discussione in commissione è emersa la volontà di coinvolgere
+le strutture, per far sì che la condivisione fosse una condivisione
+a 360 gradi, pur mantenendo le autonomie delle singole strutture. È
+per questo che annuncio la presentazione di una serie di
+emendamenti al piano, concordati con le strutture della Presidenza
+del Consiglio, che di fatto allargano la previsione del piano
+triennale inserendo organicamente un rappresentante del Consiglio
+regionale all'interno del gruppo di lavoro e ampliando le
+previsioni di questo piano triennale con le attività che verranno
+svolte dal Consiglio regionale. Ecco che a questo punto i lettori
+del piano triennale troveranno in questo documento le linee guida
+in tema di sistemi informativi e dall'altro vi sarà una scheda
+puntuale per tutte le strutture, sia regionali, sia esterne
+all'Amministrazione regionale, e questo per evitare di trovarci a
+posteriori con tutta una serie di attività che sono sicuramente
+meritevoli, sono sicuramente nate per dare delle risposte, ma che
+fra di loro potrebbero avere dei problemi di incomunicabilità. Mi
+spiego meglio: tutti i comuni hanno la necessità di predisporre una
+serie di supporti informatici in tema di strutture tecnologiche, di
+catasto, in tema quindi di mappatura; tutti operano per il meglio
+ma, se le piattaforme non sono fra di loro interoperanti, rischiamo
+di avere dei sistemi "a macchia di leopardo", che creano problemi
+al cittadino.
+Il fatto di programmare, anche se nel rispetto della propria
+autonomia, un momento di raccordo ci conduce a fare un'attività che
+crea quel percorso virtuoso, che può sicuramente essere apprezzato
+da tutti i cittadini. L'aver coinvolto questi soggetti risponde ad
+esigenze specifiche; in primo luogo il Consiglio permanente degli
+enti locali: abbiamo parlato oggi, discutendo dell'interrogazione
+del gruppo della "Stella Alpina", di "Rupar", abbiamo parlato di
+sistemi che già operano e che hanno la necessità di essere
+implementati, per cui questo è già abbastanza nel DNA dei rapporti
+fra enti pubblici. L'Università della Valle d'Aosta non è stata
+coinvolta perché al suo interno ha un sistema particolarmente
+elaborato, ma perché nell'ambito della formazione dei futuri
+dirigenti deve tener conto di questi indirizzi, in modo tale da
+poter valorizzare certi approfondimenti e certe professionalità.
+L'ASL ha anch'essa sul territorio, con la medicina del territorio,
+con tutte le attività dei medici di base, una serie innumerevole di
+soggetti e il fatto di poter beneficiare di una rete unica e di un
+sistema condiviso permette di dare dei vantaggi notevoli al
+comparto. Ancora la Camera di commercio: abbiamo appena approvato
+una legge di finanziamento di questo organismo, quindi non è certo
+il sistema della Camera di commercio che ci interessava, ma ci
+interessava quello che può fare tale Camera, cioè diffondere alle
+aziende che la compongono le filosofie di fondo. In questo
+Consiglio abbiamo più volte ragionato in termini di diffusione
+delle tecnologie e di un loro utilizzo puntuale; una partecipazione
+attiva di un rappresentante della Camera di commercio permette di
+avere all'interno di un gruppo di lavoro un rappresentante, che
+potrà fare poi da cassa di risonanza, che permetterà di divulgare i
+programmi e i progetti. La società "INVA": è un ruolo che è
+previsto dalla legge ed è un ruolo operativo rispetto ai programmi
+che vengono svolti dall'Amministrazione regionale.
+Questo piano ha una serie di aspetti. Un primo aspetto riguarda
+le infrastrutture, abbiamo avuto modo stamani di parlare di "DSL",
+di collegamenti di altro genere, da questo punto di vista è ovvio
+che lo sforzo dell'Amministrazione sarà uno sforzo importante, che,
+in virtù delle proprie commesse, dovrà permettere al gestore
+prevalente - attualmente "Telecom" - di fare una serie di
+investimenti che andranno a beneficio di tutti i vari operatori,
+sia pubblici che privati. Vi sono una serie di attività che
+accomunano un po' tutti, fra queste: l'identificazione in rete, che
+dovrà permettere a tutti i cittadini di accedere a una serie di
+servizi, beneficiando della sicurezza e della riservatezza che
+questi collegamenti devono avere; una cooperazione applicativa, che
+dovrà permettere queste sinergie fra i vari enti; i servizi "on
+line", che dovranno essere costruiti con una certa logica e questa
+logica dovrà essere condivisa da tutti, perché capite che i servizi
+"on line" dovranno rispondere a certi meccanismi in modo da non
+disorientare il cittadino e in modo che la proposta dei vari
+servizi sia riconducibile ad un modello che semplifica
+l'attività.
+La diffusione della cultura innovativa passa sia per la
+formazione... e, quando parlo di "formazione", mi riferisco sia ai
+dipendenti regionali, sia al cittadino e a questo proposito si
+potranno istituire dei corsi specifici con le società, con
+l'Agenzia del lavoro, con i centri di formazione che andranno a
+diffondere questa cultura. Questa cultura ovviamente, e mi collego
+all'altro punto, l'alfabetizzazione certificata, dovrà dare un
+risultato concreto, cioè dovrà permettere a dei cittadini di
+costruirsi una formazione e di poterla certificare con
+l'ottenimento a fine corso di un attestato di professionalità.
+Tutte queste attività permetteranno all'Amministrazione di avere un
+quadro e un indirizzo preciso e di avere nel tempo un documento di
+riferimento. Questo documento per definizione è un documento che
+dovrà continuamente evolversi, che dovrà essere aggiornato, ma è
+fondamentale l'esistenza di un documento che parte con una
+condivisione totale, in modo che il piano triennale non
+identificherà più la semplice attività dell'Amministrazione
+regionale, ma identificherà le linee guida del "sistema Valle
+d'Aosta" in cui tutti si riconosceranno.
+Il gruppo di lavoro che è stato costituito non è un gruppo di
+lavoro estemporaneo che, una volta licenziato il piano, ha
+terminato il suo iter, ma verrà periodicamente convocato per capire
+qual è lo stato di attuazione di questo programma. Ovviamente
+questo non può che dare dei benefici: immaginatevi semplicemente le
+ripercussioni sull'identificazione, sulle carte a microprocessore;
+da questo punto di vista, abbiamo una serie innumerevole di
+iniziative: abbiamo la carta di identità elettronica, la carta
+nazionale dei servizi, la carta sanitaria e a questo riguardo il
+tema è d'attualità, perché anche il Governo ha una serie di
+iniziative per il controllo della spesa farmaceutica, quindi ha
+sollecitato l'Agenzia delle entrate a costituire un gruppo di
+lavoro per introdurre una carta, che deve tenere sotto controllo la
+spesa farmaceutica e ancora lo stesso discorso della "privacy"
+all'interno dell'Amministrazione regionale, il controllo per gli
+accessi informatici. Uno sviluppo comune di queste tecnologie
+permette intanto di evitare sprechi e poi di creare un vero centro
+di competenza, perché è impensabile che una Regione piccola come la
+nostra veda più centri creare delle professionalità e creare delle
+competenze su temi che poi hanno diverse sovrapposizioni; bisogna
+cercare di condividere le strategie e identificare dei soggetti che
+facciano gli approfondimenti e seguano le evoluzioni.
+Qui esorto tutti i partecipanti al piano triennale ad essere
+operativi nelle loro proposte, perché in tema di innovazione, se si
+aspetta di avere il progetto migliore e il progetto più bello, non
+si parte mai; invece bisogna mettersi nella condizione di avviare
+sin da subito un'attività, di fare la sperimentazione e procedere
+alle fasi esecutive e poi seguire nel tempo le varie evoluzioni.
+Sempre collegandomi al discorso che ho preso a titolo
+esemplificativo, abbiamo in Valle un esempio concreto di successo,
+che forse è stato poco valorizzato: mi riferisco alla "Carte
+Vallée", noi abbiamo una carta a microprocessore che è stata
+distribuita a 80.000 persone, che ha permesso la gestione puntuale
+e senza intoppi nella distribuzione dei buoni benzina. Non so se
+qualcuno di voi ha memoria delle dilatazioni temporali e delle code
+del passato per una distribuzione cartacea dei buoni; con questo
+strumento la comunità valdostana ha beneficiato di una carta che
+era operativa all'inizio dell'anno e che ha avuto degli intoppi
+che, dal punto di vista percentuale, sono risibili. Vero è che
+quella carta avrebbe potuto essere utilizzata di più; ecco perché
+ho parlato prima di una condivisione della cultura dell'innovazione
+perché, se fosse così, altri avrebbero utilizzato quello strumento
+che - ricordo - è distribuito a 80.000 persone, contiene i dati
+anagrafici di tutti i proprietari di autoveicoli e titolari di
+permesso di patente. Il fatto di avere una sperimentazione di così
+ampia diffusione credo sia un qualcosa che deve essere "messo sul
+piatto" in una società come la nostra, dove l'utilizzo delle carte
+a microprocessore ha una diffusione modestissima; gli sforzi fatti,
+quindi, penso potranno dare dei frutti magari non a brevissimo
+tempo, ma sicuramente nel corso di questo triennio.
+Ringrazio ancora tutti i partecipanti al gruppo di lavoro, il
+Presidente del Consiglio e i suoi dirigenti per la disponibilità e
+l'attività svolta dalla commissione, che è stata propedeutica a
+questo tipo di allargamento di orizzonti, e manifesto la
+disponibilità a chiarimenti ed approfondimenti specifici.
+Président - La parole au Conseiller Riccarand.
+Riccarand (Arc-VA) - Quello che stiamo esaminando è uno
+strumento molto importante, che avrà delle ricadute significative
+sulla vita quotidiana di molti cittadini valdostani; tuttavia,
+questo documento ha alcuni difetti che sono abbastanza evidenti,
+che forse sono intrinseci alla sua natura, ma che vorrei
+evidenziare. Intanto vi è un problema su alcuni elementi decisivi
+di questo documento di un eccesso di genericità; l'Assessore nel
+suo intervento, sia adesso, sia stamani rispondendo
+all'interpellanza del Consigliere Lanièce, ha posto l'accento sul
+ruolo centrale rispetto alla diffusione di queste tecnologie, di
+questi strumenti informatici, delle infrastrutture e, in effetti,
+qui nella sintesi del piano e nella sua illustrazione il nodo delle
+infrastrutture è posto come elemento centrale, però è estremamente
+generico proprio nelle proposte su questo livello. Sì, si dice:
+"realizzazione della Rupar", però sono 10 anni che si dice che
+dobbiamo realizzarla, quindi sicuramente bisogna realizzare la
+"Rupar" e, fra l'altro, vedo positivamente che si dica:
+"in
+collaborazione fra Giunta e Consiglio regionale"
+, che sembrava
+una parte dimenticata, su quello poi tornerò, ma qui si dà più
+un'indicazione di metodo che un'indicazione di obiettivo che si
+vuole raggiungere. Le stesse parole che ha usato l'Assessore prima
+erano più chiare. Lei ha detto: "dobbiamo fare in modo che
+"Telecom" investa, in modo che alla fine la totalità dei cittadini
+valdostani possa accedere a queste tecnologie con il sistema della
+banda larga e in modo che raggiungiamo un preciso obiettivo". Su
+questo siamo d'accordo, perché ci sembra essenziale, ma questo non
+è detto nel piano, questo va oltre il piano, invece bisognerebbe
+che fosse affermato in modo chiaro, perché vi è anche un problema
+di investimenti e di strategie in questo campo.
+Anche in commissione ci è stato evidenziato come gli
+investimenti nella parte infrastrutturale siano relativamente
+modesti in Valle rispetto ad altre realtà regionali, quindi vi è un
+problema di potenziamento dell'infrastruttura. Stamani diceva che
+solo il 25% delle centrali è attrezzato per questo tipo di
+tecnologia avanzata; è vero che serve già il 55% della popolazione,
+se ho capito bene, però il 25% delle centrali vuol dire che vi è un
+grande lavoro da fare sul piano infrastrutturale. Ho guardato in
+fretta gli emendamenti presentati - la parte che riguarda il
+Presidente del Consiglio... -, però vedo che anche qui si
+sottolinea prioritaria ed urgente la realizzazione della rete
+regionale come infrastruttura tecnologica, quindi questo concetto
+avrebbe dovuto essere valorizzato di più nel piano.
+L'altro punto su cui esprimo alcune perplessità, e mi sembra che
+il piano sia inadeguato sotto questo aspetto, è l'altro elemento su
+cui ha parlato adesso l'Assessore, ovvero l'identificazione in
+rete, questi strumenti anche di carte elettroniche... mi pare vi
+sia una situazione effettivamente in cui il rischio di ridondanza e
+di confusione sia presente. Lei ha detto: "Carte Vallée" e qui vedo
+85.000 "Carte Vallée" in Valle d'Aosta, Infocamere 3.000 carte
+d'identità elettroniche; adesso al Comune di Aosta parte questa
+sperimentazione con 30.000 carte di identità elettroniche, poi
+sappiamo che è in itinere il sistema tariffario integrato per i
+servizi di trasporto pubblico con carta elettronica, carta
+sanitaria... cioè la tecnologia oggi consente di razionalizzare
+tutto questo. Credo che a questo riguardo il modello sia quello di
+due carte: la carta di identità elettronica e la carta dei servizi,
+o comunque dobbiamo puntare non a sovrabbondare in questo tipo...
+perché poi sono sinergie che mancano, invece bisognerebbe puntare
+ad allargare.
+Una domanda che faccio è questa: adesso il Comune di Aosta parte
+con questa sperimentazione con la carta di identità elettronica, fa
+parte di un progetto nazionale e va tutto bene, ma perché non
+pensare di estenderla a tutta la Regione viste le nostre
+dimensioni, perché tutta la Regione è "meno" di tanti altri comuni
+che fanno parte di questa sperimentazione? Se si potesse fare
+questo - penso sia possibile inserirsi in questo discorso -,
+avremmo già fatto un passo avanti perché attraverso la carta di
+identità elettronica tutti i cittadini valdostani potrebbero già
+raggiungere questo primo livello che sarebbe molto importante. Su
+questo aspetto il piano è inadeguato, perché cosa dice alla fine?
+Fa l'analisi di tutte queste situazioni, parla di valorizzare,
+integrare e far evolvere e noi cosa facciamo? Diciamo: "occorre
+creare un osservatorio regionale sul tema su cui far convergere le
+varie iniziative", ma qui il problema è fare delle scelte, cioè si
+conosce il problema, facciamo delle scelte, non è che andiamo a
+creare un osservatorio... ma - ripeto - si tratta di fare delle
+scelte, vi sono i tecnici competenti e la politica deve fare il suo
+corso.
+Devo anche dire che questo piano risente di un'impostazione
+eccessivamente burocratica e vi è un episodio che abbiamo
+evidenziato in commissione e su cui per fortuna adesso si pone un
+"taccone": il fatto che si sia fatto tutto un piano, coinvolgendo
+USL, enti locali, università, assessorati e si sia lasciato fuori
+un pezzo importante dell'Amministrazione, il Consiglio regionale, è
+indicativo di un modo di procedere a compartimenti stagni, che non
+tiene conto della complessa realtà. Abbiamo sollevato questo
+problema in commissione, prendiamo atto con soddisfazione che vi è
+stato un tentativo di recuperare, anche se sappiamo che alcuni
+emendamenti sono un "rattoppo" che si fa all'ultimo momento, ma è
+positivo che venga inserita questa scheda che contiene le parti
+riguardanti il Consiglio regionale, che era totalmente assente dal
+piano. Sotto questo aspetto quindi riteniamo che si sia in parte
+recuperato questo discorso, però è bene che questo diventi un fatto
+strutturale e non episodico.
+Sentivo l'Assessore dire che si integra anche il gruppo di
+lavoro e questo è positivo perché, purtroppo, si è andati avanti
+per troppo tempo per compartimenti stagni; anche perché questa nota
+che ho letto adesso della Presidenza del Consiglio è interessante
+anche sotto un altro aspetto: l'uso degli strumenti di tecnologia
+dell'informatica per una maggiore partecipazione democratica,
+perché questo è un altro tema assente nel piano. Adesso qui vedo
+che vi è un riferimento interessante, perché si dice che:
+"l'informazione tecnologica gioca in questo momento un ruolo
+determinante a sostegno della partecipazione dei cittadini alla
+vita dell'istituzione "e-democracy""
+, che è un tema su cui si
+sta sperimentando a livello nazionale. Anche qui dobbiamo fare dei
+passi avanti, perché oggi, con la diffusione di queste tecnologie,
+possiamo pensare a far partecipare tutti i cittadini in modo più
+attivo alla vita politica ed amministrativa. Faccio solo un esempio
+banale: i disegni di legge possono essere aperti alle osservazioni
+dei cittadini attraverso le tecnologie informatiche nella fase
+istruttoria. Non dobbiamo aver paura di far promuovere la
+partecipazione vera dei cittadini ai processi decisionali, agli
+iter legislativi e oggi questo si può fare, mentre in passato era
+molto complicato. Questo quindi può essere uno strumento utile per
+avere un Palazzo più trasparente e che sente maggiormente la
+sensibilità dei cittadini; certamente questa è una cosa che può
+fare paura, perché vi è la corporazione dei consiglieri e di chi è
+delegato al mandato per fare questo che si sente un poco indebolito
+se la cittadinanza può intervenire in modo più attivo sul questo
+livello. Io ritengo che non sia così e che sia invece importante
+promuovere la partecipazione a tutti i livelli. Questo è uno
+strumento, ma ce ne sono tanti - ad esempio i forum tematici - per
+favorire la partecipazione e questo si può fare sicuramente. A me
+dispiace che nel piano questo concetto non sia stato sviluppato, vi
+è adesso un riferimento nella scheda aggiunta che dice che questa
+"cosa" viene recuperata.
+In conclusione questo piano, che ha dei pregi e indica alcune
+prospettive interessanti, ha il difetto di essere in alcuni
+passaggi fondamentali troppo generico: è più una carta di intenti
+che un piano vero e proprio, è più una dichiarazione di intenzioni
+e di metodologia che un piano che indica degli obiettivi da
+raggiungere; questi sono i difetti che riteniamo di dover
+evidenziare rispetto a questo documento.
+Président - La parole à la Conseillère Squarzino Secondina.
+Squarzino (Arc-VA) - Vorrei completare l'intervento del collega
+e sottolineare un aspetto a cui l'Assessore ha accennato, ma che
+non ha approfondito, soprattutto non ha spiegato come si fa a
+raggiungere quell'obiettivo e anche il piano di questo aspetto non
+parla. Credo sia uno dei punti importanti del piano la necessità
+della condivisione di una cultura dell'innovazione. Vorrei
+soffermarmi nel mio intervento non tanto sui servizi previsti per
+la realizzazione di questa rete, di questo insieme di rapporti fra
+i vari enti, quindi non tanto a livello di costruzione del dialogo
+fra i vari enti, che è una parte innovativa ed interessante del
+piano, quanto su che cosa significa questo piano per
+l'Amministrazione regionale. È chiaro che la rete, come diceva
+prima il collega, è un progetto difficile da realizzare, da
+raggiungere molto lentamente, un obiettivo su cui è necessario fare
+un grande lavoro perché gli stessi soggetti che dovrebbero
+partecipare alla rete hanno alcune difficoltà. Se prendiamo qui
+comuni e comunità montane come punto di attenzione, comuni e
+comunità montane che dovrebbero essere soggetti attivi per la
+costruzione di questa rete...
+"esprimono apprezzamento..."
+-
+si dice -
+"... per l'iniziativa di coinvolgerli"
+. Mi sembra
+vi siano ancora tanti passi da fare, per raggiungere una
+condivisione degli obiettivi fra i possibili soggetti che
+partecipano a questa rete!
+Per quanto riguarda l'Amministrazione, credo sia necessario
+anche per la nostra Amministrazione un grosso lavoro per questa
+cultura dell'innovazione. Gli obiettivi che sono nel piano sono
+certamente condivisibili, sono declinati in modo molto generico, è
+vero, potrebbero essere addirittura adattati ad altre realtà e io
+ho provato a fare questo esercizio mentale, chiedendomi se altre
+regioni o altre realtà potevano adottare quasi "d'emblée" questo
+piano, perché è un insieme di intenti generici, di grandi obiettivi
+strategici da raggiungere. Il piano dice poco o niente su come
+raggiungere questi obiettivi, probabilmente perché non ha
+affrontato il problema fondamentale secondo me: che, per realizzare
+questo piano, ci vorrebbe attualmente una rivoluzione copernicana,
+nel senso che richiede un cambiamento organizzativo della struttura
+regionale, un cambiamento totale. Adesso abbiamo una struttura
+regionale molto piramidale: assessore, coordinatore, seguono i vari
+dirigenti uno dopo l'altro, poi vi sono i vari assessorati separati
+l'uno dall'altro che hanno difficoltà a dialogare, tanto che
+ciascuno utilizza un linguaggio informatico diverso dagli altri
+settori dell'amministrazione. Il piano indica questo problema, ma
+non dice come si fa a porvi rimedio; quando si parla di una cosa
+molto semplice, fra l'altro di una competenza che è interna alla
+Regione: la gestione del personale, si dice:
+"le procedure
+attualmente in uso risultano datate, di particolare complessità e
+poco efficienti"
+, ma perché? Perché si tratta di una serie di
+procedure che sono distribuite su sistemi diversi, il cui dialogo
+risulta poco funzionale. Addirittura per la gestione del personale,
+che è un problema tutto interno all'amministrazione, questa
+gestione in questo momento è opera di strutture separate, ciascuna
+che ragiona con il proprio linguaggio informatico, da qui la
+difficoltà enorme di far dialogare. Cosa capita? Che qualunque tipo
+di procedura... pensiamo alle procedure le più diverse in cui vi è
+l'utente - che può essere il cittadino, l'impresa o l'ente locale -
+che ha bisogno di pratiche è costretto a dialogare con uffici
+diversi e ha difficoltà a trovare un unico interlocutore che prenda
+in carico l'intera procedura; allora o si cambia l'organizzazione,
+oppure anche l'introduzione di sistemi informatici non cambia... e
+non incide sulla qualità del lavoro.
+È talmente vera l'esistenza di questo limite che anche lo stesso
+piano, quando presenta i progetti diversi dei vari assessorati,
+mette come punti di criticità l'organizzazione dei processi, cioè
+l'uso di strumenti a disposizione implica una riorganizzazione dei
+processi interni e questo lo troviamo per quanto concerne la
+Presidenza della Regione, alle pagine 37, 46, 48 per quanto
+riguarda rispettivamente l'Assessorato del bilancio, l'Assessorato
+dell'agricoltura e l'Assessorato del territorio; in quasi tutti gli
+assessorati si verifica l'esistenza di questo punto critico però,
+rispetto ad esso, il piano non dice nulla. Probabilmente non dice
+nulla perché il piano è relativo al Dipartimento sistema
+informatico, quindi è un settore particolare ma, se andiamo a
+vedere all'interno della struttura organizzativa, non vi è alcuna
+struttura di organizzazione a cui è preposta in modo particolare la
+politica organizzativa. Ho fatto un lavoro di ricerca: sono andata
+a cercarmi i vari obiettivi che vengono dati ai dirigenti, perché
+tali obiettivi indicano qual è la cosa più importante di cui si
+deve occupare il dirigente per realizzare il programma della
+maggioranza; così ci è stato sempre spiegato, ma in alcun obiettivo
+dei dirigenti o delle strutture vi è quello di riflettere
+sull'organizzazione del lavoro...
+(interruzione dell'Assessore Marguerettaz, fuori
+microfono)
+... mi trovi l'obiettivo preciso in cui vi è l'obiettivo di
+riflettere su questo... tanto che ci si renda conto di questo
+limite, perché lo stesso piano, laddove parla del Dipartimento
+personale ed organizzazione, si limita a parlare del personale, dei
+concorsi, della complessità, ma non prende in esame
+l'organizzazione del lavoro, non una parola su questo! Infatti,
+ripeto, lo stesso piano, quando si preoccupa di indicare la
+metodologia di lavoro, precisa alle pagine 26-27: "qualunque
+innovazione vogliate apportare deve essere accompagnata da
+un'analisi sui cambiamenti che questa innovazione provoca nei
+processi dell'amministrazione", però fra coloro che presiedono a
+questi processi organizzativi non è chiaro a chi viene affidato
+questo compito. Vi è un altro elemento e voglio spiegarmi meglio,
+Assessore: proprio l'esempio che lei ha portato sulla "Carte
+Vallée"... da cosa è partito quell'esperimento? Da una domanda
+fondamentale che era: bisogna che, rispetto all'esigenza di fornire
+un servizio al cittadino, troviamo uno strumento più efficace,
+quindi tutto il servizio è stato poi ristrutturato in base alla
+risposta che è stata data. Ora, quello che non emerge dal piano
+sono le domande fondamentali a cui anche i singoli dipartimenti, i
+singoli assessorati e settori dell'amministrazione devono
+rispondere.
+Un altro elemento carente del piano secondo noi è che non vi è
+alcuna analisi della situazione attuale e non si indica neppure
+quali sono gli obiettivi dei piani precedenti che sono stati
+raggiunti e quali invece vanno ripresi e portati avanti, come se vi
+fosse una cesura e non si capisce neanche perché essa vi debba
+essere; ad esempio, per quanto riguarda l'Assessorato della sanità,
+vengono ripresi dei progetti che erano già chiari nel piano
+precedente...
+(nuova interruzione dell'Assessore Marguerettaz, fuori
+microfono)
+... l'ultimo piano triennale, certo, il piano addirittura
+2000-2002, il vecchio piano triennale che è stato via via tradotto
+in piani annuali, ma vi era chiaramente come obiettivo quello di
+introdurre sistemi informatici proprio nella gestione delle
+pratiche degli invalidi civili, nella gestione delle pratiche
+socio-assistenziali e so che alcune cose sono già state fatte.
+Vorrei sapere allora in che rapporto sta con la realtà questo
+elenco di progetti che si vogliono realizzare. È un elenco di buone
+intenzioni che riprende l'elenco di cose già fatte e già presenti
+nei piani precedenti, già iniziate? È un elenco che indica invece
+un salto di qualità nella raccolta delle informazioni? Non si
+capisce, è veramente generico questo piano e - ripeto - non dà
+alcuna informazione su quello che precedentemente è stato fatto e
+sulla situazione che è stata finora realizzata.
+Altro aspetto che fa di questo un libro delle intenzioni e non
+un piano: manca l'indicazione dei tempi, non si indicano i tempi
+entro cui si realizzano via via i vari progetti, non si indicano se
+non in alcuni rarissimi casi, come quello della formazione
+informatica dei parametri per valutare se il piano è stato
+realizzato oppure no, per cui non si capisce bene questa cifra
+molto alta, che si aggira su quasi 100 miliardi di vecchie lire,
+come già i piani precedenti, come viene spesa e quali sono gli
+effetti concreti che si vogliono raggiungere. Se non si definiscono
+degli obiettivi precisi, lei capisce che siamo sul piano delle
+buone intenzioni, ma non siamo di fronte a un piano che programma
+delle azioni precise, con dei tempi precisi, con dei costi precisi
+azione per azione.
+Président - Je n'ai pas d'autres collègues qui s'inscrivent à
+parler, je ferme la discussion générale.
+La parole à l'Assesseur au budget, aux finances, à la
+programmation et aux participations régionales, Marguerettaz.
+Marguerettaz (UV) - Devo ringraziare il Consigliere Riccarand e
+la Consigliera Squarzino per gli interventi che mi danno modo di
+intervenire per alcuni chiarimenti.
+Cercando di andare per ordine - e credo possa essere una replica
+che ha una valenza per entrambi gli interventi -, la legge
+regionale prevede due momenti: un momento è il piano triennale,
+l'altro il piano annuale, per cui è ovvio che, all'atto della
+stesura del piano triennale, si deve fare un discorso giustamente
+di metodo, in modo tale da definire l'approccio; secondariamente,
+bisogna definire le linee guida per evitare che vi siano dei metodi
+di lavoro e degli obiettivi che fra di loro sono in conflitto. Ora,
+quando la legge regionale distingue questi due momenti, è ovvio che
+rimanda al piano annuale l'identificazione precisa degli obiettivi
+e delle attività specifiche da fare. Nell'ambito del piano
+triennale... e qui devo ammettere alcune perplessità rispetto agli
+interventi, perché ben lungi dal sottoscritto arrogare la
+perfezione di questo piano, ma avrei amato che negli interventi vi
+fosse un apprezzamento per l'adozione di un metodo mai adottato e
+mi stupisco che la Consigliera Squarzino riesca a fare un parallelo
+di un piano triennale che non esiste, perché il precedente piano
+nel 2003 non era stato approvato, quindi lì la genericità era
+assoluta...
+(interruzione della Consigliera Squarzino Secondina, fuori
+microfono)
+... ma questo tipo di sforzo è uno sforzo che ha voluto mettere
+assieme soggetti che mai in passato sono stati coinvolti, poi il
+coinvolgimento ha avuto modo con incontri specifici... ma è stato
+introdotto un momento di concertazione preliminare collettivo e la
+rivoluzione copernicana di cui parlava può essere individuata con
+questo tipo di metodo. Ora, la disponibilità a rinviare rispetto al
+Consiglio passato è perché, quando si adottano delle metodologie
+nuove, vi è una marcia di avvicinamento al metodo perfetto, quindi
+è stato con vero piacere che si sono introdotte le previsioni della
+Presidenza del Consiglio.
+Quando parliamo di infrastrutture, mi permetto di obiettare in
+punto alla "Rupar" proprio un approccio metodologico perché, se
+aspettiamo di avere delle infrastrutture che coprono tutto il
+territorio regionale, la "Rupar" non la faremo partire mai. La
+scelta che è stata fatta è di far partire una "Rupar" che potesse -
+l'ho detto stamani mentre parlavo di "DSL" - introdurre un sistema
+integrato di banda larga, per evitare che si dicesse: "fintanto che
+non abbiamo la "DSL" in tutti i comuni, non facciamo la Rupar".
+Dobbiamo cercare di costruire invece fin da subito un sistema, che
+valorizza quello che fino a questo momento abbiamo, per cui tutta
+l'asse centrale della Valle d'Aosta che vede la presenza della
+"DSL" ha tutta una serie di opzioni che gli derivano dal suo
+posizionamento. È chiaro che hanno delle dotazioni strutturali
+maggiori, ma ciò non di meno è possibile fare un'attività di
+collegamento. L'obiettivo espresso dal Consigliere Riccarand è un
+obiettivo che ha questo Governo e questa maggioranza, cioè
+implementare le strutture in modo tale da offrire il massimo su
+tutto il territorio regionale, ma bisogna avviare un processo,
+perché questo processo porterà con sé delle rivoluzioni dal punto
+di vista dell'erogazione dei servizi: non avremo più tutta una
+serie di servizi che devono essere erogati in loco sul comune, in
+modo da clonare e duplicare queste attività, ma verranno dati dei
+servizi in rete che potranno essere distribuiti con una lettura
+completamente diversa, ma bisogna partire - e qui è giusta
+l'osservazione che fa il Consigliere Riccarand -, in caso contrario
+ne parliamo da tanto tempo e continueremo a parlarne. Bisogna
+quindi iniziare cercando di valorizzare quello che abbiamo, ecco
+che nel piano non si vuole sottostimare, tant'è che viene messo ai
+primi punti la dotazione infrastrutturale; è chiaro che la
+dotazione infrastrutturale porterà con sé alcuni problemi di
+rapporti, perché il gestore delle telecomunicazioni, attualmente in
+condizioni giuridiche di non monopolio, ma di fatto monopolistiche
+dal punto di vista della presenza del mercato, fa degli
+investimenti se ha dei ritorni. È chiaro che l'attività
+dell'Amministrazione e degli enti locali, in virtù delle loro
+commesse, deve portare a questa distribuzione ed ecco che il
+rapporto è un rapporto non facile, ma su cui si stanno concentrando
+tutti gli sforzi. Ricordo che "Telecom" è il partner della nostra
+società controllata "INVA", per cui all'interno stiamo cercando di
+condurre un'attività in modo da esprimere, dal punto di vista
+regionale, il piano triennale e richiedendo a "Telecom" quali sono
+i suoi programmi di investimento sul territorio della Valle
+d'Aosta.
+Quando parliamo di carta di identità e di schede a
+microprocessore, credo con altra veste sono stato fra i primi
+propositori di una carta regionale unica ma, malauguratamente, la
+normativa non permette una sommatoria di funzioni sullo stesso
+strumento, perché vi sono delle funzioni che sono assolutamente non
+coniugabili. La carta di identità elettronica non può accogliere
+delle funzioni di pagamento, perché soddisfa delle esigenze che
+sono stabilite dal Ministero e anche nel piano triennale abbiamo
+voluto farne menzione, ma la capacità della Regione di incidere
+sull'attività del comune è nulla, perché ogni comune svolge
+un'attività; l'emissione delle carte di identità e la gestione
+dell'anagrafe è un qualcosa che non è delegabile e la Regione non
+può intervenire in questa attività. L'Amministrazione comunale di
+Aosta ha aderito ad un processo di sperimentazione - e io me ne
+rallegro -, ma l'adesione degli altri comuni non può essere gestita
+dalla Regione. Da questo punto di vista, l'adesione era a numero
+chiuso, perché sono convinto con Elio sul discorso del peso degli
+altri 73 comuni, ma questa sperimentazione non era regionale, bensì
+ministeriale.
+Il fatto di voler fare un osservatorio non è un "esercizio di
+stile", ma una volontà precisa di mettere attorno ad un tavolo
+tutte le professionalità che nel frattempo maturano perché, in
+mancanza di questo tipo di documento, ognuno continuerebbe a fare
+le sue attività in completa solitudine. Ecco perché avrei
+apprezzato un plauso per la volontà di mettere attorno ad un tavolo
+tutti gli attori, in caso contrario è chiaro che tutto diventa
+effimero, ma questo è il primo tentativo concreto di fare qualcosa
+che sia patrimonio dei Valdostani.
+Rispetto al ragionamento fatto dalla Consigliera Squarzino, mi
+pare ovvio che il piano evidenzi delle criticità, proprio perché si
+vuole superarle. Non mi sono mai accorto di avere una "verve
+masochistica", per cui vado a scrivere delle cose affinché esse
+possano poi essere utilizzate per dire che l'Amministrazione sta
+gestendo male, ma questo è un piano onesto, dove vengono
+individuate le criticità, per cui nell'ambito della gestione del
+personale - e la gestione del personale non è una gestione
+sull'organizzazione del personale, ma la gestione delle buste paga,
+quindi è ancora una cosa diversa - ovviamente il piano mette in
+evidenza delle criticità per richiamare l'attenzione su delle
+metodologie di gestione che sono diverse e l'obiettivo è
+esattamente quello che lei dice. Mi fa piacere quindi che lei
+riprenda questo ragionamento, perché è esattamente l'obiettivo del
+piano. Non è un piano generico, ma è puntuale, perché si dice:
+"questo tipo di organizzazione è debole e lo strumento
+informatico..." - ma non vorrei che si semplificasse riducendo ad
+un problema meramente informatico, perché il problema informatico è
+l'ultimo, dovendoci essere a monte l'organizzazione generale - "...
+è solo un'applicazione armonizzata e tecnologica di modelli
+organizzativi". Il fatto che all'interno dell'amministrazione vi
+sia una proliferazione di centri è una criticità e all'interno del
+piano ovviamente non si può dare la soluzione, perché a monte
+bisogna esprimere una volontà riorganizzativa, ma si mette in
+evidenza che dal punto di vista informatico è una debolezza perché
+moltiplichiamo gli strumenti. Lei sa bene che, andando ad acquisire
+sul mercato dei sistemi di gestione delle buste paga, si va ad
+acquisire dei sistemi standardizzati, dopodiché, se vado a
+modificare le letture contrattuali, devo apportare tante modifiche
+quante sono le organizzazioni. Si evince allora che questo piano ha
+voluto far emergere queste criticità proprio per risolverle e
+all'interno dei piani annuali si andrà a sviluppare quello che è
+stato scritto in modo abbastanza chiaro. Non solo sono d'accordo
+con lei, ma lo sono molto, perché all'interno dell'Amministrazione
+regionale è ormai acquisito che certe rigidità devono essere
+superate mettendo mano non solo al sistema informatico, ma al
+sistema organizzativo; ecco che questo piano - senza per questo
+"stracciarmi le vesti" per farlo apprezzare - è il primo documento
+dove emerge la debolezza di ogni singolo assessorato, dove i punti
+di criticità vengono evidenziati. Questo primo tentativo non ha la
+presunzione di risolvere tutti i problemi, ma vuole essere il primo
+documento che permetterà agli uffici di fare un certo tipo di
+lavoro.
+Sul discorso degli obiettivi credo di aver detto, ripeto: credo
+che all'interno della Regione, come all'interno di tutto il
+comparto pubblico, come in altre strutture sul tema vi siano stati
+tanti sforzi e anche delle cose che sono state fatte bene. Questo
+documento, al di là della valutazione di ogni singola iniziativa,
+vuole fare un passo in più per creare un sistema che abbia una
+trasversalità: ecco perché vi sono delle parti che sono sicuramente
+perfettibili, sicuramente si può fare meglio, ma è un primo passo e
+un passo concreto. Credo che, se questo piano avrà il vostro
+assenso e il vostro parere favorevole, possa costituire un buon
+inizio e, a fronte di questo tipo di piano, già potremo intervenire
+su una revisione del piano annuale che è stato deliberato per il
+2004. All'atto dell'approvazione di questo piano triennale potranno
+esserci degli spunti, che potranno modificare e adeguare il piano
+annuale per il 2004; per il 2005 questo diventerà lo strumento di
+comparazione e di avvicinamento alla perfezione auspicata dagli
+interventi.
+Président - La parole au Conseiller Riccarand, pour déclaration
+de vote.
+Riccarand (Arc-VA) - In attesa della "perfezione", ci
+asteniamo.
+Président - Je rappelle que cet acte a eu l'avis favorable de la
+IIe Commission à la majorité.
+La parole au Conseiller Viérin Marco.
+Viérin M. (SA) - Il gruppo della "Stella Alpina", anche se vi
+sono delle imperfezioni o altro, ritiene che senza questo atto si
+rischi di bloccare l'intera "macchina" non solo pubblica, ma anche
+economica della Valle; per questo motivo voterà a favore del
+provvedimento.
+Président - La parole au Conseiller Tibaldi.
+Tibaldi (CdL) - Per una breve dichiarazione di voto. Si tratta
+di un atto importante, che è stato anche illustrato con una certa
+enfasi e convinzione dallo stesso Assessore; ad un certo punto ci
+sembrava di vedere un Ministro Lucio Stanca in "dodicesimi" - il
+Ministro dell'innovazione -, che si è immedesimato in tutti questi
+progetti estremamente interessanti e necessari a tutto uno sviluppo
+strutturale ed infrastrutturale del nostro sistema economico,
+quindi abbiamo apprezzato la convinzione con la quale l'Assessore
+si è prodigato nel sintetizzarci questo piano. È un piano che ha
+degli attori di tutto rispetto: alcuni attori protagonisti, altri
+che sono comprimari o comparse, tipo la Camera di commercio, ancora
+una volta l'imprenditorialità funge da comparsa. Speriamo che
+questa imprenditorialità e i cittadini, che sono i destinatari dei
+benefici di questo piano, effettivamente ne traggano delle utilità,
+perché è un piano importante sotto il profilo letterale e dei
+contenuti, è un piano ancora più importante sotto il profilo
+finanziario, perché si tratta di 60 milioni di euro nel triennio,
+se non sbaglio. È un piano che speriamo effettivamente traguardi
+quegli obiettivi che ha decantato poc'anzi lo stesso Assessore e,
+nel traguardare quegli obiettivi, speriamo che non vengano
+dimenticate delle sollecitazioni specifiche, e non generali come
+questo documento, che sono state evidenziate dal nostro gruppo
+consiliare e da altri gruppi consiliari nel corso di questo primo
+scorcio di legislatura.
+I colleghi della "Stella Alpina" stamani hanno sottolineato
+l'aspetto della "DSL" e quindi dei collegamenti veloci, noi la
+volta scorsa abbiamo sollevato il problema della banda larga, in
+particolare abbiamo evidenziato come un progetto più modesto, ma
+già per l'epoca innovativo: quello di "Valle d'Aosta cablata", che
+è costato circa 5 miliardi di apporto regionale su un complesso di
+15 miliardi di investimento, di fatto non abbia un destinatario
+certo. Le fibre ottiche in Valle d'Aosta esistono come "dorsale",
+ma non esistono come utilizzatori e lo stesso Assessore non ha
+saputo bene indicarci chi sono gli utenti finali di questo
+progetto. Noi speriamo che questo piano così ambizioso - che si
+aggiunge a un documento programmatico triennale appena "scaduto" e
+che è costato 100 miliardi - non faccia la stessa fine di "Valle
+d'Aosta cablata", che effettivamente si tramuti in fatti concreti
+ma, nell'attesa che da queste parole si passi a delle azioni
+concrete, non ci sentiamo di "staccare una cambiale in bianco",
+quindi ci asterremo.
+Président - Je soumets au vote l'acte avec les amendements, dont
+je donne lecture:
+Emendamenti
+- A pagina 3 del Piano triennale, sono aggiunti, in fondo al
+paragrafo, i periodi seguenti:
+"A seguito di una riunione tra Amministrazione e Consiglio
+regionale si sono riconosciuti gli obiettivi di legislatura
+evidenziati nel piano quali elementi comuni concordati per la
+realizzazione di progetti volti al potenziamento degli interventi
+informativi a vantaggio del cittadino valdostano. Pertanto si è
+ritenuto di integrare il gruppo di lavoro di cui sopra, con la
+presenza di un rappresentante del Consiglio regionale.
+Il Consiglio regionale pertanto ritiene il presente piano
+mezzo per lo sviluppo di un'interrelazione proficua tra i due enti
+e a tal fine ha esposto anch'esso le proprie iniziative progettuali
+in un'apposita scheda."
+- A pagina 11 del Piano triennale, il primo periodo è
+sostituito dal seguente:
+"
+Il piano è stato predisposto grazie alla condivisione
+di tutte le strutture dell'Amministrazione regionale e dei
+principali soggetti istituzionali sul territorio (il Consiglio
+regionale, l'azienda sanitaria U.S.L., l'Università, il Consiglio
+Permanente degli Enti Locali Valle d'Aosta, il Comune di Aosta, la
+nascente Camera di Commercio)."
+- A pagina 31 del Piano triennale, prima del paragrafo
+"
+Rapporto Regione V.d.A. - Enti Locali Valdostani"
+, è
+inserito il seguente paragrafo:
+"Rapporto Giunta regionale - Consiglio regionale
+Pur nel mantenimento dell'autonomia dei propri sistemi
+informativi, derivante dalle specifiche competenze, la Giunta
+regionale ed il Consiglio regionale condividono l'obiettivo di
+presentarsi verso i cittadini e le istituzioni in forma unitaria
+attraverso la RUPAR.
+Tale obiettivo porta a ricercare sinergie su progetti di
+interesse comune volti al miglioramento della partecipazione attiva
+dei cittadini alla res publica.
+L'ICT gioca in questo momento un ruolo determinante a
+sostegno della partecipazione dei cittadini alla vita delle
+istituzioni (e-democracy). Il tema, fortemente dibattuto a livello
+nazionale, rappresenta già un'area di sviluppo da parte del
+Consiglio regionale che, unitamente alla Giunta, sta esplorando
+opportunità di partecipazione a bandi di finanziamento promossi
+dalla Pubblica Amministrazione Centrale."
+- Dopo la pagina 48 del Piano triennale, è inserito il
+seguente paragrafo:
+"Interventi analitici del Consiglio regionale della Valle
+d'Aosta
+Nel seguito vengono riportate considerazioni di sintesi
+riguardanti le linee guida per il triennio 2003-2005 relative
+all'evoluzione strutturale, sistemistica e applicativa del sistema
+informatico del Consiglio della Regione Valle D'Aosta.
+Sintesi del piano
+Le linee di intervento del Consiglio regionale definite per
+il triennio 2003-2005 si articolano nei seguenti punti:
+- Interventi trasversali finalizzati all'accelerazione e al
+completamento di alcuni essenziali progetti e servizi di base,
+quali la Gestione Documentale, la Firma Elettronica e
+l'integrazione con il Protocollo informatico;
+- Interventi di riorganizzazione e fruizione delle
+informazioni, quali il Portale unico di accesso ai servizi, la
+digitalizzazione dei documenti storici del Consiglio regionale,
+ancora in formato cartaceo e la realizzazione di una base dati
+unica in grado di contenere tutti i tipi di documenti, nonché di
+renderli fruibili a un organico set di applicazioni
+prioritariamente pensate secondo il paradigma Internet;
+- Sviluppo della comunicazione istituzionale attraverso la
+messa a disposizione dell'attività politica pubblica sia in diretta
+che in differita mediante la trasmissione audio e video delle
+sedute del Consiglio e dei principali eventi pubblici promossi dal
+Consiglio regionale con tecnologie mature e altre in via di
+sperimentazione;
+- Completamento del sistema di protocollo informatico,
+secondo la normativa, per garantire la sicurezza e l'integrità dei
+dati, la corretta e puntuale protocollazione dei documenti in
+entrata e uscita, l'interoperabilità e la possibilità di accedere
+alle informazioni in condizioni di sicurezza da parte dei soggetti
+interessati;
+- Interventi per l'efficienza degli uffici, attraverso
+l'adozione e certificazione del Sistema Qualità ISO 9000;
+- Interventi di formazione dei dipendenti affinché tutti
+migliorino le competenze professionali sull'uso dell'elaboratore
+applicate al proprio lavoro fino al raggiungimento della
+certificazione ECDL;
+- Qualificazione dei servizi relativi alla sicurezza con le
+funzioni di autenticazione e le politiche di sicurezza Informatica
+definite a livello di Governo ed, in particolare, con gli indirizzi
+espressi in materia dal Centro Nazionale per l'Informatica nella
+Pubblica Amministrazione (CNIPA);
+- Interventi di riconversione nei settori tecnologici, quali
+posti di lavoro e software di sistema e d'ambiente.
+Il Consiglio regionale della Valle d'Aosta per realizzare i
+suoi obiettivi considera prioritaria ed urgente la realizzazione
+della rete regionale come infrastruttura tecnologica di base per
+l'erogazione dei servizi al cittadino e per la cooperazione con le
+altre PA.
+Dal punto di vista infrastrutturale si renderà inoltre
+necessario realizzare un'efficace interazione tra le due reti del
+Consiglio e dell'Amministrazione regionale anche al fine di
+progettare una rete specifica per i servizi ai consiglieri.
+Infine dal punto di vista culturale il Consiglio regionale
+intende farsi promotore di azioni volte a diffondere l'uso dell'ICT
+potenziando i processi partecipativi con interventi che includano
+l'attenzione all'accessibilità alla vita politica da parte di tutti
+i cittadini e che tengano anche conto del superamento delle
+barriere fisiche, territoriali, culturali e sociali.
+PUNTI DI ATTENZIONE
+Sviluppare la ricerca dell'efficienza e dell'efficacia del
+sistema informativo al fine di garantire la massima trasparenza
+dell'azione legislativa nei confronti del cittadino."
+Conseillers présents: 30
+Votants: 25
+Pour: 25
+Abstentions: 5 (Curtaz, Frassy, Riccarand, Squarzino Secondina,
+Tibaldi)
+Le Conseil approuve.

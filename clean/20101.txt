@@ -1,0 +1,131 @@
+Classificazione
+BENI CULTURALI
+Musei, biblioteche, archivi storici e aree di interesse archeologico
+INFORMAZIONE
+Radiotelecomunicazioni
+
+
+Resoconto integrale del dibattito dell'aula
+Oggetto del Consiglio n. 86 del 1° ottobre 2003 - Resoconto
+OGGETTO N. 86/XII - Accesso ai siti internet nella Biblioteca
+regionale. (Interrogazione)
+Interrogazione
+Appreso che le postazioni INTERNET della Biblioteca regionale
+sono dotate di un sistema "firebaal", avente la finalità di
+impedire l'accesso a siti sconvenienti;
+Osservato, tuttavia, che tale sistema risulta nella sostanza
+assai grossolano, in quanto vieta l'accesso attraverso la barriera
+costituita da alcune parole-chiave, con ciò impedendo l'accesso a
+siti che dovrebbero essere normalmente consultabili;
+Ritenuto, dunque, opportuno che l'Amministrazione si attivi
+per rendere maggiormente fruibili i siti INTERNET senza inopportune
+(e qualche volta ridicole) restrizioni;
+i sottoscritti Consiglieri regionali
+Interrogano
+l'Assessore competente per sapere:
+1) se è a conoscenza del problema evidenziato nella premessa,
+peraltro lamentato da numerosi utenti;
+2) se sono state avviate iniziative per modificare il
+programma che impedisce agli utenti della Biblioteca regionale di
+accedere a determinati siti INTERNET.
+F.to: Curtaz - Riccarand - Squarzino Secondina
+Président - La parole à l'Assesseur à l'éducation et à la
+culture, Charles Teresa.
+Charles (UV) - Avant de donner une réponse aux Conseillers
+requérants, il faut d'abord décrire de façon correcte
+l'architecture du système installé auprès de la Bibliothèque
+régionale. Les postes de consultation réservés au public, au nombre
+de 5, sont des ordinateurs identiques à ceux qu'emploie le bureau
+où a été installé un software particulier, dénommé "site kiosque",
+dont le but est de limiter la navigation sur réseau internet.
+Contrairement à ce qui a été incorrectement affirmé dans la
+question, il ne s'agit donc pas d'un "système firewall" - on
+suppose qu'on voulait se référer à cette typologie en écrivant
+"firebaal", c'est du moins ce que les bureaux m'ont fait remarquer
+-, qui sert à empêcher ou à minimiser les intrusions et les
+agressions au système de la part de malintentionnés. L'exigence
+d'empêcher l'accès, au moyen des ordinateurs de la bibliothèque, à
+des sites pornographiques ou prônant la violence ou le racisme, est
+évident et correspond à l'intérêt public découlant du caractère
+institutionnel de l'établissement. C'est pourquoi il a été requis
+le service au DSI, pour répondre aussi aux exigences manifestées
+par un public qui a des caractères très hétérogènes tant au point
+de vue intellectuel qu'à celui des comportements.
+L'accès aux postes est gratuit et est assuré à tous les usagers
+sans distinction d'âge, de sexe, de religion ou autre. Il en
+découle le devoir pour l'administration publique de respecter en
+priorité leur valeur. C'est notamment pourquoi une réglementation
+particulière est prévue pour la section jeunesse, fréquentée par
+les enfants âgés de moins de 15 ans, qui doivent être
+obligatoirement assistés d'un adulte fondé de pouvoir s'ils veulent
+accéder à internet. La section adultes aussi est fréquentée par des
+mineurs âgés de 15 à 18 ans et, avant l'introduction du software
+filtre en 2001, des plaintes avaient été adressées à la Direction
+de la bibliothèque de la part de parents et d'usagers ayant vu de
+jeunes gens accéder à des sites, appelons-les, inconvenants.
+Le système installé, contrairement à ce qui est affirmé dans la
+question, n'est nullement grossier, mais présente au contraire des
+caractéristiques de grande complexité. Les critères de sélection
+des accès - aménagés et constamment mis à jour par les producteurs
+du système, qui analysent le site au niveau mondial - sont axés à
+la fois sur les mots-clé et sur les adresses Internet. Il faut
+souligner à ce propos l'extrême complexité de la gouvernance et
+donc de la limitation de la navigation en réseau. Si en effet poser
+des limites trop souples comporte inévitablement des résultats
+minables du point de vue de la qualité, c'est-à-dire de la
+visualisation des contenus offensants la morale publique, des
+limitations efficaces amènent nécessairement à rater l'accès à
+certains sites aux contenus irréprochables. Le même site peut en
+effet avoir aussi bien des contenus licites qu'illicites. Le
+"système site kiosque" agit en éliminant de la navigation les
+serveurs qui, entre autres informations, contiennent celles qui ne
+sont pas considérées aptes à la divulgation publique dans un
+endroit institutionnel. La sélection des mots-clé de même peut
+parfois produire des exclusions inattendues, étant donné l'immense
+patrimoine d'information qui est rendu disponible sur internet. Il
+est possible un choix différent, en utilisant des systèmes ayant
+des critères plus permissifs, avec le risque très concret
+cependant, qu'on véhicule à l'intérieur d'une structure
+institutionnelle, vouée à l'éducation et à la culture, des
+informations et des contenus qui pourraient être considérés
+dangereux, ce qui ne correspond évidemment pas à l'intérêt public.
+C'est pourquoi on ne croit pas opportun pour le moment de modifier
+le programme filtre choisi par le DSI.
+Il faut enfin remarquer au point de vue général que n'importe
+quelle bibliothèque publique ne peut prétendre de mettre à la
+disposition de son public tous les documents et toutes les
+informations; une sélection préalable est faite pour ce qui est
+tant des livres et des revues que des documents sonores et visuels.
+Ces sélections sont nécessairement subjectives et ne peuvent
+prétendre à être exhaustives pour tous les usagers.
+Président - La parole au Conseiller Curtaz.
+Curtaz (Arc-VA) - Ringrazio l'Assessore per la risposta molto
+cortese e peraltro accolgo anche volentieri e senza alcun problema
+le sue osservazioni critiche. L'Assessore, che forse si ricorda di
+essere insegnante, mi ha rimproverato l'utilizzo di parole e
+consento… quanto al termine inglese,
+non a caso alle 15,00 sarò ad iscrivermi al corso di inglese. Per
+quanto riguarda l'aggettivo "grossolano" - che non ho messo fra
+virgolette, quindi è ancora più giusta la sua osservazione -, non
+mi riferivo alla tecnica informatica, che sarà pure sofisticata o
+complicata, ma mi riferivo alla constatazione che, a quanto mi è
+stato detto da alcuni utenti, questo sistema renderebbe troppo
+difficoltoso l'accesso ad alcuni siti, un accesso che diventa
+troppo "stretto", probabilmente perché le parole chiave che
+impediscono l'accesso sono troppo numerose o comuni.
+È vero che l'Assessore, per certi versi, ha ammesso e
+giustificato l'esistenza del problema dicendo che si tratta di
+operare una scelta: se rendere l'accesso più ampio e quindi correre
+dei rischi - che nessuno di noi vuole che l'utenza corra,
+ovviamente - oppure tenere le maglie più strette e impedire
+l'accesso ai siti normali. Rimane la perplessità. Forse è
+necessario cercare di studiare, o di far studiare, un sistema più
+sofisticato, perché mi sono stati rappresentati degli esempi un po'
+paradossali di inaccessibilità di alcuni siti che non hanno niente
+di sconveniente. Non voglio fare degli esempi, perché la
+discussione ci porterebbe lontano, però potremmo parlarne in
+separata sede per esemplificare come si possa raggiungere anche i
+limiti del ridicolo. Invito quindi l'Assessore a verificare se non
+sia possibile adottare, anche con l'evoluzione tecnologica, un
+sistema che sia meno penalizzante per chi vuole accedere a dei siti
+che non hanno nulla di sconveniente.

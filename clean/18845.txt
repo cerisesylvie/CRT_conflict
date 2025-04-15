@@ -1,0 +1,329 @@
+Classificazione
+ZONA FRANCA
+
+
+Resoconto integrale del dibattito dell'aula
+Oggetto del Consiglio n. 1969 del 26 aprile 2001 - Resoconto
+OGGETTO N. 1969/XI Adeguamento della "Carte Vallée" per la
+gestione dell’Euro. (Interpellanza)
+Interpellanza Premesso che il 31/12/2000 la Carte Vallée ha
+compiuto il suo secondo anno;
+Rilevato che i pos necessari alla lettura della carta a
+microprocessore non sono allo stato in grado di gestire le cifre
+decimali, non consentendo così sino ad ora il pagamento in
+esenzione delle frazioni di litro e non consentendo la gestione
+dell’euro;
+i sottoscritti Consiglieri regionali
+Interpellano
+l’Assessore all’Industria,
+Artigianato ed Energia per sapere:
+1) quali siano i costi diretti ed indiretti sopportati nel 2000
+dall’Amministrazione regionale per la gestione delle
+procedure relative ai carburanti in esenzione fiscale;
+2) con quali tempistiche, con quali provvedimenti e con quali
+costi verranno adeguati i pos per la gestione
+dell’euro.
+F.to: Frassy - Tibaldi
+Président
+La parole au Conseiller Frassy.
+Frassy (FI)
+L'interpellanza che il nostro gruppo ha
+presentato, Assessore, riprende degli argomenti che avevamo già
+portato in quest’aula all’inizio del
+2000, in particolare la problematica che riguarda la gestione dei
+decimali con il meccanismo della Carte Vallée ossia con la gestione
+informatizzata della benzina in esenzione fiscale.
+Circa un anno fa, quando avevamo sollevato questa
+preoccupazione, l’Assessore aveva risposto che si
+sarebbe interessato e comunque avrebbe girato la nostra perplessità
+sulla questione dei decimali agli uffici e a INVA che gestisce la
+parte del software.
+Ci risulta che a distanza di un anno da allora, Assessore, nulla
+sia cambiato, nel senso che i distributori hanno ancora il problema
+di gestire i decimali. Il problema è minimale forse oggi perché è
+limitato al litro e rotti decilitri di benzina che viene prelevata,
+normalmente chi utilizza la Carta Vallée la benzina la preleva a
+litri e non a lire.
+Il problema grosso, invece, sui decimali, come
+l’Assessore può immaginare, lo avremo nella
+prospettiva del gennaio 2002 quando, con
+l’introduzione dell’Euro, i decimali
+diventeranno una realtà con cui confrontarsi nel quotidiano.
+Allora domandiamo all’Assessore cosa ne è
+dell’adeguamento di cui già si era parlato un anno
+fa, considerando che il tempo che rimane da qui all'introduzione
+dell’Euro è minore del tempo che è trascorso da
+quando avevamo sollevato questa problematica ad oggi.
+Vorremmo anche sapere, questo nella prima domanda che poniamo
+nell'interpellanza, quali sono i costi che
+l’Amministrazione regionale ha sopportato nel 2000,
+nel secondo anno di attivazione della Carta Vallée per quanto
+riguarda l’intera gestione dei prodotti petroliferi
+in esenzione fiscale. Queste sono in sintesi le domande che abbiamo
+posto con la nostra interpellanza.
+Président
+La parole à l’Assesseur à
+l’industrie, à l’artisanat et à
+l’énergie, Ferraris.
+Ferraris (GV-DS-PSE)
+Ricordava il Consigliere Frassy che
+questo tipo di interpellanza fa seguito a quanto era stato detto il
+12 gennaio 2000: già nel mese di gennaio il Consigliere Frassy
+conveniva con noi rispetto al fatto che comunque la Carte Vallée ha
+rappresentato un elemento innovativo per la gestione dei generi
+contingentati.
+Per rispondere al primo quesito, i costi per la gestione delle
+procedure attinenti alla Carte Vallée in esenzione fiscale derivano
+dal pagamento dei corrispettivi previsti dalle convenzioni
+stipulate dall’Amministrazione regionale con INVA:
+elencherò ora quali sono le convenzioni, questo per dare degli
+elementi di conoscenza a chi ha fatto
+l’interpellanza.
+Le convenzioni sono cinque: tre sono state stipulate fra il
+Servizio contingentamento e INVA, due fra la DSI e INVA.
+Una prima convenzione è quella che è stata stipulata il 12
+settembre 1999 approvata con deliberazione di Giunta n. 2921/1999
+per il periodo che va dal 1° gennaio 2000 al 29 febbraio 2000 ed è
+stata stipulata dal Servizio contingentamento.
+La seconda convenzione è stata stipulata il 27 gennaio 2000 e
+approvata con delibera di Giunta n. 5089/99 per il periodo dal 1°
+gennaio 2000 al 29 febbraio 2000; è stata stipulata dalla DSI con
+INVA.
+La terza convenzione è stata stipulata il 29 febbraio 2000,
+approvata con deliberazione di Giunta n. 442/2000 per il periodo 1°
+marzo 2000 - 31 ottobre 2000, ed è stata stipulata dal Servizio
+contingentamento con INVA.
+Una quarta convenzione è stata stipulata in data 27 marzo 2000,
+approvata con provvedimento dirigenziale n. 1166/2000 per il
+periodo dal 1° marzo 2000 al 31 dicembre 2000, e questa è stata
+stipulata fra DSI e INVA.
+Infine una convenzione stipulata in data 24 ottobre 2000,
+approvata con deliberazione di Giunta n. 3501/2000 per il periodo
+1° novembre 2000 - 31 dicembre 2000, tra INVA e Servizio
+Contingentamento.
+Il fatto di aver spezzettato le convenzioni è dovuto alle
+disponibilità di bilancio, che sono susseguite a variazioni di
+bilancio verificatesi lo scorso anno.
+Queste convenzioni riguardavano le attività che adesso vado ad
+elencare:
+- servizi di sportello con apertura per otto ore giornaliere
+tutti i giorni feriali per un'utenza servita teorica di circa 200
+unità giorno (normalmente l’utenza è di 175);
+- servizi di manutenzione "on site" dei terminali periferici POS
+entro due ore dalla segnalazione dei guasti per tutti i giorni,
+festivi inclusi;
+- servizi per la gestione logistica della Carte Vallée composti
+dalla gestione del magazzino, dalla masterizzazione ed emissione
+delle carte, dalla perizia tecnica sulle carte mal funzionanti e
+danneggiate con tempi di esecuzione non superiori ai 2 giorni
+lavorativi dalla data di presentazione agli sportelli da parte
+degli utenti;
+- servizi di gestione del Front End Processor (FEP) 24 ore su
+24, tutti i giorni;
+- servizi di assistenza telefonica tramite il numero verde dalle
+ore 7,30 alle ore 18,30 sabato incluso agli utenti della Carte
+Vallée e agli esercenti degli impianti di distribuzione
+carburante.
+Questo è l’insieme delle attività che vengono
+gestite dalle convenzioni che ho indicato precedentemente.
+Per quanto riguarda i costi relativi a queste convenzioni,
+complessivamente sono di 1.260 milioni IVA inclusa.
+Occorre precisare che, quando entreranno in funzione i nuovi
+servizi connessi alla Carte Vallée e forniti
+dall’Amministrazione regionale, (ad esempio i
+servizi dei buoni mensa del CRER, in avanzata fase di
+realizzazione), i costi afferenti alla logistica della carta,
+all'assistenza telefonica agli utenti, alla gestione del FEP
+saranno suddivisi per centri di costo fra le strutture competenti
+dell’Amministrazione regionale: oggi la Carte Vallée
+funziona esclusivamente per la distribuzione beni carburanti ma,
+qualora venga utilizzata per altre funzioni, i costi relativi
+verranno suddivisi fra le varie strutture dell'Amministrazione. I
+costi indiretti afferiscono agli oneri per il personale regionale e
+alla manutenzione del software per la gestione delle procedure
+informatiche presso gli uffici regionali.
+Per quanto concerne il personale regionale, la gestione della
+ripartizione dei contingenti di carburante in esenzione fiscale
+occupa mediamente due persone all’anno: una persona
+di posizione B e una persona di posizione C
+nell’attività tenuta nella contabilità generale;
+cinque persone all’anno, quattro di livello
+posizione B e una di posizione C, nell’attività del
+cosiddetto "back office".
+Il costo complessivo del personale regionale ammonta a circa 360
+milioni di lire.
+Per quanto concerne gli oneri per la manutenzione degli
+applicativi a servizio della Carte Vallée, che riguardano la
+gestione degli utenti e veicoli, la gestione degli sportelli e la
+contabilizzazione dei movimenti delle carte a microprocessore su
+base giornaliera, essi hanno assommato pro quota nel 2000 a circa
+57 milioni di lire, IVA inclusa.
+In sostanza il costo della gestione della procedura Carte Vallée
+per l’anno 2000 è di 2.177 milioni considerando
+anche gli ammortamenti della carta, del FEP e del POS.
+Se andiamo a vedere quanto avevamo dichiarato nella seduta del
+Consiglio regionale del 12 gennaio 2000, avevamo detto che i costi
+preventivati erano 2.419 milioni, siamo a una cifra inferiore e
+siamo in linea con i costi della gestione cartacea che assommava
+nel 1998, a distanza di tre anni, a 2.109 milioni.
+Va tenuto conto che la Carte Vallée oggi offre dei servizi
+ulteriori rispetto a quanto veniva offerto agli utenti nel 1998 con
+il vecchio sistema cartaceo.
+Si rammenta a questo proposito che il gettito derivante
+dall’onere regionale, applicato ai quantitativi di
+carburante erogati in esenzione fiscale, ha ammontato nel 2000 a
+circa 3.578 milioni, quindi di fatto la Carte Vallée si
+autofinanzia ampiamente.
+Per quanto riguarda il quesito n. 2, relativo alla questione dei
+decimali, la situazione è la seguente. I POS, come tutti sappiamo,
+sono composti di due componenti: hardware e software.
+Secondo quanto dichiarato dal fornitore,
+l’hardware non presenta problemi di compatibilità
+con l’EURO, il secondo invece è gestito attraverso
+l’emissione di "release" di aggiornamento
+successive.
+L’attuale "release", che è quella del 1998, con
+le problematiche legate alla mancata indicazione dei decimali, non
+prevede il cambio Lira/Euro con decimali pur prevedendo la
+possibilità di stampare importi in Euro con due decimali: la
+divisione Lira/Euro, in questo caso, avviene secondo le modalità
+previste nel 1998, quando non era ancora noto il cambio fisso
+Lira/Euro che è diventato di 1.936,27; i terminali allora erano
+stati attivati per un importo di cambio Lira/Euro fisso in 1.936
+lire.
+Come tutti sappiamo l’Euro partirà dal 1° gennaio
+2002, ci sarà ancora fino al mese di febbraio la possibilità di
+utilizzare sia le Lire che l’Euro e poi dal 1° marzo
+si passerà all’utilizzo esclusivo
+dell’Euro.
+Per quanto riguarda l’adeguamento
+dell’Euro, questo è previsto nel piano operativo
+annuale del Dipartimento del sistema informativo nel contesto della
+revisione di tutte le procedure informatiche
+dell’Amministrazione regionale che verranno
+completate entro il gennaio 2002.
+Questo riguarda l’insieme delle procedure.
+Ovviamente la Carte Vallée potrà diventare operativa secondo i
+tempi di attuazione dell’Euro, in modo da far sì che
+questo adeguamento sia effettivo. Si sta già lavorando in questo
+periodo per realizzare questo tipo di adeguamento.
+Per quanto riguarda i costi dell’adeguamento
+all’Euro relativi alla Carte Vallée sono in fase di
+definizione e fanno parte dei costi relativi alla più generale
+revisione dei sistemi informatici regionali per la quale sono stati
+stanziati circa 400 milioni.
+Per quanto riguarda l’unità minima erogabile
+delle benzine o del gasolio o dei carburanti, questa è stata
+definita in numeri interi di litro; è possibile,
+nell’ambito della revisione del software, andare
+anche ad indicare i decimali, ma va valutato se questo non possa
+rappresentare un'ulteriore complicazione tenuto conto del fatto che
+oggi abbiamo un contingente che viene assegnato alla Regione in
+chili, a sua volta deve essere convertito in litri per cui
+aggiungere ulteriormente dei decimali potrebbe creare altri
+problemi.
+Comunque è una questione che può essere affrontata e risolta
+nell’ambito della nuova definizione del software
+applicativo per la Carte Vallée stessa, partendo dal presupposto
+che l’hardware dei POS è compatibile con questo tipo
+di modificazione. I tempi saranno tali da consentire dal 1° gennaio
+2002 la realizzazione degli scontrini con i decimali previsti
+dall’Euro.
+Président
+La parole au Conseiller Frassy.
+Frassy (FI)
+Assessore, ho ascoltato con attenzione i dati
+che lei ci ha fornito. Devo però esprimere delle perplessità sulla
+sostanza della risposta, sia sul primo che sul secondo punto delle
+domande contenute nell'interpellanza.
+I costi. Dopo l'ampia panoramica sulle varie convenzioni
+spezzettate, di cui mi sembra di aver capito che poi INVA sia il
+punto di riferimento dell'intera procedura di informatizzazione, a
+conti fatti, fra i costi dell’INVA e i costi
+indiretti che ancora l’Amministrazione regionale
+sostiene, abbiamo chiuso il 2000 con 2.177 milioni. Lei mi dice che
+abbiamo risparmiato qualcosa su quella che era la previsione fatta
+nel 1999 per il 2000.
+Sì, è vero, rispetto a quella previsione, ma il dato che
+riteniamo debba essere preso a riferimento è un altro ed è il dato
+del 1998 ossia il dato della gestione cartacea.
+Anche perché lo dicevo a gennaio 2000, e mi corre
+l’obbligo di ripetermi a distanza di quasi un anno e
+mezzo, due sono le motivazioni normalmente che fanno optare le
+aziende, e l’Amministrazione regionale in questo
+caso deve operare come un'azienda, per l'informatizzazione delle
+procedure: la prima è la tempistica di resocontazione,
+l’immediatezza di poter avere risultati statistici e
+non solo in tempo reale e la seconda è quella del risparmio sui
+costi di gestione.
+I costi di gestione nell’ultimo anno di gestione
+cartacea ammontavano a 2.109 milioni; al secondo anno, perciò
+quando il meccanismo informatizzato dovrebbe iniziare ad essere a
+regime e comunque si dovrebbe essere rodato, abbiamo dei costi che
+sono di 2.177 milioni, perciò non riusciamo ad avere un
+abbattimento dei costi rispetto alla gestione cartacea.
+È vero che c’è un ammortamento sessennale dei
+costi iniziali di investimento, ma sono cifre che ci fanno dire che
+non portano la gestione informatizzata ad essere significativamente
+competitiva con la gestione cartacea.
+E qui apro una parentesi. Diceva il collega Tibaldi che ci
+riserveremo di verificare se certi risultati di gestione di INVA
+siano o meno all’altezza di quei riconoscimenti di
+emolumenti da super manager che vengono concessi
+all’amministratore delegato, allora è evidente che
+diventa facile fare gli affari, ma poi lo vedremo se così è, con
+una serie di convenzioni come queste. Perché dico "come
+queste"?
+E qui mi aggancio alla seconda domanda. Riteniamo sorprendente
+la risposta che l’Assessore ci ha dato:
+"? Nel
+1998 il software non prevedeva il decimale per quanto riguarda la
+gestione dei pagamenti?"
+in quanto INVA, bontà degli allora
+responsabili del software piuttosto che dello stesso
+amministratore, non so su quale considerazione abbia potuto pensare
+che con l’Euro il problema del decimale non ci
+sarebbe stato. Perché? Perché l’Assessore dice che
+si era ipotizzato un cambio e una parità fissa di 1.936 lire,
+dunque non c’era lo spazio per ragionare sui virgola
+centesimi; io ne deduco che stiamo ragionando in maniera poco
+comprensibile.
+Ammesso che ci fosse stato un ragionamento fondato su questa
+conclusione, era evidente che non si poteva continuare ad
+arrotondare sempre sull’Euro intero, perché il
+prezzo dei litri interi avrebbe comunque fatto scattare
+indipendentemente dalla parità del cambio i decimali sul pagamento
+in Euro, perciò mi sembra abbastanza paradossale questo
+ragionamento, che immagino INVA abbia suggerito
+all’Assessore.
+La cosa poi ancora più paradossale è che comunque sia questo
+aggiornamento del software verrebbe a costare
+all’Amministrazione regionale la non indifferente
+cifra di 400 milioni. Ora, nel 1998, Assessore, nessun privato si
+sarebbe sognato di mettere in piedi un software che non gestisse
+quella che ormai era già una previsione scadenzata a data certa del
+passaggio all’Euro.
+Sui 400 milioni che l’Assessore dice sono
+complessivi sull'informatizzazione del sistema informatico
+regionale ci riserviamo di reintervenire, perché vorremmo capire
+gli aggiornamenti su quali basi software vanno a fondarsi, nel
+senso che i software più recenti, per tali intendendo tutti quei
+software che sono nati successivamente all’accordo
+maturato in seno alla Comunità europea di far partire
+l’Euro in sostituzione delle monete nazionali, è
+impensabile che non siano aggiornabili con costi pressoché vicini
+allo zero.
+Se così non fosse, bisognerà capire quali sono stati i motivi di
+acquisto di software che hanno avuto ovviamente dei costi
+immaginiamo a prezzi di mercato, ma che erano obsoleti rispetto a
+quello che il mercato già all’epoca richiedeva alle
+varie software houses.
+Perciò esprimiamo perplessità su queste risposte, soprattutto
+per quanto riguarda le tempistiche e per quanto riguarda le
+conclusioni economiche, sia sulla gestione dei costi diretti e
+indiretti dell'informatizzazione della gestione dei carburanti in
+esenzione fiscale, sia per le tempistiche e nuovamente i costi per
+adeguare il software attuale a quella che sarà la nuova moneta,
+ossia l’Euro, dal gennaio 2002.
+Si dà atto che, dalle ore 17,33, presiede il Vicepresidente
+Lattanzi.

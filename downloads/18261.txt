@@ -1,0 +1,383 @@
+Consiglio Regionale della Valle d'Aosta - Oggetto del Consiglio n. 1354 del 7 giugno 2000 - Resoconto
+Vai al contenuto principale
+Oggetti del Consiglio
+Invia
+Stampa
+Documenti
+Verbale
+Resoconto
+Classificazione
+INFORMAZIONE
+Radiotelecomunicazioni
+Precedente
+Successivo
+Resoconto integrale del dibattito dell'aula
+Oggetto del Consiglio n. 1354 del 7 giugno 2000 - Resoconto
+OGGETTO N. 1354/XI Predisposizione di un disegno di legge per
+disciplinare l'installazione e l'esercizio di impianti per
+radiodiffusione televisiva e sonora. (Interrogazione)
+Interrogazione Richiamata la lettera del Comitato Prevenzione
+Onde Elettromagnetiche di Aosta del 15 aprile 2000, inviata al
+Presidente della Giunta regionale, ai Capigruppo del Consiglio
+regionale della Valle d’Aosta ed ai responsabili dei
+movimenti e partiti politici della nostra regione;
+Tenuto conto che, in base alle indicazioni esposte nella lettera
+in oggetto, le Regioni sono impegnate, dall’articolo
+4 comma 3 del Decreto Ministeriale 381/98, al controllo
+dell’osservanza di eventuali obiettivi di qualità
+che non sono riportati nel decreto, e che, il disegno di Legge
+quadro sui campi elettromagnetici, atto Senato 4273, stabilisce che
+la tutela dei campi elettromagnetici sia assicurata attraverso
+limiti di esposizione, valori di attenzione o di cautela e
+obiettivi di qualità;
+Considerate le azioni svolte anche dalle regioni Lombardia,
+Liguria, Emilia Romagna, Veneto e dal Consiglio comunale di Roma
+atte a garantire il controllo dell’osservanza degli
+obiettivi di qualità sui campi elettromagnetici, scegliendo come
+limiti di esposizione, valori di cautela o di attenzione i valori
+esposti nel Convegno internazionale "Inquinamento elettromagnetico:
+tutela della salute e dell’ambiente", tenutosi a
+Trento il 25 e 26 novembre 1999;
+Preso atto delle indicazioni espresse in tale convegno da
+eminenti studiosi ed esperti internazionali che consigliavano come
+valore di cautela un massimo di 3 volt/m per
+l’esposizione della popolazione a radiofrequenze
+modulate in ampiezza di frequenza superiore a 3 Mhz e come
+obiettivo di qualità gli 0,5 volt/m per emissioni in radiofrequenza
+superiori a 3 Mhz;
+Ritenute corrette le richieste del C.P.O.E. di Aosta che, in
+base ai dati sopra espressi, ha chiesto
+all’Amministrazione regionale di conoscere gli
+intendimenti in merito a questa problematica;
+Tenuto conto altresì che la Giunta regionale non ha ancora
+provveduto all’approvazione del disegno di legge
+regionale avente per oggetto la "Disciplina per
+l’installazione e l’esercizio di
+impianti per radiodiffusione televisiva e sonora e
+telecomunicazioni", in applicazione del D.M. n. 381/1998;
+i sottoscritti Consiglieri regionali
+Interrogano
+la Giunta regionale per conoscere:
+1) se è conoscenza della lettera di cui in premessa e quali sono
+le considerazioni in merito;
+2) la situazione in Valle d’Aosta nel garantire
+il controllo dell’osservanza degli obiettivi di
+qualità sui campi elettromagnetici, e le attuali scelte in merito
+ai limiti di esposizione, valori di cautela e obiettivi di
+qualità;
+3) la possibilità di valutare l’adozione, per
+quanto riguarda i parametri sopra indicati, dei valori esposti nel
+Convegno internazionale "Inquinamento elettromagnetico: tutela
+della salute e dell’ambiente", tenutosi a Trento il
+25 e 26 novembre 1999, come da suggerimento del C.P.O.E. di Aosta,
+ed in caso di risposta negativa le relative motivazioni;
+4) se è a conoscenza delle motivazioni in base alle quali il
+disegno di legge regionale, in applicazione del D.M. n. 381/1998,
+non è stato ancora approvato, indicando i tempi entro i quali si
+pensa di approvarlo.
+F.to: Lanièce - Curtaz - Collé
+Président
+La parole à l'Assesseur au territoire, à
+l'environnement et aux ouvrages publics, Vallet.
+Vallet (UV)
+La nota del Comitato Prevenzione Onde
+Elettromagnetiche di Aosta del 15 aprile, a cui fa riferimento
+l'interrogazione, riassume le conclusioni di un convegno
+internazionale sull'inquinamento elettromagnetico, che si è svolto
+nel novembre dello scorso anno a Trento.
+In tale ambito sono state presentate da alcuni scienziati le
+conclusioni di ricerche e indagini sui danni causati dai campi
+elettromagnetici sulla salute dell'uomo e sono stati individuati i
+valori limiti di sicurezza che si vorrebbero adottare in ossequio
+al principio di precauzione.
+La nota richiede pertanto che siano adottati limiti di
+esposizione più restrittivi, almeno in corrispondenza dei siti
+particolari quali possono essere scuole, spazi per l'infanzia,
+parchi urbani, e procedure autorizzative per l'installazione di
+nuovi impianti che generano radiazioni non ionizzanti.
+I limiti richiesti sono pari a 3 volt/m per le radiofrequenze
+superiori a 3 Mhz, come valore di cautela, e a 0,5 volt/m, come
+obiettivo di qualità; vengono cioè indicati limiti per il solo
+campo elettrico.
+Prima di rispondere ai quesiti formulati cercherò di chiarire,
+sulla base di una sintetica relazione tecnica, alcuni aspetti della
+problematica che è complessa e che non è di immediata
+comprensione.
+Alcune puntualizzazioni quindi su campi elettrici magnetici ed
+elettromagnetici. Al naturale livello di fondo elettromagnetico,
+generato dalla terra stessa, dall'atmosfera e dal sole, si sono
+aggiunti come conseguenza del progresso tecnologico i campi
+prodotti dalle sorgenti derivanti dall'attività dell'uomo,
+innalzandolo notevolmente.
+I campi elettromagnetici si propagano come onde di diversa
+frequenza; gli impianti fissi per telecomunicazioni o le linee
+elettriche di impianti connessi generano onde elettromagnetiche con
+frequenza compresa fra 0 e 300 Ghz.
+È possibile poi dividere i campi elettromagnetici in campi a
+frequenze estremamente basse, cosiddetti ELF, fra 0 e 3 khz, e
+campi a radiofrequenze e microonde, a cui corrispondono rischi,
+misure precauzionali e preventive differenti.
+Da un punto di vista normativo si distinguono i valori di campo
+alle diverse frequenze e le densità di potenza ammissibili. Dal
+punto di vista degli effetti sugli uomini, diventa anche
+impossibile distinguere gli effetti del singolo campo rispetto
+all'altro.
+L'espressione "inquinamento elettromagnetico" comprende due
+problemi diversi: i campi elettromagnetici a radiofrequenza
+irradiati in ambiente dagli impianti di radiodiffusione televisiva
+sonora e per telecomunicazioni e i campi elettrici e magnetici a 50
+hz generati dalle linee di trasporto e di distribuzione
+dell'energia elettrica.
+Per quanto riguarda i rischi per la salute, sulla base della
+letteratura attuale, l'organizzazione mondiale della sanità ritiene
+che non esista alcuna evidenza convincente che l'esposizione a
+campi generati da radiofrequenze abbrevi la durata della vita
+umana, né che induca o favorisca il cancro. Si riconosce tuttavia
+l'esigenza di condurre ulteriori studi per migliorare la conoscenza
+dei fattori di rischio.
+I campi elettromagnetici a bassa frequenza possono provocare
+alterazioni nei potenziali di azione di cellule eccitabili,
+stimolazioni neuromuscolari, fibrillazione cardiaca. I campi ad
+alta frequenza possono comportare aumenti globali o localizzati
+della temperatura corporea.
+La mancanza di evidenza scientifica non significa
+automaticamente sicurezza di assenza di rischi, risultando quindi
+opportuno assumere come regola per le decisioni in materia di
+salute pubblica il principio di cautela.
+Allo stato attuale, non è quindi possibile affermare con
+assoluta certezza che non esistono rischi per l'uomo in relazione
+all'esposizione a campi elettromagnetici di qualsiasi
+frequenza.
+Le informazioni del Comitato Prevenzione Onde Elettromagnetiche,
+quindi, non aggiungono né tolgono nulla rispetto alla grande massa
+di dati e risultati disponibili, soprattutto per quanto riguarda
+gli effetti a lungo termine. Gli effetti acuti sono al contrario
+ben noti.
+Voglio fare anche una rapida panoramica della normativa vigente
+comunitaria e nazionale.
+Per quanto riguarda le radiofrequenze, il D.M. n. 381/98 ha
+adottato livelli di cautela molto bassi, 6 volt/m, pari a circa 1/4
+di quelli europei. Il medesimo decreto ministeriale contempla la
+possibilità di definire obiettivi di qualità più restrittivi.
+Per quanto riguarda i campi a 50 hz il DPCM del 23 aprile 1992
+ha introdotto limiti che possono considerarsi efficaci nella
+prevenzione dell'insorgenza di effetti acuti, ma in nessun caso
+possono considerarsi cautelativi dall'insorgenza di eventuali
+effetti a lungo termine.
+La legge regionale n. 48/99 della Regione Veneto, alcune
+circolari del Ministero dell'ambiente e una bozza di DPCM allo
+studio sempre da parte del Ministero, relativi a campi di
+esposizione a campi elettrici e magnetici a 50 hz, convergono su
+valori di riferimento di cautela di 0,5 microtesla per le zone
+residenziali e di 0,2 microtesla per le aree e strutture dedicate
+all'infanzia.
+Conclusione: dal panorama sopra delineato emerge che fisicamente
+i fenomeni di cui si discute possono essere diversificati in
+particolare in funzione delle frequenze dei campi elettromagnetici
+in gioco, potendosi quindi distinguere le problematiche relative
+alle linee elettriche a bassa, media e alta tensione, dagli
+apparati di radio e telecomunicazioni.
+La rilevanza sociale ed economica dei fenomeni è pertanto
+diversa a seconda dell'apparato considerato e quindi dell'utenza
+interessata.
+Le normative nazionali pongono limiti inferiori a quelli
+stabiliti a livello comunitario e internazionale. I limiti attuali
+sono abbondantemente cautelativi per esposizioni acute; non si può
+escludere che i valori di riferimento possano ulteriormente ridursi
+per considerare in particolare i possibili effetti sinergici
+derivanti da un'esposizione cronica contemporanea a campi
+elettromagnetici a bassa e ad altra frequenza.
+Ancora, è vero che alcune norme regionali fissano limiti più
+restrittivi secondo l'ambito disciplinato.
+Con riferimento ora alle interrogazioni in oggetto, ho già detto
+in premessa che la nota riferisce di esperienze e studi che sono
+considerati con scetticismo in parte almeno dagli istituti di
+ricerca e dalle organizzazioni nazionali ed internazionali di
+tutela della salute. Non siamo noi in grado di entrare nel merito
+della bontà scientifica dei risultati, quindi ci si deve rimettere
+alle conclusioni alle quali perviene l'organizzazione mondiale
+della sanità, che ritiene non esista alcuna evidenza convincente
+che l'esposizione a campi generati da radiofrequenze abbrevi la
+durata della vita umana e che ne induca o favorisca il cancro;
+riconosce l'esigenza di condurre ulteriori studi per migliorare la
+conoscenza dei fattori di rischio.
+Poiché la mancanza di evidenza scientifica non significa
+automaticamente sicurezza di assenza di rischi, risulta opportuno
+assumere come regola per le decisioni in materia di salute pubblica
+il principio di cautela.
+La nota del Comitato Prevenzione Onde Elettromagnetiche richiede
+l'adozione di limiti solo per il campo elettrico, ritenendo che gli
+altri limiti siano quelli già previsti dalle leggi attuali. Il
+riferimento è al decreto n. 381/98 per quanto riguarda gli impianti
+di telecomunicazioni. I limiti fissati da quel decreto parrebbero
+essere rispondenti.
+In tale materia bisogna poi ricordare che le problematiche delle
+linee elettriche sono diverse da quelle connesse con le
+radiofrequenze, così che diventa difficile proporre valori
+indiscriminati senza un supporto scientifico, considerato che le
+ricadute in campo economiche sono poi notevoli.
+Le recenti normative delle Regioni Basilicata, Marche, Toscana,
+disciplinano le procedure di rilascio dell'autorizzazione per gli
+impianti di radiocomunicazione, confermando i valori limiti del
+decreto n. 381/98.
+Attualmente, limiti più restrittivi sono stati proposti in sede
+di predisposizione del nuovo disegno di legge in materia,
+attualmente all'esame del Senato, che sono divenuti oggetto anche
+di circolari del Ministero dell'ambiente per aree destinate ad
+attività specifiche.
+Pur in questa confusione di limiti e di assenza di indicazioni
+chiare, si potrebbe operare continuando nell'opera di censimento
+delle situazioni a rischio sia per le linee elettriche, sia per gli
+apparati di radiotelecomunicazione, adottando i limiti più
+restrittivi del campo elettrico per le nuove costruzioni, in
+corrispondenza dei siti particolari quali scuole, spazi per
+l'infanzia, parchi urbani, e per i siti attrezzati per
+radiotelecomunicazioni, in attesa dell'adeguamento della normativa
+nazionale che fisserà modi e tempi anche per il risanamento
+dell'esistente. Vista la rilevanza economica dell'eventuale
+risanamento, ci sembra opportuno attendere iniziative generali.
+Per quanto riguarda il secondo quesito, va detto che in Valle
+d'Aosta il controllo dei limiti di esposizione fissati dalla
+normativa, sia per le linee elettriche, sia per le radiofrequenze,
+è garantito in sede di rilascio delle autorizzazioni per realizzare
+le opere dall'ARPA.
+La stessa ARPA svolge sul territorio attività di misura dei
+campi a radiofrequenza e dei campi elettrici e magnetici a 50 hz,
+valutando i livelli di campo misurati o stimati con i livelli di
+riferimento normativi, che per i campi a 50 hz non sono solo quelli
+del DPCM 23 aprile 1992, ma anche con i valori di cautela, verso
+cui si è orientati oggi.
+Sono poi in corso due distinte attività di censimento. La prima
+è nei Comuni di Châtillon e di Hône per la quantificazione
+dell'esposizione complessiva della popolazione comunale ai campi a
+50 hz generati da elettrodotti. Il metodo che l'ARPA sta
+sperimentando potrà poi essere esteso a tutta la regione.
+La seconda iniziativa di monitoraggio, avviata a seguito di una
+comunicazione del Ministero dell'ambiente, riguarda il censimento
+delle aree dedicate all'infanzia che sono interessate da linee
+elettriche ad alta tensione. Abbiamo deciso di estendere il
+censimento a tutte le linee elettriche.
+Ad oggi, hanno risposto 40 comuni; per 12 di essi non esistono
+aree che si trovino nelle condizioni richieste, mentre gli altri
+hanno segnalato spazi dedicati all'infanzia o alla ricreazione
+attraversati da linee elettriche.
+L'ARPA è poi coinvolta insieme con l'Istituto zooprofilattico,
+l'Istituto superiore di sanità e l'Assessorato regionale alla
+sanità, per attivare un'indagine esplorativa sugli effetti
+dell'esposizione prolungata di animali domestici a campi di 50
+hz.
+Il D.M. n. 381/98 introduce all'articolo 4 la definizione di
+obiettivi di qualità, cioè dei valori entro i quali contenere il
+campo elettromagnetico, che le Regioni potrebbero disciplinare per
+l'installazione e la modifica degli impianti di
+radiocomunicazione.
+Non sono fissati al momento obiettivi di qualità, ritenendo
+necessario accompagnare tale iniziativa anche da una concreta
+azione di risanamento dei siti non conformi, secondo tempi definiti
+per conseguire i valori limite prefissati.
+Considerato che è in dirittura di arrivo una nuova normativa
+nazionale che andrà a definire le azioni di risanamento, visti i
+contrasti che essa sta suscitando per l'onerosità dei compiti da
+svolgere da parte dei titolari degli impianti stessi, e considerato
+che i limiti attualmente validi sono ritenuti comunque cautelativi
+e maggiormente conservativi rispetto alle altre normative europee,
+non sembra opportuno fissare in questo momento limiti più
+restrittivi quali sono gli obiettivi di qualità, senza avere
+certezze sulla concreta possibilità giuridica di imporre ai
+titolari le azioni di recupero.
+Per quanto riguarda l'ultimo quesito, il disegno di legge
+regionale in applicazione del D.M. n. 381/98 è stato trasmesso
+all'Ufficio legislativo della Giunta e all'Assessorato alle finanze
+per i pareri di competenza in data 2 maggio 2000; prevediamo di
+poter approvare il disegno di legge in Giunta entro la fine del
+mese di giugno.
+Tale disegno di legge non fissa limiti di esposizione, ma norma
+la pianificazione in materia e stabilisce competenze e procedure
+autorizzative; prevede, fra l'altro, la realizzazione del catasto
+degli apparati di emissione per radiotelecomunicazioni; non fissa
+limiti di esposizione, tenuto conto che per quanto riguarda gli
+impianti di radiotelecomunicazioni i limiti fissati dal D.M. n.
+381/98 sono ritenuti cautelativi.
+Président
+La parole au Conseiller Lanièce.
+Lanièce (Aut)
+Prendo atto della risposta che ci ha fornito
+l'Assessore, risposta che dal punto di vista tecnico è stata
+abbastanza approfondita, ma dal punto di vista dei contenuti non
+sono, ma penso di esprimere anche il parere del collega che poi
+interverrà, non siamo pienamente soddisfatti.
+Il problema dell'elettrosmog è un problema molto diffuso sia in
+campo nazionale che regionale, basti pensare alla famosa vicenda
+dei coniugi Praduroux di Hône, che hanno dovuto abbandonare la
+propria abitazione per i problemi collegati all'inquinamento
+elettromagnetico.
+Di fronte a questa situazione, con questa interrogazione
+volevamo chiedere delucidazioni alla Giunta regionale in merito
+alle iniziative, a cosa vuole porre in essere per affrontare questo
+problema, anche perché come ha detto l'Assessore i limiti
+attualmente previsti riguardano gli effetti acuti, mentre non ci
+sono indicazioni sugli effetti a medio e lungo termine, che sono
+poi quelli più preoccupanti per tutti quanti. Infatti, mentre
+l'effetto acuto si può verificare ed è anche ovvio, gli effetti a
+medio e lungo termine sono quelli che destano maggior
+preoccupazione, perché ancora la ricerca scientifica non è andata a
+fondo nell'analizzare gli effetti sulla persona umana.
+Quindi ci saremmo aspettati una maggiore attenzione da parte
+della Giunta regionale soprattutto nell'accelerare l'iter di
+presentazione di questo disegno di legge, anche perché facendo
+riferimento al DM n. 381, all'articolo 4 si diceva che le regioni e
+province autonome disciplinano l'installazione e la modifica degli
+impianti di radiocomunicazioni al fine di garantire il rispetto dei
+limiti, e via dicendo; questo decreto è entrato in vigore il 1°
+gennaio 1999, è passato un anno e mezzo e quindi si potevano
+accelerare un po' i tempi, pur sapendo che i limiti esistenti sono
+quelli che sono e non si potevano facilmente introdurre limiti
+diversi.
+Anche se a tal proposito bisogna prestare attenzione
+all'esperienza del Veneto, che ha portato avanti un disegno di
+legge con limiti più restrittivi e alla fine c'è stato pure un
+ricorso al TAR che è stato vinto dalla stessa Regione Veneto,
+proprio perché è stato riconosciuto che aveva diritto di mettere
+dei limiti più restrittivi proprio per tutelare la salute pubblica
+dei propri abitanti.
+Président
+La parole au Conseiller Curtaz.
+Curtaz (PVA-cU)
+Volevo intervenire brevemente, visto che
+il tempo a mia disposizione è pochissimo, per sollecitare tre cose
+che sono anche il seguito di quanto il nostro gruppo aveva fatto
+con delle iniziative ispettive, a cui aveva risposto l'anno scorso
+l'Assessore Vicquéry.
+I tre solleciti sono questi: uno, è già stato accennato
+dall'Assessore, ma credo che sia proprio basilare, ed è quello di
+arrivare ad un censimento complessivo di tutte le situazioni a
+rischio e pericolo in Valle d'Aosta. Questo mi sembra basilare,
+perché possiamo fare dei ragionamenti soltanto se abbiamo un
+panorama preciso di questa situazione.
+Il secondo sollecito, e questo me lo ricordo meglio, in
+occasione della discussione di un'interpellanza l'Assessore
+Vicquéry ci aveva garantito che sarebbero stati presi dei contatti
+con l'ENEL sia in riferimento ad iniziative specifiche, sia in
+riferimento al lavoro di valutazione, di censimento, di studio
+complessivo del fenomeno.
+Sarebbe interessante capire se questi contatti sono stati presi,
+se hanno dato dei risultati, se anche l'ENEL si sta attivando,
+eccetera, perché è chiaro che deve essere un lavoro questo di
+studio da fare in sinergia con l'ENEL che è il principale
+responsabile dell'inquinamento elettromagnetico.
+Terzo stimolo che sottolineo: abbiamo visto delle regioni che
+sono più avanti di noi. Abbiamo sentito dall'Assessore, adesso non
+voglio essere polemico a discutere sull'opportunità di aspettare la
+legge nazionale, però mi sembra che in materia ambientale la
+sussidiarietà e il federalismo in questa regione siano dimenticati;
+sono spesso sbandierati in altri settori, mentre in questo settore
+il dire in maniera arrendevole che si aspetta di vedere cosa
+succede a livello nazionale mi sembra un atteggiamento
+contraddittorio e rinunciatario.
+Informativa cookies
+Consiglio Regionale della Valle d'Aosta © 2025
+Questo sito utilizza cookies propri e di terze parti. Continuando ad usare questo sito, acconsenti all'utilizzo di questa tecnologia.
+Consulta la nostra
+informativa
+per maggiori informazioni e per istruzioni su come disattivare i cookies.
+OK

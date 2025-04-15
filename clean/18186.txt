@@ -1,0 +1,965 @@
+Classificazione
+INFORMAZIONE
+Sistema informativo
+
+
+Resoconto integrale del dibattito dell'aula
+Oggetto del Consiglio n. 1279 del 19 aprile 2000 - Resoconto
+OGGETTO N. 1279/XI Approvazione del piano pluriennale
+2000-2002, per lo sviluppo del sistema informativo regionale, di
+cui alla legge regionale 12 luglio 1996, n. 16.
+Deliberazione Il Consiglio
+Richiamata la legge regionale 12 luglio 1996, n. 16, recante
+norme per la "Programmazione, organizzazione e gestione del sistema
+informativo regionale. Ulteriori modificazioni alla legge regionale
+17 agosto 1987, n. 81 (Costituzione di una Società per azioni nel
+settore dello sviluppo dell’informatica), già
+modificata dalla legge regionale 1° luglio 1994, n. 32. Abrogazione
+di norme.";
+Ricordato come l’art. 1 (Piano pluriennale) della
+predetta legge preveda al suo comma 1) che sia sottoposto ad
+approvazione del Consiglio regionale un piano pluriennale volto sia
+allo sviluppo, alla modernizzazione ed alla diffusione degli
+strumenti, delle tecnologie telematiche e dei sistemi informativi
+dell’Amministrazione regionale, sia
+all’intervento regionale nel settore
+dell’informatica avente particolare riguardo allo
+sviluppo ed alla realizzazione di una rete di collegamenti
+informatici interessante l’intera Amministrazione
+regionale ed aperta alle interrelazioni con gli altri Enti pubblici
+territoriali valdostani e con le amministrazioni dello Stato;
+Atteso che in ottemperanza a quanto espresso al comma 3) dei
+suddetti articolo e legge la struttura regionale competente ha
+provveduto alla stesura del piano pluriennale di cui trattasi;
+Specificato che il periodo di tempo cui il piano in questione si
+riferisce è esteso al triennio 2000–2002 e che,
+finanziariamente, il piano stesso corrisponde al relativo bilancio
+di previsione triennale della Regione;
+Ricordato inoltre che con deliberazione n. 25 del 13 gennaio
+2000 la Giunta regionale ha approvato il Bilancio di gestione della
+Regione per l'anno 2000 e per il triennio 2000/2002, nel quale sono
+assegnate alle strutture dirigenziali dipendenti dalla Giunta
+regionale, per il periodo di riferimento, quote di bilancio per il
+perseguimento dei correlati obiettivi gestionali;
+Viste le motivazioni ed i contenuti del piano pluriennale di cui
+trattasi;
+Visto l’articolo 8 del decreto legislativo 22
+aprile 1994, n. 320, come modificato dall’articolo 1
+del decreto legislativo 16 febbraio 1998, n. 44, in ordine alla
+sottoposizione dell’atto a controllo;
+Visto il parere favorevole rilasciato dal Coordinatore del
+Dipartimento sistema informativo, ai sensi del combinato disposto
+degli articoli 13, comma 1, lettera e) e 59, comma 2 della legge
+regionale 23 ottobre 1995, n. 45, sulla legittimità della presente
+deliberazione;
+Visto il parere della II Commissione consiliare permanente;
+Delibera
+di approvare l'allegato piano pluriennale
+2000–2002, predisposto dal Dipartimento Sistema
+Informativo, per lo sviluppo, la modernizzazione e la diffusione
+degli strumenti, delle tecnologie telematiche e dei sistemi
+informativi dell'Amministrazione regionale nonché per l'intervento
+regionale nel settore dell'informatica avente particolare riguardo
+allo sviluppo ed alla realizzazione di una rete di collegamenti
+informatici interessante l'intera Amministrazione regionale ed
+aperta alle interrelazioni con gli altri Enti pubblici territoriali
+valdostani e con le amministrazioni dello Stato.
+Allegato
+(Omissis)
+Président
+Je rappelle que ce plan pluriannuel a reçu
+l'avis favorable de la II
+ème
+Commission à la
+majorité.
+La parole au Président du Gouvernement, Viérin Dino.
+Viérin D. (UV)
+La loi régionale n° 16/96, portant
+dispositions en matière de programmation, organisation et gestion
+du système informatique régional, dispose que l'Assemblée régionale
+approuve un plan pluriannuel visant à la fois le développement, la
+modernisation et la diffusion des outils et des technologies
+informatiques ainsi que des systèmes d'information au sein de
+l'Administration.
+Elle prévoit néanmoins que la Région intervienne dans le secteur
+de l'information en accordant une attention particulière au
+développement et à la mise en place d'un réseau informatique
+reliant les différents services de l'Administration, tant entre eux
+qu'avec les collectivités territoriales valdôtaines et les autres
+structures administratives de l'Etat.
+En application de ces dispositions à la fin de 1996 le Conseil
+régional a approuvé le premier plan pluriannuel 1997-1999, qui
+définissait les orientations du développement stratégique du
+système informatique régional. Le plan pluriannuel que le
+Gouvernement soumet aujourd'hui à votre approbation concerne la
+période 2000-2002.
+Ce nouveau plan part de la convergence entre informatique et
+télécommunications, convergence qui débouche sur une intégration
+entre ces deux mondes; de là d'ailleurs est née la globalisation
+technique et géographique du marché et des nouvelles technologies
+de l'information et de la communication.
+Chacun, technicien ou simple usager, sait le succès que
+connaissent aujourd'hui les technologies de l'information: on les
+retrouve dans tous les domaines de la vie en société, du monde du
+travail aux loisirs, et il est désormais clair que l'on ne peut
+plus parler de communication sans parler de réseaux et notamment de
+l'explosion du phénomène Internet.
+Nous sommes en train de vivre une période de transition vers une
+société marquée par un niveau élevé de connaissances et basée sur
+l'utilisation constante des nouvelles technologies et des
+infrastructures informatiques qui sont à l'origine de ce que l'on
+appelle désormais la "société de l'information".
+Aujourd'hui déjà c'est de plus en plus sur l'information que
+repose l'organisation du travail et la nouvelle économie qui
+s'oriente vers la production et la commercialisation des biens
+incorporels.
+La nature, la structure et les modalités d'acquisition des
+informations traitées et diffusées ainsi que les caractéristiques
+de leur flux constituent les bases d'un système d'information qui
+ne permet pas uniquement d'acheter des biens et des services, mais
+représente également un ensemble d'éléments susceptibles de fournir
+en temps réels les informations nécessaires aux personnes qui, à
+tous les niveaux, ont besoin d'un support informatique pour leurs
+activités.
+Le système d'information est donc un élément stratégique de
+liaison entre les différents aspects organisationnels, normatifs,
+administratifs et technologiques; il joue par ailleurs un rôle
+fondamental dans la mise en place d'une organisation moderne et
+innovante et constitue la clef du processus de renouvellement
+entrepris par les collectivités et au premier chef par la
+Région.
+Par ailleurs ce nouveau plan pluriannuel ne s'applique pas
+uniquement à l'Administration régionale, mais concerne toute
+l'administration publique de la Vallée d'Aoste car si la Région
+représente traditionnellement par ses dimensions et ses fonctions
+un point de référence pour les autres collectivités locales,
+l'administration publique dans son ensemble est assimilable à un
+système intégré d'organismes visant à offrir de manière uniforme,
+efficace et efficiente un bouquet de services aux usagers.
+Il faut donc - sans compromettre l'autonomie des différents
+services - intégrer les réalités existantes dans un système
+d'information régional unique accessible à toute l'administration
+publique de la Vallée d'Aoste en tenant compte du contexte local,
+étatique et européen. Et ce n'est pas un hasard si la récente
+Conférence interministérielle sur la société de l'information et de
+la connaissance a mis l'accent sur l'impact des nouvelles
+technologies dans les collectivités publiques.
+Dans le cadre de l'objectif "Amministrazioni on line" il a
+notamment été question de dépasser la logique étriquée selon
+laquelle chaque administration fournit exclusivement les services
+de son ressort dans le but de permettre surtout au niveau des
+collectivités locales l'intégration des services de toutes les
+structures administratives.
+Ce nouveau plan pluriannuel définit donc un système et un
+ensemble de méthodologies et d'architectures techniques et
+applicatives en réseau. Chaque administration est reliée aux autres
+par le biais d'un réseau régional planifié en cohérence avec les
+lignes directrices nationales arrêtées par l'AIPA ainsi qu'avec les
+directives communautaires et en fonction des spécificités
+territoriales, humaines et statutaires de la Région autonome Vallée
+d'Aoste. Nous sommes conscients que les nouvelles technologies de
+l'information et de la communication représentent pour notre Vallée
+un outil stratégique visant à en améliorer le bien-être et à en
+favoriser le développement tout en nous permettant de réaliser des
+économies.
+Le plan 2000-2002 s'inscrit par ailleurs dans la continuité du
+précédent, mais il s'adapte aux évolutions des dispositions
+législatives et normatives, par exemple la signature électronique,
+la protection de la vie privée, et également aux évolutions
+sociales, organisationnelles, méthodologiques et
+technologiques.
+Ces mêmes dispositions définissent par ailleurs les limites
+d'application de ce plan. Par conséquent toutes les initiatives
+envisagées s'insèrent dans le cadre de six domaines d'intervention
+que le plan précédent a identifiés et concourent au bon
+fonctionnement et au développement du système actuel d'information
+dont dispose l'Administration régionale en vue de la réalisation
+d'un système intégré.
+La réalisation de ce plan comportera une dépense globale de 84
+milliards de lires sur les trois années 2000-2002.
+Il est également opportun de préciser qu'aujourd'hui le système
+informatisé de l'Administration régionale se compose des éléments
+suivants: d'une unité centrale (main frame) pour l'utilisation de
+logiciels d'intérêt général, je cite par exemple le système
+agricole, les bons d'essence, la comptabilité et les finances,
+l'état civil régional; de plus de 2.000 ordinateurs individuels,
+dont plus de la moitié sont en réseau, qui disposent de logiciels
+d'exploitation, feuilles de calcul, traitement de textes, bases de
+données ainsi que de centaines de programmes spécifiques qui vont
+de l'enregistrement à la gestion des délibérations aux dossiers du
+bâtiment et des données cartographiques aux données
+ethnoculturelles; d'un site Internet institutionnel où figurent les
+principales informations à caractère administratif et touristique;
+d'un réseau de télécommunications géré par un guichet unique
+virtuel disposant de plus de 2.000 numéros couvrant des zones
+géographiques éloignées; enfin d'une infrastructure informatique
+reliant la quasi-totalité des bureaux régionaux, composée de cinq
+sièges localisés dans différents assessorats, câblés et connectés
+entre eux par fibres optiques ainsi que d'un grand nombre de sièges
+secondaires décentralisés.
+Mais, comme je le disais précédemment, les initiatives prévues
+par le plan pluriannuel 2000-2002 intègrent les six domaines
+d'intervention définis par le plan précédent et notamment:
+- premier domaine: l'Administration avec des actions destinées à
+améliorer le fonctionnement des structures de l'Administration
+régionale, notamment du point de vue de l'efficience et de
+l'efficacité; les investissements prévus dans ce domaine se
+chiffrent pour la période 2000-2002 à environ 40 milliards de
+lires;
+- deuxième domaine: les citoyens avec des initiatives visant à
+optimiser les relations de l'Administration avec les usagers et en
+particulier, pour ce qui est des prestations télématiques en faveur
+de ces derniers; les investissements prévus se chiffrent à environ
+5 milliards de lires;
+- troisième domaine: l'information avec des mesures susceptibles
+de favoriser la transparence, l'accessibilité et l'exploitation du
+patrimoine informatique régional, mais également d'améliorer le
+traitement et la gestion des informations. Et les investissements
+prévus dans ce cas se chiffrent à environ 9 milliards de lires;
+- quatrième domaine: le système d'aides à la décision avec des
+projets destinés à la mise en place et au développement des outils
+de connaissance, de prévision et de simulation de l'impact
+d'actions spécifiques, qu'elles soient de nature législative ou
+financière; pour ce domaine les investissements prévus se chiffrent
+à 300 millions de lire;
+- cinquième domaine: le territoire avec des initiatives vouées à
+la connaissance et à la gestion du territoire par le biais du
+repérage géographique à l'échelle régionale des informations
+concernant les installations technologiques ou les éléments
+relatifs à la culture, à l'environnement et à l'économie. Les
+investissements prévus se chiffrent à environ 15 milliards de
+lires;
+- enfin les infrastructures avec des mesures permettant
+l'utilisation en permanence de postes de travail informatisés et
+adéquats et de réseaux de communication suffisamment étendus sur le
+territoire; les investissements prévus se chiffrent dans ce cas à
+14 milliards de lires.
+Au cours des trois dernières années les éléments nécessaires au
+passage à court terme et dans un milieu sécurisé de documents sur
+support papier aux documents numériques ont été mis en place grâce
+à la signature électronique.
+Notre but est donc à terme de réaliser une véritable "Région
+numérique" dotée d'un système informatisé à la pointe des
+administrations publiques et aligné sur les meilleures performances
+techniques au niveau européen.
+Pour atteindre cet objectif il nous faut mettre en place une
+stratégie globale pour soutenir la participation du Val d'Aoste à
+des projets étatiques et européens; il faut consolider nos liens
+avec les principaux organismes du secteur; il faut poursuivre les
+actions de recyclage et de formation entreprises; améliorer la
+procédure de certification des services et des activités; investir
+dans les ressources humaines; ouvrir des négociations permanentes
+en vue de la coordination des initiatives sur notre territoire,
+dans le cadre de la nouvelle société de l'information et cela
+évidemment avec le soutien de l'Etat, de l'Administration régionale
+et des collectivités locales et territoriales de la Vallée d'Aoste.
+Ce sont les objectifs visés par ce plan; ce sont également les
+actions que nous voulons mener au cours de la période de validité
+de ce plan afin de réaliser les objectifs que nous nous sommes
+fixés.
+Président
+La discussion est ouverte.
+La parole à la Conseillère Squarzino Secondina.
+Squarzino (PVA-cU)
+Sicuramente l'informatica è uno dei
+settori più importanti di un'attività amministrativa, anzi possiamo
+dire che, come ricordava prima il Presidente, è uno dei fattori
+critici di successo.
+Tutta la prima parte di questo piano è finalizzata a spiegare
+come l'informatica e la telecomunicazione da tempo siano diventate
+tecnologie sempre più diffusamente applicate a tutte le attività;
+e, se questo è vero nelle varie aziende, è ancor più vero
+nell'amministrazione, dove lo svolgimento della maggioranza delle
+attività passa attraverso l'elaborazione e la gestione di documenti
+che si stanno via via materializzando e trasformando in
+informazione elettronica o digitale. Pertanto è molto importante la
+sottolineatura fatta, in particolare a pagina 11, in cui si dice
+che
+"l'informazione è una delle principali risorse
+dell'Amministrazione"
+.
+Diciamo che queste sono le intenzioni che vengono presentate;
+poi incomincia la descrizione dello scenario in cui questo si
+colloca. C'è la descrizione dello scenario regionale, abbastanza
+completo, la descrizione dello scenario normativo, ma c'è un
+elemento che manca in questo scenario, Signor Presidente, ed è
+proprio l'elemento riguardante gli interessi del cittadino.
+È vero che nella seconda parte si parla di informazione ai
+cittadini, ma l'ottica in cui è concepito tutto il piano è
+un'ottica che non tiene conto, a nostro avviso, delle mutate attese
+del cittadino, che non si accontenta più di essere considerato un
+utente dei servizi.
+Quante volte mi capita di telefonare ai vari assessorati e ai
+dirigenti per chiedere informazioni rispetto a una pratica o a
+un'altra e mi sento rispondere:
+"Ma noi più di così non possiamo
+fare, cosa pretendono questi cittadini; noi lavoriamo per loro,
+cosa pretendono di più?"
+. Posso capire che sono parole
+pronunciate in un momento in cui si è pressati dal lavoro.
+Ma dal piano emerge che non è preso in considerazione questo
+nuovo status di cittadino, che non vuole più essere considerato
+solo un utente dei servizi che le amministrazioni pubbliche
+decidono di fornirgli in modo discrezionale, ma che pretende un
+servizio a misura delle proprie esigenze senza che si perda tempo
+inutile e senza che ci sia un costo sovrabbondante per la
+Comunità.
+Senza questa prospettiva, e questa prospettiva non c'è in questo
+piano a nostro avviso, il piano diventa autoreferenziale
+all'amministrazione, nel senso che, perché effettivamente i servizi
+siano migliorati tenendo conto dell'ottica del cittadino, occorre
+che siano potenziate la capacità di controllo dell'efficienza del
+processo interno, la capacità di interconnessione con le
+informazioni gestite dai vari assessorati o da altre
+amministrazioni, che siano valorizzati i supporti conoscitivi che
+possono agevolare il dominio di questa complessità sempre crescente
+e la trasparenza dell'azione amministrativa.
+Tutti questi punti ci sono nel documento, ma nel documento, a
+fronte di questi obiettivi, si fa un elenco di strutture hardware o
+software che si vogliono attivare o comperare, ma non c'è
+l'attivazione di un piano che indichi con chiarezza come si possono
+conseguire questi obiettivi, quali meccanismi operativi debbano
+essere messi in atto per raggiungerli: a questo livello il piano
+presenta molte carenze.
+Perché presenta molte carenze? Perché non basta che
+un'amministrazione disponga di un sistema informativo in grado di
+misurarsi con l'evoluzione tecnologica e qui - diciamolo pure - i
+soldi ci sono e vengono spesi per ammodernare continuamente il
+bagaglio informatico.
+Fra l'altro, viene anche detto che nel triennio si rinnoveranno
+ulteriormente le strutture informatiche tenendo conto dei risultati
+più recenti della tecnologia come se ci fosse sempre una rincorsa
+alle cose nuove. L’aspetto tecnologico è tenuto
+presente - ma un piano non può prendere in esame solo gli aspetti
+tecnologici; bisogna che accanto alla descrizione delle tecnologie
+informatiche ci sia anche l'indicazione di cosa si vuole fare con
+queste tecnologie informatiche, per esempio le attività di
+formazione sono previste, ma (si veda a pagina 51) sono previste
+essenzialmente per consentire l'uso di nuovi programmi specifici
+relativi all'uso e al trattamento di immagini fotografiche del
+territorio.
+C'è inoltre l'indicazione, a pagina 77, dell'importanza del
+fattore culturale, cioè si dice che il fattore culturale deve
+evolversi in primo luogo per quanto riguarda la componente
+personale intesa
+"come apertura a recepire le innovazioni, come
+disponibilità ad individuare l'uso di mezzi informatici"
+e via
+dicendo e si aggiunge anche che
+"c'è un'insufficiente cultura
+informatica che si accompagna con la resistenza al cambiamento e
+l'incapacità di assecondare i progetti con modifiche organizzative
+contemplanti la reingegnerizzazione dei processi in un'ottica più
+moderna"
+però, rispetto a queste buone intenzioni, non si dice
+nulla: non c'è nessuna indicazione di strumenti, di metodologie, di
+tempi. In questo senso possiamo dire che manca un piano vero e
+proprio, nel senso che manca la definizione degli obiettivi dei
+progetti da realizzare, le risorse impegnate e le corrispondenti
+fasi di attuazione. Chi fa cosa? Quando e con quali benefici?
+Il documento è più simile a un elenco di buone intenzioni che
+non la presentazione dell'attività di un piano. Se manca un piano
+articolato, sarà praticamente impossibile capire, al di là delle
+valutazioni squisitamente tecniche, quali obiettivi sono stati
+raggiunti e se i soldi sono stati spesi bene. Il carattere di
+questo piano assomiglia a quello del piano precedente; quando si
+presenta un secondo piano triennale correttezza vorrebbe che si
+facesse un'analisi di quali erano gli obiettivi che il piano
+intendeva perseguire, quali sono stati raggiunti, in che modo e in
+che misura e cosa occorre predisporre per fare un passo avanti o
+per rivedere le scelte. Già l'altro piano era molto generico e
+questo lo è altrettanto, ma se ciò era comprensibile in un primo
+piano che era la prima presentazione di un lavoro organizzativo che
+l'Amministrazione regionale intendeva fare, mi sembra che invece
+questa lacuna sia un limite molto grande. Faccio degli esempi.
+Nel piano manca qualunque indicazione della tempistica dei vari
+impegni che si intendono assumere. Si parla, a pagina 38, di punti
+di accesso al cittadino, di chioschi: sono progetti interessanti,
+ma non si dice quali sono le condizioni che vanno attivate perché
+fra tre anni si possa dire che il piano è stato realizzato: quanti
+chioschi, dove, con quale utilizzo, quali tipologie di dati sono
+accessibili.
+Ancora si parla, a pagina 39, dell'utilizzo delle potenzialità
+delle carte a microprocessore, ma quali dei progetti elencati
+saranno attivati, quali in tutto, quali solo allo studio?
+A pagina 50, c'è un elenco di possibili campi di applicazione in
+ogni settore che possono essere fatti, ma non si dice nulla circa
+la loro effettuazione, ripeto: modalità, tempi, costi in termini di
+risorse umane e finanziarie.
+Se non si dice con chiarezza quali tipi di cambiamento si
+produrranno, entro quali tempi, qualunque opera di verifica sarà
+impossibile da attuare perché non si avranno elementi per capire
+quale livello di raggiungimento degli obiettivi è considerato
+sufficiente e tale da considerare valida la realizzazione del
+piano.
+Nel piano qua e là ci sono alcuni elementi di verifica, ma sono
+solo accenni; c'è un dato che è molto chiaro, questo è anche
+numerico, cioè si dice è stato raggiunto l'obiettivo del rinnovo
+del parco tecnologico al 95 percento e questo è un dato
+inconfutabile.
+Si dice che sono state completate le attività di cablaggio, del
+telefono unico per il centralino dell'Amministrazione regionale,
+l'uniformazione dei sistemi operativi, ma altri obiettivi o altri
+presupposti che sono elencati come raggiunti, non sono però stati
+verificati. Si dice che è stata attivata la rete civica ed
+Internet: a pagina 43, è scritto chiaramente:
+"? è conclusa la
+fase sperimentale con informazioni di tipo statico e dinamico
+regolarmente aggiornate?"
+. Sono andata a verificare ed ho visto
+che sono aggiornate le informazioni di carattere dinamico perché si
+parla del bollettino della neve, ma le informazioni di carattere
+statico non sono aggiornate. Prendo ad esempio l'Assessorato della
+sanità?
+(interruzione dell'Assessore Vicquéry, fuori
+microfono)
+? ho preso in esame tutti e due, gli Assessorati. Tutte le
+informazioni che ci sono, sono ferme al 1998. Allora come si fa a
+dire che sono stati raggiunti gli obiettivi previsti nel piano
+precedente quando si afferma in questo piano triennale di
+programmazione che è stata conclusa la fase sperimentale con
+informazioni di tipo statico e dinamico regolarmente aggiornate?
+Questo è un esempio. Non ho verificato tutte le altre banche dati
+(non è neanche compito mio fare questo). Però che da quello che ho
+esaminato emerge che le informazioni del piano non sono tarate
+sulla realtà.
+Capisco che si possa dire che ora, dopo aver concluso la fase
+sperimentale, si passa a regime, può anche darsi che sia questa la
+risposta, ma allora bisognava dire chiaramente:
+"La fase
+sperimentale finisce nell'anno tal dei tali, 1998; per quanto
+riguarda l'aspetto statico, il tutto sarà attivato entro il
+2000"
+, ma se non si dice con chiarezza cosa si vuole fare, lei
+capisce, Signor Presidente, che non si può neanche valutare il
+piano, non si può dire se sono stati realizzati o meno gli
+obiettivi previsti.
+Non essendoci tutta questa serie di informazioni, a mio avviso,
+manca anche una giustificazione degli investimenti; se non esiste
+una pianificazione di cosa si fa, in quali tempi, in quali settori,
+per quali obiettivi, come si fa a sapere alla fine di questi tre
+anni cosa avrà in mano il cittadino, di quali nuovi canali
+informativi disporrà? Fra un anno cosa avrà, fra due anni cosa
+avrà, fra tre anni cosa avrà, in quali settori? Se manca una
+programmazione, è difficile giustificare gli investimenti.
+Qui ci sono degli investimenti molto consistenti, il Presidente
+prima li ha ricordati: nel triennio ammontano a 99 miliardi circa,
+più della metà per investimenti, cioè nuove cose da fare, 14
+miliardi sono per il costo del personale, 32 miliardi per le spese
+correnti, cioè per mantenere la funzionalità dei sistemi
+esistenti.
+Di questa ultima imponente mole di spesa non esiste alcuna
+analisi di costi e benefici, alcuna correlazione fra dimensione
+dell'investimento e vantaggi in termini di efficienza e di
+efficacia. Se tutta una parte del lavoro manuale lo trasferisco
+all'informatica, se il passaggio di informazione avviene tramite
+sistemi informatici, una volta immessi i dati, credo che un certo
+quantitativo di ore lavoro possono essere cancellate; quindi
+bisogna fare anche un'analisi dei costi degli investimenti
+informatici a fronte di un risparmio nelle spese del personale.
+Tutti i processi di automazione delle imprese hanno comportato
+un ridimensionamento degli addetti. Non dico che bisogna
+licenziare, dico che bisogna chiarire quale tipo di personale
+diventa superfluo in una nuova architettura di questo genere, di
+quale tipo di personale abbiamo bisogno, con quali competenze.
+Questo richiederebbe un'organizzazione delle tipologie del
+personale, uno studio di cosa implica in ogni settore
+l'introduzione di strumenti informatici: in tutto il piano si parla
+di maggiore efficienza, e questo vuol dire che si riducono i costi
+del personale, i costi di acquisto di beni e di servizi; si parla
+di efficacia, cioè che si accrescono le prestazioni a parità di
+costi, ma questa analisi costi/benefici non è stata fatta. Allora
+come si fa a parlare di un piano, se alla base non c'è questa
+analisi?
+Se non c'è questa analisi, potremmo anche essere in presenza di
+costi addizionali elevati senza alcuna contropartita adeguata, cioè
+si dice che spendiamo 100 miliardi in tre anni, ma non si danno
+elementi che consentano una valutazione su come vengono spesi
+questi miliardi e a quale fine.
+Di questi 52 miliardi di investimento il 30 percento è
+costituito da acquisto di tecnologia, di cui si parla molto nel
+documento, (il Presidente stesso ha fatto l'elenco degli elementi
+essenziali di questa struttura organizzativa) e il 70 percento è
+costituito dallo sviluppo di nuovi progetti, di cui però si parla
+poco anche se questa è la parte intelligente del sistema.
+Questo significa probabilmente che il piano, così com'è, è opera
+di tecnici, di specialisti del settore che affermano fortemente la
+necessità di integrare fra di loro i vari sistemi, ma che non
+offrono elementi per capire come avviene questa integrazione,
+perché non è sufficiente l'integrazione tecnologica proposta da
+sola per modificare i comportamenti dell'intera macchina
+amministrativa.
+Non vorrei che l'integrazione proposta servisse a colmare la
+lacuna di quei 1.082 personal computer non ancora collegati alla
+rete di comunicazione.
+Ora su oltre 2.000 computer ne abbiamo in rete meno di un
+migliaio: 973; allora l'integrazione in questo piano ha la funzione
+soltanto di collegare questi altri mille computer con la rete? Non
+credo. Penso che siano altri gli obiettivi che però da questo piano
+non appaiono, Presidente.
+Président
+La parole au Conseiller Tibaldi.
+Tibaldi (FI)
+Per un breve intervento in quanto non ho le
+competenze in materia della collega Squarzino.
+Se vogliamo portare la Valle d'Aosta e i Valdostani in quello
+che viene chiamato "villaggio globale", è naturale che le premesse,
+i contenuti e i principi, che sono stati enunciati dal Presidente
+della Giunta e che sono raccolti nella brochure che ci è stata
+recapitata, sono più che mai validi e condivisibili. Sarebbe
+tuttavia opportuno avere alcuni chiarimenti su alcuni passaggi che
+sono qui stati enucleati. Il piano di intervento, che oggi ci viene
+proposto e che comporta un processo di informatizzazione alquanto
+complesso, è indirizzato verso sei aree e comporta un impegno di
+spesa nel triennio di quasi 100 miliardi, incluse anche le spese
+del personale; in particolare, al netto delle spese del personale,
+i miliardi stanziati nel triennio sono 84.
+Il piano fa anche un rapido cenno a quello che è stato il
+passato, dove si fa riferimento alla necessità di completare quanto
+è stato intrapreso negli anni che vanno dal 1997 al 1999 e, visto
+che negli anni che vanno dal 1997 al 1999, come ci indica un
+prospetto consuntivo a pagina 73, sono stati impegnati e investiti
+57 miliardi, sarebbe anche opportuno sapere più in dettaglio cosa è
+stato fatto in questo triennio. Non dico di scendere nel dettaglio
+specifico, ma perlomeno conoscere per sommi capi.
+Nel triennio che va dal 2000 al 2002 l'impegno è decisamente
+superiore. Non sono naturalmente noccioline i 99 miliardi previsti,
+il piano indica le aree di intervento, istituisce le linee
+strategiche, individua un "perno" sul quale peraltro il nostro
+gruppo consiliare si è soffermato con due interpellanze.
+Il perno è riassunto a pagina 19, dove viene enunciata una
+frase:
+"? il passaggio dal documento cartaceo al documento
+digitale?"
+questo sarebbe il punto nodale
+"? in un ambiente
+sicurizzato, attraverso l'impiego della firma digitale,
+nell'osservanza delle principali norme tecniche e legislative a
+livello nazionale e internazionale?"
+.
+Se ho capito bene, questo è il fulcro attorno al quale ruota
+tutto il sistema informativo, o perlomeno la progettualità del
+sistema informativo nel prossimo triennio.
+A fronte di questo piano che ha una forte valenza tecnologica e
+finanziaria vorremmo sapere più approfonditamente in cosa consiste
+il ruolo della firma digitale in questo contesto e quali sono i
+soggetti attori, perché qua si fa riferimento al Dipartimento del
+sistema informativo, però sappiamo che ci sono diversi attori che
+completano e integrano le professionalità del sistema informativo:
+abbiamo consulenti esterni che più volte vengono chiamati a dare il
+loro apporto professionale, c'è una società che si chiama INVA che
+interagisce con il Dipartimento del sistema operativo e dunque la
+domanda è "quali sono gli attori che in questa fase interagiscono
+fra di loro?"
+Con quali modalità vengono poi coinvolti gli enti locali? Se si
+parla di informatizzazione territoriale, sarebbe opportuno sapere
+come, in quale misura e con quali funzioni vengono coinvolti gli
+enti locali.
+Il piano fa riferimento ad alcuni progetti che sarebbero in
+previsione: si allegano una serie di cartografie catastali, dei
+ghiacciai e forestali ed esemplifica quelle che potrebbero essere
+le potenzialità del piano.
+Vi è una parte curiosa e secondo me contraddittoria. Si tratta
+di un piano che ha una forte valenza tecnologica, si dice che nel
+passato sono stati conseguiti precisi obiettivi, in particolare
+l'obiettivo al quale faceva riferimento anche la collega Squarzino,
+dove il rinnovo del parco tecnologico è quasi completato, citando
+il 95 percento, pertanto contraddittoria è a mio avviso la voce che
+fa riferimento alla manutenzione dell'attuale patrimonio
+tecnologico.
+Se il parco è stato appena rinnovato o il suo rinnovo è quasi
+completato, come mai si prevede una spesa di 26,5 miliardi nel
+triennio, quindi oltre un quarto dei 100 previsti o circa un terzo
+degli 84 per gli investimenti, per la manutenzione dell'attuale
+patrimonio tecnologico?
+Hardware e software è vero che sono soggetti a un certo processo
+di obsolescenza, in quanto vengono superati velocemente di giorno
+in giorno dalle novità nel settore informatico e tecnologico, però
+è altrettanto vero che questa previsione lascia qualche zona
+d'ombra. Come mai è necessario effettuare una manutenzione così
+elevata quando il parco tecnologico è stato appena rinnovato?
+Queste sono le osservazioni che mi sento di fare, nei confronti
+delle quali sarebbe opportuno avere risposte precise anche per
+evitare di incorrere in esperienze che in passato hanno segnato in
+maniera curiosa o triste alcuni esperimenti, mi riferisco ai totem
+ad esempio. Il Presidente si ricorderà i totem della società
+Valbeni: diverse energie e risorse sono state spese in una certa
+direzione per progetti che poi sono stati non solo dimenticati, ma
+addirittura smantellati.
+Il piano così come è stato presentato è formalmente di tutto
+rispetto; sostanzialmente sembra invece debole, dal punto di vista
+della concretezza, del dettaglio, delle specifiche e ciò nonostante
+le risorse impegnate siano tutt'altro che indifferenti. Magari il
+Presidente è in grado di darci qualche ragguaglio ulteriore e
+indispensabile per un esame compiuto all'interno di quest'aula.
+Si dà atto che, dalle ore 16,57, presiede il Vicepresidente
+La Torre.
+Presidente
+La parola al Consigliere Ottoz.
+Ottoz (UV)
+L'informatique est si importante pour notre
+société aujourd'hui, qu'il y a 15 ans, les deuxièmes cinq ans des
+années '80, les hommes politiques américains aux Etats-Unis ont
+affronté le problème d'une discrimination qui était en train de se
+vérifier chez les enfants, entre ceux qui pouvaient avoir accès à
+un PC et ceux qui ne pouvaient pas, pour des questions de revenu,
+avoir accès à un PC.
+Tout récemment le problème a évolué, parce que la discrimination
+qui peut se vérifier - c'est l'opinion des universités américaines
+- c'est que chez les enfants américains il y ait une différence
+entre ceux qui peuvent avoir accès à Internet et ceux qui ne
+peuvent pas avoir accès à Internet pour une question de revenu.
+Le risque de cette discrimination est accru chez nous à cause
+des tarifs urbains du téléphone car il faut savoir qu'aux
+Etats-Unis le téléphone urbain est totalement gratuit, on paie 15
+dollars par mois et on peut téléphoner 24 heures par jour et qu'on
+entend par zone urbaine une zone qui est beaucoup plus grande que
+chez nous un district de télésélection. Ce qui fait que par exemple
+on fait des appels urbains à 200-250 kilomètres, pas partout, ça
+dépend des Etats évidemment, mais cela arrive. Ce qui fait que pour
+les Américains Internet ne coûte rien et donc cette discrimination
+a été éliminée.
+Nous savons fort bien que chez nous au contraire les tarifs
+urbains sont ceux où on charge plus tandis qu'on diminue les tarifs
+interurbains pour éviter ce risque et donc surtout dans notre
+Vallée avec le territoire que nous avons, territoire de montagne où
+les déplacements sont difficiles, ce risque de discrimination est
+très fort. C'est un point dont j'aurais apprécié une mention dans
+ce plan, c'est-à-dire quelles sont les actions que l'on envisage
+pour éviter ce risque car les choses s'accélèrent toujours plus et
+j'ai trouvé des traces assez faibles sur ce point. Ce n'est
+sûrement pas le kiosque qui peut résoudre ce problème, car c'est un
+système qui a déjà été abandonné ailleurs n'étant pas
+performant.
+Donc je souhaite que dans la réalisation de ce plan informatique
+de la Région on puisse tenir compte de ces problèmes afin que tous
+les citoyens puissent se connecter gratuitement à Internet de chez
+eux, sans payer aucun tarif urbain.
+Nous apprécions énormément l'effort qui est fait de se donner
+une stratégie globale et les moyens qui sont mis à disposition de
+cette stratégie, toutefois il faut penser que les chiffres ont un
+impact, 100 milliards c'est beaucoup, mais 100 milliards
+représentent 1,55 pour cent du bilan net de la Région, c'est 0,85
+pour cent du bilan brut de la Région et nous savons que le
+pourcentage que les entreprises doivent dépenser pour se maintenir
+à niveau technologique se situe autour de 1,5 pour cent.
+Donc il s'agit d'un chiffre très important, mais il ne s'agit
+pas d'un chiffre qui épouvante car 100 milliards c'est beaucoup,
+mais c'est ce qu'il faut dépenser pour faire une bonne, sérieuse,
+ordinaire administration informatique. C'est pour cela peut-être
+qu'on ne trouve pas dans ce plan certaines choses que nous
+voudrions trouver et c'est pour cela qu'il sera difficile étant
+dans une position de rattrapage des Pays les plus évolués. On ne va
+pas se comparer avec les autres régions d'Italie, j'espère, on va
+se comparer avec les régions les plus avancées dans ce domaine si
+l'on veut avoir un avantage qui puisse surmonter notre difficulté
+de petite vallée de montagne.
+Un autre point que je touche très rapidement c'est la question
+de la transparence. L'informatisation c'est la standardisation de
+l'information, des matériels et des logiciels et c'est une chose
+apparemment très démocratique parce que tout le monde peut accéder
+aux informations plus rapidement et plus facilement - évidemment
+aux informations auxquelles il a droit d'accès - selon un principe
+d'efficacité, de transparence et d'économie. Je n'ai pas lu la
+parole économie dans ce plan, j'ai lu efficacia ed efficienza, mais
+je n'ai pas lu economicità.
+La seule efficienza c'est aussi ce qu'à Naples on appelle
+"facite 'a 'mmuina" et l'efficacia c'est savoir obtenir ses buts,
+l'economicità ce sera les obtenir sans faire justement ce que aux
+temps de Ferdinand IV Borbone on appelât " 'a 'mmuina ".
+Cela s'obtient par la cohérence intérieure du système, par la
+non répétition des données à son intérieur, c'est-à-dire qu'une
+donnée est écrite quelque part comme référence pour tout le monde
+et elle ne doit pas être écrite d'une façon aux Travaux publics,
+d'une autre à la Publique Instruction, d'une autre au Tourisme et
+d'une autre à l'USL.
+Nous avons voté une loi l'année dernière, la loi n° 18, qui
+établit que l'Administration ne peut pas demander à aucun citoyen,
+qui fasse un procédé vers la Région, des données que la Région
+possède déjà, donc voilà que le fait d'avoir une cohérence de
+l'information et une possibilité d'accès de tous les bureaux aux
+mêmes informations permettrait de faire un gros saut de qualité
+dans les rapports entre l'Administration et les citoyens. Je n'ai
+pas trouvé une mention très précise sur ce point.
+Il faut faire évidemment un grand effort culturel de la part des
+bureaux qui continuent à demander un tas de documents qu'ils ont
+déjà, qu'ils continuent à les demander sur papier tout en ayant les
+ordinateurs, mais le plan affronte ce point et je pense que cet
+aspect sera bien résolu dans les prochaines années.
+La cohérence est importante surtout pour les données d'état
+civil car nous avons fait des auditions avec les responsables de
+l'Administration, les techniciens de l'Administration, avec INVA,
+avec les responsables des communautés locales pour
+l'informatisation et avec les responsables de l'USL; paraît-il que
+les données d'état civil sur lesquelles se base l'Administration,
+le fameux CSIA (Centro di smistamento informazioni anagrafiche), ne
+soient pas utilisées par l'USL, ce qui fait que les données
+utilisées par l'USL ne sont pas les mêmes dont les communes
+disposent tandis que le CSIA consolide tous les jours les
+variations dans les communes, mais cela n'arrive pas pour l'USL,
+qui utilise des données qui n'ont rien à voir avec le CSIA.
+Il serait souhaitable que ce plan contienne une indication dans
+le sens d'avoir une seule base de données qui parte des trois
+listes que les communes possèdent: électorales, de recrutement et
+scolaires, et que l'on puisse avoir une situation unique à laquelle
+toute la Vallée d'Aoste puisse faire référence. Ainsi pour cette
+intégration horizontale, non seulement verticale dont je parlais?,
+c'est-à-dire que nous avons toute une série de systèmes très
+intéressants et très puissants qui vont être mis en ligne, d'autres
+sont en train d'être terminés et vont partir rapidement, d'autres
+sont déjà partis, il faut être sûr que chacun travaille sur les
+mêmes données et donc éviter que chacun utilise ses propres
+archives, ses propres "data base".
+Deux petits mots sur les conseillers. Les gens dans la Vallée
+d'Aoste pensent que nous sommes privilégiés surtout pour
+l'information. Alors, sur 42 services d'information qui sont
+disponibles à la Présidence du Conseil il y en a 22 auxquels les
+conseillers ne peuvent pas accéder, très importants, très secrets,
+de secrets militaires, par exemple: Banca dati De Agostini, Leggi
+d'Italia, Codici d'Italia, Regolamento europeo, Codici regionali -
+il faut demander, il faut déranger le personnel, et à la fin on
+aura ce qu'on demande, peut-être - accesso all'applicazione
+biblioteca in consultazione, ce n'est pas mal ça et on pourrait
+continuer, donc sur 42 services, il y en a 20 qui sont niés aux
+conseillers, de même que tous les services de l'Administration, car
+nous n'avons pas d'accès au système de l'Administration.
+Il serait bien que les conseillers, pour leur travail et pour
+éviter de surcharger de travail les bureaux, puissent avoir une
+information plus complète tout en filtrant ce qui doit être filtré,
+mais il faut que quelqu'un s'occupe d'examiner quel est le problème
+que les conseillers affrontent chaque jour pour avoir des
+informations.
+Il faut quand même, pour que les choses puissent changer, qu'il
+y ait un réel changement de la culture de l'Administration, car ce
+n'est pas avec du software qu'on va obtenir ce qu'on se pose comme
+but. L'informatique représente la grande occasion pour la Région de
+changer le rapport entre Administration et citoyens, mais c'est une
+différente attitude des bureaux vers les citoyens qui peut faire la
+différence.
+Les logiciels sont des instruments, mais c'est nos
+fonctionnaires qui doivent les utiliser en sachant que ça sert à
+donner un meilleur service à nos citoyens, donc l'informatique ne
+sera à ce point seulement un instrument précieux, mais un
+instrument puissant et plus précisément un instrument de croissance
+de notre Communauté, seulement si nous donnons aux citoyens accès
+aux informations et si ces nouveaux systèmes peuvent éliminer ces
+barrières entre les Valdôtains et les services dont ils ont besoin,
+pour lesquels ils doivent toujours demander:
+"S'il vous plaît,
+Monsieur le fonctionnaire"
+.
+Donc, en me félicitant pour le gros travail d'analyse des
+problèmes et des projections des investissements sur les systèmes
+de la Région et sur le "Système Vallée d'Aoste", je souhaite que
+cela puisse déclencher aussi un changement d'attitude, un
+changement de culture dans l'Administration pour que notre service
+aux citoyens puisse s'améliorer.
+Presidente
+Se nessun altro chiede la parola, dichiaro
+chiusa la discussione generale.
+La parola al Presidente della Giunta, Viérin Dino.
+Viérin D. (UV)
+En remerciant ceux qui sont intervenus lors
+de la discussion générale et en m'excusant aussi car je n'ai pas
+toutes les compétences qui nous ont été montrées lors de cette même
+discussion, j'essayerai d'apporter quelques compléments
+d'information afin de mieux situer ce plan.
+Je prends acte du fait qu'au moins nos intentions sont bonnes;
+avoir de bonnes intentions ça veut dire qu'on part dans la bonne
+direction. C’est en 2002, quand nous vérifierons le
+bilan de nos actions, que nous pourrons donc constater si ces
+intentions se sont effectivement réalisées. Au contraire c'est un
+procès aux intentions même si elles sont bonnes.
+Les informations sont des ressources, il est vrai; nous avons
+donc défini un cadre de référence, mais je ne partage pas l'avis
+qui a été exprimé, portant à affirmer que les citoyens ne sont pas
+considérés. A part la présence de domaines spécifiques
+d'intervention, je veux en citer deux: celui du citoyen et celui de
+l'information. Je voudrais rappeler quelle est la nature d'une
+administration publique. Elle a une finalité générale qui est celle
+d'améliorer l'efficacité et l'efficience. N’ayant la
+mentalité des Bourbon, je ne citerai pas l'économie, mais je ne
+pensais pas non plus "fare la muina". Je ne comprends donc pas; si
+on m'explique, je comprendrai mieux, mais quelle est la finalité de
+cette Administration? Vu que son produit ce sont des services, son
+résultat est représenté par l'efficacité des services rendus aux
+usagers et qui sont les usagers de l'Administration? En grande
+partie, les citoyens. Donc, on ne peut pas nous dire qu'il n'y a
+pas de citoyens ou que les citoyens ne sont pas considérés, car si
+nous atteignons nos objectifs, à savoir améliorer l'efficacité de
+cette Administration, en plus des objectifs ciblés, des
+interventions ciblées spécifiques vis-à-vis des citoyens, nous
+aurons néanmoins rendu service aux citoyens.
+Donc comment peut-on affirmer que nous ne les considérons pas et
+comment peut-on dire que si nous voulons améliorer l'efficacité de
+cette Administration, c'est "autoreferenziale". Nous améliorons
+pour qui?
+(interruzione della Consigliera Squarzino Secondina, fuori
+microfono)
+? pour soi-même. Voilà, j'ai bien compris. Je me permets de
+souligner que je ne partage pas cette conclusion, car nous n'avons
+pas, en tant qu'administrateurs, cette ambition ou cette volonté
+d'améliorer quelque chose pour nous-mêmes.
+Les temps: peut-être a-t-on oublié de considérer qu'il s'agit
+d'un plan pluriannuel 2000-2002, mais que toutes les années il y
+aura un plan annuel donnant application au plan pluriannuel. Alors
+qu'est-ce que nous présentons aujourd’hui: le plan
+pluriannuel ou le plan annuel? Toutes les années, Mme Squarzino, il
+y a un plan annuel qui donne application ponctuelle aux objectifs
+et aux finalités.
+Je ne pensais donc pas que dans la rédaction d'un plan
+pluriannuel qui doit définir des objectifs nous devrons, avec un
+dirigisme militaire, fixer les heures, les dates et les minutes. Je
+le répète encore une fois, nous nous posons comme objectif de
+réaliser ces finalités dans la période de validité de ce plan.
+Donc, quand nous discuterons - et là j’y
+reviendrai - du problème du bilan de l'expérience précédente - nous
+pourrons exprimer un jugement, qui, au-delà des intentions, fera
+référence à des données concrètes.
+Les objectifs ont été atteints ou pas, au-delà des minutes et
+des heures que l'on doit indiquer pour résoudre ce problème?
+Il y a une exigence de mise à jour, il est vrai, et c'est une
+des finalités qui ont été indiquées. Il y a aussi à considérer que
+ce plan ne peut prendre en considération tous les éléments. Pour
+atteindre l'objectif, il est vrai, il faut disposer d'un plan, mais
+il faut également d'autres mesures et là je partage l'accent qui a
+été mis sur la formation, mais ce n'est pas celui-ci le plan de
+formation. J'ai moi-même affirmé qu'il faut mettre en place une
+stratégie globale pour soutenir la participation du Val d'Aoste aux
+différents projets, pour qu'il y ait la possibilité de participer
+aux différents projets. Mais pour définir les actions de recyclage
+et de formation entreprises, il y a des plans spécifiques, il y a
+des activités ciblées de la formation. On ne peut donc insérer les
+activités de formation dans ce plan.
+Néanmoins je partage l'avis qui a été exprimé ou la
+sollicitation qui nous a été adressée de tenir compte de cette
+exigence.
+Il faut améliorer la procédure de certification des services et
+des activités, il faut investir dans les ressources humaines car
+nous ne sommes pas sans considérer qu'il ne suffit pas de mettre
+des outils informatiques à la disposition de quelqu'un, pour
+changer le mode de fonctionnement d'une administration; il faut
+aussi un changement d'attitude, de mentalité et de culture, mais
+nous savons très bien que c'est un processus.
+Ce processus, nous voulons le poursuivre; nous voulons, avec ce
+plan, créer les conditions nécessaires pour atteindre ces
+objectifs, et, par la présentation de plans annuels, donner
+application à ces objectifs et à la fin vérifier en 2003 si nous
+avons ou non atteint les objectifs fixés et les résultats
+espérés.
+Pour ce qui est de la nécessité de disposer d'un compte-rendu
+concernant l'utilisation des 55 milliards de la période précédente,
+je fournirai dans le détail les données nécessaires à M. Tibaldi en
+vue de la vérification de l'utilisation de ces ressources
+financières.
+Quant à la signature électronique nous considérons qu'elle
+représente l'un des moyens appropriés pour simplifier toute
+l'action administrative; a ce propos, quels sont les acteurs qui
+ont une mission spécifique pour atteindre cet objectif? Il y a une
+fonction de coordination représentée par notre Département
+d'informatique qui utilise des compétences internes. Mais il s'agit
+de compétences qui ne sont pas illimitées, compte tenu aussi de
+certaines limites que nous nous sommes fixées quant aux effectifs
+de l'Administration régionale.
+Il y a donc l'exigence de recourir à des collaborations
+externes. Il y a la société INVA qui joue un rôle à cet égard,
+c'est une société mixte à majorité publique; il y a aussi
+l’"outsourcing", à savoir des collaborations
+externes qui sont envisagées pour le fonctionnement du système.
+Mais, il y a aussi la nécessité d'avoir une collaboration et une
+coordination étroite avec les collectivités territoriales dans le
+cadre de l'application et de la réalisation du système informatique
+territorial régional; il y a une loi régionale qui a fixé les
+principes et nous sommes en train de donner application à cette loi
+sur la base de ces projets.
+Pour ce qui est de l'entretien, là aussi, tout en me réservant
+de présenter des données plus spécifiques, il faut faire la
+différence entre le hardware et les dépenses pour celui-ci; ce sont
+200 millions de lires.
+L'autre partie est représentée pour ce qui est des logiciels,
+des programmes informatiques, du software et donc l'obligation, si
+l’on utilise ces programmes, de payer leur mise à
+jour, soit d'autres frais encore.
+Il faut aussi considérer que nos outils informatiques et
+technologiques ont été et sont renouvelés progressivement d'où la
+nécessité de soutenir ces frais pour assurer leur
+fonctionnement.
+Enfin, je partage la remarque qui a été faite quant à la
+nécessité de favoriser l'utilisation des nouvelles technologies. Je
+veux rappeler toutes les initiatives visant par exemple à obtenir
+par la Télécom l'unification des trois districts qui sont
+aujourd'hui présents à l'intérieur de la Vallée d'Aoste.
+Ce serait une mesure concrète, que nous avons par ailleurs
+réclamée à Télécom, mais que nous avons déjà appliqué pour notre
+réseau Internet, "la rete civica", car chaque appel de n'importe
+quelle partie de la Vallée d'Aoste a le prix d'un appel urbain.
+Il y a par contre des mesures qui doivent être prises par
+d'autres et que nous continuerons à solliciter. Mais ce n'est plus
+un problème spécifique de l'Administration régionale, c'est un
+problème de caractère général - pour assurer l'utilisation des
+nouvelles technologies.
+C'est donc un plan qui se fixe des objectifs; c'est un plan que
+nous pourrons vérifier pour ce qui est de son application par les
+différents programmes annuels; c'est un plan sur lequel le jugement
+pourra être mieux exprimé quand en 2003 nous aurons achevé les
+différentes interventions qui y sont prévues.
+C'est un plan également qui a repris les finalités d'ordre
+programmatique et politique que nous avons présentées à cette
+Assemblée; un plan qui a été défini par notre Département de
+l'informatique - que je remercie pour le travail accompli et pour
+sa collaboration - mais nous ne pouvons pas le considérer
+simplement comme un plan technique ou technologique, car il donne
+des perspectives qui sont par contre des perspectives
+d'amélioration et de changement d'une mentalité et de définition
+d'un processus pour améliorer non seulement l'efficacité de notre
+Administration, mais également pour que toutes les administrations
+publiques au Val d'Aoste soient reliées par réseau, leur permettant
+ainsi d’améliorer leur rapport avec les
+citoyens.
+Presidente
+La parola alla Consigliera Squarzino Secondina,
+per dichiarazione di voto.
+Squarzino (PVA-cU)
+Noi ci asterremo su questo piano anche
+perché le risposte date dal Presidente non ci hanno convinti.
+Quando dico che non c'è l'ottica del cittadino, voglio dire che
+tutta l'organizzazione dei servizi dell'Amministrazione è
+finalizzata a far funzionare se stessa come macchina e molte volte
+il cittadino è assente.
+Se non l’ho presente come obiettivo, non soltanto
+nel momento in cui attivo lo sportello del cittadino, ma anche
+nell'attività normale di organizzazione degli assessorati, rischio,
+pur avendo fatto tutto un lavoro, che ritengo utilissimo, in un
+secondo momento di dover intervenire per cambiarlo.
+Faccio un esempio che prendo dal piano; a pagina 52 è scritto
+che, una volta che è stata messa in piedi questa banca dati, si
+dovrà dedicare un particolare momento di riflessione alle politiche
+da attuarsi nei confronti delle modalità di erogazione,
+necessariamente differenziate, dei dati territoriali verso le
+differenti figure pubbliche e private.
+Lei mi insegna, Signor Presidente, che il modo con cui erogo i
+dati dipende anche dal modo con cui li ho raccolti e dalle
+tipologie di dati che ho raccolto. Porsi solo in un secondo momento
+l'obiettivo di "a chi servono", credo che sia un modo sbagliato di
+affrontare l'analisi dei problemi e delle informazioni da inserire
+nel piano. Un secondo elemento che mi preoccupa ancora di più è
+quando lei, Signor Presidente, dice che sono i piani operativi
+annuali che individuano gli obiettivi. Vorrei che fosse così.
+Di fatto questo non è avvenuto. Anche il piano triennale
+precedente prevedeva il piano operativo annuale; se fosse vero
+quello che lei dice, e cioè che i piani operativi annuali sono
+quelli che indicano la scansione delle cose da raggiungere, sarebbe
+stato facile adesso, nel redigere il piano triennale, dire: "Gli
+obiettivi che avevamo erano questi, nei piani annuali operativi li
+abbiamo temporalizzati in questo modo, questi sono stati raggiunti
+e questi altri no". Lei capisce che allora il piano diventerebbe
+uno strumento operativo e funzionale alla comprensione
+dell'efficacia del piano triennale.
+Presidente
+Pongo in votazione il punto all'ordine del
+giorno:
+Consiglieri presenti: 28
+Votanti e favorevoli: 22
+Astenuti: 6: (Curtaz, Lanièce, Lattanzi, Marguerettaz, Squarzino
+Secondina, Tibaldi)
+Il Consiglio approva.

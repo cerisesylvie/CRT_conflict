@@ -1,0 +1,291 @@
+Classificazione
+ENTI LOCALI
+INFORMAZIONE
+Sistema informativo
+
+
+
+Oggetto del Consiglio n. 1164 del 23 febbraio 2005 - Resoconto
+OGGETTO N. 1164/XII - Progetto per la disponibilità a tutti gli
+enti territoriali di informazioni anagrafiche delle persone
+fisiche. (Interrogazione)
+Interrogazione
+Premesso:
+- che tra i numerosi progetti avviati nell'ambito del Piano
+pluriennale per lo sviluppo del sistema informativo regionale
+figura il completamento del Centro Smistamento Informazioni
+Anagrafiche (CSIA);
+- che tale progetto dovrebbe rendere disponibili a tutti gli
+enti territoriali le informazioni anagrafiche delle persone fisiche
+sul territorio;
+ciò premesso, i sottoscritti Consiglieri regionali
+Interrogano
+l'Assessore delegato per sapere:
+1) quali sono gli enti coinvolti e in quali forme collaborano
+o compartecipano alla realizzazione del progetto di cui in
+Premessa;
+2) a che punto è il completamento del progetto, a quanto
+ammontano le risorse finora impegnate e quelle necessarie per
+ultimarlo;
+3) quali sono le informazioni anagrafiche trattate e se il
+loro trattamento è compatibile con le norme vigenti in
+materia;
+4) se tali informazioni sono liberamente trasferibili tra gli
+enti (o i soggetti) interessati oppure se sussistono vincoli
+normativi in tal senso.
+F.to: Tibaldi - Lattanzi
+Presidente - La parola all'Assessore al bilancio, finanze,
+programmazione e partecipazioni regionali, Marguerettaz.
+Marguerettaz (UV) - Devo ringraziare il Consigliere Tibaldi per
+darmi modo di rappresentare un progetto che gli era sconosciuto,
+perché di un progetto che beneficia di una convenzione sottoscritta
+con 74 Comuni, se il Consigliere Tibaldi può dire che è un progetto
+sconosciuto...
+In risposta alla prima domanda, il progetto riguardante il
+Centro smistamento informazioni anagrafiche - "CSIA" - è stato
+impostato nel corso del 2002 da un gruppo di lavoro costituito da
+rappresentanti del Dipartimento enti locali, da rappresentanti del
+Dipartimento sistema informativo e da rappresentanti dei Comuni, i
+segretari comunali. Tale gruppo di lavoro è stato coordinato da un
+apposito comitato istituito con una deliberazione di Giunta, n.
+785/2003, ed era formato da una serie di dirigenti: Coordinatore
+del Dipartimento enti locali, Coordinamento del "DSI", Caposervizio
+del Registro delle imprese, Albo delle imprese artigiane, 2
+rappresentanti effettivi e 2 supplenti del Consiglio permanente
+degli enti locali, un rappresentante effettivo e uno supplente
+dell'Associazione regionale dei segretari comunali, un responsabile
+effettivo e un supplente dei servizi demografici dei Comuni della
+Valle d'Aosta, designati sempre dal Consiglio permanente degli enti
+locali.
+Allo stato attuale Regione e Comuni hanno firmato 74
+convenzione, in cui il ruolo della Regione consiste nel gestire per
+conto del Comune una base dati di lavoro normalizzata e
+strutturata, contenente copia dei dati anagrafici del Comune,
+aggiornata quotidianamente dalle variazioni dell'anagrafe di
+gestione proveniente dal Comune; la necessità di disporre di una
+base dati normalizzata deriva sia dall'obiettivo di distinguere la
+base dei dati di gestione da quella di smistamento, sia dalla
+necessità di limitare gli impatti gestionali sul Comune,
+uniformando le informazioni secondo codificazioni comuni
+all'interno del sistema "CSIA"; creare al fine di fornire un
+supporto adeguato per favorire la partecipazione attiva dei Comuni
+all'iniziativa ed in considerazione del loro numero limitato e
+delle loro modeste dimensioni demografiche e per ragioni di
+economicità un unico server centrale presso l'Amministrazione
+regionale, che gestirà per conto del Comune l'intero processo di
+normalizzazione, strutturazione e manutenzione temporale della base
+dati.
+Sempre nei compiti della Regione vi è quello di collegare in via
+telematica il Comune alla rete telematica di interscambio
+anagrafico, fornire al Comune gli strumenti "hardware" e "software"
+per il collegamento, la gestione e lo scambio dei dati qualora gli
+strumenti in dotazione al Comune non siano idonei, garantire il
+funzionamento del sistema anche mediante l'addestramento e
+l'aggiornamento del personale comunale addetto alla assistenza e
+alle attività comunali di formazione del personale, curare
+l'Amministrazione del sistema e la sua evoluzione tecnologica,
+assicurare la riservatezza dei dati in transito sul server
+regionale e garantire le funzioni di controllo accessi per la
+sicurezza dei dati stessi, fermo restando gli impegni che in tal
+senso vengono assunti per quanto di sua competenza dal Comune,
+realizzare un adeguato sistema di monitoraggio e di controllo per
+la affidabilità complessiva del sistema, anche in relazione alle
+previste integrazioni con progetti a livello interregionale e
+nazionale, consentire al Comune nei limiti di quanto previsto dalla
+normativa vigente sulla riservatezza dei dati personali la
+consultazione controllata e differenziata, ad esclusivo uso interno
+delle informazioni contenute nella banca dati relativi alle persone
+giuridiche iscritte alla Camera di commercio di Aosta.
+I Comuni da parte loro si impegnavano alle seguenti funzioni:
+essere collegati in via telematica alla Regione di interscambio
+anagrafico secondo le procedure stabilite dalla Regione, installare
+e utilizzare gli appositi strumenti "hardware" e "software" per il
+collegamento e la costituzione della base dei dati e per il suo
+costante aggiornamento, nonché per lo scambio dei dati,
+comunicazione e trasmissione nel rispetto degli standard di
+utilizzo prestabiliti, mettere a disposizione della Regione le
+informazioni, la documentazione e i dati per il popolamento della
+base dati del Comune garantendo il regolare aggiornamento e la
+corretta continuità, garantire concordando con la Regione tempi e
+modalità, la partecipazione del personale addetto ad adeguate e
+periodiche attività di formazione, garantire l'aggiornamento
+quotidiano dei dati provenienti dall'anagrafe di gestione e
+assicurare qualità e completezza dei dati forniti al fine di
+assicurare la attendibilità e la coerenza del sistema nel suo
+complesso; infine, garantire la riservatezza dei dati in transito
+sulla rete telematica di interscambio anagrafico ed il rispetto
+delle procedure di sicurezza adottate sia per quanto riguarda le
+funzione di controllo accessi sia per quanto riguarda il
+ricevimento e l'utilizzo dei dati, fermi restando gli impegni che
+vengono assunti e garantiti per quanto di sua competenza dalla
+Regione, attivare e mantenere funzionante il collegamento dei
+propri sistemi anagrafici con il sistema di interscambio in vigore,
+garantendo soluzioni di continuità al sistema, provvedere
+all'adeguamento dei propri sistemi anagrafici alle regole di
+interscambio, fornire la propria collaborazione alla definizione
+concordata delle modalità tecniche ed operative necessarie per lo
+scambio di informazioni istituzionali tra le diverse
+amministrazioni pubbliche con particolare riferimento alla
+definizione dei profili di accesso e alle misure di sicurezza.
+L'architettura di questo sistema si pone l'obiettivo di ricevere
+quotidianamente l'aggiornamento delle informazioni demografiche da
+parte dei Comuni, di controllare la completezza dei movimenti - i
+movimenti senza codice fiscale vengono scartati -, di normalizzare
+le informazioni relative a Comuni di nascita, stato civile e
+relazioni di parentela secondo le codificazioni "ISTAT", di
+notificare al Comune i movimenti scartati attraverso e-mail, di
+inserire i dati sulla base dati copia rispettiva, di definire e
+mantenere le regole di normalizzazione sulla base delle
+caratteristiche dei dati inviati, di smistare i flussi verso le
+strutture dell'Amministrazione regionale, ad esempio quella dei
+buoni carburante, rispettando i principi di pertinenza e non
+eccedenza del dato. Il sistema mette altresì a disposizione degli
+utilizzatori a titolo non oneroso i dati relativi alle imprese del
+territorio provenienti dalla banca dati del registro imprese,
+aggiornati con cadenza quindicinale con flussi inviati dalla
+società consortile delle Camere di commercio ("Infocamere").
+Il sistema permette di accedere alle informazioni secondo 2
+modalità: una "on line" mediante un accesso Web garantito dai nodi
+applicativi messi a disposizione della Regione, oppure con
+certificati di criptografazione da "PC" del Comune, in cui
+l'operatore può controllare posizioni individuali sulle
+informazioni accessibili in relazione al proprio profilo di
+accesso; una modalità "off line" o "batch" in cui le informazioni
+sempre definite in base ad uno specifico profilo di accesso vengono
+smistate con flussi per poter essere trattati da sistemi
+informativi di settore (buoni carburante, sanità...).
+Seconda domanda, il sistema applicativo centrale, realizzato in
+architettura Web, è stato collaudato a maggio 2003, a seguito del
+collaudo sono state portate avanti le attività di avvio dei Comuni
+sul territorio secondo una priorità data dal mix dei seguenti
+elementi: convenzione firmata, nodi di interscambio e connessioni
+di rete funzionanti, sistemi demografici comunali con funzioni di
+interscambio operative, qualità e completezza dei dati con
+particolare riferimento ai codici fiscali. Allo stato attuale sono
+operativi 29 Comuni corrispondenti al 60% della popolazione sul
+territorio.
+Le difficoltà principali sono le seguenti: connessioni di rete e
+infrastrutture non sempre funzionanti unite a problematiche di
+interconnessione fra rete regionale e reti comunali, qualità e
+completezza dei dati a livelli non sempre accettabili, sistemi
+informativi demografici differenti presso i vari Comuni, sistemi
+informativi demografici in fase di sostituzione e mancanti delle
+funzioni di interscambio, la cui realizzazione è di competenza
+comunale.
+Rispetto alle risorse finanziarie, abbiamo le risorse per
+l'analisi funzionale e la progettazione, 44.400,00 euro, per la
+realizzazione 61.329,60 euro, per l'adeguamento evolutivo 10.752,00
+euro, per l'avviamento 40.320,00 euro, per completare l'avviamento
+- questa è una stima - 60.000,00 euro. Nelle risorse elencate non
+sono contemplati i costi di sostituzione dei nodi di
+interconnessione - i computer -, poiché facenti parte del ciclo
+ordinario di sostituzione dei "PC" dell'Amministrazione né i costi
+di trasloco di linee telefoniche fortemente dipendenti da traslochi
+di alcune sedi comunali. Non sono altresì contemplati i costi di
+adeguamento dei sistemi demografici comunali, poiché risultano a
+carico dei Comuni e non della Regione.
+Il tempo per la conclusione non è stimabile, perché dipendente
+dai seguenti fattori: forte dipendenza dai sistemi demografici
+comunali, molti Comuni stanno cambiando i propri sistemi
+informativi con nuovi sistemi con specifiche di interscambio non
+presenti e non adeguate; è allo studio un'integrazione con i nuovi
+sistemi nazionali che il Ministero dell'interno sta avviando a
+livello nazionale. Le problematiche non sono di tipo tecnico quanto
+legate a qualità e competenza dei dati e dal rispetto dei reciproci
+obblighi da parte dei Comuni, nonché di cambiamenti in atto a
+livello nazionale.
+In risposta alla terza domanda, le informazioni anagrafiche sono
+di 2 categorie, nell'ambito delle persone fisiche abbiamo i dati
+anagrafici, i dati di residenza, i dati elettorali, i dati di stato
+civile, i dati di stato di famiglia; per le persone giuridiche,
+consistenti nella messa a disposizione delle informazioni acquisite
+dalla Regione dalla società "Infocamere" raggruppate negli insiemi
+omogenei, dati di impresa e dati dei soci. Il trattamento delle
+informazioni viene autorizzato dai titolari delle informazioni,
+ovvero i Comuni, e viene effettuato ai soli fini istituzionali da
+parte dei soggetti pubblici e rispetta il principio di pertinenza e
+non eccedenza previsti dalla legge, principio che si traduce in
+profili utente specifici per l'accesso al sistema. Tali profili
+permettono la fruizione delle sole informazioni necessarie ai fini
+istituzionali e definite da leggi o regolamenti, per esempio il
+servizio buoni carburanti potrà accedere a dati di residenza ma non
+a dati elettorali o di stato civile in quanto eccedente rispetto
+alle proprie competenze.
+La gestione della profilazione utente rispetta le misure minime
+di sicurezza definite dall'articolo 33 del disegno di legge n.
+196/2003, codice in materia di protezione dei dati personali, in
+particolare l'autenticazione informatica attraverso "login" e
+"password" non accessibile su sistema applicativo, l'adozione di
+procedure di gestione delle credenziali attraverso il
+coinvolgimento del Dipartimento enti locali del Dipartimento
+sistema informativo dei Comuni, utilizzazione di un sistema di
+autorizzazione, aggiornamento periodico dei singoli incaricati
+attraverso comunicazioni provenienti dal Comune, protezione degli
+strumenti elettronici e dei dati rispetto a trattamenti illeciti
+nell'ambito delle politiche adottate per la rete
+dell'Amministrazione regionale, adozione di procedure per la
+custodia di copie di sicurezza e ripristino dei dati e dei sistemi
+attraverso le regole definite dall'"outsourcer" nel sistema "INVA
+S.p.a.".
+Infine, ultima domanda, il trasferimento previsto esclusivamente
+verso altri enti pubblici è vincolato alla autorizzazione da parte
+dei singoli Comuni attraverso il comitato istituito con
+deliberazione di Giunta del marzo 2003; il trasferimento avviene
+definendo un apposito profilo utente sulla base dei fabbisogni
+informativi necessari e definiti istituzionalmente da una legge, un
+regolamento o altro riferimento ufficiale. Per ogni ente
+richiedente e per ogni profilo definito viene predisposta una
+apposita scheda, che definisce tutte le caratteristiche di
+dettaglio del profilo fino al dato elementare.
+Si dà atto che dalle ore 11,51 presiede il Presidente
+Perron.
+Président - La parole au Conseiller Tibaldi.
+Tibaldi (CdL) - Ringrazio l'Assessore per la risposta che direi
+è completa rispetto ai quesiti posti dall'interrogazione. Alcune
+considerazioni. La prima, non vogliamo assolutamente mettere in
+discussione la validità e la forte innovatività del progetto, che è
+giusto che venga completato e sia perfettamente funzionante.
+Vorremmo sollevare alcune perplessità sul trattamento di certi
+dati, perplessità sollevate a suo tempo nel 1999 con una nota del
+Ministero dell'interno, ripresa nella deliberazione n. 785 che ha
+citato l'Assessore, dove il Ministero evidenziava 3 questioni:
+l'esigenza che questo centro di smistamento delle informazioni
+anagrafiche fosse privo di funzioni di gestione ed elaborazione di
+dati anagrafici, di cui devono rimanere titolari le singole
+amministrazioni comunali, e questo è stato poi osservato; il
+divieto di trasferire l'anagrafe presso enti diversi dal Comune,
+perché rimane il Comune l'ente titolare dei dati e l'ente che li
+può gestire; il fatto che siano solo certi soggetti pubblici ad
+utilizzare questi dati per fini istituzionali. Una nota che è stata
+osservata, tanto che le 74 convenzioni siglate la riprendono "in
+toto".
+Quali sono le perplessità? La prima è di carattere tecnico,
+citata e ammessa dall'Assessore, e riguarda i problemi di
+connessione fra rete regionale e singoli terminali comunali. È un
+problema che si ripropone anche nel turismo, ne abbiamo parlato più
+volte con l'Assessore Caveri, quando c'è questa difficoltà ad
+acquisire dati dai singoli comprensori, vuol dire che la rete di
+connessione regionale ha delle difficoltà che non sono state ancora
+risolte. Questo ci dispiace alla luce delle ingenti risorse che
+l'Assessorato alle finanze sta spendendo in questa direzione,
+quindi è opportuno che la connessione di rete regionale trovi una
+sua compatibilità e funzionalità oggi inesistente.
+La seconda perplessità riguarda i possibili trattamenti
+illeciti. Lei oltre ad illustrare una sequela di funzioni e di
+precauzioni nel rispondere alla interrogazione, che riguardano il
+funzionamento di questo centro di smistamento, ha dato ampia
+garanzia sull'utilizzo esclusivamente istituzionale dei dati; però
+la Valle d'Aosta ha vissuto un precedente pericoloso, una
+dimostrazione di disinvoltura per avere talvolta utilizzato questi
+dati per fini non istituzionali. Vedo che non ricordate, è il caso
+del presidente del "CELVA" che ha utilizzato i dati in occasione
+della campagna elettorale del 2004 per sostenere un candidato. Un
+domani che si crea questo sistema, sarebbe opportuno che certe
+formule di garanzia trovassero concretezza nella realizzazione del
+sistema, ovvero che fossero i soggetti pubblici ad utilizzarli per
+fini istituzionali, per evitare di trovarci a sorprese poco
+gradevoli dove dati anagrafici sono stati usati per una mera
+propaganda elettorale.
+Con queste perplessità e con l'auspicio che le precauzioni da
+lei annunciate, trovino realizzazione concreta, la ringraziamo per
+la risposta fornita.

@@ -1,0 +1,115 @@
+Classificazione
+INFORMAZIONE
+Radiotelecomunicazioni
+
+
+
+Oggetto del Consiglio n. 1249 del 6 aprile 2005 - Resoconto
+OGGETTO N. 1249/XII - Precauzioni adottate per tutelare la
+sicurezza e la riservatezza delle comunicazioni telefoniche e per
+posta elettronica. (Interrogazione)
+Interrogazione
+Visto quanto verificatosi a Roma, dove persone non
+autorizzate avrebbero reperito informazioni dai computer
+dell'Anagrafe centrale del Comune di Roma;
+Ricordato che vari consiglieri regionali già in passato hanno
+sollevato il problema delle riservatezza delle comunicazioni e dei
+dati trasmessi sia attraverso il telefono sia attraverso i
+computer;
+il sottoscritto Consigliere regionale
+Interroga
+la Giunta regionale e l'Assessore competente per
+conoscere:
+1) qual è la percentuale di sicurezza e riservatezza nelle
+comunicazioni per telefono e per posta elettronica tramite gli
+apparecchi in dotazione presso gli uffici gruppi
+consiliari;
+2) quali sono le precauzioni che sono state adottate per
+evitare violazioni nei sistemi di sicurezza.
+F.to: Riccarand
+Presidente - Questa interrogazione riguarda parzialmente una
+materia estranea alla competenza della Giunta, infatti gli
+apparecchi informatici in dotazione ai consiglieri regionali presso
+l'Ufficio gruppi sono gestiti direttamente dal Consiglio attraverso
+il proprio sistema informativo, che è autonomo e staccato rispetto
+a quello della Giunta; invece il sistema di comunicazione
+telefonica è inglobato nel sistema di fonia gestito dalla Giunta
+attraverso il proprio centralino. Resta inteso che, ai sensi
+dell'articolo 109, la risposta della Giunta riguarderà solo la
+parte dell'interrogazione che concerne la sicurezza e la
+riservatezza delle comunicazioni per via telefonica e ritorneremo
+successivamente sulla parte riguardante il Consiglio.
+La parola all'Assessore al bilancio, finanze, programmazione e
+partecipazioni regionali, Marguerettaz.
+Marguerettaz (UV) - Al di là delle premesse che correttamente
+sono state fatte, l'interrogazione discende da avvenimenti che
+hanno avuto luogo nel Comune di Roma, quindi una presunta
+interferenza nell'ambito dell'Anagrafe nel Comune di Roma per delle
+verifiche. Da quel tipo di ragionamento il collega Riccarand si
+interroga su quali possono essere eventuali problemi e quali
+possono essere le caratteristiche di riservatezza e di sicurezza
+dei nostri sistemi.
+Per quanto riguarda le comunicazioni telefoniche, si conferma
+che le linee interne del Consiglio fanno parte del sistema
+centralizzato dell'Amministrazione regionale, gestito dalla
+Direzione tecnologia e gestione. Ricordo che la decisione di avere
+un unico sistema era stata presa a suo tempo e confermata con lo
+spostamento degli uffici dell'attuale sede ed erano scelte adottate
+in virtù di ragionamenti di convenienza economica, organizzativa e
+di immagine nei confronti del cittadino, per cui avevamo lo stesso
+suffisso: 273 e poi i numeri degli apparecchi interni. Per quanto
+attiene la riservatezza, gli interni sono gestiti dalla centrale
+"Italtel" situata fisicamente nell'apposito locale tecnologico. I
+telefoni installati sono in maggior parte di tipo digitale, per cui
+la comunicazione fra i telefoni e la centrale non è in chiaro e
+quindi è di difficile intercettazione: è una trasmissione difficile
+da intercettare. L'uscita verso la rete pubblica avviene in
+modalità "random": ricerca casuale del canale libero, quindi
+l'uscita all'esterno è una prenotazione sulla prima linea, per cui
+non è la stessa su tutte le linee che abbiano la ricerca della
+prima linea libera, per cui anche in questo caso l'intercettazione
+delle telefonate effettuate da uno specifico numero interno è
+difficile. Vi è un sistema che fa delle valutazioni, come potrebbe
+esserci la necessità di fare la valutazione sulla documentazione
+addebiti, cioè la durata e il costo delle telefonate, anche perché
+vi è un certo tipo di necessità da parte dell'amministrazione sulle
+valutazioni economiche delle singole utenze. Non esistono tuttavia
+sistemi di registrazione voce, quindi non vi è nessuna possibilità,
+per quanto attiene l'impostazione dell'Amministrazione regionale,
+di sistemi che permettono la registrazione della voce. Sembra
+quindi che il nostro sistema assicuri la riservatezza delle
+comunicazioni, non dovrebbe esserci la possibilità di
+ascoltarle.
+Per quanto attiene la sicurezza, la centrale telefonica di
+Palazzo Deffeyes, sulla quale vengono eseguiti da personale
+qualificato gli interventi di gestione, quali configurazione degli
+interni, assegnazione e modifica classe di abilitazione, è situata
+in un locale tecnologico protetto da intrusioni di personale non
+autorizzato, quell'accesso è gestito da un impianto di allarme
+collegato ad un istituto di vigilanza al quale arrivano le
+segnalazioni di normale accesso o di forzatura, così come di
+segnali di eventuali anomalie: incendio, allagamento, eccetera.
+Oltre alla chiave per l'apertura della porta, chiave custodita in
+armadio di sicurezza con accesso limitato e controllato, per
+l'accesso è indispensabile digitare il proprio codice sulla
+tastiera di allarme, per cui tutti gli accessi alla centrale
+lasciano una traccia, perché, oltre alla chiave, bisogna anche
+digitare il proprio codice, vi è una rintracciabilità di coloro che
+accedono alla centrale; inoltre è di prossima attivazione un
+sistema complementare per l'accesso gestito tramite "badge"
+personale. Infine, la sala di attestazione e derivazione delle
+linee di fonia è situata internamente ai locali del Dipartimento
+servizi informativi, l'accesso a detto locale è consentito solo al
+personale del DSI con "badge" abilitato. Questo è riconducibile
+dell'attività del servizio, afferente alla Direzione tecnologie e
+gestione.
+Presidente - La parola al Consigliere Riccarand.
+Riccarand (Arc-VA) - La risposta dell'Assessore non mi è
+sembrata particolarmente rassicurante, perché ha fatto un ampio uso
+del condizionale, ha indicato tutta una serie di dettagli tecnici,
+ma non ha dato una risposta alla domanda precisa, che era
+l'indicazione di una percentuale di sicurezza; era per capire qual
+è la valutazione rispetto alla telefonia.
+Aspettiamo anche di avere la nota dalla Presidenza del Consiglio
+per quanto riguarda l'uso dei computer e ci riserviamo di fare una
+valutazione quando avremo l'insieme di tutti questi elementi.

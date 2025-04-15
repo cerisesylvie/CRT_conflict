@@ -1,0 +1,278 @@
+Consiglio Regionale della Valle d'Aosta - Oggetto del Consiglio n. 1132 del 9 febbraio 2005 - Resoconto
+Vai al contenuto principale
+Oggetti del Consiglio
+Invia
+Stampa
+Documenti
+Verbale
+Resoconto
+Collegamenti
+Iter atto
+Classificazione
+ENERGIA
+Precedente
+Successivo
+Resoconto integrale del dibattito dell'aula. I documenti allegati sono reperibili nel link "iter atto".
+Oggetto del Consiglio n. 1132 del 9 febbraio 2005 - Resoconto
+OGGETTO N. 1132/XII - Cause di un "black-out" di telecomandi per
+effetto di interferenze in una zona di Aosta. (Interrogazioni)
+Interrogazione
+Venuti a conoscenza del "black-out" verificatosi ad Aosta a
+partire dalla giornata di giovedì 20 gennaio che, per diversi
+giorni, ha paralizzato i cancelli, le sbarre automatiche e i
+telecomandi delle automobili nella zona nord-est della città,
+costringendo i cittadini ad un disagio non previsto;
+Riscontrato l'intervento dei tecnici dell'Arpa, l'Agenzia
+regionale per la protezione dell'ambiente, che hanno effettuato una
+serie di rilievi per la valutazione dei livelli di campo
+elettromagnetico a radiofrequenza, presenti nella zona, e che hanno
+segnalato l'anomalia alla polizia postale;
+Accertato che l'anomalo caso ha avuto un eco nazionale, con
+diversi servizi televisivi nei telegiornali delle reti Rai e
+Mediaset;
+Preso atto che il 24 gennaio un troupe di "Striscia la
+notizia", il telegiornale satirico di Canale 5, ha effettuato,
+grazie alla collaborazione di tecnici provenienti da fuori valle,
+le misurazioni necessarie ed ha scoperto la causa del disturbo che
+provocava la paralisi dei cancelli, le sbarre automatiche e i
+telecomandi delle automobili, eliminando il problema;
+i sottoscritti Consiglieri regionali
+Interrogano
+La Giunta regionale per sapere:
+1) come ha proceduto l'Arpa di fronte alle segnalazioni dei
+cittadini e come mai non è riuscita a trovare la soluzione;
+2) quale sia l'organo preposto al controllo ed al
+monitoraggio di disturbi e di interferenze di tipo radioelettrico,
+alla luce anche delle dichiarazioni rese dal direttore dell'Arpa ai
+mass media, in base alle quali l'Azienda regionale avrebbe svolto
+pienamente ed efficacemente i propri compiti.
+F.to: Salzone - Lanièce - Squarzino Secondina
+Interrogazione
+Premesso
+- che un'interferenza elettromagnetica ha impedito, per
+diversi giorni, il funzionamento dei telecomandi e degli antifurti
+in una zona di Aosta;
+- che tale notizia ha avuto rilievo in diverse edizioni di
+telegiornali nazionali;
+- che l'ARPA non è riuscita a individuare la fonte di tale
+fenomeno;
+- che l'origine del fenomeno è stata poi scoperta in poche
+ore da esperti ingaggiati da una troupe di "Striscia la notizia",
+nota trasmissione televisiva che non ha perso l'occasione di
+burlarsi dell'ARPA per l'insuccesso collezionato;
+ciò premesso, i sottoscritti Consiglieri regionali
+Interrogano
+la Giunta regionale per conoscere:
+1) per quali ragioni l'ARPA valdostana non è riuscita ad
+individuare la fonte del disturbo di cui in Premessa;
+2) quali valutazioni esprime sul caso in esame.
+F.to: Tibaldi - Frassy - Lattanzi
+Presidente - La parola all'Assessore al territorio, ambiente e
+opere pubbliche, Cerise.
+Cerise (UV) - Prima di passare alla risposta in merito alle
+interrogazioni, preciso che avevo richiesto all'ARPA una relazione
+tecnica dettagliata che descrivesse le attività di monitoraggio e
+misurazione, effettuate in seguito alla segnalazione di alcuni
+cittadini residenti nelle zone interessate dal "black-out"
+verificatosi ad Aosta a partire dalla giornata di giovedì 20
+gennaio 2005, che hanno causato il malfunzionamento dei dispositivi
+di apertura e chiusura di cancelli, sbarre automatiche e dei
+telecomandi delle automobili, nella zona nord-est della città. La
+relazione è a disposizione degli interroganti.
+Per quanto riguarda il primo punto, ricordo che nella mattinata
+del 20 gennaio 2005 è stata segnalata all'ARPA un'anomalia nel
+funzionamento dei telecomandi di alcuni cancelli in Via des
+Seigneurs de Quart e di un'automobile in Corso Ivrea presso la
+Scuola media "St. Roch". In seguito a tale segnalazione i tecnici
+dell'Agenzia sono intervenuti, alle 10,30 circa, presso la Scuola
+"St. Roch" in Corso Ivrea, 19. Sono state eseguite misure di campo
+elettrico in banda larga e i valori rilevati non superavano 0,2 V/m
+(soglia di rilevabilità del sensore, quindi il minimo). È stato
+inoltre possibile verificare il non funzionamento del telecomando
+di attivazione della chiusura centralizzata dell'auto per la quale
+era stata segnalata l'anomalia; tuttavia, l'antifurto
+radiocomandato dell'auto dell'ARPA non presentava anomalie di
+funzionamento, né si registravano anomalie da parte di altri
+telecomandi.
+Nel pomeriggio del 20 gennaio, tra le 14 e le 16, sono stati
+eseguiti rilievi in Via des Seigneurs de Quart, presso uno slargo e
+nelle immediate vicinanze dei cancelli soggetti a funzionamento
+anomalo. Sono state eseguite misure di campo elettrico in banda
+larga nella gamma di frequenze da 100 kHz a 3 GHz, che sono quelli
+che possono avere influenza per la salute, rilevando il valore
+medio su 6 minuti come richiesto dalla normativa vigente ai fini
+della valutazione dell'esposizione della popolazione ai campi
+elettromagnetici. Il valore massimo registrato è di 0,37 V/m,
+quindi nettamente inferiore alla soglia di pericolo di rischio.
+Durante l'intervento si è potuto constatare che alcune porte
+automatiche di box, comandate a distanza con radiocomando, non si
+aprivano se il telecomando non veniva avvicinato alla porta e,
+anche in questo caso, dopo ripetuti tentativi. Dispositivi
+analoghi, nella stessa area, non presentavano alcuna alterazione
+delle funzioni. Mediante un apposito apparecchio si è identificata
+la frequenza operativa del telecomando in questione.
+Nel pomeriggio del 21 gennaio, tra le 14 e le 16,30, sono state
+eseguite ulteriori verifiche con misure in banda stretta, in una
+gamma di frequenze nell'intorno di quella dei telecomandi, nel
+piazzale privato da cui si accede ai box, in Via des Seigneurs de
+Quart, 33. Sono stati memorizzati i dati utilizzando le
+impostazioni dell'analizzatore di spettro che consentono di
+memorizzare gli sviluppi di queste correnti, poi le acquisizioni
+sono state ripetute utilizzando apposite antenne. Il giorno 24
+gennaio sono state ripetute le misure di campo elettrico in banda
+larga presso la Scuola "St. Roch" e in Via des Seigneurs de Quart:
+i valori registrati erano molto bassi, da 0,20 V/m a 0,35 V/m,
+quindi ininfluenti per quanto riguarda la salute. I rilievi
+eseguiti al fine di valutare l'esposizione della popolazione hanno
+evidenziato il rispetto dei valori di riferimento previsti dalla
+normativa vigente: il valore massimo misurato, mediato su 6 minuti,
+è di 0,37 V/m in una zona considerata area intensamente frequentata
+nella quale è previsto il rispetto del livello di 6 V/m.
+Ai fini della verifica del permanere delle condizioni di
+rispetto dei limiti previsti dalla normativa è stata installata una
+centralina di monitoraggio continuo del campo elettrico, nel
+giardino della Scuola "St. Roch". È stata inoltre condotta
+un'analisi in frequenza nella banda di funzionamento dei
+telecomandi che non ha evidenziato la presenza di segnali di
+intensità rilevante ai fini della protezione dei cittadini dalle
+radiazioni elettromagnetiche.
+In merito alle questioni sollevate riguardo all'organo preposto
+al controllo e al monitoraggio di disturbi e di interferenze sono
+necessarie alcune precisazioni. L'ente deputato all'identificazione
+delle sorgenti alle diverse frequenze è l'Ispettorato per le
+telecomunicazioni. Non a caso, il giorno 21 gennaio gli agenti
+della Polizia postale di Aosta e il Corpo di vigilanza e ispezione
+dell'Ispettorato per le telecomunicazioni sono intervenuti sul
+posto. In tutte le situazioni in cui si renda necessario un
+riconoscimento selettivo della paternità delle frequenze irradiate
+è richiesto per legge l'intervento di funzionari dell'Ispettorato
+per le telecomunicazioni (vedi il caso recente dei rilievi inerenti
+la riduzione a conformità nella zona di Gressan-Les Fleurs).
+Nel pomeriggio di venerdì 21 gennaio i tecnici ARPA, con
+l'analizzatore di spettro, hanno individuato la frequenza oggetto
+di interferenza sui 433,9 MHz, e il presunto segnale interferente.
+La potenza del segnale è dell'ordine di un milione di volte
+inferiore al limite previsto dalla vigente normativa per
+l'esposizione della popolazione. Livelli di questa entità possono
+essere significativi dal punto di vista del disturbo alle
+apparecchiature elettroniche, ma escono dall'ambito di competenza
+dell'ARPA. Si passa infatti da un ambito di prevenzione
+dell'inquinamento elettromagnetico - come individuato dalle
+normative vigenti, avente per oggetto la salute della popolazione -
+ad un ambito di compatibilità elettromagnetica, che riguarda la
+possibile influenza reciproca di dispositivi radioelettrici. Il
+"rapporto ARPA" sulle misure effettuate, contenente anche
+l'identificazione della frequenza interferente, per dovere di
+ufficio è stato spedito martedì 25 gennaio, via fax, alla Polizia
+postale.
+In conclusione, l'ARPA non ha individuato la fonte del disturbo
+perché non ha diretto la sua azione in tale direzione, in quanto
+non di sua competenza; ha però fornito alla Polizia tutti gli
+elementi per individuare l'origine del disturbo. Ricordo che
+l'attribuzione ad ARPA di competenze in tema di compatibilità e
+interferenze elettromagnetiche richiederebbe la modificazione sia
+della legislazione nazionale, sia di quella regionale in
+materia.
+Presidente - La parola al Consigliere Salzone.
+Salzone (FA) - Brevissimamente, perché su questa vicenda ormai
+siamo andati dappertutto, sui giornali, sulle televisioni, quelle
+umoristiche e quelle meno umoristiche, tanto che sono circolate in
+questo periodo battute quali: "
+non so se l'Arpa era uno
+strumento che funzionava"
+. Devo dire che la sua risposta mi ha
+stupito, perché è una risposta "molto accademia", lei è una persona
+troppo intelligente, Assessore, per non capire che qui, lei, ha
+chiesto dei dati all'ARPA e non ha fatto altro che riprendere ciò
+che era già stato detto sui giornali! È evidente però che un
+disagio di questo tipo, al di là del lato umoristico, non ha dato
+una bella immagine sulla funzionalità della nostra struttura e
+pensavo che nella sua risposta ci fosse anche un incentivo per
+cercare di capire se a situazioni di questo tipo si poteva far
+fronte in futuro.
+Lei risposte non ne ha date, perché è vero che la Polizia
+postale ha il compito di andare a verificare se c'è il campo
+elettromagnetico e la radiofrequenza disturbata - tutte cose
+tecniche -, ma se aspettiamo di avere i risultati dalla Polizia
+postale come le Poste, alla fine non riusciamo ad avere alcuna
+risposta! Immaginavo che ci fosse l'intenzione di potenziare magari
+questa struttura, per ovviare a problemi di questo tipo. Al di là
+di questo, rimane un aspetto di immagine negativa che abbiamo dato,
+non solo all'interno della nostra regione, come si sa, visto che
+siamo andati sui giornali e sulle televisioni nazionali, e quindi è
+stato un altro momento di non bella immagine data della nostra
+regione.
+Presidente - La parola al Consigliere Tibaldi.
+Tibaldi (CdL) - Meno male che c'è "Capitan Ventosa", Assessore
+Cerise, meno male che questo personaggio popolare e ironico di
+"Striscia la notizia" con il suo stura-lavandini in testa è
+riuscito ad individuare, in luogo dei potenti mezzi dell'ARPA
+valdostana, qual è stata la fonte di questa interferenza che non ci
+sembrava così drammatica nel doverla individuare! Anche perché il
+"Capitan Ventosa" si è avvalso della collaborazione di tecnici
+privati chiamati da Alberga e che erano dotati di un semplicissimo
+analizzatore di spettro con un'antenna, strumenti che l'ARPA
+possiede dal 1999 e per il cui utilizzo era anche stato effettuato
+un corso di formazione specifica, perché si legge nella relazione
+"acquisizione pratica operativa analizzatore di spettro a
+radiofrequenze"
+. Sono strumenti, questi, che servono non solo a
+rilevare la frequenza disturbata e la frequenza che disturba, ma
+anche, con un po' di sapienza, la fonte.
+Abbiamo ascoltato il suo rapporto sulla dinamica dei fatti che
+sembrava narrare l'incidente occorso, mancava l'utilizzo del
+passato remoto per avere una relazione più aderente a quella tipica
+che viene effettuata da coloro che intervengono quando vanno a
+rilevare incidenti di questo tipo o incidenti stradali. È
+sconcertante, Assessore, che dobbiamo cadere nel ridicolo come
+Regione e come enti strumentali - come l'ARPA - che dipendono dalla
+Regione, nel non essere riusciti ad individuare in maniera semplice
+la fonte che ha causato il problema, che - se vogliamo - è un
+problema minore, un problema che comunque gravava sulla
+cittadinanza e su una parte della popolazione aostana che lo subiva
+in termini di interferenze; è sconcertante che, nonostante i
+potenti mezzi dell'ARPA -, la dotazione finanziaria annuale è di
+4,5 milioni di euro - non siamo riusciti ad addivenire a capo della
+questione!
+L'Assessore dice: l'ARPA opera in un ambito di prevenzione, qui
+si tratta di un ambito di compatibilità. Vorrei citare al riguardo
+la legge n. 31/2000 che si occupa di radiofrequenze e di censimento
+degli impianti radioelettrici sul territorio: lì, l'ARPA fa
+qualcosa di più rispetto a quello che avrebbe potuto fare in
+occasione di questo fenomeno, ovvero fa un censimento puntuale
+delle fonti di emissione delle radiofrequenze, siano esse
+telefoniche, radiotelevisive o altro, e le individua con
+l'analizzatore di spettro che avrebbe potuto opportunamente
+utilizzare anche in questo caso, quindi penso che non ci siano
+attenuanti in questo caso.
+Non abbiamo sentito le sue valutazioni sul fenomeno; penso che
+al di là delle attenzioni, peraltro anche doverose, che vanno
+rivolte nei confronti di questo ente in termini di erogazioni
+finanziarie annue, di dotazione organica che è stata aumentata
+vistosamente e anche professionalizzata nei vari settori (mi sembra
+che siamo a circa 60 dipendenti), è incredibile che ci si trinceri
+dietro il fatto che non era competenza dell'ARPA, come peraltro ha
+fatto lo stesso dirigente responsabile, intervistato il giorno dopo
+da "Capitan Ventosa" sull'accaduto.
+Penso sia necessario rivedere le procedure e le modalità
+operative di questo ente, che non può limitarsi a fare dei
+censimenti annui su determinate situazioni ambientali o di
+prevenzione a pericoli che possono occorrere alla popolazione
+valdostana. Qui leggo che l'ARPA fa di tutto e di più, si occupa
+addirittura di monitoraggio biennale delle radioattività dei
+muschi, si occupa di campagne sperimentali di campionamento sul
+limo glaciale; queste sono attività doverose e anche condivise, ma
+quando la popolazione chiama - come in questi casi - e chiede
+l'individuazione non solo di un'interferenza, ma anche di una
+fonte, sarebbe necessario che un ente con queste caratteristiche
+fosse in grado di dare una risposta.
+A questo punto non sappiamo se dobbiamo consegnare anche a lei
+il gongolo che tradizionalmente viene riservato da "Striscia la
+notizia" agli insuccessi della pubblica amministrazione!
+Informativa cookies
+Consiglio Regionale della Valle d'Aosta © 2025
+Questo sito utilizza cookies propri e di terze parti. Continuando ad usare questo sito, acconsenti all'utilizzo di questa tecnologia.
+Consulta la nostra
+informativa
+per maggiori informazioni e per istruzioni su come disattivare i cookies.
+OK

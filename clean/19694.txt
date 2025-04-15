@@ -1,0 +1,206 @@
+Classificazione
+TRASPORTI E VIABILITÀ
+Trasporti
+ZONA FRANCA
+
+
+Resoconto integrale del dibattito dell'aula
+Oggetto del Consiglio n. 2852 del 20 novembre 2002 - Resoconto
+OGGETTO N. 2852/XI Eventuale utilizzo della "Carte Vallée" per
+la gestione tariffaria del trasporto pubblico. (Interrogazione)
+Interrogazione Premesso:
+- che la Giunta sta realizzando nell'ambito del sistema
+integrato di gestione tariffaria del trasporto pubblico una
+procedura impostata su di una carta a microprocessore;
+- che la "Carte Vallée" in uso per la gestione dei carburanti è
+sotto utilizzata;
+i sottoscritti Consiglieri regionali
+Interrogano
+la Giunta regionale per sapere:
+1) i costi diretti o indiretti che tale procedura comporterà per
+l'amministrazione regionale;
+2) i motivi per cui nell'ambito di tale procedura non è stato
+previsto l'utilizzo anche della "Carte Vallée".
+F.to: Frassy - Tibaldi - Lattanzi
+Président
+La parole à l'Assesseur au tourisme,
+aux sports, au commerce et aux transports, Lavoyer.
+Lavoyer (SA)
+Prima di rispondere al primo quesito,
+ritengo opportuno fare una premessa, per inquadrare meglio la
+problematica, utile poi per la risposta al secondo quesito
+dell'interrogazione.
+Con deliberazione di Giunta n. 3822/1999 sono state approvate le
+caratteristiche generali dell'architettura del sistema integrato di
+gestione tariffaria. Tale sistema prevede, fra l'altro, l'utilizzo
+di tre tipologie di documenti di viaggio: il cartaceo, venduto a
+bordo degli autobus, che può essere utilizzato esclusivamente per
+l'effettuazione di una corsa semplice; il magnetico, che sarà
+emesso dal centro di gestione e venduto a terra, inteso come
+biglietto chilometrico a scalare utilizzabile su più vettori; la
+carta a microprocessore di prossimità, emessa dal centro di
+gestione, che avrà contemporaneamente le funzioni di tessera di
+legittimazione e riporterà, sia stampati che registrati, i dati
+relativi alle varie tipologie di agevolazioni tariffarie previste
+dalla legge n. 29/1997, fungendo anche da documento di viaggio.
+Fra le carte a microprocessore, si è optato per la "carta di
+prossimità" - questo è importante sottolinearlo perché è utile poi
+per la risposta al secondo quesito -, che dà la possibilità di
+ottenere l'identificazione dell'utente senza che il documento sia
+introdotto nella macchinetta convalidatrice: è sufficiente porgerlo
+ad una distanza massima di dieci centimetri dalla stessa. Tale
+carta presenta i seguenti vantaggi: facilità di utilizzo da parte
+degli utenti, sicurezza nella gestione delle transazioni, riduzione
+dei costi di manutenzione e, soprattutto, velocità di utilizzo da
+parte degli utenti. L'impiego di tale tipo di carta in altre realtà
+territoriali, che già hanno sperimentato ed avviato il sistema di
+integrazione tariffaria, ha permesso sia di ridurre notevolmente i
+tempi di imbarco - a tutto vantaggio delle velocità commerciali
+delle linee e del rispetto degli orari, - sia di risolvere il
+problema dei costi legati alla frequente manutenzione delle
+macchine obliteratrici installate sui bus. Con la deliberazione n.
+3934/2002 - e qui veniamo alla scelta della Giunta regionale - si
+sono notevolmente ridotti anche i costi preventivati per
+l'acquisizione di questo tipo di carta. Con tale deliberazione si è
+approvato infatti l'utilizzo della carta con standard "ISO 14443
+A", in sostituzione dello standard "14443 B". La nuova carta, in
+sostanza, dal punto di vista della funzionalità, ha gli stessi
+requisiti dell'altra, con qualche grado in meno di sicurezza, ma
+alti gradi di sicurezza vengono normalmente richiesti solo per le
+transazioni bancarie. La scelta del formato "ISO 14443 B" era stata
+quindi determinata dal fatto che, all'epoca, l'Unione europea
+sembrava orientata ad adottare tale standard per il modello
+elettronico per i trasporti.
+Ma ad oggi, nessuno standard di questo tipo è stato adottato nel
+campo dei trasporti, anzi, ogni singola realtà si sta movendo verso
+la tipologia "ISO 14443 A", che meglio soddisfa le esigenze
+peculiari del sistema in sé, senza più preoccuparsi delle possibili
+future integrazioni con altri sistemi. Anche la "SIT Vallée", con
+nota in data 19 luglio 2002, ha richiesto ufficialmente agli uffici
+della Direzione trasporti di rivedere la scelta dello standard
+"14443 B", per orientarsi verso lo standard "A". La richiesta è
+supportata dalle seguenti motivazioni: sul mercato sono facilmente
+reperibili carte "14443 A", perché per le piccole quantità, quali
+quelle necessarie per il sistema dei trasporti della Valle d'Aosta,
+risulta più complesso rifornirsi della tipologia "B".
+Le carte "A" presentano un prezzo di acquisto inferiore del 40
+per cento circa rispetto al tipo "B"; le carte "A" non presentano i
+livelli di sicurezza, come ho detto prima, richiesti dai sistemi
+bancari, ma livelli comunque più che adeguati per l'applicazione
+nel campo dei trasporti; sono facilmente gestibili direttamente
+dalla struttura "SIT Vallée", senza ricorso alle professionalità
+esterne. Fatte queste valutazioni, la Giunta ha optato
+definitivamente per la tipologia "A". Questo era un inquadramento
+generale, per sottolineare la complessità della materia e le scelte
+fatte, anche se non interferisce direttamente sul secondo quesito.
+Il costo della singola carta, al momento, risulta essere pari a
+circa 3,50 €, che, come ho detto prima, è un costo del 40 per cento
+inferiore a quello delle carte a tipologia
+"B"…
+Frassy
+(fuori microfono)
+… costo attuale?
+Lavoyer (SA)
+… costo attuale.
+Stimare il numero di carte che in futuro risulterà necessario, al
+momento, non è possibile, perché le tessere saranno utilizzate,
+oltre che per gli anziani, anche per gli studenti, per gli
+abbonamenti, per le carte multicorso, per le carte ricaricabili,
+eccetera. Il solo acquisto - per fare un riferimento agli oneri
+dell'amministrazione - delle carte per anziani e studenti, che sarà
+effettuato dalla Regione, si ipotizza essere sulle ventimila
+tessere, mentre per gli altri tipi provvederanno direttamente i
+concessionari. Il costo complessivo non è quindi definibile, però
+orientativamente si può indicare questo tipo di spesa calcolando i
+3,5 € per le circa ventimila tessere che saranno a carico della
+Regione.
+Fatte queste premesse, rispondo al secondo quesito. Le
+caratteristiche della "Carte Vallée" non sono compatibili con
+quanto sopra esposto, proprio perché trattasi non di "carta di
+prossimità" ma di "carta a contatto", ed il suo eventuale impiego,
+oltre a costituire tecnicamente un passo indietro rispetto a quanto
+realizzato in altre realtà, rallenterebbe eccessivamente le
+operazioni di convalida del biglietto e non agevolerebbe
+l'attivazione di un sistema già di per sé molto complesso.
+Président
+La parole au Conseiller Frassy.
+Frassy (FI)
+Esprimiamo insoddisfazione per la risposta,
+per due motivi sostanziali. Il primo è che la risposta è stata, in
+larga parte, un riepilogo di documenti noti, che anche noi avevamo
+letto e che erano stati alla base della nostra interrogazione, cioè
+sia la deliberazione del 1999 sia la deliberazione più recente del
+2002. Alla fin fine la sua risposta ha riportato fatti noti, fatta
+eccezione della valutazione tecnica sull'inadeguatezza dell'attuale
+tecnologia in uso sulla "Carta Vallée". Qui vorremmo esprimere
+alcune preoccupazioni. Innanzitutto vorremmo partire dalla legge
+regionale n. 29/1997, che all'epoca era stata un po' propagandata
+come una legge importante per la rivoluzione che avrebbe creato
+nell'ambito del trasporto pubblico e dobbiamo dire che, a distanza
+di sei anni da quella legge, ancora tante cose devono essere
+concretizzate, per dare gambe a quelle che erano state illustrate
+come innovazioni importanti.
+Innovazioni doppiamente importanti, anche alla luce di quanto
+era accaduto nell'ambito dei trasporti, sia per quanto riguarda la
+possibilità di controllo in tempo reale da parte
+dell'amministrazione pubblica di tutti quei meccanismi complessi e
+onerosi di rimborsi chilometrici, e comunque di contribuzione
+pubblica ai concessionari, sia per quanto riguarda l'agevolazione
+dell'utenza, ai fini dell'accesso al trasporto pubblico. Oggi come
+oggi, possiamo dire che questi due elementi importanti sono ancora
+tutti da concretizzare e da realizzare, e non possiamo non
+esprimere perplessità quando la Giunta, con la deliberazione del 30
+ottobre 1999 - perciò tre anni fa - approvò gli standard sui
+presupposti che l'Assessore ha ricordato di presunte preferenze
+europee. Chiaramente quegli standard non furono il frutto di una
+scelta semplicemente amministrativa degli uffici, ma furono il
+frutto di consulenze onerose, che arrivarono a definire quello
+standard come lo standard ottimale. Oggi noi abbiamo appreso che in
+tre anni non è accaduto nulla, né a livello europeo, né a livello
+regionale e che, a distanza di tre anni, questo standard viene
+messo nuovamente in discussione: perciò non è la Giunta che ha
+definito lo standard, la Giunta ha modificato questo standard!
+Non possiamo non esprimere stupore nell'apprendere che lo
+standard di tre anni fa era più caro del 40 percento dello standard
+che oggi la Giunta ha deciso di modificare. Ben venga questo
+risparmio in termini di costi, ma non possiamo non rimanere
+perplessi sul fatto che la consulenza, che all'epoca venne affidata
+per arrivare a queste conclusioni, non avesse comunque ragionato
+anche in termini di costi; costi che sicuramente non sono pochi,
+perché le ventimila tessere che lei ha citato, e che sono soltanto
+una parte di quelli che saranno i costi complessivi, sono già costi
+significativi. E qui non possiamo non riagganciarci alla questione
+della "Carta Vallée".
+La "Carta Vallée" era stata, anche qui, annunciata come
+un'innovazione in grado di modificare le abitudini dei cittadini
+valdostani, non solo per quanto riguarda l'assegnazione dei
+carburanti in esenzione, ma si parlava anche di altre applicazioni.
+Ne abbiamo parlato nello scorso Consiglio con una nostra
+interrogazione, e queste altre applicazioni non hanno trovato ad
+oggi attuazione; oggi come oggi, la Regione continua a comprare una
+memoria, di cui soltanto il 20 percento viene utilizzato dalla
+"Carta Vallée".
+Abbiamo buttato via fino ad oggi 618.014 €, circa 1,3 miliardo
+di lire, per comprare uno spazio su quella "Carta Vallée", che dal
+1998, data del primo acquisto, non trova uso e non trova utilizzo.
+Il costo unitario per la Regione della "Carta Vallée" è 5,94 € e ci
+viene veramente difficile pensare che la Regione possa pagare 5,94
+€ per una carta di cui usa, in termini di controvalore, 1,24 €,
+perché 4,7 € sono non usati, in quanto il 79 percento di spazio non
+è usato, e apprendere che il passo indietro, Assessore, a cui lei
+fa riferimento che è la "Carta Vallée", costa 5,94 € rispetto ai
+3,50 € di questa carta futuribile.
+Invito allora il suo Assessorato a mettersi in comunicazione con
+il suo collega di Giunta che si occupa della "Carta Vallée" e
+parlarvi. Su quella "Carta Vallée" c'è un microprocessore
+antiquato, che costa molto più di quanto non costi il nuovo
+processore. Di più e di peggio: sulla "Carta Vallée" c'è la banda
+magnetica, la quale, fino a prova del contrario, è leggibile sui
+lettori di prossimità: la banda magnetica della "Carta Vallée" non
+è mai stata utilizzata; allora, la valutazione dei progetti, al di
+là di quello che si fa scrivere sulla "Carta", viene data anche sui
+tempi di realizzazione, e qui siamo fermi al 1997 con tutte le
+problematiche ancora aperte oggi di conti pubblici riguardo a
+quelle vicende dei trasporti, e si giudica anche per i costi. I
+costi sicuramente non depongono a favore del giudizio positivo.
+Questi sono i motivi della nostra insoddisfazione totale.

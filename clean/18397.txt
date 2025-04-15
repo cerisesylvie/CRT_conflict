@@ -1,0 +1,2259 @@
+Classificazione
+INFORMAZIONE
+Radiotelecomunicazioni
+
+
+Resoconto integrale del dibattito dell'aula
+Oggetto del Consiglio n. 1503 del 28 luglio 2000 - Resoconto
+OGGETTO N. 1503/XI Disegno di legge: "Disciplina per
+l’installazione e l’esercizio di
+impianti di radiotelecomunicazioni".
+CAPO I DISPOSIZIONI GENERALI
+Articolo 1 (Oggetto e finalità)
+1. La Regione, nel rispetto della normativa statale vigente,
+disciplina con la presente legge l'installazione e l'esercizio
+degli impianti per radiotelecomunicazioni.
+2. La presente legge definisce, in particolare, le procedure di
+installazione e di modifica di impianti fissi per
+radiotelecomunicazioni, nonché le azioni di risanamento degli
+impianti già esistenti, assicurando altresì che l'esercizio degli
+impianti autorizzati ai sensi della presente legge si svolga nel
+rispetto dei limiti e dei valori previsti dalla normativa vigente,
+al fine di garantire:
+a) la tutela della salute della popolazione esposta alle
+emissioni elettromagnetiche e la limitazione della perturbazione
+delle condizioni di naturalità dell'ambiente dovuta alle emissioni
+degli impianti;
+b) la corretta localizzazione e l'ordinato sviluppo degli
+impianti, salvaguardando gli interessi di carattere paesaggistico e
+ambientale, anche attraverso la razionalizzazione e la
+concentrazione degli impianti in appositi siti attrezzati;
+c) il rispetto dei parametri tecnici riguardanti l'esercizio
+degli impianti.
+Articolo 2 (Definizioni)
+1. Ai fini della presente legge si definiscono:
+a) impianti per radiotelecomunicazioni, gli impianti fissi delle
+reti che forniscono il servizio di radiodiffusione televisiva e
+radiofonica, con particolare riferimento alle antenne che
+diffondono il segnale sul territorio e ai ponti radio e gli
+impianti fissi delle reti radiomobili, delle reti di telecontrollo
+e comando, delle reti di trasmissione dati e informazioni che
+emettono onde elettromagnetiche nello spazio, compresi in tutti i
+casi i ponti radio;
+b) siti attrezzati per gli impianti per radiotelecomunicazioni,
+di seguito denominati siti attrezzati, le strutture logistiche
+comprensive di un terreno recintato di adeguata superficie, di un
+supporto di antenna di dimensione tale da potere dare ospitalità ai
+diversi gestori interessati, e di eventuali strutture edilizie per
+l'alloggiamento degli apparati connessi e funzionali alle diverse
+reti.
+Articolo 3 (Ambito di applicazione)
+1. Le disposizioni della presente legge si applicano a tutti gli
+impianti fissi per radiotelecomunicazioni operanti nell'intervallo
+di frequenza compresi tra 100 kHz e 300 GHz, ad eccezione degli
+impianti radioelettrici per uso amatoriale, quando ricorrono le
+condizioni di cui all'articolo 12, comma 1.
+Articolo 4 (Esercizio delle funzioni)
+1. Le funzioni disciplinate dalla presente legge sono
+esercitate, per il territorio di competenza, dal Comune di Aosta e
+dagli altri Comuni, in forma associata attraverso le Comunità
+montane, ai sensi dell'articolo 83 della legge regionale 7 dicembre
+1998, n. 54 (Sistema delle autonomie in Valle d'Aosta).
+2. L'eventuale assegnazione di risorse finanziarie necessarie
+all'esercizio delle funzioni esercitate ai sensi della presente
+legge dagli enti locali di cui al comma 1 sarà definita in sede di
+revisione della normativa regionale in materia di finanza
+locale.
+CAPO II LOCALIZZAZIONE DEGLI IMPIANTI E DEI SITI ATTREZZATI
+Articolo 5 (Progetti regionali di rete o di attività)
+1. Entro sei mesi dalla data di entrata in vigore della presente
+legge, i gestori degli impianti presentano alle Comunità montane e
+al Comune di Aosta, territorialmente competenti, il proprio
+progetto di rete o di attività contenente l'indicazione della
+localizzazione degli impianti in esercizio e di quelli che
+intendono installare o modificare.
+2. I progetti di cui al comma 1 sono corredati di idonea
+documentazione attestante, per ogni impianto, i dati anagrafici,
+tecnici e topografici indicati nell'allegato A.
+3. Eventuali variazioni o nuove installazioni sono comunicate o
+richieste entro il 31 dicembre di ogni anno agli enti locali di cui
+al comma 1, unitamente alla documentazione tecnica di cui al comma
+2.
+Articolo 6 (Approvazione dei progetti di rete o di attività)
+1. Le Comunità montane e il Comune di Aosta approvano i progetti
+di cui all'articolo 5, comma 1, anche ai fini dell'individuazione
+dei siti attrezzati, entro tre mesi dalla scadenza del termine di
+cui al medesimo articolo 5, comma 1, previo parere tecnico
+favorevole dell'Agenzia regionale per la protezione dell'ambiente
+(ARPA), istituita ai sensi della legge regionale 4 settembre 1995,
+n. 41 (Istituzione dell'Agenzia regionale per la protezione
+dell'ambiente (ARPA) e creazione, nell'ambito dell'Unità sanitaria
+locale della Valle d'Aosta, del Dipartimento di prevenzione e
+dell'Unità operativa di microbiologia), in merito al rispetto dei
+limiti di esposizione, delle misure di cautela e degli eventuali
+obiettivi di qualità di cui agli articoli 3 e 4 del decreto del
+Ministro dell'ambiente 10 settembre 1998, n. 381 (Regolamento
+recante norme per la determinazione dei tetti di radiofrequenza
+compatibili con la salute umana).
+2. Le Comunità montane e il Comune di Aosta, approvano altresì,
+entro il 30 aprile di ogni anno, le variazioni o le nuove richieste
+comunicate dai gestori degli impianti ai sensi dell'articolo 5,
+comma 3, sulla base:
+a) dei piani di individuazione dei siti attrezzati di cui
+all'articolo 7, comma 1;
+b) del parere tecnico favorevole espresso dall'ARPA in merito al
+rispetto dei limiti di esposizione, delle misure di cautela e degli
+eventuali obiettivi di qualità di cui agli articoli 3 e 4 del d.m.
+ambiente 381/1998.
+3. L'approvazione dei progetti di cui all'articolo 5, comma 1,
+può essere subordinata alla presentazione, da parte dei gestori
+degli impianti, di idonee azioni di risanamento, previo parere
+tecnico favorevole dell'ARPA, sulla base dei criteri di riduzione a
+conformità definiti nell'allegato C al d.m. ambiente 381/1998.
+4. Gli atti di approvazione di cui ai commi 1 e 2, unitamente ai
+progetti ai quali gli stessi si riferiscono, sono comunicati, entro
+un mese dalla loro adozione, alle strutture regionali competenti in
+materia di tutela della salute, di tutela dell'ambiente e di
+urbanistica.
+Articolo 7 (Individuazione dei siti attrezzati e interventi di
+adeguamento)
+1. L'individuazione dei siti attrezzati è determinata sulla base
+di piani di interesse generale predisposti, ai sensi dell'articolo
+32, comma 4, della legge regionale 6 aprile 1998, n. 11 (Normativa
+urbanistica e di pianificazione territoriale della Valle d'Aosta),
+dalle Comunità montane, d'intesa con i Comuni interessati, e dal
+Comune di Aosta, per il territorio di competenza, tenuto conto dei
+progetti presentati dai gestori degli impianti ai sensi
+dell'articolo 5, comma 1, del Piano nazionale di ripartizione e del
+Piano nazionale di assegnazione di cui alla legge 6 agosto 1990, n.
+223.
+2. I piani di cui al comma 1 indicano altresì le modalità e i
+termini per gli eventuali trasferimenti e dismissioni degli
+impianti esistenti.
+3. Per gli interventi di demolizione e di sistemazione
+paesaggistica conseguenti all'attuazione dei piani di cui al comma
+1, con le modalità e nel rispetto dei termini indicati nei medesimi
+piani ai sensi del comma 2, la Regione, nei limiti degli
+stanziamenti di bilancio, può concedere a favore dei soli gestori
+in possesso di ogni altra autorizzazione o concessione richiesta
+per l'esercizio dell'impianto, contributi in conto capitale nella
+misura massima del settanta per cento della spesa ritenuta
+ammissibile.
+4. La disciplina del procedimento finalizzato alla concessione
+dei contributi di cui al comma 3 è demandata alla Giunta regionale
+che vi provvede con propria deliberazione, da adottarsi entro
+sessanta giorni dalla data di entrata in vigore della presente
+legge.
+5. Le procedure per l'approvazione dei piani di cui al comma 1
+sono avviate entro dodici mesi dalla scadenza del termine di cui
+all'articolo 6, comma 1.
+Articolo 8 (Proprietà dei siti attrezzati)
+1. I siti attrezzati e le relative infrastrutture già esistenti,
+se compresi nei piani di cui all'articolo 7, comma 1, possono
+essere acquisiti dalle Comunità montane e dal Comune di Aosta
+mediante procedura di acquisto o di esproprio. I proprietari dei
+siti attrezzati e delle relative infrastrutture possono mantenerne
+la proprietà a condizione che stipulino con i medesimi enti locali
+apposita convenzione con la quale garantiscono l'uso dei siti e
+delle strutture esistenti ai diversi gestori di impianti presenti
+sul territorio.
+2. I nuovi siti attrezzati individuati dai piani di cui
+all'articolo 7, comma 1, sono sempre acquisiti dalle Comunità
+montane e dal Comune di Aosta mediante procedura di acquisto o di
+esproprio.
+Articolo 9 (Realizzazione, gestione e manutenzione dei siti
+attrezzati)
+1. Le Comunità montane e il Comune di Aosta provvedono alla
+realizzazione, alla gestione e alla manutenzione, ordinaria e
+straordinaria, dei siti attrezzati di proprietà, con esclusione
+degli apparati per radiotelecomunicazioni, salvo i casi in cui tali
+apparati siano di loro proprietà.
+2. I proprietari dei siti attrezzati individuati dai piani di
+cui all'articolo 7, comma 1, provvedono, a proprie cure e spese, ad
+adeguare funzionalmente le strutture al fine di concentrare in un
+unico sito gli impianti per radiotelecomunicazioni installati dai
+diversi gestori.
+3. Entro sei mesi dall'entrata in vigore della presente legge,
+la Giunta regionale, previo parere del Consiglio permanente degli
+enti locali di cui all'articolo 60 della l.r. 54/1998, approva con
+propria deliberazione lo schema tipo di convenzione concernente la
+disciplina delle modalità di installazione degli impianti, della
+loro manutenzione, dell'accesso ai siti attrezzati e del loro
+utilizzo, nonché dei criteri di applicazione dei canoni per
+l'utilizzo dei siti attrezzati da parte dei gestori degli
+impianti.
+Articolo 10 (Installazione di altre tipologie di impianti)
+1. Ferma restando l'autorizzazione all'esercizio degli impianti
+rilasciata ai sensi dell'articolo 11 e la verifica di ammissibilità
+in relazione ai progetti approvati ai sensi dell'articolo 6, comma
+1, è consentita, anche al di fuori dei siti attrezzati individuati
+dai piani di cui all'articolo 7, comma 1, l'installazione degli
+impianti di reti radiomobili e degli altri impianti relativi alla
+trasmissione di dati e di informazioni, qualora funzionalmente
+collegati a esigenze specifiche di localizzazione territoriale.
+CAPO III AUTORIZZAZIONI
+Articolo 11 (Autorizzazione all'installazione degli
+impianti)
+1. Le Comunità montane e il Comune di Aosta autorizzano
+l'installazione degli impianti per radiotelecomunicazioni, previa
+verifica di ammissibilità in relazione ai progetti approvati ai
+sensi dell'articolo 6, comma 1, e previo parere tecnico favorevole
+dell'ARPA, entro sessanta giorni dal ricevimento della relativa
+domanda.
+2. Nell'autorizzazione sono definiti i parametri tecnici di
+emissione e sono altresì individuate le azioni di risanamento da
+attuare ai sensi dell'articolo 6, comma 3.
+3. La durata dell'autorizzazione è di cinque anni e l'eventuale
+rinnovo avviene secondo le procedure di cui al comma 1.
+4. Le Comunità montane e il Comune di Aosta dispongono, a cura e
+a spese dei gestori, la rimozione degli impianti non autorizzati ai
+sensi del comma 1 entro centottanta giorni dalla comunicazione del
+relativo provvedimento. Entro i successivi novanta giorni i gestori
+degli impianti non autorizzati devono altresì provvedere al
+ripristino dello stato originario dei luoghi.
+5. In caso di inosservanza degli obblighi di cui al comma 4, le
+Comunità montane e il Comune di Aosta, previa diffida, possono
+procedere d'ufficio a spese dei gestori inadempienti. La nota delle
+spese è resa esecutiva ed è riscossa secondo le disposizioni di
+legge in materia di riscossione delle entrate patrimoniali.
+6. È fatto in ogni caso divieto di installare nuovi impianti nei
+medesimi luoghi in cui siano stati disposti la rimozione degli
+impianti non autorizzati e il ripristino dello stato originario dei
+luoghi ai sensi del comma 4.
+Articolo 12 (Impianti radioelettrici per uso amatoriale)
+1. Fermi restando i limiti di esposizione di cui agli articoli 3
+e 4 del d.m. ambiente 381/1998, sono esclusi dall'ambito di
+applicazione della presente legge, in considerazione della durata
+limitata nel tempo del loro uso, gli impianti radioelettrici per
+uso amatoriale con potenza inferiore o uguale a 100 W e con antenna
+utilizzata per irradiare la suddetta potenza con guadagno inferiore
+o uguale a 2,14 dBi (antenne dipolari).
+2. L'esercizio degli impianti radioelettrici per uso amatoriale
+che non soddisfano le condizioni di cui al comma 1 deve essere
+preventivamente autorizzato, per il territorio di competenza, dalle
+Comunità montane e dal Comune di Aosta che vi provvedono, previo
+parere tecnico favorevole dell'ARPA, entro sessanta giorni dal
+ricevimento della relativa domanda.
+3. Ai fini dell'ottenimento dell'autorizzazione di cui al comma
+2, i gestori degli impianti forniscono tutti i dati tecnici
+indicati nell'allegato A.
+4. La durata dell'autorizzazione è di cinque anni e l'eventuale
+rinnovo avviene secondo le procedure di cui ai commi 2 e 3.
+5. Per gli impianti radioelettrici per uso amatoriale in
+esercizio che non soddisfano le condizioni di cui al comma 1, la
+domanda di autorizzazione alla prosecuzione dell'attività deve
+essere presentata, entro sei mesi dalla data di entrata in vigore
+della presente legge, alle Comunità montane e al Comune di Aosta
+territorialmente competenti, unitamente all'indicazione dei dati
+tecnici di cui all'allegato A.
+6. Le Comunità montane e il Comune di Aosta autorizzano la
+prosecuzione delle attività entro sessanta giorni dal ricevimento
+della domanda, previo parere tecnico favorevole dell'ARPA. Il
+rigetto della domanda comporta per il gestore dell'impianto
+l'obbligo di adeguarsi alle disposizioni di cui al d.m. ambiente
+381/1998, nel termine fissato dai medesimi enti locali,
+relativamente al rispetto dei limiti di esposizione, delle misure
+di cautela e degli eventuali obiettivi di qualità.
+CAPO IV CATASTO DEGLI IMPIANTI
+Articolo 13 (Catasto regionale degli impianti)
+1. Entro un anno dall'entrata in vigore della presente legge, la
+Regione istituisce presso l'ARPA il catasto degli impianti per
+radiotelecomunicazioni.
+2. Il catasto contiene la mappa degli impianti presenti sul
+territorio regionale e il relativo archivio informatizzato dei dati
+tecnici ed anagrafici degli impianti, nonché di quelli topografici
+riferiti ad apposite cartografie.
+3. Sulle basi dei dati contenuti nel catasto, l'ARPA redige,
+nell'ambito della relazione biennale sullo stato dell'ambiente
+regionale di cui all'articolo 4, comma 1, lettera l), della l.r.
+41/1995, un rapporto contenente la stima dei livelli di campo
+elettromagnetico presenti sul territorio regionale, con riferimento
+alle condizioni di esposizione della popolazione.
+CAPO V VIGILANZA E SANZIONI
+Articolo 14 (Controlli)
+1. Le Comunità montane e il Comune di Aosta esercitano le
+funzioni di vigilanza e di controllo, avvalendosi, per gli aspetti
+tecnici, dell'ARPA.
+2. Le attività di cui al comma 1 sono volte a garantire:
+a) il rispetto dei limiti di esposizione, delle misure di
+cautela e degli obiettivi di qualità di cui agli articoli 3 e 4 del
+d.m. ambiente 381/1998;
+b) l'attuazione delle azioni di risanamento di cui all'articolo
+6, comma 3;
+c) il mantenimento dei parametri tecnici e delle condizioni di
+funzionamento indicati nell'autorizzazione di cui all'articolo
+11.
+3. Il personale incaricato delle attività di vigilanza e di
+controllo, nell'esercizio delle proprie funzioni, può accedere agli
+impianti e richiedere i dati, le informazioni e i documenti
+necessari per l'espletamento delle suddette attività.
+Articolo 15 (Sanzioni)
+1. L'inosservanza dei termini di cui all'articolo 5, commi 1 e
+3, comporta l'applicazione della sanzione amministrativa del
+pagamento di una somma di denaro da lire 1.000.000 (euro 516,46) a
+lire 3.000.000 (euro 1.549,37).
+2. L'esercizio degli impianti in assenza delle autorizzazioni di
+cui agli articoli 11 e 12 comporta l'applicazione della sanzione
+amministrativa del pagamento di una somma di denaro da lire
+3.000.000 (euro 1.549,37) a lire 9.000.000 (euro 4.648,11).
+3. L'inosservanza degli obblighi di cui all'articolo 11, comma
+4, comporta l'applicazione della sanzione amministrativa del
+pagamento di una somma di denaro da lire 6.000.000 (euro 3.098,74)
+a lire 18.000.000 (euro 9.296,22). La medesima sanzione si applica
+in caso di inosservanza del divieto di cui all'articolo 11, comma
+6.
+4. Per l'applicazione delle sanzioni amministrative di cui ai
+commi 1, 2 e 3 si osservano le disposizioni della legge 24 novembre
+1981, n. 689 (Modifiche al sistema penale), da ultimo modificata
+dal decreto legislativo 30 dicembre 1999, n. 507 (Depenalizzazione
+dei reati minori e riforma del sistema sanzionatorio, ai sensi
+dell'articolo 1 della legge 25 giugno 1999, n. 205).
+5. I proventi derivanti dalle sanzioni di cui ai commi 1, 2 e 3
+saranno introitati sul capitolo n. 7700 (Proventi pene pecuniarie
+per contravvenzioni) del bilancio regionale.
+CAPO VI DISPOSIZIONI FINANZIARIE E FINALI
+Articolo 16 (Disposizioni finanziarie)
+1. Per l'applicazione dell'articolo 7, comma 3, è autorizzata la
+spesa di lire 100 milioni (euro 51.646) per l'anno 2000, di lire
+500 milioni (euro 258.228) per l'anno 2001 e di euro 258.000 a
+decorrere dall'anno 2002, che grava sul capitolo n. 67365 che è
+istituito nello stato di previsione della spesa del bilancio della
+Regione per l'anno finanziario 2000 e pluriennale 2000/2002 con la
+denominazione "Contributi per interventi di demolizione di impianti
+per radiotelecomunicazioni e conseguente sistemazione
+paesaggistica".
+2. Alla copertura degli oneri di cui al comma 1 si provvede
+mediante utilizzo, per il corrispondente importo annuo, delle
+risorse iscritte al capitolo 69020 (Fondo globale per il
+finanziamento di spese di investimento) a valere sull'apposito
+accantonamento previsto al punto D 2 dell'allegato n. 1 al bilancio
+della Regione per l'anno finanziario 2000 e pluriennale
+2000/2002.
+Articolo 17 (Variazioni di bilancio)
+1. Allo stato di previsione della spesa del bilancio della
+Regione per l'anno finanziario 2000 e pluriennale 2000/2002 sono
+apportate le seguenti variazioni di competenza:
+a) in diminuzione:
+capitolo 69020 (Fondo globale per il finanziamento delle spese
+di investimento)
+anno 2000 lire 100.000.000
+anno 2001 lire 500.000.000
+anno 2002 euro 258.000
+b) in aumento:
+programma regionale: 2.2.1.08.
+Codificazione: 02.01.02.04.03.03.10.029.
+Capitolo 67365 di nuova istituzione
+(Contributi per interventi di demolizione di impianti per
+radiotelecomunicazioni e conseguente sistemazione
+paesaggistica)
+anno 2000 lire 100.000.000
+anno 2001 lire 500.000.000
+anno 2002 euro 258.000
+Articolo 18 (Norma finale)
+1. La Giunta regionale, entro sessanta giorni dalla data di
+entrata in vigore della presente legge, stabilisce con propria
+deliberazione l'entità dei diritti di istruttoria e di ogni altro
+onere posto a carico dei gestori degli impianti interessati
+all'ottenimento dell'approvazione del progetto ai sensi
+dell'articolo 6 o al rilascio delle autorizzazioni di cui agli
+articoli 11 e 12, in relazione all'attività di consulenza tecnica
+svolta dall'ARPA.
+Allegato A
+(Omissis)
+PresidenteLa parola al relatore, Consigliere Cerise.
+Cerise (UV)
+Si tratta di una legge caratterizzata da
+contenuti marcatamente tecnici, che lasciano poco spazio alla
+dissertazione.
+Essa regolamenta l’installazione e
+l’esercizio degli impianti per
+radiotelecomunicazioni con il fine, bene evidenziato al comma 2
+dell’articolo 1, di garantire la salute,
+salvaguardare il paesaggio, assicurare il rispetto dei parametri
+tecnici relativi all’esercizio degli impianti.
+Sono soggetti alla disciplina della presente legge, come
+definiti dall’articolo 2: gli impianti fissi per
+radiodiffusione televisiva e sonora, gli impianti fissi per
+telecomunicazioni, infine i siti attrezzati per gli impianti di
+radiotelecomunicazioni. Questi ultimi sono comprensivi di terreno,
+opportunamente recintato, sul quale trova collocazione un supporto
+di antenna in grado di ospitare gli impianti di diversi gestori e
+di eventuali stabili funzionali alle apparecchiature e alle reti.
+L’ambito di applicazione della legge è relativo a
+tutti gli impianti fissi di radiotelecomunicazione operanti
+nell’intervallo di frequenza compreso tra i 100 kHz
+e i 300 GHz, in coerenza con quanto previsto al punto 1 del decreto
+ministeriale n. 381/1998.
+Le funzioni relative all’applicazione della legge
+sono demandate per i territori di rispettiva competenza alle
+Comunità montane e al Comune di Aosta salvo quanto previsto dal
+comma 3 dell’articolo 9 circa lo schema tipo di
+convenzione sulla disciplina delle modalità di installazione degli
+impianti, della loro manutenzione, dell’accesso ai
+siti attrezzati e del loro utilizzo nonché dei criteri di
+applicazione dei canoni per l’utilizzo dei siti
+attrezzati da parte dei gestori degli impianti e di quanto previsto
+dai commi 3, 4 dell’articolo 7 in merito alle
+sovvenzioni a favore dei gestori chiamati ad effettuare interventi
+di adeguamento alle prescrizioni della presente legge.
+Con le disposizioni del capo II e le procedure che si prevedono
+nei vari articoli si perviene innanzitutto al censimento di tutte
+le reti e delle attività, quindi a disporre della situazione
+attuale, mentre con il sistema delle autorizzazioni di cui al capo
+III si ottiene l’aggiornamento costante della sua
+evoluzione in relazione ai nuovi progetti.
+A sottolineare l’intendimento di perseguire la
+tutela sanitaria e ambientale di questa proposta di legge si
+richiama il disposto del comma 3 dell’articolo 6,
+ove si prevede la subordinazione delle autorizzazioni alla
+presentazione, se del caso, di idonee azioni di risanamento degli
+impianti esistenti.
+L’individuazione dei siti attrezzati, aspetto
+qualificante, avviene in relazione al combinato tra
+l’apposita disposizione prevista dalla legge
+regionale n. 32/1998, normativa urbanistica e di pianificazione
+territoriale, e le disposizioni in materia di pianificazione della
+ripartizione e dell’assegnazione delle
+frequenze.
+Ha rilevanza politica il disposto dell’articolo 8
+con il quale gli enti pubblici sono titolari di strumenti che
+possono assicurare ai gestori l’uso degli impianti
+in modo da garantire il maggiore utilizzo degli stessi in favore
+dei beneficiari dei servizi di radiotelecomunicazioni.
+Con il quarto comma dell’articolo 11 è data la
+possibilità agli enti competenti di disporre per la rimozione degli
+impianti non autorizzati.
+Viene infine istituito il catasto regionale degli impianti in
+modo da completare dettagliatamente la situazione di questi; questo
+dato è basilare per poter rapportare la stima dei livelli di campo
+elettromagnetico presenti sul territorio regionale con riferimento
+alle condizioni di esposizione della popolazione.
+Del tutto contenuta pare la previsione della spesa tenuto conto
+ch’essa è interamente destinata a sostenere, in
+questo settore, un'importante opera di riqualificazione ambientale.
+In chiusura di questa relazione mi preme richiamare le
+dichiarazioni e il sollecito prodotto in sede di audizione da parte
+del Coordinatore del Comitato prevenzione onde elettromagnetiche di
+Aosta.
+Egli ha dichiarato che la direzione intrapresa dalla presente
+legge è quella giusta, rilevando che mancano però delle più marcate
+determinazioni per il perseguimento di obiettivi di qualità.
+In merito faccio rilevare come al 6° comma
+dell’articolo 12, sebbene in relazione allo
+specifico argomento delle autorizzazioni agli impianti per uso
+amatoriale, si fa riferimento all’adeguamento a
+eventuali obiettivi di qualità. Se ne deduce che questi sono
+implicitamente prevedibili, nell’ambito dei limiti
+tecnici che saranno specificati dallo Stato, considerato che
+proprio a quest’ultimo spettano, come in differenti
+sedi è stato fatto osservare, le funzioni di assicurare, in modo
+uniforme sull’intero territorio nazionale, la tutela
+della salute delle persone.
+Io credo che presto essi saranno proposti e sostenuti da tutti
+coloro che, enti pubblici o soggetti privati, hanno a cuore la
+qualità della vita e la salute dei cittadini. Con
+l’applicazione delle disposizioni contenute in
+questo disegno di legge il loro perseguimento sarà reso più
+agevole.
+Presidente
+La parola al relatore, Consigliere Ottoz.
+Ottoz (UV)
+Questo disegno di legge fissa le regole per
+l'installazione e la gestione degli impianti di trasmissione per
+radiotelecomunicazioni e le relative soglie massime
+d'emissione.
+Al pari di molte nostre leggi, ha lo scopo di applicare una
+normativa nazionale. il decreto del Ministero dell'ambiente 10
+settembre 1998, n. 381, dal titolo: "Regolamento recante norme per
+la determinazione dei tetti di radiofrequenza compatibili con la
+salute umana".
+Se ci si limitasse a quest'obiettivo, qualcuno potrebbe
+obiettare, come in altri casi è stato fatto, sull'opportunità di
+appesantire la legislazione regionale ridefinendo temi già normati
+sul piano nazionale con il rischio d'ulteriori bardature che
+appesantiscano processi burocratici già soffocanti.
+In realtà in questo caso si è fatto di più, cogliendo
+l'occasione per assicurare una corretta localizzazione degli
+impianti, ai fini di salvaguardare gli interessi di carattere
+paesaggistico-ambientale nel rispetto delle regolamentazioni dei
+piani urbanistici per la tutela del nostro bene più prezioso: il
+nostro territorio.
+Tutto ciò è definito con chiarezza e precisione all'articolo 1
+del disegno di legge, che pone in primo piano la tutela della
+salute delle popolazioni esposte alle radiazioni elettromagnetiche,
+ponendo l'accento sulla necessità di limitare la perturbazione
+delle condizioni di naturalità dell'ambiente dovuta alle emissioni
+degli impianti.
+Va subito detto che questa legge non riguarda le emissioni di
+radiofrequenza provocate dal passaggio della corrente negli
+elettrodotti, o nelle reti locali di distribuzione di energia
+elettrica, indipendentemente dai parametri di voltaggio, intensità
+e frequenza, ma solamente, come definisce l'articolo 2:
+- gli impianti di diffusione radiofonica e televisiva e le
+relative antenne che diffondono i segnali;
+- i ponti radio;
+- gli impianti fissi delle reti radiomobili e di telecomando e
+telecontrollo;
+- le reti di trasmissione dati che emettono onde
+elettromagnetiche nello spazio.
+Quindi un ambito limitato.
+Il tutto, infine, è ulteriormente limitato all'arco delle
+frequenze comprese tra 100 kHz e 300 GHz.
+Restano perciò esclusi gli impianti progettati per uso
+amatoriale, i cosiddetti "baracchini", se non oltrepassano i 100 W
+di potenza in antenna, purché questa non superi i 2,14 dBi di
+guadagno come stabilito all'articolo 12.
+Tenuto conto che gli impianti fissi di radio e telediffusione
+debbono essere installati in modo da garantire la più ampia
+"illuminazione" possibile e che coprono perciò, in un territorio
+come il nostro, più comuni, la competenza per l'autorizzazione ad
+installarli è attribuita da questa legge ai comuni in forma
+associata, attraverso le comunità montane o, nel caso, dal Comune
+di Aosta.
+Con l'esclusione dei trasmettitori fissi per la telefonia
+radiomobile che, per necessità tecnologiche, diffondono su aree
+relativamente limitate, è stata scelta la soluzione dei siti
+attrezzati, dove concentrare le antenne di più gestori e servizi,
+ottimizzando l'impatto ambientale attraverso la riduzione del
+numero dei siti, ancorché ne risulti una concentrazione di
+emissioni attorno ai siti stessi.
+Rimandando l'individuazione dei siti attrezzati ai piani
+d'interesse generale, da predisporsi ai sensi dell'articolo 4 del
+PTP, si opera una distinzione tra i siti esistenti e quelli nuovi
+da realizzarsi (articolo 8), prevedendo che questi ultimi dovranno
+comunque essere acquisiti dalle comunità montane o dal Comune di
+Aosta mediante acquisto o esproprio, mentre per quelli già
+esistenti l'alienazione costituisce solo una possibilità.
+È peraltro prevedibile che anche i siti esistenti siano ceduti
+dai proprietari alle comunità montane o al Comune di Aosta, stante
+il disposto dell'articolo 9 che, in pratica, ne disincentiva il
+mantenimento della proprietà privata, salvo recuperi di reddito
+conseguenti ad aspetti contrattuali con i gestori degli impianti di
+trasmissione, aspetti che esulano in ogni caso dall'ambito della
+legge.
+Non manca infine (articolo 8, comma 2) il riconoscimento di un
+contributo, che può arrivare fino al 70 percento delle spese, per
+gli interventi di demolizione o di sistemazione paesaggistica dei
+siti attuali, in applicazione dei citati piani predisposti ai sensi
+dell'articolo 4 del PTP.
+Non disponendo gli enti locali di risorse tecniche, tecnologiche
+e professionali specializzate in questo settore, il parere tecnico
+relativo al rispetto dei limiti di esposizione e delle misure di
+cautela dovrà essere rilasciato dall'Agenzia regionale per la
+protezione dell'ambiente (ARPA) cui è assegnato anche il successivo
+compito di vigilanza e controllo.
+Per questi limiti, queste soglie del livello di emissione, che
+debbono rispettare il principio della tutela della salute della
+popolazione esposta alle emissioni elettromagnetiche, si rimanda
+con l'articolo 6 a quelli stabiliti dal citato decreto ministeriale
+n. 381/1998.
+Stabilire delle soglie più restrittive che quelle nazionali
+avrebbe certamente ridotto i rischi per la salute a medio e lungo
+termine, sui quali, francamente, esistono oggi poche certezze. Ciò
+avrebbe peraltro creato qualche problema di costi, dovendosi
+modificare più pesantemente alcuni degli impianti di
+radiodiffusione attuali, in taluni casi per rilocalizzarli, in
+altri casi per aumentarne il numero onde poterne ridurre la singola
+potenza d'emissione. Ciò, se da un lato garantirebbe una maggiore
+cautela per la salute dei cittadini esposti - non dimentichiamo
+inoltre i rischi per gli animali -, d'altro canto, data la scelta
+fatta, quella dei siti attrezzati, potrebbe aumentare la pressione
+sul paesaggio.
+Si può facilmente sostenere, d'altra parte, che le soglie
+stabilite a livello nazionale sono il risultato di studi
+approfonditi, ancorché su un periodo relativamente breve, tale da
+renderne discutibile la validità statistica. Non esiste unanimità
+nel mondo scientifico.
+Va detto che, in attesa dei risultati di ulteriori ricerche, la
+stessa Organizzazione mondiale della sanità ritiene che non esista
+evidenza scientifica certa e provata sui potenziali effetti nocivi
+per chi è esposto ai livelli d'emissione oggi compresi entro le
+soglie dichiarate ammissibili.
+Questa è quindi una legge importante e molto attesa, il primo
+tassello nella regolamentazione delle emissioni elettromagnetiche,
+lo smog del terzo millennio.
+Sono opportune alcune ulteriori riflessioni.
+Una nuova legge nazionale, il DDL n. 4.273 licenziato dalla
+Camera il 15 ottobre 1999, ha terminato il suo iter in commissione
+al Senato all'inizio di luglio di quest'anno e, stando alle
+dichiarazioni del Governo, andrà in aula a settembre. Si tratta di
+una nuova legge-quadro che disciplinerà l'esposizione a tutti i
+campi e a tutte le frequenze (da 0 Hz a 30 MHz): campi elettrici,
+magnetici ed elettromagnetici.
+Essa regolerà perciò in modo innovativo sia la materia che
+discutiamo oggi, sia quelle relative alle emissioni degli
+elettrodotti, degli apparecchi domestici ed individuali e degli
+strumenti elettrici ed elettronici sul posto di lavoro. Si
+applicherà alle apparecchiature ed installazioni civili, militari e
+delle forze di polizia, escludendo unicamente i casi di esposizione
+intenzionale a scopi diagnostici o terapeutici.
+È perciò ragionevole ipotizzare che ci troveremo presto a dover
+rivedere alcuni punti di questa legge ed a regolare anche le
+emissioni escluse dal suo ambito applicativo. Nel disegno di legge
+nazionale n. 4.273 è assegnata allo Stato ogni competenza sulla
+determinazione dei limiti massimi di esposizione, sulla
+determinazione dei piani di risanamento, sulle tecniche di
+misurazione, gli accordi di programma con i gestori degli
+elettrodotti e degli impianti fissi radiotelevisivi e di telefonia
+mobile, sulla definizione dei tracciati degli elettrodotti con
+tensione superiore a 150 KV e sulla determinazione dei parametri
+per la previsione di fasce di rispetto per gli elettrodotti stessi,
+fasce entro le quali non è consentita alcuna destinazione di
+edifici ad uso residenziale, scolastico, sanitario, ovvero che
+comporti una permanenza superiore a quattro ore.
+È fatto salvo, con una clausola di stile, il rispetto degli
+statuti d'autonomia delle regioni a statuto speciale e delle
+relative norme d'attuazione ma, non esistendo oggi norme di questo
+genere per la nostra Regione, non avremo competenza su questi
+temi.
+Sappiamo tutti che si tratta di una materia in costante
+evoluzione. Solo dieci anni fa di elettrosmog neppure si sentiva
+parlare. Le soglie minime adottate oggi a livello nazionale
+suscitano timori e perplessità in molti, il mondo scientifico è
+diviso sui rischi a medio e lungo termine per la salute dei
+cittadini esposti. Dati gli enormi costi di riconfigurazione delle
+reti di radiotelecomunicazione e di trasporto di energia è
+difficile evitare il sospetto che grossi interessi, che trascendono
+la nostra piccola Regione, premano per mantenere le soglie a
+livelli più favorevoli ai bilanci societari che alla salute dei
+nostri figli. L'augurio è che su temi così importanti si eviti nel
+nostro Paese il ricorso alla tristemente nota strategia
+"dell'atrazina".
+Alla cautela, alla tutela ed alla prevenzione, principi che si
+esplicano nell'applicazione rigorosa dei limiti imposti dalla legge
+e da un'attenta vigilanza sul loro rispetto, dovremo aggiungere
+quel principio di "precauzione" da più parti oggi giustamente
+invocato, l'unico che ci può aiutare a proteggere la salute dei
+nostri cittadini da rischi poco noti sui quali il pronunciamento
+della scienza non è ancora definitivo ma che, qualora si
+rivelassero reali, provocherebbero tragedie irreversibili.
+Avrete letto tutti oggi sui giornali che la Cassazione in
+Campania, per esempio, ha costretto l'ENEL a fermare la costruzione
+di un traliccio sulla base di un principio simile al principio di
+precauzione.
+Presidente
+La parola all'Assessore al territorio, ambiente
+e opere pubbliche, Vallet.
+Vallet (UV)
+Tranquillizzo il collega Tibaldi e i colleghi
+consiglieri: intervengo solo per ringraziare i relatori, non credo
+di dover aggiungere molto alle relazioni che sono state esaustive e
+per quanto riguarda l'illustrazione dell'articolato e per quanto
+riguarda l'impostazione complessiva del problema e le risposte che
+abbiamo inteso dare alla problematica.
+Il mio intervento è solo volto a presentare quattro emendamenti
+al disegno di legge e ad illustrarli.
+Il primo emendamento ha lo scopo di precisare nel testo, semmai
+ve ne fosse bisogno, che in questa materia la Regione e i nostri
+enti locali si muovono all'interno di competenze che ci sono
+attribuite in materia di urbanistica, tutela del paesaggio e
+autorizzazioni in materia di sanità ambientale, nonché all'interno
+della competenza normativa che è attribuita genericamente alle
+regioni dal decreto ministeriale n. 381/98, ma anche nel rispetto
+della normativa statale in materia di radiotelecomunicazione dove
+la competenza dello Stato è esclusiva.
+Il secondo emendamento riguarda il 3° comma dell'articolo 7, che
+viene riscritto, in sostanza solo per inserire e meglio precisare
+in quali casi è previsto l'intervento finanziario della Regione
+quando, rispetto agli impianti esistenti, sorge la necessità di
+demolizione o di trasferimento in altri siti attrezzati in
+relazione alla non rispondenza alla pianificazione che si andrà a
+realizzare.
+Il terzo emendamento è al 2° comma dell'articolo 8 che viene
+riscritto in maniera più chiara senza andare a precisare qual è lo
+strumento attraverso il quale gli enti locali andranno ad acquisire
+al rispettivo patrimonio i nuovi siti attrezzati. Sarà una scelta
+degli enti locali stessi. Più di sostanza è l'emendamento al 1° e
+2° comma dell'articolo 11, commi che vengono riscritti per
+precisare un concetto fondamentale nel quadro della
+razionalizzazione e della semplificazione della procedura che
+abbiamo voluto attuare con questo disegno di legge.
+Questo disegno di legge fra le altre cose norma il procedimento
+autorizzativo per quanto riguarda l'autorizzazione in materia di
+sanità ambientale; era per me sottinteso nel testo presentato dalla
+Giunta che questa autorizzazione assolvesse anche
+all'autorizzazione ai sensi della normativa urbanistica, ma abbiamo
+voluto precisare questo concetto affinché non ci fossero dubbi
+relativi a interpretazioni magari poco chiare, quindi abbiamo
+precisato che intanto le autorizzazioni riguardano i nuovi
+impianti; di conseguenza, siamo andati a meglio precisare la
+distinzione fra gli impianti esistenti e i nuovi impianti e, al
+comma 2, abbiamo precisato che l'autorizzazione così ottenuta
+costituisce anche titolo abilitativo ai sensi dell'articolo 59
+della legge n. 11, cioè costituisce anche concessione edilizia.
+Presidente
+La parola al Consigliere Tibaldi.
+Tibaldi (FI)
+Penso che, a differenza di quanto ha detto il
+relatore, ci sia spazio per la dissertazione su questo disegno di
+legge non solo a livello tecnico, ma anche sul piano della scelta
+politica.
+Innanzitutto diciamo che le finalità di questo disegno di legge
+sono più che mai condivisibili perché vanno nella direzione di
+tutelare la salute umana e di localizzare nel miglior modo
+possibile gli impianti di radiodiffusione televisiva, radiofonica e
+gli impianti per radiotelecomunicazione. Quindi sulle finalità
+della legge da parte del gruppo di Forza Italia non ci sono
+assolutamente perplessità.
+La tutela della salute in questo caso è di primaria importanza.
+Questa legge fa seguito a un decreto ministeriale, il n. 381, che
+prevede la fissazione di tetti alle emissioni elettromagnetiche per
+gli impianti in questione.
+L'Italia, nel recepire la normativa europea in materia, ha
+adottato le limitazioni più restrittive: di conseguenza le regole e
+i limiti che oggi si vanno ad applicare nel nostro Paese sono
+comunque estremamente rigorosi. Sotto il profilo della salute
+bisogna dire che purtroppo questa norma - ed è questa già una prima
+obiezione di carattere politico che si può fare agli estensori
+della legge - tralascia altre due fonti inquinanti molto
+importanti: su una, e sono i telefoni cellulari, la Regione non ha
+competenza in materia, ma sull'altra, e sono gli elettrodotti, la
+Regione avrebbe potuto normare.
+Gli elettrodotti sono i principali emettitori di radiofrequenza,
+in particolare di onde a bassa frequenza che sono le fonti
+sospettate di cagionare i maggiori danni alla salute umana e agli
+animali in genere. Oltre alla sentenza della Cassazione citata
+poc'anzi dal relatore sappiamo che, pur non essendo mai arrivati a
+un provvedimento giurisdizionale nella nostra Regione, anche in
+Valle ci sono state manifestazioni, in particolare quelle
+evidenziate da una famiglia di Hône relativamente al passaggio di
+una rete elettrica ad alta tensione molto vicino a casa.
+Quanto prima anche la Valle d'Aosta dovrà pensare di affrontare
+in maniera più globale il problema dell'elettrosmog, perché è vero
+che gli esperti scientifici sono tuttora divisi sulla materia, sul
+fatto che le onde possano cagionare o meno danni alla salute, però
+è altrettanto vero che anche la Valle d'Aosta sarà costretta ad
+affrontare in maniera più globale il problema.
+Altre Regioni invece lo hanno già fatto. Ad esempio, la Liguria
+ha inserito tutta la regolamentazione delle emissioni causate da
+impianti per radiotelecomunicazioni in una legge più organica e più
+ampia che comprende anche gli elettrodotti, affidando precise
+competenze agli enti locali.
+Qui dunque c'è una scelta di carattere politico, che è bene
+subito evidenziare, che non va in questa direzione anche se come
+ripeto la Valle d'Aosta è stata teatro di cronaca proprio per
+disfunzioni - o presunte tali - cagionate da elettrodotti.
+Per quanto riguarda comunque le finalità, diciamo che la
+condivisione è più che mai ampia e doverosa.
+A livello di procedura invece mi preme sottolineare una certa
+leggerezza nel voler accelerare i tempi di redazione di questa
+normativa, perché?
+Perché due Commissioni consiliari a mio avviso sono state
+completamente dimenticate, mentre avrebbero dovuto essere
+necessariamente coinvolte. "In primis" la V Commissione: se si
+parla di salute, non vedo perché essa sia stata esclusa.
+La relazione del Consigliere Ottoz ha enfatizzato il principio
+della precauzione, della tutela della salute, a maggior ragione
+questa enfasi avrebbe dovuto avere come naturale presupposto il
+fatto che anche la V Commissione poteva occuparsi dell'argomento ed
+esprimere un proprio parere, facendo le audizioni del caso.
+Dimenticati sono anche gli "untori", cioè i gestori degli impianti
+di radiotelecomunicazioni, che nella legge sono soltanto soggetti
+passivi, destinatari della normativa: nessuno si è premurato di
+sentire, naturalmente in sede consultiva, quali suggerimenti
+potrebbero dare alla redazione della legge. Ritengo che anche la IV
+Commissione avrebbe dovuto essere partecipe di questo processo
+normativo.
+Purtroppo sia l'una che l'altra Commissione sono state
+ampiamente dimenticate. Eppure, per fare un esempio che è di ieri,
+quando si è trattato di elaborare una norma sulla caccia, c'è stata
+una procedura preparatoria particolarmente complessa con riunioni
+addirittura sezionali, locali, con ipotesi che ivi sono nate, che
+sono state elaborate, poi in parte alcune abbandonate, altre invece
+recepite.
+Una procedura che è durata un bel po' di tempo, dal 1994, data
+di emanazione della legge, ad arrivare ad oggi: qui non è mancato
+il tempo né la volontà per consultare anche i destinatari della
+normativa.
+In questo caso no e questo è un secondo appunto politico che mi
+sento di fare: i destinatari di questa normativa sono stati
+completamente dimenticati e ciò ci vede palesemente contrariati
+perché quando si elabora una norma è doveroso sentire non solo,
+come ha citato il Consigliere Cerise, il Comitato per la
+prevenzione delle onde elettromagnetiche, ma anche le categorie
+economiche interessate, altrimenti l'attenzione è solo unilaterale,
+è di parte. Purtroppo non c'è la volontà di affrontare il problema
+nella sua organicità, come dicevo poc'anzi, includendo anche la
+questione specifica degli elettrodotti.
+La mia proposta di rinvio, formulata in III Commissione, non è
+stata presa in considerazione; la questione mi duole, ma
+affronteremo lo stesso con lo spirito di sempre la normativa che
+qui oggi ci viene proposta.
+Cosa c'è da dire? Innanzitutto c'è da dire che questa norma
+coniuga due aspetti.
+Il primo aspetto, la tutela della salute, è l'applicazione "tout
+court" di una normativa nazionale, il decreto ministeriale n. 381,
+che tuttavia ha una funzione transitoria poiché in sede di VIII
+Commissione al Senato giace da tempo un progetto di legge-quadro
+sulla tutela nei confronti dell'elettrosmog che, stando alle
+dichiarazioni che sono state fatte dal Presidente della medesima,
+dovrebbe diventare legge nell'arco di pochi mesi. Lo stesso
+Presidente auspica entro fine legislatura. Questa legge-quadro,
+entrando in vigore, cambierà sensibilmente i criteri e i parametri
+fissati dal decreto ministeriale n. 381.
+Comunque la Valle d'Aosta, dicevo, per quanto riguarda la tutela
+della salute, altro non fa che applicare le normative dello Stato.
+Attraverso quale organismo? Le applica attraverso l'ARPA, alla
+quale è stata riconosciuta competenza tecnica dagli stessi
+relatori, ma anche qui c'è una contraddizione: quando abbiamo
+inoltrato interrogazioni o interpellanze sull'ARPA, le risposte di
+competenza ci sono giunte dall'Assessorato della sanità. Ciò per
+sottolineare che la sanità ha una sua competenza e un suo ruolo che
+oggi sembra molto marginale, quasi messo in secondo piano rispetto
+invece all'altro aspetto di questa legge, di cui parlerò dopo, che
+è quello urbanistico.
+D'altronde anche quando abbiamo fatto interpellanze, e non solo
+da parte del gruppo di Forza Italia, nei confronti delle emissioni
+dell'elettrodotto di Hône, del Covalou-Montestrutto, di quel tratto
+incriminato da una famiglia di Hône, le risposte pervenivano
+simultaneamente dall'Assessore Vallet e dall'Assessore Vicquéry.
+Oggi, ripeto, secondo me c'è una strana carenza di competenze da
+parte dell'Assessore alla sanità, non so se voluta o meno, ma anche
+questa potrebbe essere individuata come scelta politica e non solo
+tecnica.
+A livello urbanistico invece sappiamo, seconda componente
+fondamentale di questa legge e che riguarda tutta la seconda parte
+del provvedimento, la Regione Valle d'Aosta ha competenza primaria.
+Essa deve rimanere nell'alveo di quella che è la normativa
+costituzionale, di quelle che sono le principali linee delle
+riforme economiche e sociali dello Stato, però ha una
+discrezionalità legislativa che è decisamente superiore a quella di
+altre regioni. Tant'è che nella normativa in questione si
+riconoscono particolari competenze agli enti locali. A quali enti
+locali? A quelli che sembra il legislatore ritenere più idonei a
+sovrintendere alla materia delle localizzazioni degli impianti
+radiotelevisivi. Sono le comunità montane, in quanto gerenti un
+comprensorio più ampio rispetto a quello del piccolo comune, e il
+Comune di Aosta in quanto capoluogo.
+Tali competenze devono tuttavia contemperarsi con le indicazioni
+normative statali, perché comunque il dominio delle
+telecomunicazioni, fa riferimento a un ministero che si chiama
+"Ministero delle comunicazioni" e a un'Autorità garante delle
+comunicazioni istituita nel 1997.
+Competenze ovvie a maggior ragione ora che si è nell'era della
+globalizzazione, in cui si parla di televisioni e radio senza
+frontiere, in cui esiste la ricezione satellitare.
+Per quanto riguarda le competenze, secondo noi c'è una certa
+confusione, in quanto manca una particolare attenzione a tutta la
+normativa sulle telecomunicazioni, che ha avuto un significato dal
+1990 in poi, da quando venne emanata la legge n. 223/90, la
+cosiddetta "legge Mammì", che ha subìto peraltro modificazioni
+rilevanti anche in questi anni. Vorrei solo citare una norma della
+"legge Mammì", tuttora in vigore e che è importante, e che è
+l'articolo 3, comma 19, il quale dice testualmente:
+"Le regioni
+anche a statuto speciale nonché le Province autonome di Trento e
+Bolzano adeguano i piani territoriali di coordinamento ovvero
+adottano piani territoriali di coordinamento specifici per
+conformarsi alle indicazioni concernenti la localizzazione degli
+impianti previste dal piano di assegnazione".
+In altre parole gli strumenti urbanistici delle regioni, incluse
+anche quelle a statuto speciale - e qui si capisce che la norma ha
+una portata elevata che investe anche le cinque regioni a statuto
+speciale -, devono conformarsi alle normative tecniche o di
+pianificazione diramate dal Ministero.
+Quali sono queste normative di pianificazione? Le più
+importanti, che ci hanno messo ben 8 anni a venire alla luce, sono
+il cosiddetto "piano nazionale di assegnazione delle frequenze" e
+il piano nazionale di ripartizione delle frequenze. Tutta la banda
+delle frequenze, tutto l'etere gestibile e fruibile è stato
+lottizzato - uso questo termine anche se improprio - per dare
+spazio alle comunicazioni di qualunque tipo, non solo televisive e
+radiofoniche, ma anche della telefonia, della radioastronomia,
+delle forze militari e così via e, successivamente, con il piano di
+assegnazione che è stato varato nel 1998 anche le regioni hanno
+avuto cognizione della suddivisione per singoli gestori.
+Tenete presente che ogni gestore deve essere concessionario
+secondo un provvedimento del Ministero e che la concessione
+ministeriale si ottiene solamente possedendo requisiti soggettivi e
+osservando adempimenti oggettivi particolarmente rigorosi.
+La nostra Regione, proprio ai sensi della legge nazionale, ha
+espresso, come le altre regioni, il proprio parere sul piano di
+assegnazione. Non so se ha partecipato lo stesso Assessore Vallet
+nel 1998 o meno, però ho sottomano la delibera del 30 ottobre 1998
+dell'Autorità per le comunicazioni, che in premessa fa riferimento
+al fatto che sono state sentite per l'ubicazione degli impianti le
+regioni e che sono maturate le necessarie intese con le Regioni
+Valle d'Aosta e Friuli Venezia Giulia, le province autonome e via
+dicendo: quindi la Regione Valle d'Aosta, oltre ad adeguarsi
+all'indirizzo normativo nazionale, ha partecipato anche a questa
+fase consultiva e preparatoria del piano nazionale.
+Perché dicevo che è piuttosto confuso invece il disegno di
+legge? È piuttosto confuso perché attribuisce competenze agli enti
+locali, non curando in maniera puntuale ed attenta le normative
+nazionali, o perlomeno una parte di esse e del piano di
+assegnazione delle frequenze.
+C'è da dire che, per quanto riguarda gli impianti di
+radiotelecomunicazione, che sono compresi nel piano di
+assegnazione, quindi che sono già stati localizzati ed
+identificati, le regioni hanno dato un loro parere. È illogico che
+gli articoli 5, 6 e 7 prevedano un'ulteriore ratifica attraverso un
+nuovo atto amministrativo e qui dissento sulle osservazioni fatte
+dal Consigliere Ottoz, laddove dice che sembrerebbe a prima vista
+che questo disegno di legge crei una bardatura ulteriore, perché
+non "sembrerebbe", purtroppo "è" nonostante l'indirizzo di questa
+Giunta, di questa maggioranza portato avanti con estrema capacità
+anche dal Consigliere Ottoz, che dovrebbe essere orientato
+all'alleggerimento delle procedure burocratiche.
+Se la Regione Valle d'Aosta ha già partecipato alla redazione di
+un piano nazionale ed è già stata coinvolta, perché appesantire
+ulteriormente l'iter con il rilascio di ulteriori atti
+autorizzativi nei confronti di gestori per gli impianti in
+esercizio? Non è un alleggerimento, è un appesantimento.
+Un altro limite di questa legge, forse perché scritta di fretta,
+forse perché fatta senza la necessaria partecipazione delle altre
+due Commissioni, la IV e la V, è che non è prevista una
+suddivisione chiara fra i trattamenti degli impianti per
+radiotelecomunicazioni esistenti e gli impianti per
+radiotelecomunicazioni di nuova o di futura realizzazione.
+Tutto abbastanza vago e confuso. In questa vaghezza e in questa
+confusione emerge solo una cosa chiara: un appesantimento ulteriore
+per gli adempimenti ai quali dovranno far fronte i gestori.
+Un nuovo limite di questa legge, e ciò collide in maniera molto
+chiara con le indicazioni nazionali, è il concetto di "sito
+attrezzato". Se la localizzazione degli impianti è finalizzata alla
+tutela della salute, quindi alla loro concentrazione in certe zone,
+e inoltre a un miglioramento paesaggistico, c'è da dire che il
+concetto di "sito attrezzato" stride con questa volontà.
+Penso che qualcuno di voi abbia conoscenza di qualche luogo ove
+sono situati dei ripetitori; ne cito uno, e qui sono presenti
+diversi Consiglieri della bassa Valle, quindi possono conoscerlo
+anche bene: è Col Courtil, in Comune di Hône.
+Tale luogo che si trova a 1.600 metri di altezza è una città
+degli impianti di ritrasmissione. I primi ripetitori che vennero
+insediati, con tralicci di altezza media di 30 metri, furono due
+della RAI. Con la nascita delle prime emittenti private lì è
+cresciuta una selva di impianti ripetitori e da 2 siamo oggi a
+quota 11 tralicci, di altezza media di 30 metri con relative
+casette per il ricovero degli apparati e terreni più o meno
+recintati.
+In quella conca, che è una delle postazioni più importanti della
+Valle d'Aosta per l'accesso di qualsiasi segnale radiotelevisivo in
+Valle d'Aosta o di qualsiasi segnale di radiotelecomunicazione, è
+nato un villaggio, un villaggio che naturalmente non è così
+piacevole da vedere con case in pietra, balconi e serramenti in
+legno, secondo uno stile architettonico che a tutti piace; è un
+villaggio più moderno, un po' fuori dal mondo, che si è evoluto
+dagli anni '50 in avanti e che ha questa caratteristica
+singolare.
+Come si fa a coniugare un sito attrezzato con un villaggio di
+questo tipo? Come si fa a voler concentrare l'esistenza di impianti
+che da anni sono localizzati, pur essendo vicini, in diverse
+postazioni, su un unico traliccio, come si dice nella definizione
+di cui all'articolo 2, e in un'unica casa di ricovero?
+Bisognerebbe, per fare una sommatoria dei tralicci ove sono ubicate
+le antenne, costruire un monumentale traliccio di 300 metri di
+altezza, visto che sono 11 tralicci di altezza media di 30 metri,
+per poter ospitare tutti gli impianti di antenna, e una enorme casa
+o meglio un palazzo, fermo restando la compatibilità tecnica del
+"condominio" di tutti questi apparati. Allora se questo vuol dire
+fare "siti attrezzati", cioè realizzare immensi tralicci, mi pare
+che strida con il concetto di tutela del paesaggio, perché queste
+opere immense e grandiose sono un pugno nell'occhio. Però la legge
+non lo definisce ed è questa la prima contraddizione che voglio
+sottoporre all'attenzione dell'Assessore e che prevede la
+distinzione tra impianti esistenti e impianti nuovi.
+Per gli impianti esistenti come facciamo ad operare una
+razionalizzazione in siti attrezzati? E pensate che di luoghi come
+Col Courtil in Valle d'Aosta ce ne sono molti soprattutto collocati
+lungo la dorsale della Dora Baltea, dove si snodano le principali
+catene delle reti radiotelevisive.
+L'altra ragione per cui il concetto di "sito attrezzato", così
+come indicato nell'articolo 2, non va bene è perché lo stesso piano
+nazionale di assegnazione delle frequenze, al quale le regioni
+anche a statuto speciale, come dicevo prima, devono adeguarsi,
+parla non di "siti attrezzati", ma di "aree utili".
+Cosa vuol dire aree utili? Ogni gestore radiotelevisivo, per
+ottenere la concessione ministeriale, deve dimostrare il possesso
+di certi requisiti e per questo deve anche indicare qual è la
+localizzazione degli impianti ripetitori disseminati nel bacino di
+competenza. Una volta ottenuta la concessione ministeriale vengono
+stabiliti in questo documento i luoghi ove possono esistere gli
+impianti ripetitori, che devono osservare una determinata potenza,
+le cui antenne devono essere orientate in una determinata
+direzione, con certa polarizzazione e così via.
+Secondo il piano di assegnazione delle frequenze l'area utile è
+un luogo geografico individuato con la latitudine e la longitudine,
+i cosiddetti "meridiani e paralleli", ed essendo distanze molto
+piccole si usano frazioni che sono i secondi e i minuti del grado.
+Voi sapete che i paralleli e i meridiani sono indicati attraverso
+un'unità di misura che è il grado, e le frazioni di grado sono i
+minuti primi e i minuti secondi o semplicemente secondi.
+Il piano nazionale di assegnazione delle frequenze, parlando di
+aree utili, precisa che l'ubicazione degli impianti di
+radiotelecomunicazione può avere una tolleranza di più o meno 50
+secondi. Vedete quindi che il concetto di sito attrezzato, molto
+"fisico" nella legge regionale, è invece molto "geografico" e anche
+molto più elastico nella pianificazione nazionale.
+Tra l'altro, leggendo anche alcune normative regionali, e mi
+riferisco sempre alla Liguria, questa concezione non è presente,
+perché sarebbe estremamente limitativa sia per le ragioni che
+dicevo prima, di tutela paesaggistica e di razionalizzazione, che
+secondo noi è impossibile specie sugli impianti esistenti, sia per
+la contraddizione che sussiste fra questa norma regionale e la
+pianificazione nazionale. Quindi non vorremmo che la Valle d'Aosta
+diventasse una terra che ospita tante Tour Eiffel perché non
+pensiamo che i 300 metri ipotetici - forse è un esempio limite,
+però è un esempio che spiega bene quello che è il problema - vadano
+nella direzione della tutela paesaggistica! Senza dimenticare
+limiti tecnici e di compatibilità che ci possono essere fra le
+diverse postazioni.
+Per quanto concerne poi le competenze, esse vengono attribuite
+alle comunità montane. Sono competenze importanti, sono competenze
+che esigono che ci siano approfondite conoscenze da parte di chi
+amministra le comunità montane, perché la materia è tutt'altro che
+semplice, anzi è piuttosto ostica, è in continua evoluzione ed è in
+corso di revisione complessiva. Questo lo dico sempre tenendo
+presente gli obiettivi fondamentali di questa legge, ovvero la
+tutela della salute e la localizzazione.
+Non voglio sembrare il fautore di una corrente di pensiero
+diversa, ma vorrei sottolineare come l'eccesso di attenzione e di
+pruriti verso una sola direzione rischi di far dimenticare
+completamente quelle che sono le esigenze e le legittime necessità
+anche di altri soggetti, che in questo caso sono destinatari, e
+direi anche in misura piuttosto pesante, di questa normativa.
+Sono queste le ragioni per cui il nostro gruppo presenterà una
+serie di emendamenti che illustreremo in corso d'esame del disegno
+di legge. Quello che ci premeva sottolineare sono queste
+contraddizioni, queste profonde differenze che ci sono rispetto a
+indicazioni normative e pianificatorie nazionali.
+Il disegno di legge Valdostano, pur tutelando un diritto
+essenziale, che è il diritto della salute dell'uomo, tende però a
+penalizzare altri diritti importanti dell'uomo: il diritto
+all'esercizio di un'attività e il diritto alla comunicazione e alla
+manifestazione del pensiero, entrambi costituzionalmente
+riconosciuti e che dovrebbero avere avuto un'adeguata
+attenzione.
+Purtroppo, lo ribadisco, la IV e la V Commissione sono state
+completamente omesse in questa procedura e, io, prima di illustrare
+i singoli emendamenti rinnovo l'invito, che non è un invito
+dilatorio, Assessore, a cercare di migliorare il tenore di una
+legge che nelle finalità è più che mai condivisibile, ma che
+scritta così rischia di creare solo confusione e difficoltà per chi
+opera nel rispetto di questa legge e per chi opera in un settore
+che oggi come oggi abbiamo visto, e l'ultima pubblicazione della
+sentenza della Cassazione ne è una testimonianza, è più che mai
+sotto i riflettori. Fermo restando che tutto l'insieme
+dell'inquinamento elettromagnetico di bassa frequenza, che sembra
+il più nocivo per la salute umana, ovvero quello che viene creato
+dagli elettrodotti, è completamente tralasciato da questa
+legge.
+Si dà atto che, alle ore 17,09, il Consigliere Lanièce lascia
+l'aula consiliare.
+Presidente
+Nel far presente che si discute sul nuovo testo
+approvato a maggioranza dalla III Commissione vorrei ricordare al
+Consigliere Tibaldi che qualsiasi commissione può chiedere
+direttamente alla Presidenza del Consiglio l'assegnazione di un
+atto già inviato ad altre Commissioni consiliari.
+La parola alla Consigliera Squarzino Secondina.
+Squarzino (PVA-cU)
+Questo disegno di legge nasce
+dall'esigenza formale di rispettare le indicazioni del decreto
+ministeriale n. 381/98, ma nasce soprattutto dall'esigenza di
+regolamentare una materia molto delicata e di chiarire, e questo la
+legge lo fa, chi, come e dove, può installare degli impianti di
+radiocomunicazione in Valle: con quali procedure, chi è incaricato
+dei controlli, chi li attiva, chi li esplica, chi coordina l'intera
+materia e infine, ed è questo il punto molto importante, qual è il
+livello sostenibile per la salute delle persone, i residenti e i
+turisti, fino a che punto è sostenibile l'emissione delle onde
+elettromagnetiche e i livelli di intensità dei campi
+elettromagnetici.
+In Valle è sorto il Comitato prevenzione onde elettromagnetiche
+che ha sollecitato questo provvedimento. Ricordo che in tutta
+Italia sono numerosi questi comitati di cittadini perché si sta
+diffondendo sempre più una sensibilità e un'attenzione nei
+confronti della salute come pure la preoccupazione e il timore
+rispetto all'incidenza che può avere un'esposizione prolungata a
+queste onde anche se sono di bassa frequenza.
+Ben venga, quindi, questo disegno di legge che dopo un'attesa di
+580 giorni, come ci ricordava il rappresentante del Comitato
+prevenzione onde elettromagnetiche, cioè quasi due anni, è stato
+sottoposto in questo ultimo periodo a un iter veloce e accelerato
+che non ha consentito alla sottoscritta - magari agli altri sì - di
+esaminare in commissione tutte le problematiche. Anch'io faccio mie
+le osservazioni di Tibaldi rispetto al fatto che la commissione non
+si è data sufficiente tempo per lavorare su questo importante e
+complesso disegno di legge. È un disegno di legge che riguarda
+materie che non mastichiamo tutti i giorni, Assessore, quindi il
+consigliere normale se vuole capire qualcosa, deve mettersi a
+leggere, a studiare: ha bisogno di un po' di tempo per capire
+queste tematiche. Ricordo anche l'iter di questa legge. È stata
+assegnata alla commissione il 1° luglio, è stato nominato il
+relatore l'11 luglio, in un'unica seduta quella del 18, c'è stata
+la presentazione da parte dell'Assessore e degli uffici delle
+problematiche della legge, l'audizione del rappresentante degli
+utenti del Comitato prevenzione onde e l'adozione del parere: tutto
+in un unico giorno.
+Ora non fa parte della prassi normale del lavoro di una
+commissione questo modo di operare. Ricordiamo che nel Regolamento
+sono indicati due mesi di tempo proprio per dire che quello è il
+tempo che viene dato alle commissioni per riflettere e per lavorare
+sui diversi argomenti e mi dispiace che su questo tema non ci sia
+stato il tempo per riflettere e per confrontarci con maggior calma,
+per esaminare diffusamente i vari aspetti del problema.
+Entrando nel merito del disegno di legge, anche noi non capiamo
+perché non si è voluto regolamentare contestualmente tutta la
+materia relativa agli impianti per la trasmissione e la
+distribuzione di energia elettrica, quindi tutta quella che è
+l'alta frequenza; credo che l'Assessore ci potrà dare una
+spiegazione rispetto a questo tipo di scelta.
+Dicevo prima, ben venga questo disegno di legge, seppure con il
+ritardo che abbiamo visto. Questa legge andava fatta perché occorre
+mettere ordine nelle proliferazioni di apertura di nuovi siti. Già
+sono numerose le antenne radio/tivù che punteggiano il nostro
+territorio e lo sviluppo presente e futuro della telefonia mobile
+richiederà sempre più l'installazione capillare di antenne.
+Nel centro città di Aosta, ad esempio, si stanno moltiplicando
+le richieste ai condomini di installare antenne per cellulari e il
+condominio potrebbe anche essere allettato dalla prospettiva di un
+guadagno immediato senza tener conto delle ripercussioni negative
+che ci possono essere per la salute.
+Se non si interviene, se non si regolarizza, se si lasciano
+popolazioni in balia di chi, per dare un servizio più diffuso e più
+capillare, non si preoccupa delle ricadute sulla salute dei
+cittadini, credo che non facciamo un buon servizio per la
+popolazione.
+Questa legge intende stabilire delle procedure per
+l'installazione delle antenne, è una legge che affida agli enti
+locali il compito, prima, di censire e, poi, di definire i siti
+destinati all'installazione di antenne; riconosce nell'ARPA
+l'organismo atto a verificare l'adeguatezza degli impianti alle
+norme; prevede la predisposizione di un catasto degli impianti e
+questo mi sembra interessante, affida agli enti locali il compito
+di autorizzare o meno l'installazione e il funzionamento di un
+impianto nei rispetto poi dei limiti stabiliti dalla legge; prevede
+anche lo smantellamento e l'eventuale bonifica dei siti se in
+contrasto con la legge. Sono tutta una serie di elementi
+decisamente positivi.
+Ma, e qui arriva il punto che è stato richiamato anche nella sua
+relazione dal Consigliere Cerise, noi avremmo voluto un po' più di
+coraggio da parte della Regione proprio nell'esercizio delle sue
+competenze per quanto riguarda la definizione di obiettivi di
+qualità, quindi la definizione di livelli più bassi di
+frequenza.
+È vero, come ricordava il Consigliere Ottoz, che noi non abbiamo
+delle competenze specifiche in questo settore, però abbiamo le
+competenze che tutte le regioni a statuto normale hanno già oggi e
+che alcune regioni hanno utilizzato. E mi spiego.
+Le finalità che si pone il decreto ministeriale n. 381/98, come
+definite all'articolo 1, sono quelle di:
+"? fissare i valori
+limite di esposizione della popolazione ai campi elettromagnetici
+connessi al funzionamento e all'esercizio dei sistemi fissi delle
+telecomunicazioni radiotelevisive"
+, quindi indica quali sono i
+valori limite delle esposizioni al di sopra dei quali non è
+consentito andare; ma nell'articolo 4, dove si parla di misure di
+cautela e obiettivi di qualità, il decreto ministeriale n. 381
+riconosce alle regioni la possibilità di disciplinare non solo
+"l'installazione e la modifica degli impianti di
+radiocomunicazione al fine di garantire il rispetto dei limiti di
+cui ai precedenti articoli 3 e 1",
+ma anche
+"il
+raggiungimento di eventuali obiettivi di qualità".
+Questo significa che il decreto ministeriale riconosce alle
+regioni la possibilità, nel momento in cui disciplinano
+l'installazione e la modifica degli impianti, anche di introdurre
+limiti diversi, limiti più bassi di inquinamento. Ora la richiesta
+avanzata dal Comitato di introdurre obiettivi di qualità non è
+stata presa in considerazione dall'Assessorato; il motivo mi sembra
+venga fornito nella relazione del collega Cerise là dove dice che è
+lo Stato che fissa i limiti a cui le regioni devono adeguarsi.
+Lo Stato fissa i limiti minimi a cui le regioni devono
+adeguarsi, sopra i quali non si può andare per tutelare la salute;
+ma non viene negata alle regioni la possibilità di scegliere
+obiettivi di qualità diversi per il proprio territorio e per la
+propria popolazione.
+Che queste non siano solo affermazioni di principio, ma siano
+realtà lo dimostra il recente decreto del Presidente della Giunta
+provinciale di Trento - dico recente perché porta la data del 29
+giugno 2000 - in cui vengono fissati dei limiti molto più bassi.
+Mentre i limiti della nostra legge, quelli del decreto n. 381, si
+attestano su 6 volt al metro per il campo elettrico, il decreto del
+Presidente della Giunta provinciale di Trento prevede 3 volt al
+metro, un limite addirittura dimezzato, e in prossimità di scuole,
+ospedali, case di cura, residenze sanitarie assistenziali, ambienti
+destinati all'infanzia si prevede di non superare i 2 volt al
+metro.
+Allora c'è una scelta precisa che è stata fatta all'interno
+della legislazione attuale, scelta che la nostra Regione non ha
+finora fatto. È vero sicuramente che, come molti hanno
+sottolineato, non ci sono dati certi circa la nocività sicura del
+limite fissato per legge; è vero che in campo nazionale si è scelto
+un limite più basso rispetto a quello europeo; però, è anche vero e
+riconosciuto ormai da tutti che non abbiamo studi seri
+sull'incidenza nei tempi lunghi dell'esposizione continua a campi
+magnetici, perché il tempo breve di vita di questi fenomeni non ce
+lo ha ancora consentito.
+Forse una maggiore attenzione alla salute dei cittadini, una
+maggiore prevenzione, una maggiore cautela suggerirebbe di adottare
+anche noi, in Regione, dei limiti più bassi. A questo proposito non
+dimentichiamo che siamo una regione turistica: sarebbe interessante
+se, accanto ad un eventuale bollino verde che l'Assessorato
+dell'agricoltura potrebbe attivare, dicendo che noi siamo una
+regione in cui non sono prodotti cibi geneticamente modificati (fra
+l'altro c'è stata anche una presa di posizione del Consiglio
+regionale in questo senso), ci fosse anche un bollino blu per
+segnalare la qualità dell'aria ai turisti (ma potrebbe essere verde
+o rosso o giallo; o anche rosso e nero; se questa maggioranza
+facesse scelte coraggiose, sarebbe anche giusto riconoscerlo).
+Presentiamo un emendamento che prevede una diminuzione dei limiti
+di inquinamento.
+È un emendamento che abbiamo già fatto vedere stamani
+all'Assessore, speriamo che sia esaminato ed accolto. Annuncio fin
+d'ora che l'atteggiamento nei confronti di questa legge dipende
+dall'accettazione o meno dell'emendamento, nel senso che questo è
+per noi il punto più qualificante.
+Si dà atto che, dalle ore 17,24, presiede il Vicepresidente
+La Torre.
+Presidente
+La parola all'Assessore al territorio, ambiente
+e opere pubbliche, Vallet.
+Vallet (UV)
+Se non vi sono colleghi che intendono
+intervenire in discussione generale, chiedo dieci minuti di
+sospensione per verificare gli emendamenti numerosi dei colleghi
+Tibaldi e Squarzino prima di chiudere la discussione generale.
+Presidente
+Si sospende il Consiglio per dieci minuti.
+Si dà atto che la seduta è sospesa dalle ore 17,32 alle ore
+17,55.
+Si dà atto che, dalle ore 17,55, presiede il Presidente
+Louvin.
+Président
+La séance reprend toujours en discussion
+générale.
+La parole à l'Assesseur au territoire, à l'environnement et aux
+ouvrages publics, Vallet.
+Vallet (UV)
+Per presentare un ulteriore emendamento
+all'articolo 2, comma 1, lettera b), per precisare meglio la
+definizione di sito attrezzato in relazione ad una pertinente
+osservazione che il Consigliere Tibaldi aveva fatto e, quindi, per
+non lasciare possibilità di dubbio rispetto alla definizione che
+avevamo dato precedentemente.
+Président
+S'il n'y a point de requêtes ultérieures
+d'interventions, nous pouvons clore la discussion générale. La
+discussion générale est close.
+La parole à l'Assesseur au territoire, à l'environnement et aux
+ouvrages publics, Vallet.
+Vallet (UV)
+Per ringraziare i Consiglieri che sono
+intervenuti nella discussione generale, i quali hanno sollevato
+quattro questioni.
+La prima riguarda la tempistica di approvazione di questo
+disegno di legge, forse un po' stretta, che non ha consentito dal
+loro punto di vista di approfondire nei termini dovuti l'argomento.
+Sono certo che se questa non fosse stata l'ultima seduta del
+Consiglio regionale prima della pausa estiva, probabilmente la
+commissione avrebbe avuto qualche settimana in più per approfondire
+l'argomento. Credo però che ci siano stati comunque gli spazi e la
+volontà per entrare nel merito, anche in modo dettagliato, della
+problematica.
+Teniamo conto che questo provvedimento è un provvedimento molto
+atteso dai diversi soggetti interessati, evidentemente da coloro
+che da tempo sollecitano, come ha sottolineato la Consigliera
+Squarzino, questa norma da parte dell'Amministrazione regionale con
+l'obiettivo di veder regolamentata questa delicata materia sotto il
+punto di vista della tutela della salute pubblica. Con tutto il
+dovuto rispetto per i comitati, in modo particolare al Comitato per
+le onde elettromagnetiche, potrei far vedere alla Consigliera
+Squarzino la prima bozza del disegno di legge che data maggio 1998,
+scadenza della precedente legislatura, questo non per togliere
+nulla ai giusti solleciti e al giusto ruolo che i comitati dei
+cittadini svolgono, ma per dire che da tempo la Giunta regionale
+era attenta all'argomento.
+Ci abbiamo messo qualche mese di troppo perché l'argomento è di
+taglia e andava approfondito in tutti gli aspetti, quindi credo che
+oggi il Consiglio regionale sia nelle condizioni di votare con
+cognizione di causa l'articolato del disegno di legge.
+La seconda questione posta riguarda i limiti di emissione e gli
+obiettivi di qualità. Su questo argomento sono stato
+sufficientemente chiaro in più di un'occasione, anche intervenendo
+in quest'aula in risposta a iniziative, interrogazioni e
+interpellanze che sull'argomento dell'inquinamento elettromagnetico
+erano state presentate.
+La posizione della Giunta regionale rispetto a questo tema è
+che, in materia di limiti di emissione, il riferimento nostro va
+alla normativa comunitaria e alla normativa nazionale; a maggior
+ragione questo suffragato dal fatto che nel testo della legge
+quadro in approvazione al Senato in materia di inquinamento
+elettromagnetico la proposta è di mantenere o meglio di assegnare
+allo Stato la competenza unica per quanto riguarda la normazione
+dei limiti di emissione.
+Devo dire peraltro che, in relazione a questo tipo particolare
+di emissione e in relazione in modo particolare al Decreto
+Ministeriale n. 381/98, i limiti che lì sono fissati sono definiti
+fortemente innovativi e seguono una logica del principio
+cautelativo; quindi, i limiti che sono fissati dal Decreto
+Ministeriale n. 381 sono unanimemente riconosciuti come di per sé
+limiti già sufficientemente cautelativi rispetto a questo tipo di
+inquinamento.
+Altra osservazione espressa è quella che il disegno di legge non
+tratta la problematica complessiva dell'inquinamento
+elettromagnetico e dell'elettrosmog prodotto dagli elettrodotti. La
+motivazione è la stessa di prima: non intendiamo normare in materia
+di inquinamento relativo agli elettrodotti; il nostro riferimento
+era, è e sarà quanto previsto dalla normativa nazionale.
+Un'altra osservazione, manifestata in modo particolare dal
+Consigliere Tibaldi, riguarda le procedure di approvazione dei
+piani e delle domande che il Consigliere Tibaldi giudica di
+appesantimento o comunque troppo onerose per i soggetti gestori.
+Voglio evidenziare che fra le altre cose questa legge andrà a
+dettare norme in un settore particolare che è quello delle
+autorizzazioni per l'installazione degli impianti dei radiomobili e
+delle reti di telefonia mobile, che non è attualmente normato, in
+un campo in cui i soggetti gestori incontrano non poche difficoltà
+perché non sanno giustamente a chi rivolgersi e quali procedure
+espletare.
+Per quanto riguarda la problematica degli impianti esistenti,
+qui non ci sono oneri particolari in capo ai soggetti gestori; c'è
+una logica e giusta esigenza da parte dell'Amministrazione di avere
+il monitoraggio della situazione esistente e quindi, rispetto a
+questo, l'onere a carico dei soggetti gestori è quello di
+predisporre il proprio piano di attività, il proprio progetto di
+rete, rispetto al quale, se coerente con il piano delle
+assegnazioni e se rispettoso dei limiti posti dal decreto
+ministeriale n. 381, nessuno avrà niente da ridire, nessuno potrà
+obiettare.
+Altra preoccupazione evidenziata riguarda la possibile
+confusione fra la pianificazione prevista da questo disegno di
+legge e la pianificazione nazionale che riguarda l'assegnazione
+delle radiofrequenze.
+Questa osservazione è stata sicuramente pertinente, il
+Consigliere Tibaldi l'aveva già svolta nella discussione in III
+Commissione; abbiamo prodotto due emendamenti al testo: uno
+all'articolo 4, comma 1, che è in approvazione adesso in aula,
+l'altro per quanto riguarda i progetti di rete, articolo 7, comma
+1, in cui diciamo che la pianificazione regionale, che risponde a
+fini di natura urbanistica, fra le altre cose deve essere coerente
+con il piano nazionale di ripartizione e di assegnazione, quindi
+credo che da questo punto di vista i dubbi possano essere
+fugati.
+Per quanto riguarda gli emendamenti, voglio ringraziare il
+Consigliere Tibaldi perché quando lo si vuole fare è possibile
+trovare momenti di confronto anche al di fuori delle sedi
+istituzionali fissate, cioè il Consiglio e le commissioni.
+Gli emendamenti che ho presentato in aula sono il frutto del
+confronto e della discussione che abbiamo intavolato con il
+Consigliere Tibaldi, il quale, non facendo parte della III
+Commissione, ha voluto comunque produrre tutta una serie di
+osservazioni. In relazione quindi agli emendamenti che sono stati
+presentati oggi dal gruppo di Forza Italia, quelli che erano
+accoglibili, ripeto, sono stati ripresi e presentati a mia
+firma.
+Mi riferisco agli emendamenti n. 1, n. 5, n. 6 per quanto
+riguarda esclusivamente il 3° comma; per quanto riguarda
+l'emendamento all'articolo 11, in relazione al fatto che
+l'autorizzazione prevista da questa procedura costituisce anche
+titolo abilitativo e concessione edilizia, quindi ai sensi della
+legge urbanistica, anche questo recepisce un'esigenza di
+chiarimento che mi era stata formulata dal Consigliere Tibaldi.
+Per quanto riguarda l'emendamento n. 8, in considerazione del
+fatto che le evoluzioni successive della "legge Mammì" hanno
+portato da 5 a 6 anni la durata della validità delle concessioni,
+credo che sia opportuno accogliere anche questo emendamento, quindi
+andando a prevedere in 6 anni la durata di validità delle
+autorizzazioni.
+Per quanto riguarda gli emendamenti a firma dei Consiglieri del
+gruppo Valle d'Aosta per l'Ulivo, ho già detto qual è la
+motivazione di fondo per la quale non intendiamo introdurre in
+questo articolato la problematica relativa agli obiettivi di
+qualità per cui, se ho inteso bene, gli emendamenti n. 2, n. 3, n.
+4 e n. 5 sono conseguenti al primo e, non accogliendo il primo,
+evidentemente non vengono accolti neanche i successivi.
+Président
+Je ferme la discussion générale. Nous procédons
+à l'examen du projet de loi article par article.
+Je soumets au vote l'article 1
+er
+:
+Conseillers présents et votants: 30
+Pour: 30
+Le Conseil approuve à l'unanimité.
+A l'article 2 nous avons un amendement présenté par l'Assesseur
+Vallet que je vais vous lire:
+Emendamento Articolo 2, comma 1, lettera b):
+dopo "adeguata superficie," sostituire con: "di supporti di
+antenna di dimensione e numero tali".
+S'il n'y a point d'objections, je soumets au vote l'article 2
+avec l'amendement:
+Articolo 2 (Definizioni)
+1. Ai fini della presente legge si definiscono:
+a) impianti per radiotelecomunicazioni, gli impianti fissi delle
+reti che forniscono il servizio di radiodiffusione televisiva e
+radiofonica, con particolare riferimento alle antenne che
+diffondono il segnale sul territorio e ai ponti radio e gli
+impianti fissi delle reti radiomobili, delle reti di telecontrollo
+e comando, delle reti di trasmissione dati e informazioni che
+emettono onde elettromagnetiche nello spazio, compresi in tutti i
+casi i ponti radio;
+b) siti attrezzati per gli impianti per radiotelecomunicazioni,
+di seguito denominati siti attrezzati, le strutture logistiche
+comprensive di un terreno recintato di adeguata superficie, di
+supporti di antenna di dimensione e numero tali da potere dare
+ospitalità ai diversi gestori interessati, e di eventuali strutture
+edilizie per l'alloggiamento degli apparati connessi e funzionali
+alle diverse reti.
+Conseillers présents: 30
+Votants: 28
+Pour: 28
+Abstentions: 2 (Frassy, Tibaldi)
+Le Conseil approuve.
+Je soumets au vote l'article 3:
+Conseillers présents: 30
+Votants: 28
+Pour: 28
+Abstentions: 2 (Frassy, Tibaldi)
+Le Conseil approuve.
+Je donne lecture de l'amendement qui propose l'insertion de
+l'article 3 bis présenté par les Conseillers Squarzino Secondina,
+Beneforti et Curtaz:
+Emendamento Inserire il seguente articolo 3 bis:
+"Articolo 3 bis
+Criteri generali di localizzazione
+1. Gli impianti fissi delle telecomunicazioni operanti
+nell'intervallo di frequenza compresa fra 100 kHz e 300 GHz non
+possono essere installati:
+a) all'interno o in prossimità delle zone residenziali, come
+individuato dagli strumenti urbanistici, nonché in prossimità di
+parchi urbani, aree verdi attrezzate, impianti sportivi e sedi
+attività lavorative, qualora non sia garantito un volume di
+rispetto atto ad assumere l'obiettivo di qualità di 3 V/m;
+b) in prossimità di scuole, ospedali, case di cura,
+microcomunità, residenze sanitarie assistenziali e ambienti
+destinati all'infanzia, deve comunque essere garantito un volume di
+rispetto di tali strutture atto ad assicurare l'obiettivo di
+qualità di 2 V/m;
+c) in sedi o posizioni di particolare rilevanza dal punto di
+vista paesaggistico-ambientale, ubicati nelle aree protette o nelle
+aree sottoposte a vincolo paesaggistico."
+La parole à la Conseillère Squarzino Secondina.
+Squarzino (PVA-cU)
+Anche se l'Assessore ha detto che non è
+disposto ad accettarlo, vorrei ricordare l'importanza di questo
+emendamento. Stamani quando l'Assessore mi ha chiesto di vedere gli
+emendamenti per esaminarli speravo che fosse disposto ad
+accettarli, se pur lievemente modificati. Ma questo non è
+avvenuto.
+L'Assessore e la Giunta hanno fatto una scelta politica diversa
+e me ne spiace.
+So che la decisione è stata ribadita già precedentemente, ma
+vede, Assessore, è difficile capire; lei, a mio avviso, non ha dato
+delle motivazioni plausibili circa la decisione di uniformarsi ai
+limiti indicati nella legge nazionale. Non si capisce mai quali
+sono le scelte che questa maggioranza intende fare a fronte di
+normative statali.
+A volte a fronte di una normativa statale, per il fatto che è lo
+Stato ad emanarla, si rivendica l'autonomia perché la Regione deve
+comunque esercitare le proprie competenze, deve differenziarsi
+soprattutto se si è in ambito politico-culturale. Invece
+nell'ambito ambientale sembra che le norme nazionali siano già
+troppo esigenti rispetto alla sensibilità e alle scelte di questa
+maggioranza. Questa è l'impressione che si ha.
+Vede, Assessore, anche nella relazione del Consigliere Ottoz era
+inserito almeno un dubbio. È vero - si dice infatti nella relazione
+- che questa è:
+"? una materia in costante evoluzione? Le soglie
+minime oggi adottate a livello nazionale suscitano timori e
+perplessità in molti?"
+ma
+"? è difficile evitare il
+sospetto?"
+- e qui il Consigliere Ottoz dice molto bene quello
+che avevo appena appena accennato nella mia relazione -
+"? che
+grossi interessi, che trascendono la nostra piccola Regione,
+premano per mantenere le soglie a livelli più favorevoli ai bilanci
+societari che alla salute dei nostri figli?"
+. Quindi è sulla
+salute della popolazione, più che sui bilanci di certe grosse
+società, che avrei voluto fosse concentrata la scelta della
+Giunta.
+Ripeto, non sono chiare le motivazioni per cui a volte si decide
+di usare la propria autonomia, a volte assolutamente neanche si
+pensa che è possibile fare delle scelte più qualificanti per la
+nostra Regione.
+In questo caso era possibile, come dimostra la scelta fatta
+dalla Provincia di Trento. Non vorrei che i turisti avessero
+trovato un motivo ulteriore per scegliere per il proprio soggiorno
+estivo il Trentino, rispetto alla Valle d'Aosta, perché lì si
+sentono ambientalmente più protetti.
+Dato che si tratta qui non di una scelta tecnica, ma di una
+scelta di tipo politico, prendo atto che la Giunta ha deciso di non
+votare questo emendamento per cui io già annuncio che d'ora in
+avanti, per noi la legge non è più accettabile.
+Abbiamo votato volentieri a favore i primi articoli e gli
+emendamenti che lei ha proposto per indicare che c'è
+un'accettazione di fondo di questa legge.
+Ma, come ho detto chiaramente nella mia relazione, questo è un
+punto qualificante che ci impedisce, se lei non lo accetta, di
+votare a favore. D'ora in avanti ci asterremo su tutti gli altri
+articoli.
+Président
+Je soumets au vote l'amendement qui propose
+l'insertion de l'article 3 bis présenté par les Conseillers
+Squarzino Secondina, Beneforti et Curtaz:
+Conseillers présents: 30
+Votants: 6
+Pour: 6
+Abstentions: 24 (Agnesod, Bionaz, Borre, Cerise, Charles Teresa,
+Cottino, Cuc, Ferraris, Fiou, Frassy, Lavoyer, Louvin, Martin,
+Nicco, Ottoz, Pastoret, Perrin, Perron, Piccolo, Rini, Tibaldi,
+Vallet, Vicquéry, Viérin D.)
+Le Conseil n'approuve pas.
+A l'article 4 nous avons deux amendements: l'amendement présenté
+par l'Assesseur Vallet et l'amendement n° 1 présenté par les
+Conseillers Tibaldi et Frassy, qui ont le même contenu.
+Je donne lecture de l'amendement de l'Assesseur Vallet:
+Emendamento Articolo 4, comma 1
+Il comma 1 è così riscritto:
+"1. Le funzioni disciplinate dalla presente legge sono
+esercitate, per il territorio di competenza, dal Comune di Aosta e
+dagli altri Comuni, in forma associata attraverso le Comunità
+Montane, ai sensi dell'articolo 83 della legge regionale 7 dicembre
+1998, n. 54 (Sistema delle autonomie in Valle d'Aosta) e nel
+rispetto della normativa statale in materia di
+radiotelecomunicazioni."
+Je donne lecture de l'amendement des Conseillers Tibaldi et
+Frassy:
+Emendamento n. 1 Il primo comma dell'articolo 4 è così
+modificato:
+"1. Le funzioni disciplinate dalla presente legge sono
+esercitate, per il territorio di competenza, dal Comune di Aosta e
+dagli altri Comuni, in forma associata attraverso le Comunità
+Montane, ai sensi dell'articolo 83 della Legge regionale 7 dicembre
+1998, n. 54 (Sistema delle autonomie in Valle d'Aosta) e nel
+rispetto della normativa nazionale in materia di
+radiotelecomunicazioni."
+Je soumets au vote l'amendement présenté par l'Assesseur
+Vallet:
+Conseillers présents: 29
+Votants: 23
+Pour: 23
+Abstentions: 6 (Beneforti, Collé, Comé, Curtaz, Marguerettaz,
+Squarzino Secondina)
+Le Conseil approuve.
+L'amendement des Conseillers Tibaldi et Frassy est évidemment
+échu suite à l'adoption de l'amendement présenté par
+l'Assesseur.
+Je soumets au vote l'article 4 avec l'amendement présenté par
+l'Assesseur Vallet:
+Articolo 4 (Esercizio delle funzioni)
+1. Le funzioni disciplinate dalla presente legge sono
+esercitate, per il territorio di competenza, dal Comune di Aosta e
+dagli altri Comuni, in forma associata attraverso le Comunità
+montane, ai sensi dell'articolo 83 della legge regionale 7 dicembre
+1998, n. 54 (Sistema delle autonomie in Valle d'Aosta) e nel
+rispetto della normativa statale in materia di
+radiotelecomunicazioni.
+2. L'eventuale assegnazione di risorse finanziarie necessarie
+all'esercizio delle funzioni esercitate ai sensi della presente
+legge dagli enti locali di cui al comma 1 sarà definita in sede di
+revisione della normativa regionale in materia di finanza
+locale.
+Conseillers présents: 29
+Votants: 23
+Pour: 23
+Abstentions: 6 (Beneforti, Collé, Comé, Curtaz, Marguerettaz,
+Squarzino Secondina)
+Le Conseil approuve.
+Je soumets au vote l'article 5:
+Conseillers présents: 30
+Votants: 22
+Pour: 22
+Abstentions: 8 (Beneforti, Collé, Comé, Curtaz, Frassy,
+Marguerettaz, Squarzino Secondina, Tibaldi)
+Le Conseil approuve.
+A l'article 6 nous avons trois amendements: les amendements n° 2
+et n° 3 présentés par les Conseillers Squarzino Secondina, Curtaz
+et Beneforti et l'amendement n° 2 présenté par les Conseillers
+Tibaldi et Frassy.
+Je donne lecture des amendements des Conseillers Squarzino
+Secondina, Curtaz et Beneforti:
+Emendamento n. 2 Articolo 6, comma 1
+sostituire l'ultima parte, a partire da "in merito al rispetto"
+con il seguente testo:
+"in merito al rispetto dei limiti di esposizione, delle misure
+di cautela e degli obiettivi di qualità, di cui agli articoli 3 e 4
+del decreto del Ministero dell'Ambiente 10 settembre 1998, n. 381
+(Regolamento recante norme per la determinazione dei tetti di
+radiofrequenza compatibili con la salute umana) e all'articolo 3bis
+della presente legge."
+Emendamento n. 3 Articolo 6, comma 2, lettera b)
+aggiungere alla fine del punto b), il seguente testo:
+"e all'articolo 3 bis della presente legge".
+Je donne lecture de l'amendement des Conseillers Tibaldi et
+Frassy:
+Emendamento n. 2 Il terzo comma dell'articolo 6 è così
+modificato:
+"3. L'approvazione dei progetti di cui all'articolo 5, primo
+comma, può essere subordinata alla presentazione, da parte dei
+gestori degli impianti, di idonee azioni di risanamento volte a
+ridurre i limiti di esposizione in conformità a quanto stabilito
+nell'allegato C del D.M. 381/1998."
+La parole à la Conseillère Squarzino Secondina.
+Squarzino (PVA-cU)
+Ritiro tutti gli altri emendamenti
+perché erano solo una conseguenza del primo.
+Président
+Les amendements des Conseillers Squarzino
+Secondina, Curtaz et Beneforti sont retirés.
+La parole au Conseiller Tibaldi.
+Tibaldi (FI)
+Dall'articolo 5 in avanti questa legge
+comincia a entrare in quel sistema di confusione che ho evidenziato
+in sede di discussione generale.
+Quali modificazioni abbiamo proposto con questi emendamenti?
+Alcune modificazioni minimali perché, a nostro avviso, questa legge
+doveva essere riscritta in maniera completa.
+Tra esse la prima è contenuta nel terzo comma dell'articolo 6,
+che viene modificato nel senso di una semplificazione. Si cancella
+praticamente in questo comma tutta quella parte che riguarda il
+parere tecnico favorevole dell'ARPA.
+Ma attenzione, non è che cancellando questo inciso si cancelli
+la competenza dell'ARPA, perché tale competenza è mantenuta nel
+primo comma dell'articolo 6, il cui parere è preventivo
+all'approvazione del progetto di rete.
+Ci sembra superfluo che reintervenga un secondo parere sul
+medesimo progetto di rete, quando si sa bene che se non interviene
+questo parere, vuol dire che non ci sono delle azioni di
+risanamento da porre in essere.
+Tale semplificazione mira ad alleggerire quel sistema
+burocratico di provvedimenti, pareri, che è stato previsto da
+questa legge e che ci sembra assolutamente dannoso.
+Tra l'altro, piccola considerazione sull'articolo 5, che prevede
+la presentazione di un progetto di rete: un progetto di rete
+peraltro viene già presentato al Ministero quando il concessionario
+deve essere titolato della relativa concessione, quindi sarebbe
+stato sufficiente, se si voleva traguardare quell'obiettivo di
+semplificazione anche invocato dal Consigliere Ottoz, chiedere al
+concessionario di consegnare la copia delle documentazioni già
+fornite al Ministero.
+Mi auguro che pur non essendo scritto così gli uffici siano
+sensibili e non comincino a imboccare delle vie dirigistiche e di
+complicazione degli affari semplici.
+Questo comma, per tornare all'articolo 6, va in quella direzione
+pur innestandosi su un articolo e su una sequela di altri articoli
+che verso la semplificazione non vanno assolutamente.
+Si dà atto che, dalle ore 18,22, presiede il Vicepresidente La
+Torre.
+Presidente
+Pongo in votazione l'emendamento presentato dai
+Consiglieri Tibaldi e Frassy all'articolo 6:
+Consiglieri presenti: 29
+Votanti e favorevoli: 2
+Astenuti: 27 (Agnesod, Beneforti, Bionaz, Borre, Cerise, Collé,
+Comé, Cottino, Cuc, Curtaz, Ferraris, Fiou, La Torre, Lavoyer,
+Marguerettaz, Martin, Nicco, Ottoz, Pastoret, Perrin, Perron,
+Piccolo, Rini, Squarzino Secondina, Vallet, Vicquéry, Viérin
+D.)
+Il Consiglio non approva.
+Pongo in votazione l'articolo 6:
+Consiglieri presenti: 28
+Votanti e favorevoli: 20
+Astenuti: 8 (Beneforti, Collé, Comé, Curtaz, Frassy,
+Marguerettaz, Squarzino Secondina, Tibaldi)
+Il Consiglio approva.
+All'articolo 7 siamo in presenza di più emendamenti. Vi sono gli
+emendamenti nn. 3, 4 e 5 dei Consiglieri Tibaldi e Frassy che
+recitano:
+Emendamento n. 3 Il primo comma dell'articolo 7 è così
+modificato:
+"1. Al fine di definire la migliore localizzazione degli
+impianti di radiotelecomunicazioni e di garantire la più ampia
+copertura della superficie regionale, le Comunità Montane, d'intesa
+con i Comuni interessati, e il Comune di Aosta, per il territorio
+di competenza, sulla base di piani di interesse generale
+predisposti ai sensi dell'articolo 32, quarto comma, della Legge
+regionale 6 aprile 1998, n. 11 (Normativa urbanistica e di
+pianificazione territoriale della Valle d'Aosta), individuano le
+zone più idonee a ospitare siti attrezzati, presso i quali si
+favorisce la razionalizzazione e la concentrazione degli impianti
+dei diversi gestori".
+Emendamento n. 4 Il secondo comma dell'articolo 7 è così
+modificato:
+"2. L'individuazione dei siti attrezzati deve essere conforme
+alle indicazioni contenute nel Piano nazionale di ripartizione e
+nel Piano nazionale di assegnazione delle frequenze di cui alla
+Legge 6 agosto 1990, n. 223 (Disciplina del sistema radiotelevisivo
+pubblico e privato) e successive modificazioni, nonché a quanto
+stabilito dal Ministero delle Comunicazioni nei singoli
+provvedimenti concessori rilasciati ai gestori di reti o
+impianti".
+Emendamento n. 5 Il terzo comma dell'articolo 7 è così
+modificato:
+"3. I piani di cui al comma 1, nell'ambito della tutela
+dell'integrità ambientale e paesaggistica, possono indicare altresì
+le modalità e i termini per gli eventuali trasferimenti in un sito
+attrezzato di impianti esistenti. In tal caso, fermo restando
+quanto disposto dal comma precedente, la Regione, nei limiti degli
+stanziamenti di bilancio, eroga a favore dei soli gestori in
+possesso di ogni altra autorizzazione o concessione richiesta per
+l'esercizio dell'impianto, contributi in conto capitale nella
+misura massima del settanta per cento della spesa ritenuta
+ammissibile".
+Vi è poi l'emendamento dell'Assessore Vallet che recita:
+Emendamento Il terzo comma dell'articolo 7 è così
+sostituito:
+"3. Per gli interventi di sistemazione paesaggistica conseguenti
+a demolizione o trasferimento di impianti esistenti in altro sito
+attrezzato in attuazione dei piani di cui al comma 1, con le
+modalità e nel rispetto dei termini indicati nei medesimi piani ai
+sensi del comma 2, la Regione, nei limiti degli stanziamenti di
+bilancio, può concedere a favore dei soli gestori in possesso di
+ogni altra autorizzazione o concessione richiesta per l'esercizio
+dell'impianto, contributi in conto capitale nella misura massima
+del settanta per cento della spesa ritenuta ammissibile".
+La parola al Consigliere Tibaldi.
+Tibaldi (FI)
+Per economia dei tempi di lavoro illustro i
+tre emendamenti che riguardano i primi tre commi dell'articolo 7 e
+che sono tutti relativi ai "siti attrezzati".
+L'articolo 7, così come formulato, sancisce la fine della
+possibilità di espansione dell'iniziativa privata nel settore delle
+radiotelecomunicazioni, salvaguardando con la deroga poi prevista
+nell'articolo 10 gli impianti relativi alla telefonia cellulare;
+deroga che non riusciamo a comprendere. Con l'articolo 7 viene
+detto stop: ormai l'espansione non verrà più decisa dal singolo
+concessionario privato, ma verrà decisa dall'ente pubblico
+attraverso le amministrazioni locali individuate: l'ente pubblico
+si sostituisce nelle scelte strategiche imprenditoriali al
+privato.
+Ecco perché abbiamo ritenuto opportuno presentare degli
+emendamenti di questo tipo tenendo presente che la "legge Mammì",
+la n. 223/90, e adesso darò lettura di un articolo, prevede proprio
+in materia urbanistica la priorità della scelta del concessionario
+sull'ente locale.
+L'articolo 4 della legge n. 223 dice:
+"Il rilascio della
+concessione da parte del Ministero equivale a dichiarazione di
+pubblica utilità?"
+cioè il concessionario esercita un servizio
+di pubblica utilità
+"? indifferibilità e urgenza per le opere
+connesse ed ha titolo per richiedere all'autorità competente?"
+cioè quelle amministrative
+"? le necessarie concessioni e
+autorizzazioni per l'installazione degli impianti nelle località
+indicate dal Piano di assegnazione e conseguentemente nei piani
+territoriali di coordinamento"
+. Si ribadisce cioè la prevalenza
+gerarchica della normativa nazionale in materia di
+radiotelecomunicazioni anche sulla normativa regionale
+urbanistica.
+Come si concilia l'articolo 4 della legge n. 223, tuttora
+vigente, con i "siti attrezzati" così individuati, tenendo presente
+che il comma 2 dell'articolo 4 prevede che i comuni, fermo restando
+questa dichiarazione di pubblica utilità del servizio, provvedono
+ad acquisire o se del caso a occupare d'urgenza e a espropriare
+l'area indicata dal piano di assegnazione e dal piano territoriale
+di coordinamento per l'installazione di impianti?
+(interruzione dell'Assessore Vallet, fuori microfono)
+? Ma no, questa è la situazione inversa. Il privato, che ha la
+regolare concessione e ha previsto l'ubicazione di un impianto in
+un determinato luogo, è assegnatario di una frequenza che il piano
+nazionale gli riconosce, può andare dal comune e dirgli che gli
+serve quell'area e il comune ha il dovere di espropriarla ai sensi
+di questo comma. Qui avete ribaltato completamente la situazione.
+Debbo contestare il fatto che in Valle l'iniziativa privata viene
+addirittura completamente cancellata e cioè l'espansione e le
+strategie relative alla copertura migliore o massima di un bacino
+come quello regionale saranno lasciate alla discrezionalità unica e
+insindacabile della comunità montana o del Comune di Aosta, a
+seconda del territorio di competenza. Gli emendamenti presentati
+dal gruppo di Forza Italia cercano di tutelare l'iniziativa dei
+concessionari.
+Innanzitutto, fermo restando i parametri tecnici relativi alla
+tutela della salute e la migliore localizzazione, viene individuato
+nell'emendamento n. 3 un altro obiettivo importante, che è quello
+di garantire la più ampia copertura della superficie regionale,
+proprio per far sì che le comunità montane tendano a promuovere la
+localizzazione e l'irradiamento di più segnali radiotelevisivi o di
+più impianti di radiotelecomunicazioni. E poi, quanto
+all'individuazione dei "siti attrezzati" il comma 2, che così come
+formulato è quello che più mortifica l'iniziativa privata, prevede
+che l'individuazione dei "siti attrezzati" debba essere conforme
+alle indicazioni contenute nel piano nazionale di assegnazione
+delle frequenze, cosa che qui non è; è stata poi vagamente scritta
+nel comma precedente.
+Come si fa a dire, Assessore, che i piani regionali stabiliscono
+le modalità e i termini per gli eventuali trasferimenti e
+dismissioni di impianti esistenti? Come si può con questo tenore
+letterale così crudo obbligare un privato, che ha investito denaro,
+tempo e risorse, ad eventuali trasferimenti e dismissioni senza
+tener conto di obiettivi altrettanto validi quali la massima
+copertura che dovrebbe essere garantita nel territorio
+regionale?
+Nel comma 3, poi, chiediamo che l'eventuale dismissione o
+trasferimento venga comunque effettuato nella tutela delle
+normative nazionali che prima ho citato.
+Questi tre commi sono strettamente connessi. Assessore, la
+ringrazio per la benevolenza che ha voluto rimarcare in sede di
+replica, a chiusura della discussione generale, però non ritengo
+che gli emendamenti che lei presenta parallelamente a questi
+recepiscano o contengano quanto scritto in maniera sostanzialmente
+diversa negli emendamenti presentati dal nostro gruppo. Per questa
+ragione ritengo necessario mantenerli validi e naturalmente
+portarli al voto dell'Assemblea.
+Presidente
+La parola all'Assessore al territorio, ambiente
+e opere pubbliche, Vallet.
+Vallet (UV)
+Una rapidissima replica per motivare la
+proposta di astensione rispetto a questi tre emendamenti.
+Qui c'è un approccio diverso rispetto a un sistema di coerenze
+incrociate che dal mio punto di vista sono sufficientemente chiare,
+ma che non lo sono per il Consigliere Tibaldi o perlomeno lui non
+ne dà la stessa lettura. Questo disegno di legge deve ottemperare
+esigenze che sono di soggetti diversi anche rispetto a questioni
+diverse.
+I siti attrezzati non ospiteranno necessariamente solo impianti
+ed attrezzature attinenti alla radiotelediffusione, ma ad esempio
+anche attrezzature della rete radio della Protezione civile della
+Regione.
+Quindi, data la coerenza che ci deve essere fra la
+pianificazione che risponde a un'esigenza di tipo urbanistico e la
+pianificazione che risponde invece a problematiche di concessione
+di autorizzazione di radiofrequenze, dal mio punto di vista
+l'articolato che abbiamo previsto tutela sufficientemente l'uno e
+l'altro.
+Per quanto riguarda il problema delle dismissioni e il modo
+definito crudo di trattare la questione nell'articolato, qui la
+dismissione è dovuta nel momento in cui questi impianti esistenti,
+verificati dal punto di vista dei limiti di emissioni previsti dal
+decreto ministeriale n. 381, non sono a norma.
+Nel caso in cui questi impianti non siano a norma evidentemente
+devono essere eliminati. Il fatto che si preveda un contributo
+finanziario da parte dell'Amministrazione regionale per
+l'eliminazione di questi impianti non a norma o che comunque non
+rientrano nella pianificazione deve essere inteso non come un
+corrispettivo a fronte di un danno che l'Amministrazione arreca,
+nel senso che il danno è quello arrecato dall'impianto fuori norma,
+ma deve essere inteso, ed è questo il significato che noi diamo,
+come un incentivo perché gli obiettivi che ci poniamo sono
+obiettivi di tutela dal punto di vista della salute e dal punto di
+vista paesaggistico del nostro territorio.
+Presidente
+La parola alla Consigliera Squarzino
+Secondina.
+Squarzino (PVA-cU)
+Assessore Vallet, mi ha convinto. Anche
+noi accoglieremo il suo invito di astenerci su questo
+emendamento.
+Presidente
+Pongo in votazione l'emendamento n. 3
+presentato dai Consiglieri Tibaldi e Frassy all'articolo 7:
+Consiglieri presenti: 26
+Votanti e favorevoli: 2
+Astenuti: 24 (Agnesod, Beneforti, Bionaz, Borre, Comé, Cottino,
+Cuc, Curtaz, Ferraris, Fiou, La Torre, Lavoyer, Martin, Nicco,
+Ottoz, Pastoret, Perrin, Perron, Piccolo, Rini, Vallet, Vicquéry,
+Viérin D., Viérin M.)
+Il Consiglio non approva.
+Pongo in votazione l'emendamento n. 4 presentato dai Consiglieri
+Tibaldi e Frassy all'articolo 7:
+Consiglieri presenti: 26
+Votanti e favorevoli: 2
+Astenuti: 24 (Agnesod, Beneforti, Bionaz, Borre, Comé, Cottino,
+Cuc, Curtaz, Ferraris, Fiou, La Torre, Lavoyer, Martin, Nicco,
+Ottoz, Pastoret, Perrin, Perron, Piccolo, Rini, Vallet, Vicquéry,
+Viérin D., Viérin M.)
+Il Consiglio non approva.
+Pongo in votazione l'emendamento n. 5 presentato dai Consiglieri
+Tibaldi e Frassy all'articolo 7:
+Consiglieri presenti: 26
+Votanti e favorevoli: 2
+Astenuti: 24 (Agnesod, Beneforti, Bionaz, Borre, Comé, Cottino,
+Cuc, Curtaz, Ferraris, Fiou, La Torre, Lavoyer, Martin, Nicco,
+Ottoz, Pastoret, Perrin, Perron, Piccolo, Rini, Vallet, Vicquéry,
+Viérin D., Viérin M.)
+Il Consiglio non approva.
+Pongo in votazione l'emendamento all'articolo 7 presentato
+dall'Assessore Vallet:
+Consiglieri presenti: 27
+Votanti e favorevoli: 20
+Astenuti: 7 (Beneforti, Comé, Curtaz, Frassy, Squarzino
+Secondina, Tibaldi, Viérin M.)
+Il Consiglio approva.
+Pongo in votazione l'articolo 7 nel testo emendato:
+Articolo 7 (Individuazione dei siti attrezzati e interventi
+di adeguamento)
+1. L'individuazione dei siti attrezzati è determinata sulla base
+di piani di interesse generale predisposti, ai sensi dell'articolo
+32, comma 4, della legge regionale 6 aprile 1998, n. 11 (Normativa
+urbanistica e di pianificazione territoriale della Valle d'Aosta),
+dalle Comunità montane, d'intesa con i Comuni interessati, e dal
+Comune di Aosta, per il territorio di competenza, tenuto conto dei
+progetti presentati dai gestori degli impianti ai sensi
+dell'articolo 5, comma 1, del Piano nazionale di ripartizione e del
+Piano nazionale di assegnazione di cui alla legge 6 agosto 1990, n.
+223 (Disciplina del sistema radiotelevisivo pubblico e
+privato).
+2. I piani di cui al comma 1 indicano altresì le modalità e i
+termini per gli eventuali trasferimenti e dismissioni degli
+impianti esistenti.
+3. Per gli interventi di sistemazione paesaggistica conseguenti
+a demolizione o trasferimento di impianti esistenti in altro sito
+attrezzato in attuazione dei piani di cui al comma 1, con le
+modalità e nel rispetto dei termini indicati nei medesimi piani ai
+sensi del comma 2, la Regione, nei limiti degli stanziamenti di
+bilancio, può concedere a favore dei soli gestori in possesso di
+ogni altra autorizzazione o concessione richiesta per l'esercizio
+dell'impianto, contributi in conto capitale nella misura massima
+del settanta per cento della spesa ritenuta ammissibile.
+4. La disciplina del procedimento finalizzato alla concessione
+dei contributi di cui al comma 3 è demandata alla Giunta regionale
+che vi provvede con propria deliberazione, da adottarsi entro
+sessanta giorni dalla data di entrata in vigore della presente
+legge.
+5. Le procedure per l'approvazione dei piani di cui al comma 1
+sono avviate entro dodici mesi dalla scadenza del termine di cui
+all'articolo 6, comma 1.
+Consiglieri presenti: 27
+Votanti: 22
+Favorevoli: 20
+Contrari: 2
+Astenuti: 5 (Beneforti, Comé, Curtaz, Squarzino Secondina,
+Viérin M.)
+Il Consiglio approva.
+All'articolo 8 siamo in presenza di più emendamenti.
+Vi è l'emendamento n. 6 dei Consiglieri Tibaldi e Frassy che
+recita:
+Emendamento n. 6 L'articolo 8 è sostituito dal
+seguente:
+"Art. 8
+(Proprietà dei siti attrezzati)
+1. I siti attrezzati e le relative infrastrutture già esistenti,
+se compresi nei piani di cui all'articolo 7, primo comma, possono
+essere acquistati dalle Comunità Montane e dal Comune di Aosta.
+2. I proprietari di siti attrezzati e delle relative
+infrastrutture stipulano apposita convenzione con gli enti locali
+interessati per consentirne l'utilizzo ai diversi gestori di
+impianti presenti sul territorio, a condizione che questi siano in
+possesso dei provvedimenti di legge richiesti per l'esercizio
+dell'impianto.
+3. I nuovi siti attrezzati, individuati dai piani di cui
+all'articolo 7, primo comma, possono essere realizzati a cura delle
+Comunità Montane e dal Comune di Aosta e acquisiti al loro
+rispettivo patrimonio."
+Vi è poi l'emendamento dell'Assessore Vallet, che recita:
+Emendamento Il comma 2 dell'articolo 8 è così
+sostituito:
+"2) I nuovi siti attrezzati, individuati dai piani di cui
+all'articolo 7, comma 1, sono realizzati a cura delle Comunità
+Montane e del Comune di Aosta ed acquisiti al rispettivo
+patrimonio."
+La parola al Consigliere Tibaldi.
+Tibaldi (FI)
+Con l'emendamento n. 6 si vuole riscrivere
+l'articolo 8 che così come formulato nel disegno di legge n. 90 è
+estremamente restrittivo proprio in considerazione di quanto dicevo
+prima.
+"I siti attrezzati?"
+, si legge nell'articolo 8,
+formulazione originaria,
+"? possono essere acquisiti? mediante
+procedura di acquisto o di esproprio?"
+. Anche questo è un
+metodo paradossale secondo noi, estremamente dirigistico, che va a
+vanificare l'iniziativa privata.
+Pur riconoscendo l'importanza che i nuovi "siti attrezzati"
+possano essere realizzati a cura delle comunità montane o del
+Comune di Aosta ed acquisiti al loro rispettivo patrimonio, come si
+dice testualmente nel comma 3, noi riteniamo però che i siti già
+realizzati non possano essere espropriati tout court dall'ente
+pubblico, ma possano essere al limite acquistati in seguito alla
+normale trattativa. Altrimenti qui, lo ripeto, si ribalta il
+concetto stabilito nella legge n. 223 e i concessionari di
+qualunque impianto di radiotelecomunicazioni in Valle d'Aosta, ma
+solo in Valle d'Aosta, vedono una loro posizione fortemente
+subordinata alle volontà degli amministratori degli enti
+locali.
+Ecco perché abbiamo ritenuto importante, pur salvaguardando il
+ruolo programmatico degli amministratori delle comunità montane,
+garantire che sui siti attrezzati nuovi ci possa essere sì la
+partecipazione della comunità montana e del Comune di Aosta, ma che
+sia una facoltà e non un obbligo a danno dei legittimi interessi di
+chi vuole espandere una propria rete.
+Sui siti attrezzati esistenti, poi, l'esproprio, così come è
+stato formulato in questa norma, checché ci sia il parere del
+legale, come ha detto l'Assessore Vallet in III Commissione, non ci
+esime a nostro avviso dal ritenere che si tratti di una scelta
+politica cruda e pesante, che non va certamente nella direzione di
+cercare quella concertazione con le categorie produttive, o
+perlomeno quella partecipazione che anche in questo caso a livello
+di procedura legislativa non c'è stata.
+Ripeto che la IV Commissione, per quanto riguarda questo
+aspetto, avrebbe dovuto essere coinvolta.
+Con tutto il rispetto per i diritti della salute e per la tutela
+del paesaggio, ritengo che l'assenza di audizione da parte dei
+rappresentanti di questa categoria sia stata una lesione delle
+normali attività di concertazione che dovrebbero sussistere fra un
+ente pubblico e una categoria economica.
+Presidente
+La parola all'Assessore al territorio, ambiente
+e opere pubbliche, Vallet.
+Vallet (UV)
+Le osservazioni del Consigliere Tibaldi
+potrebbero essere valide se al comma 1 non fosse scritto due volte
+il verbo
+"possono"
+, sia per quanto riguarda la possibilità
+delle comunità montane di acquisire, sia per quanto riguarda quindi
+la possibilità per i proprietari di siti di cedere o di non
+cedere.
+È chiaro, non c'è un obbligo stabilito dalla legge per quanto
+riguarda i vecchi siti.
+La procedura espropriativa non deve essere intesa come
+l'esproprio proletario dei bei tempi, nel senso che è una delle
+possibilità concesse all'Amministrazione per addivenire
+all'acquisizione di un bene da acquisire al proprio patrimonio
+immobiliare.
+Presidente
+La parola al Consigliere Ottoz.
+Ottoz (UV)
+Non ho capito bene la ratio dell'obiezione del
+Consigliere Tibaldi, poiché fra l'altro nella relazione ho proprio
+detto che c'è un'incentivazione all'alienazione a favore degli enti
+locali, dato che all'articolo 9 si dice comunque che gli enti
+locali provvedono alla manutenzione ordinaria e straordinaria, che
+nell'altro caso spetterebbe ai proprietari, quindi dicevo che, a
+parte il caso in cui ci siano contratti di affitto che generino
+aspetti reddituali particolari, la legge prefigura la convenienza
+per i privati comunque a passare il sito, non gli impianti
+ovviamente, alla proprietà pubblica, come sito in cui poi viene
+fornito il servizio. È una caratteristica che si sviluppa
+dall'articolo 8 all'articolo 9.
+Cioè, non capisco che interesse potrebbe avere un privato a non
+farsi acquisire il sito, quando poi gli spetterebbe fare la
+manutenzione ordinaria e straordinaria che, nell'altro caso,
+spetterebbe invece all'ente pubblico. Questa è una caratteristica
+che ho citato esplicitamente nella mia relazione.
+Presidente
+Pongo in votazione l'emendamento n. 6
+presentato dai Consiglieri Tibaldi e Frassy all'art. 8:
+Consiglieri presenti: 27
+Votanti e favorevoli: 3
+Astenuti: 24 (Agnesod, Beneforti, Bionaz, Borre, Cerise, Comé,
+Cottino, Cuc, Curtaz, Fiou, La Torre, Lavoyer, Martin, Nicco,
+Ottoz, Pastoret, Perrin, Perron, Piccolo, Rini, Squarzino
+Secondina, Vallet, Vicquéry, Viérin D.)
+Il Consiglio non approva.
+Pongo in votazione l'emendamento all'articolo 8 presentato
+dall'Assessore Vallet:
+Consiglieri presenti: 24
+Votanti e favorevoli: 19
+Astenuti: 5 (Beneforti, Comé, Frassy, Squarzino Secondina,
+Tibaldi)
+Il Consiglio approva.
+Pongo in votazione l'articolo 8 nel testo emendato:
+Articolo 8 (Proprietà dei siti attrezzati)
+1. I siti attrezzati e le relative infrastrutture già esistenti,
+se compresi nei piani di cui all'articolo 7, comma 1, possono
+essere acquisiti dalle Comunità montane e dal Comune di Aosta
+mediante procedura di acquisto o di esproprio. I proprietari dei
+siti attrezzati e delle relative infrastrutture possono mantenerne
+la proprietà a condizione che stipulino con i medesimi enti locali
+apposita convenzione con la quale garantiscono l'uso dei siti e
+delle strutture esistenti ai diversi gestori di impianti presenti
+sul territorio.
+2. I nuovi siti attrezzati, individuati dai piani di cui
+all'articolo 7, comma 1, sono realizzati a cura delle Comunità
+montane e del Comune di Aosta ed acquisiti al rispettivo
+patrimonio.
+Consiglieri presenti: 27
+Votanti: 23
+Favorevoli: 21
+Contrari: 2
+Astenuti: 4 (Beneforti, Comé, Curtaz, Squarzino Secondina)
+Il Consiglio approva.
+Pongo in votazione l'articolo 9:
+Consiglieri presenti: 27
+Votanti e favorevoli: 21
+Astenuti: 6 (Beneforti, Comé, Curtaz, Frassy, Squarzino
+Secondina, Tibaldi)
+Il Consiglio approva.
+Pongo in votazione l'articolo 10:
+Consiglieri presenti: 27
+Votanti e favorevoli: 21
+Astenuti: 6 (Beneforti, Comé, Curtaz, Frassy, Squarzino
+Secondina, Tibaldi)
+Il Consiglio approva.
+All'articolo 11 siamo in presenza di più emendamenti.
+Vi sono gli emendamenti n. 7 e n. 8 dei Consiglieri Tibaldi e
+Frassy che recitano:
+Emendamento n. 7 Il primo comma dell'articolo 11 è così
+modificato:
+"1. Entro sessanta giorni dal ricevimento della relativa
+domanda, le Comunità Montane e il Comune di Aosta autorizzano
+l'installazione di nuovi impianti per radiotelecomunicazioni
+conformemente ai progetti approvati ai sensi dell'articolo 6, primo
+comma, e previo parere favorevole dell'ARPA."
+Emendamento n. 8 Il terzo comma dell'articolo 11 è così
+modificato:
+"3. La durata dell'autorizzazione è di sei anni e l'eventuale
+rinnovo avviene secondo le procedure di cui al primo comma."
+Vi è poi l'emendamento dell'Assessore Vallet, che recita:
+Emendamento All'articolo 11 il primo e secondo comma sono
+così sostituiti:
+"1) Le Comunità Montane e il Comune di Aosta autorizzano
+l'installazione dei nuovi impianti per radiotelecomunicazioni
+previa verifica della loro conformità ai piani di interesse
+generale di cui all'articolo 7, comma 1, o agli strumenti
+urbanistici comunali nonché della loro ammissibilità in relazione
+ai progetti approvati ai sensi dell'articolo 6, comma 1, e previo
+parere tecnico favorevole dell'ARPA, entro sessanta giorni dal
+ricevimento della relativa domanda.
+2) Nell'autorizzazione, che costituisce titolo abilitativo ai
+sensi dell'articolo 59 della legge regionale 6 aprile 1998, n. 11
+(Normativa urbanistica e di pianificazione territoriale della Valle
+d'Aosta), sono definiti i parametri tecnici di emissione e sono
+altresì individuate le azioni di risanamento da attuare ai sensi
+dell'articolo 6, comma 3."
+Pongo in votazione l'emendamento presentato dall'Assessore
+Vallet:
+Consiglieri presenti: 26
+Votanti e favorevoli: 22
+Astenuti: 4 (Beneforti, Comé, Curtaz, Squarzino Secondina)
+Il Consiglio approva.
+Sull'emendamento n. 7 la parola al Consigliere Tibaldi.
+Tibaldi (FI)
+Questo emendamento viene ritirato in quanto è
+stato recepito dall'emendamento che abbiamo appena votato
+presentato dall'Assessore.
+Presidente
+Sull'emendamento n. 8 la parola al Consigliere
+Tibaldi.
+Tibaldi (FI)
+Il fatto che l'autorizzazione in questo
+emendamento venga prevista di 6 anni anziché 5 anni è perché
+l'articolo 3 della legge n. 247/97, che prevede l'istituzione
+dell'autorità per le garanzie, ha fissato la durata delle
+concessioni ministeriali in 6 anni anziché 5 come inizialmente
+previsto nella "legge Mammì".
+Di conseguenza, per armonizzare la durata della concessione
+ministeriale, che è di 6 anni, e l'autorizzazione rilasciata dagli
+enti locali, che invece è formulata in 5 anni nel disegno di legge
+n. 90, abbiamo pensato di proporre tale modifica.
+Presidente
+Pongo in votazione l'emendamento n. 8
+all'articolo 11 presentato dai Consiglieri Tibaldi e Frassy:
+Consiglieri presenti: 27
+Votanti e favorevoli: 24
+Astenuti: 3 (Beneforti, Curtaz, Squarzino Secondina)
+Il Consiglio approva.
+Pongo in votazione l'articolo 11 nel testo emendato:
+Articolo 11 (Autorizzazione all'installazione degli
+impianti)
+1. Le Comunità montane e il Comune di Aosta autorizzano
+l'installazione dei nuovi impianti per radiotelecomunicazioni
+previa verifica della loro conformità ai piani di interesse
+generale di cui all'articolo 7, comma 1, o agli strumenti
+urbanistici comunali nonché della loro ammissibilità in relazione
+ai progetti approvati ai sensi dell'articolo 6, comma 1, e previo
+parere tecnico favorevole dell'ARPA, entro sessanta giorni dal
+ricevimento della relativa domanda.
+2. Nell'autorizzazione, che costituisce titolo abilitativo ai
+sensi dell'articolo 59 della legge regionale 6 aprile 1998, n 11
+(Normativa urbanistica e di pianificazione territoriale della Valle
+d'Aosta), sono definiti i parametri tecnici di emissione e sono
+altresì individuate le azioni di risanamento da attuare ai sensi
+dell'articolo 6, comma 3.
+3. La durata dell'autorizzazione è di sei anni e l'eventuale
+rinnovo avviene secondo le procedure di cui al comma 1.
+4. Le Comunità montane e il Comune di Aosta dispongono, a cura e
+a spese dei gestori, la rimozione degli impianti non autorizzati ai
+sensi del comma 1 entro centottanta giorni dalla comunicazione del
+relativo provvedimento. Entro i successivi novanta giorni i gestori
+degli impianti non autorizzati devono altresì provvedere al
+ripristino dello stato originario dei luoghi.
+5. In caso di inosservanza degli obblighi di cui al comma 4, le
+Comunità montane e il Comune di Aosta, previa diffida, possono
+procedere d'ufficio a spese dei gestori inadempienti. La nota delle
+spese è resa esecutiva ed è riscossa secondo le disposizioni di
+legge in materia di riscossione delle entrate patrimoniali.
+6. È fatto in ogni caso divieto di installare nuovi impianti nei
+medesimi luoghi in cui siano stati disposti la rimozione degli
+impianti non autorizzati e il ripristino dello stato originario dei
+luoghi ai sensi del comma 4.
+Consiglieri presenti: 27
+Votanti e favorevoli: 21
+Astenuti: 6 (Beneforti, Comé, Curtaz, Frassy, Squarzino
+Secondina, Tibaldi)
+Il Consiglio approva.
+All'articolo 12 c'è l'emendamento n. 4 presentato dai
+Consiglieri Squarzino Secondina, Beneforti e Curtaz che recita:
+Emendamento n. 4 Articolo 12, comma 1
+inserire, dopo la citazione "d.m. ambiente 381/1998", la
+seguente frase:
+"e all'articolo 3 bis di cui alla presente legge".
+L'emendamento è stato ritirato.
+Pongo in votazione l'articolo 12:
+Consiglieri presenti: 27
+Votanti e favorevoli: 21
+Astenuti: 6 (Beneforti, Comé, Curtaz, Frassy, Squarzino
+Secondina, Tibaldi)
+Il Consiglio approva.
+Pongo in votazione l'articolo 13:
+Consiglieri presenti: 27
+Votanti e favorevoli: 21
+Astenuti: 6 (Beneforti, Comé, Curtaz, Frassy, Squarzino
+Secondina, Tibaldi)
+Il Consiglio approva.
+All'articolo 14 c'è l'emendamento n. 5 presentato dai
+Consiglieri Squarzino Secondina, Beneforti e Curtaz che recita:
+Emendamento n. 5 Articolo 14, comma 2, lettera a)
+aggiungere alla conclusione il seguente testo:
+"e all'articolo 3 bis della presente legge".
+L'emendamento è stato ritirato.
+Pongo in votazione l'articolo 14:
+Consiglieri presenti: 27
+Votanti e favorevoli: 21
+Astenuti: 6 (Beneforti, Comé, Curtaz, Frassy, Squarzino
+Secondina, Tibaldi)
+Il Consiglio approva.
+Pongo in votazione l'articolo 15:
+Consiglieri presenti: 27
+Votanti e favorevoli: 21
+Astenuti: 6 (Beneforti, Comé, Curtaz, Frassy, Squarzino
+Secondina, Tibaldi)
+Il Consiglio approva.
+Pongo in votazione l'articolo 16:
+Consiglieri presenti: 27
+Votanti e favorevoli: 21
+Astenuti: 6 (Beneforti, Comé, Curtaz, Frassy, Squarzino
+Secondina, Tibaldi)
+Il Consiglio approva.
+Pongo in votazione l'articolo 17:
+Consiglieri presenti: 27
+Votanti e favorevoli: 21
+Astenuti: 6 (Beneforti, Comé, Curtaz, Frassy, Squarzino
+Secondina, Tibaldi)
+Il Consiglio approva.
+Pongo in votazione l'articolo 18:
+Consiglieri presenti: 27
+Votanti e favorevoli: 21
+Astenuti: 6 (Beneforti, Comé, Curtaz, Frassy, Squarzino
+Secondina, Tibaldi)
+Il Consiglio approva.
+Pongo in votazione l'allegato A:
+Consiglieri presenti: 27
+Votanti e favorevoli: 21
+Astenuti: 6 (Beneforti, Comé, Curtaz, Frassy, Squarzino
+Secondina, Tibaldi)
+Il Consiglio approva.
+Si dà atto che, dalle ore 18,56, riassume la presidenza il
+Presidente Louvin.
+Président
+Je soumets au vote la loi dans son ensemble:
+Conseillers présents: 28
+Votants: 22
+Pour: 22
+Abstentions: 6 (Beneforti, Comé, Curtaz, Frassy, Squarzino
+Secondina, Tibaldi)
+Le Conseil approuve.

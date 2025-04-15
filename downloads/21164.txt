@@ -1,0 +1,166 @@
+Consiglio Regionale della Valle d'Aosta - Oggetto del Consiglio n. 1092 del 26 gennaio 2005 - Resoconto
+Vai al contenuto principale
+Oggetti del Consiglio
+Invia
+Stampa
+Documenti
+Verbale
+Resoconto
+Collegamenti
+Iter atto
+Classificazione
+ZONA FRANCA
+Precedente
+Successivo
+Resoconto integrale del dibattito dell'aula. I documenti allegati sono reperibili nel link "iter atto".
+Oggetto del Consiglio n. 1092 del 26 gennaio 2005 - Resoconto
+OGGETTO N. 1092/XII - Indicazione del prezzo nelle ricevute di
+prelievo di carburante con la "Carte Vallée". (Interrogazione)
+Interrogazione
+Osservato che, a partire dall'inizio del nuovo anno, le
+ricevute relative al prelievo di carburante con la "Carte Vallée"
+contengono opportunamente anche il prezzo del prodotto
+acquistato;
+Appreso tuttavia che il sistema adottato determina dei
+piccoli errori, in riferimento al calcolo dei decimali e negli
+arrotondamenti, tanto che il prezzo indicato non coincide
+esattamente con quello dovuto;
+Creduto che tali limiti del sistema finiranno, fra l'altro,
+con il creare problemi nei rapporti fra commercianti e
+consumatori;
+Ritenuto necessario ed urgente un intervento
+risolutivo;
+il sottoscritto Consigliere regionale
+Interroga
+l'Assessore competente per sapere:
+1) da cosa sono determinati i problemi tecnici verificatisi
+nell'esatta indicazione del prezzo, relativamente alle ricevute di
+prelievo di carburante con la "Carte Vallée";
+2) se l'Amministrazione si sta attivando per trovare una
+soluzione del problema evidenziato e con quali risultati.
+F.to: Curtaz
+Président - La parole à l'Assesseur aux activités productives et
+aux politiques du travail, Ferraris.
+Ferraris (GV-DS-PSE) - Credo che alla risposta vada premesso
+come nel corso del secondo semestre 2004, sono stati sostituti i
+"POS" installati presso i distributori di carburanti della Regione
+con dei "POS" che sono migliorati dal punto di vista tecnico e
+qualitativo, cosa che ha consentito di fornire all'utente e agli
+esercenti maggiori dati a disposizione e soprattutto nei confronti
+degli utenti una maggiore trasparenza per quanto riguarda il prezzo
+del carburante venduto.
+Le domande poste dal Consigliere riguardano da cosa sono
+determinati i problemi tecnici verificatisi nell'esatta indicazione
+del prezzo. Successivamente all'introduzione del nuovo sistema di
+"POS" che prevede un'indicazione dettagliata nella formazione del
+prezzo finale, che viene dato con uno scontrino-ricevuta
+all'utente, ad avviso dell'Assessorato non sono stati segnalati
+inconvenienti di carattere tecnico, né il problema evidenziato può
+essere considerato come determinato da piccoli errori nel calcolo
+dei decimali e degli arrotondamenti necessari per determinare il
+prezzo finale dovuto dal cliente.
+Le differenze rilevate dagli esercenti derivano invece da un
+diverso metodo di applicazione dell'arrotondamento che i competenti
+uffici dell'Assessorato hanno ritenuto fosse il più congruo, sia
+nei confronti degli esercenti sia per gli utenti. Il prezzo del
+carburante così come viene praticato alla pompa, per disposizione
+di legge, deve essere esposto al pubblico ed impostato con tre
+decimali (ad esempio, euro 1,143) mentre il valore dell'accisa,
+ovvero dell'imposta gravante sui carburanti, è calcolato con un
+valore a sette decimali (attualmente pari ad euro 0,6703680 per la
+benzina e ad euro 0,4838567 per il gasolio). Nella determinazione
+del prezzo del prodotto in esenzione fiscale si procede sottraendo
+al prezzo del prodotto nazionale, l'importo dell'accisa ed
+aggiungendo l'importo dell'onere regionale; questi dati si trovano
+nello scontrino che è rilasciato al cliente. Il valore così
+ottenuto è calcolato al settimo decimale. È opportuno ricordare
+che, sottraendo da un numero intero un decimale, si ottiene sempre
+un numero decimale, da assoggettare ad arrotondamento.
+L'Amministrazione regionale, in ottemperanza ad un criterio di
+maggiore equità e precisione, effettua l'arrotondamento solo alla
+fine delle operazioni di calcolo, ovvero dopo aver moltiplicato il
+prezzo al litro del prodotto in esenzione fiscale (come si è detto,
+a sette decimali), per il numero di litri acquistati; in tal modo,
+gli effetti dell'arrotondamento sono limitati all'importo totale
+della transazione.
+Gli esercenti effettuano invece l'arrotondamento a livello di
+litro, e quindi considerano il prezzo del prodotto in esenzione
+fiscale a soli tre decimali; in tal modo gli effetti
+dell'arrotondamento vengono amplificati in quanto eseguiti su ogni
+litro di prodotto venduto in esenzione fiscale. Questa è la
+differenza fra i due sistemi. A titolo esemplificativo, prendiamo
+un rifornimento di benzina verde, pari a 43 litri, il prezzo al
+litro in esenzione fiscale è pari a 0,5036320, moltiplicato per 43
+fa 21,6561760 che, arrotondato al secondo decimale, fornisce il
+prezzo finale ad euro 21,66. Con il sistema attuato dagli
+esercenti, il prezzo a litro è lo stesso, ma viene subito
+arrotondato ad euro 0,504, che moltiplicato per 43 fa 21,672,
+risultato finale c'è una differenza di un centesimo. Stessa cosa
+vale per quanto riguarda il gasolio.
+Cosa fare per trovare soluzione a questo problema? Ci troviamo
+oggi in una situazione in cui l'arrotondamento è a sfavore
+dell'esercente, per cui si potrebbe prendere in considerazione la
+possibilità di rivedere la metodologia di calcolo, passando
+dall'arrotondamento sul complessivo dei litri al singolo litro. C'è
+da considerare che l'effetto dello sfavore nei confronti
+dell'esercente di un centesimo dipende dal valore attuale
+dell'accisa, modificandosi l'accisa ci possiamo trovare in una
+situazione opposta, per cui il centesimo di differenza non è più a
+sfavore dell'esercente ma sarebbe a sfavore dell'utente.
+Credo che il modello, così come è stato utilizzato dall'inizio
+dell'attivazione della "Carte Vallée", sia quello che risponde a
+degli obiettivi di trasparenza ma è anche quello più equo nel caso
+generale, nel senso che non si riferisce al singolo litro ma al
+complesso dei litri acquistati, quindi l'effetto
+dell'arrotondamento è più ridotto. Nel caso opposto ci troveremmo
+ad avere una amplificazione dell'effetto di arrotondamento.
+Président - La parole au Conseiller Curtaz.
+Curtaz (Arc-VA) - Intanto per fare i complimenti all'Assessore
+perché è riuscito a capire bene una cosa abbastanza complessa più
+per ragioni matematiche che politico-amministrative. Mi sembra un
+ragionamento corretto, quindi mi dichiaro soddisfatto della
+risposta.
+Anche se credo che a questo proposito andrebbe fatto uno sforzo
+per una migliore informazione, che deve riguardare sì gli utenti e
+i consumatori di carburante, ma credo soprattutto i gestori delle
+pompe, perché in base a quei diversi metodi di calcolo che
+l'Assessore ha indicato e ritengo anche io che sia più corretto
+quello che è stato adottato dall'Amministrazione per indicare sullo
+scontrino la cifra del dovuto, cosa che peraltro ha la nostra
+assoluta approvazione, perché si tratta di un elemento di ulteriore
+chiarezza che va nel senso di contribuire alla trasparenza dei
+prezzi, crediamo che vada meglio spiegato, in modo che non ci siano
+equivoci. Adesso racconto un aneddoto giusto per chiudere la
+discussione. Perché sono stato stimolato a presentare questa
+interrogazione, forse banale, me ne rendo conto? Perché ho
+assistito ad una curiosa discussione fra il mio benzinaio e un
+cliente. Il gestore della pompa chiedeva due centesimi in più al
+cliente, il quale riteneva di dover pagare solo il prezzo indicato
+sullo scontrino, e il gestore della pompa a suo modo, con le
+ragioni che oggi ho capito meglio dall'Assessore, diceva: "guardi,
+questo metodo che è stato adottato ci penalizza perché il calcolo
+corretto è quello che facciamo noi sulla base di quei diversi
+decimali" e poi per la legge dei grandi numeri, "se io tutto il
+giorno faccio uno, due, tre centesimi di sconto a chiunque, alla
+fine della giornata ci ho rimesso forse un bel po' di soldi". E
+forse ha ragione lui, perché anche la parte sul prezzo del
+carburante che va in tasca al benzinaio è relativamente bassa,
+quindi è chiaro che si tratta di un guadagno che si ottiene sulla
+quantità.
+Direi che, chiarito questo problema, sarebbe il caso di fare una
+idonea campagna di informazione, anche relativamente ai gestori che
+in perfetta buona fede ritengono più corretto il metodo che finora
+hanno seguito piuttosto che il metodo che viene indicato dai "POS".
+Alla origine della loro convinzione c'è che il metodo utilizzato
+dall'Amministrazione regionale attraverso il "POS" non sia corretto
+per un errato calcolo dei decimali. Invece apprendiamo che non è un
+errato calcolo dei decimali, ma è un diverso metodo di calcolo, che
+secondo le argomentazioni dell'Assessore, che peraltro condivido, è
+anche più corretto dal punto di vista logico.
+Informativa cookies
+Consiglio Regionale della Valle d'Aosta © 2025
+Questo sito utilizza cookies propri e di terze parti. Continuando ad usare questo sito, acconsenti all'utilizzo di questa tecnologia.
+Consulta la nostra
+informativa
+per maggiori informazioni e per istruzioni su come disattivare i cookies.
+OK

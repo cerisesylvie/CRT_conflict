@@ -1,0 +1,254 @@
+Consiglio Regionale della Valle d'Aosta - Oggetto del Consiglio n. 178 del 30 novembre 1988 - Resoconto
+Vai al contenuto principale
+Oggetti del Consiglio
+Invia
+Stampa
+Documenti
+Resoconto
+Classificazione
+(Nessuna classificazione presente)
+Precedente
+Successivo
+Resoconto integrale del dibattito dell'aula
+Oggetto del Consiglio n. 178 del 30 novembre 1988 - Resoconto
+OGGETTO N. 178/IX - SOSTITUZIONE
+DELL’ELABORATORE ELETTRONICO OLIVETTI 0C5320
+ATTUALMENTE INSTALLATO PRESSO IL SED DELLA REGIONE. IMPEGNO DI
+SPESA E DELEGA ALLA GIUNTA REGIONALE.
+PRESIDENT:
+Je donne lecture de la délibération en
+objet:
+IL CONSIGLIO
+- richiamata la legge regionale 17 agosto 1987, n. 81;
+- richiamata inoltre la propria deliberazione n. 83 in data 11
+febbraio 1982 e le deliberazioni della Giunta regionale n. 818 in
+data 20 febbraio 1981, n. 2358 in data 4 maggio 1985 e n. 6317 in
+data 30 giugno 1988;
+DELIBERA
+1) Di stabilire che la sostituzione dell'attuale CPU con altra
+più potente e il potenziamento dell'attuale parco dischi vengano
+effettuata con l'acquisto delle seguenti apparecchiature:
+- sistema centrale HITACHI R6-S: modello di base con capacità
+elaborata di 6 MIPS (milioni di istruzioni al secondo);
+- sottosistema dischi HITACHI Q3: unità di controllo e dischi
+con una capacità di 5.000 milioni di caratteri;
+2)
+Di stabilire che per l’acquisizione delle
+apparecchiatura di cui al punto precedente si provveda mediante
+trattativa privata sulla base di preventivi delle ditte in grado di
+fornire le apparecchiatura suddette e che offrano le migliori
+garanzie;
+3) Di approvare la spesa presunta di £.
+960.000.000
+(novecentosessantamilioni), IVA inclusa, impegnando la stes
+sa
+nel
+seguente modo:
+- per £. 300.000.000 sul capitolo
+22160 ("Spese per, acquisto
+di apparecchiature e programmi per l'elaborazione dei dati") del
+bilancio di previsione per L’esercizio
+fi
+nanziario
+1988;
+- per £.
+70.000.000 sul capitolo 23750 ("Spese per
+la
+realizzazione
+del sistema informatico regionale Legge Regionale
+del 29.1.1979, n. 6") del bilancio di previsione per
+l’esercizio finanziario 1988
+che presentano la necessaria disponibilità;
+- per £. 590.000.000 sul capitolo del bilancio di previsione per
+l’esercizio finanziario 1989 corrispondente al
+capitolo 22160 del bilancio di previsione per l'esercizio
+finanziario in corso.
+4) Di delegare alla Giunta regionale ogni adempimento di
+esecuzione del presente provvedimento.
+PRESIDENT:
+Le Président du Gouvernement régional a demandé
+de parler, il en a la faculté.
+ROLLANDIN (U.V.):
+Je crois que le compte-rendu annexe à
+cette délibération a été présenté d’urgence: je
+m’en excuse, car on voulait le présenter au mois
+d'octobre, mais on a rencontré des difficultés pour préparer
+l'ensemble des données qui étaient nécessaires pour le choix
+définitif.
+Dans la présentation du compte-rendu de l'activité on dit que
+l’Administration régionale avait prévu,
+préalablement, toute une série d’évaluations pour
+choisir le système - ici on est en train de parler de l'hardware -
+nécessaire au centre régional. A ce moment-là, on avait fait un
+choix, compte tenu des requêtes qu’il y avait.
+Je crois que le rapport donne une idée de l'accroissement, au
+niveau de l'Administration régionale, de l'utilisation des
+ordinateurs. Là, de 1985 à 1988, il y a un compte-rendu de toutes
+les applications qui ont été prévues: finanziaria, carburante,
+personale, agricoltura, sistema operativo e aree di lavoro. Je
+crois, surtout pour ce qui est de la "finanziaria" - même s'il y a
+eu des problèmes pour adapter non pas l'hardware, mais les
+programmes, et il y a encore de temps à autres des exigences qui
+demandent des mises à jour - qu’il y a eu une
+amélioration du système de travail au niveau de l'Administration
+régionale elle-même.
+L'ordinateur avait été prévu en 1985; comme vous le savez, les
+modifications dans ce domaine sont assez rapides. Un système a une
+durée de 3-4 ans au maximum, car les systèmes eux-mêmes changent.
+En effet, le système qu’on propose - je crois que
+c'est le dernier système qui a été adopté - c'est le "modello
+HITACHI" pour ce qui est du système principal même s'il est adopté
+soit de l'Olivetti soit de la Siemens ou d'autres systèmes: c'est
+compatible avec le système qu’on a choisi. Le groupe
+central est HITACHI, et il y a les adaptations qui, je crois, ont
+été précisées dans le rapport.
+Quant à l’exigence d
+’
+offrir
+au centre la possibilité de travailler au maximum, personne n'en
+doute. Je veux seulement souligner que le problème que nous sommes
+en train d'examiner n'est qu’un des problèmes. Le
+problème réel est de préparer , de former les gens qui devront
+utiliser les ordinateurs qui sont reliés au centre, là je crois que
+les difficultés ne nous manquent pas. En effet, je crois
+qu’il s’agit d'un changement de
+mentalité du système de travail qui n'est pas si simple, qui n'est
+pas encore accepté par tout le monde.
+Il faut aussi avouer que, de temps à autres, il y a des
+problèmes, il y a des difficultés pour ce qui est du centre. En
+même temps je dois dire qu’on est en train
+d'examiner les exigences qui ont été soulignées, concernant la
+nouvelle bibliothèque. Là je crois qu’on pourra
+choisir un système parallèle et non relié au système central pour
+donner justement une possibilité de travail qui dépasse ce
+qu’on pourrait attendre avec un système centralisé
+au niveau de l'Administration régionale. Voilà donc l'exigence de
+changer le système qui a été prévu fin 1984- début 1985 pour
+l'adapter aux exigences nouvelles de l'Administration
+régionale.
+PRESIDENTE:
+Ha chiesto di parlare il Consigliere Mafrica,
+ne ha facoltà.
+MAFRICA (P.C.I.):
+Questo è un provvedimento che
+probabilmente sarebbe opportuno discutere in Commissione e arriva
+invece con un ordine del giorno aggiuntivo all'ordine del giorno
+aggiuntivo. Il fatto in sé, cioè la sostituzione di un elaboratore,
+può essere anche tecnicamente comprensibile: indubbiamente
+aumentando la mole dei dati possono esserci dei rallentamenti
+nell'attività dell'elaboratore, e la cosa è stata anche
+sottolineata durante l'analisi del bilancio da parte del ragioniere
+capo. Tuttavia non è tanto questo il punto che merita forse di
+essere discusso, quanto piuttosto l'andamento di questa procedura
+di informatizzazione della Regione, perché su questo punto ci sono
+molte cose da approfondire.
+Se andiamo a vedere la mole di consulenze che sono state
+attribuite per il settore informatica, e queste sono consulenze
+tutte molto care, dai 100 ai 200 milioni, so che sono consulenze
+che costano un milione e mezzo al giorno/uomo, comunque sono
+consulenze che alla Regione costano molto, io mi chiedo che cosa è
+avvenuto e perché non si vede visibilmente ancora un miglioramento
+di questa informatizzazione regionale.
+Vorrei sapere dall'Assessore Fosson che cosa fa quel computer
+mai utilizzato da nessuno da sei mesi nella sala riunioni. Di chi
+è? Non è vostro. La Presidenza del Consiglio dice che è vostro; a
+me serve, lo porterei all'ufficio Gruppi se non è di nessuno. Posso
+portarlo?
+(...
+ilarità dell'Assemblea)
+Per riprendere il discorso, ci sono stati numerosi consulenti,
+sono cambiati questi consulenti, dai primi, che erano quelli
+dell'Italsider, sono cambiati anche i fornitori di hardware. Qui
+faccio una domanda al Presidente della Giunta.
+Noi prima eravamo con l'IBM, poi siamo passati all'Olivetti,
+adesso con un associato. Vorrei capire che disegno abbiamo in mente
+con questi diversi consulenti, quale strada stiamo seguendo, perché
+è quello il punto da chiarire. Io non voglio dire che non ci sia
+urgenza, perché ormai la memoria è piena di dati e i processi sono
+molto lenti e occorrerà un nuovo elaboratore, ma non ci si è
+accorti per tempo che si andava in quella direzione, per comprare
+prima questo nuovo ordinatore? I tecnici avrebbero dovuto rendersi
+conto che la progressione di attuazione dei programmi portava alla
+saturazione. Quindi io vorrei avere un quadro più dettagliato,
+vorrei capire esattamente in che modo questa Amministrazione si
+vuole presentare agli anni dell'Europa per avere la possibilità di
+essere più efficiente coi cittadini e per utilizzare al meglio le
+volontà e le capacità del personale.
+PRESIDENTE:
+Se nessuno intende intervenire, do la parola
+al Presidente della Giunta Rollandin per replica, ne ha
+facoltà.
+ROLLANDIN (U.V.):
+J'ai déjà avoué au début de
+l'illustration de cette délibération que, malheureusement, on est
+arrivé à la dernière minute, surtout pour ce qui est de la dépense
+du remplacement de l'ordinateur. En revanche - M. Mafrica pourra
+vérifier la chose, car le problème existe également au niveau des
+autres Régions qui ont des systèmes analogues - le problème est
+d'avoir du personnel qui soit à mémé de suivre non pas le système
+en lui-même, mais la possibilité de personnalisation du système en
+question. Ce sont les programmes le problème réel, la réelle
+difficulté.
+Je crois que M. Mafrica a vu les présences et le système de
+travail du personnel, mais la compétence du personnel du Centre
+c'est de gérer le problème, non pas de prévoir la possibilité
+d'intervenir sur le système, et donc de suivre les exigences des
+différents services, donner des réponses au niveau de software, au
+niveau des programmes à introduire dans les ordinateurs. Je donne
+un exemple: pour ce qui est de la 'Finanziaria', mémé si on achète
+les fameux 'paquets’, c'est-à-dire les systèmes
+valables pour une Région, on doit changer entièrement ce qui se
+passe dans d'autres Régions, car le système est différent; on a des
+exigences qu’on ne retrouve pas dans d'autres
+Régions. Il en va de même pour ce qui est du système sanitaire, il
+en va de mémé pour la gestion du personnel.
+... Interruzione ...
+Non, on a choisi des services qui ont été proposés après avoir
+vérifié les différentes propositions existantes dans les autres
+Régions (on a même prévu le déplacement dans ces Régions pour
+suivre les solutions qui avaient été adoptées), et après on a
+demandé toute une série de changements, de modifications, qui ont
+été faits justement par le ingénieurs-conseils. Je dois dire que si
+on aura finalement - je ne l'ai pas souligné, car tout le monde le
+sait - la possibilité d'avoir la nouvelle société, l'INVA, qui
+devra travailler pour présenter les programmes, soit pour les
+Communes, soit pour les Régions, alors on pourra diminuer les
+conseils, surtout en ce qui concerne la préparation des différents
+programmes, conseils qui, comme le dit Mafrica, sont très chers: de
+800.000 lires à 1.000.000-1.200.000 lires pour jour. Si la
+Commission voudra rencontrer les responsables pour avoir un compte
+rendu plus détaillé des différents problèmes, on est disponible. On
+a préparé toute une série de petits comptes rendus pour chaque
+service, afin d'examiner leur application au niveau de
+l'Administration régionale.
+En tout cas, M. Mafrica n'a pas rappelé qu’on a
+même fait des cours, on a invité un certain nombre d'employés pour
+leur permettre, petit à petit, d’être à même de
+gérer et donc de suivre l'ordinateur, car ce n'est pas tout le
+monde qui peut travailler au niveau de l'ordinateur, car je crois
+que c'est une difficulté supplémentaire. Je veux tout de même dire
+qu’il faut arriver le plus tôt possible à suivre les
+différents problèmes et surtout à relier les différents secteurs de
+l'Administration régionale face à des données qui sont à la base du
+travail de toute une série de services. D'ici quelque temps on
+parlera du problème du "piano paesaggistico", etc.: le problème de
+la gestion, tant au niveau de la Commune qu’au
+niveau de la Région, de ce système est indispensable pour donner
+des réponses sérieuses aux différents problèmes, comme celui de la
+cartographie, posés par les différentes administrations.
+PRESIDENTE:
+Pongo in votazione la delibera in oggetto:
+ESITO DELLA VOTAZIONE
+Presenti, votanti e favorevoli: 27
+Il Consiglio approva all'unanimità
+PRESIDENTE:
+Colleghi Consiglieri, abbiamo già trattato
+questa mattina tutti gli altri oggetti e siamo arrivati al punto n.
+22 dell'ordine del giorno, cioè alla discussione delle mozioni.
+Informativa cookies
+Consiglio Regionale della Valle d'Aosta © 2025
+Questo sito utilizza cookies propri e di terze parti. Continuando ad usare questo sito, acconsenti all'utilizzo di questa tecnologia.
+Consulta la nostra
+informativa
+per maggiori informazioni e per istruzioni su come disattivare i cookies.
+OK

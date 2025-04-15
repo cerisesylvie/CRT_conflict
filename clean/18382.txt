@@ -1,0 +1,283 @@
+Classificazione
+ASSISTENZA SANITARIA E OSPEDALIERA
+Azienda Regionale Sanitaria - U.S.L.
+
+
+Resoconto integrale del dibattito dell'aula
+Oggetto del Consiglio n. 1475 del 26 luglio 2000 - Resoconto
+OGGETTO N. 1475/XI Notizie in merito allo stato
+dell'informatizzazione dell'USL. (Interrogazione)
+Interrogazione Premesso che tra le voci che hanno determinato
+il disavanzo del bilancio 1999 dell’U.S.L. Valle
+d’Aosta figurano i costi per
+l’informatizzazione per oltre 5 miliardi di
+lire;
+Rilevato che nei primi mesi del 2000 l’U.S.L. ha
+impegnato oltre 1 miliardo e 700 milioni in noleggio di
+attrezzature informatiche;
+i sottoscritti Consiglieri regionali
+Interrogano
+l’Assessore alla Sanità per sapere:
+1) quale sia lo stato attuale
+dell’informatizzazione dell’U.S.L.
+Valle d’Aosta;
+2) quali sono i costi sostenuti da U.S.L. e Regione Autonoma
+Valle d’Aosta per l’informatizzazione
+della sanità valdostana da inizio legislatura, con distinta
+evidenza dei costi per consulenze, investimenti e noli.
+F.to: Frassy - Tibaldi - Lattanzi
+Presidente
+La parola all'Assessore alla sanità, salute e
+politiche sociali, Vicquéry.
+Vicquéry (UV)
+In merito all'interrogazione che è stata
+presentata, do lettura delle risposte fornite dall'USL, che dice
+testualmente in merito allo stato attuale dell'informatizzazione
+dell'USL:
+"Permane una forte criticità correlata al contesto
+organizzativo nel quale si deve operare. Le competenze
+professionali proprie dell'azienda sono molto limitate da un punto
+di vista quantitativo. Le possibilità di sviluppo di queste
+competenze interne sono del pari limitate.
+Anche nell'ambito
+del sistema informativo le competenze interne sono scarse e
+praticamente individuabili nella recentemente costituita Unità
+budgetaria a sistema informativo e controllo di gestione e
+nell'Ufficio statistica della Direzione sanitaria. In questo
+contesto il potenziamento con consulenze professionali esterne ha
+avuto non solo una caratteristica di supporto e di integrazione, ma
+è stato utilizzato a fini sussidiari direttamente
+operativi.
+Nell'ambito delle strutture interne si è rilevata una notevole
+difficoltà ad integrare l'apporto consulenziale con la struttura,
+motivo principale dei carichi di lavoro sia della struttura stessa
+sia dei consulenti, con pratica impossibilità di collaborazione,
+finalizzata ai progetti e alla diffusione della conoscenza.
+L'obbligatorietà del "Millennium Bug" ha praticamente sconfitto
+la precedente criticità legata all'arretratezza generalizzata del
+parco tecnologico e delle procedure informatizzate; persiste
+criticità legata allo sviluppo culturale nell'ambito informatico e
+informativo che però è stata di molto mitigata dagli interventi di
+alfabetizzazione e soprattutto dal coinvolgimento nelle situazioni
+pratiche della realizzazione dei singoli progetti del personale
+interessato. In tal senso si intende proseguire nelle azioni già
+intraprese, enucleando tutte le possibili future isole a cui
+dedicare formazione e coinvolgimento.
+Per quanto riguarda la comunicazione anche in questo caso
+l'obbligatorietà del Millennium Bug ha reso indispensabile
+pervenire a una rete geografica WAN omogenea ed affidabile, che
+nonostante le strutture dell'USL siano molto articolate e disperse
+sul territorio costituisce, allo stato attuale, un sistema organico
+ed efficace di comunicazioni, che permetterà nel breve e medio
+periodo di eliminare i preesistenti forti limiti alle prospettive
+di sviluppo integrato. In tal senso gli avvenuti cablaggi
+dell'Ospedale regionale e delle sedi di via Guido Rey hanno
+contribuito ad uniformare e ad omogeneizzare non poco la situazione
+attuale.
+Resta da definire e da attuare un sistema integrato e
+complessivo di monitoraggio della rete, in grado quanto meno di
+garantire una buona stabilità della stessa.
+La struttura operativa in generale ha acquisito di molto in
+snellezza e per conseguenza in efficacia ed efficienza a causa
+della concatenazione degli interventi effettuati, quali acquisti
+hardware e software, Help desk, formazione e coinvolgimento,
+Millennium Bug e sue positive conseguenze soprattutto in tema di
+decentramento tecnico e funzionale, rimanendo comunque forte
+criticità a riguardo del reperimento di risorse interne da dedicare
+e formare alla specifica bisogna.
+La standardizzazione di fatto adottata al riguardo dell'adozione
+di sistemi operativi di base dell'ambiente, gli Unix oracle, WNT in
+primis, le conseguenze pratiche del Millennium
+Bug per le
+principali procedure funzionali e l'Help desk per gli interventi
+quotidiani, hanno limitato di molto la precedente situazione di
+disomogeneità nel settore informatico e diminuito anche, in
+prospettiva, le attuali diseconomie di scala.
+Per quanto riguarda il breve e medio periodo, la conseguenza non
+positiva dell'obbligatorietà del Millennium Bug è sicuramente la
+spossatezza finanziaria derivante dalle acquisizioni hardware e
+software, macchine e applicativi, resisi necessarie nel corso del
+1999, cui per la loro dimensione economica, ha corrisposto un
+massiccio ricorso al credito, leasing nella sua particolare forma
+informatica meglio conosciuta come "Fleet management", che
+impegnerà l'USL anche per gli anni 2000 e 2001.
+A questo proposito le attrezzature informatiche in leasing sono
+a tutt'oggi 22 server distribuiti nei vari servizi, 309 personal
+computer, 238 stampanti, 4 lettori ottici, 1 scanner, 7 print
+server e 44 apparecchiature di altro genere quali stampanti, schede
+di rete, timbratori e quant'altro.
+Pertanto la mole degli investimenti nel prossimo triennio è
+orientata più alle spese di esercizio che non a quelle di
+investimento.
+In altri termini, appaiono improbabili grossi investimenti di
+ulteriore sviluppo, mentre concretezza vuole che ci si orienti allo
+sfruttamento di quanto finora
+acquisito.
+Sarà pertanto ragionevole orientarsi alla maggiore diffusione
+possibile delle applicazioni Mad-truck, a cui solo ora parzialmente
+si attinge e la cui diffusione è economicamente a costo zero, in
+quanto originariamente acquisiti in "toto".
+A questo proposito per il processo Mad-truck le procedure
+applicative attivate con ben 120 postazioni di lavoro riguardano il
+CUP territoriale, gli uffici di tariffazione, la scelta e revoca
+del medico, la degenza su 10 reparti, la degenza su 20 reparti
+gestiti in modo centralizzato, la medicina integrativa gestita sul
+territorio, la medicina legale in sede centrale.
+Le implementazioni 2000 con previsioni di 40 postazioni di
+lavoro riguardano l'aggiornamento alla nuova release, gli
+ambulatori, i laboratori di analisi, due pronti soccorsi di cui uno
+da sostituire o integrare. Poi ci sono possibilità di ulteriori
+implementazioni che vengono definite.
+Per quanto riguarda l'area ospedaliera, il sistema Mad-truck ha
+riguardato le degenze di pediatria, patologia neonatale, nido,
+ostetricia e ginecologia, geriatria, gastroenterologia,
+cardiologia, UTIC, malattie infettive, chirurgia, chirurgia
+toracica, medicina e oncologia, il CUP ambulatoriale, l'ambulatorio
+di neurologia, gli ambulatori di radiologia, cardiologia e medicina
+nucleare, l'accettazione centralizzata dell'Ospedale di viale
+Ginevra e il Beauregard, la tariffazione dell'Ufficio
+ospedalità.
+Per quanto riguarda l'area territoriale il CUP del territorio, i
+4 poliambulatori di Morgex, Châtillon, Verrès e Donnas, il CUP di
+via Guido Rey, l'Ufficio tariffazione, la scelta e revoca di
+esenzione dei ticket di via Guido Rey, le relazioni internazionali,
+modelli 111 e 112, la medicina integrativa di via Guido Rey e la
+medicina legale di via Lucat, e le vaccinazioni di via Xavier de
+Maistre.
+Sarà ugualmente ragionevole in tal senso orientare alcune delle
+sopracitate consulenze di supporto tecnico in consulenze di tipo
+specialistico e applicativo, orientate alla diffusione di Mad-truck
+soprattutto in ambiente sanitario. A questo proposito le consulenze
+affidate per il sistema informativo sanitario software e
+statistiche riguardano 4 programmatori, contrattisti a tempo pieno,
+e 1 statistico programmatore. Per quanto riguarda la retefonia
+internet e installazioni, sono state affidate consulenze a 3
+sistemisti e a 1 tecnico hardware sempre con contratti sia part
+time sia a tempo pieno.
+Per quanto riguarda il sistema Mad-truck sono state affidate
+consulenze a 5 sistemisti tramite il CIC di Ivrea.
+Parimenti si dovrà puntare a ogni migliore sfruttamento delle
+possibilità intrinseche delle singole apparecchiature aumentando il
+grado di conoscenza delle stesse, soprattutto a quei livelli
+organici, (medici, caposala e preposti ad incarichi complessi), che
+più ne potranno usufruire e che più di altri concorreranno, per
+natura dei loro incarichi, a meglio usufruire delle apparecchiature
+in questione.
+Ancora sarà utile e conveniente sfruttare la rete geografica non
+solo per la trasmissione dati, ma anche previa integrazione tecnica
+dei nuovi sistemi telefonici, per la trasmissione complementare
+della fonia, almeno tra le svariate sedi dell'USL risparmiando così
+di attuali significativi relativi canoni di traffico.
+In ultimo ed a carattere generale un'accurata analisi e buon
+monitoraggio della situazione venutasi a creare nel corso del 1999,
+allora non facilmente per ovvi motivi di costrizione temporale
+monitorabile, condurrà l'USL a un significativo alleggerimento dei
+costi a parziale compensazione degli investimenti fatti".
+Questo per quanto riguarda la prima domanda posta
+dall'interrogazione.
+Per quanto riguarda i costi sostenuti dal 1° gennaio 1998 al 30
+giugno 2000, le consulenze nel 1998 ammontano a 267 milioni circa,
+nel 1999 a 383.097.000 lire, nel 2000 a 286.488.000 lire.
+Gli acquisti di beni nel 1998 sono stati per 1.890.313.000 lire,
+nel 1999 a 1.606.000.000, nel 2000 288.000.000, questo a
+dimostrazione che si è preferito passare alla forma del leasing
+piuttosto che alla formula dell'acquisto diretto.
+Per i beni e i servizi si vede questa correlazione: nel 1998
+1.557.000.000, nel 1999 2.345.000.000, nel 2000 3.068.000.000
+inclusi il "118" e gli "screening" che sono situazioni
+particolari.
+Per quanto riguarda i noli di canoni, 157.200.000 lire nel 1998,
+1.136.000.000 lire nel 1999, 1.101.857.000 nel 2000.
+Per il leasing nel 1998 nulla, nel 1999 617.000.000 lire, nel
+2000 757.000.000 per un totale delle tre voci: consulenze, acquisto
+beni e servizi, noli canoni e leasing, nel 1998 di 3.871.840.000
+lire, nel 1999 di 6.089.156.000 lire, nel 2000 di 5.000.502.000
+lire.
+Questo per quanto riguarda le spese sostenute direttamente
+dall'USL.
+La Regione ha nel contempo affidato un incarico di consulenza
+studio alla dott.ssa Borello di Milano per la predisposizione di
+uno studio per la sostituzione e adeguamento dell'attuale sistema
+informativo, con delibera del 7 dicembre 1998 per un importo di
+16.800.000 lire, e ha affidato alla società Insiel di Trieste per
+il trattamento dei dati di dimissioni ospedaliere relativi al 1998
+e ai primi mesi del 1999 con il DRG raggruppamento omogeneo di
+diagnosi, e in via sperimentale con il "disease staging", cioè la
+gravità del ricovero, per un importo di 36.650.000 lire. Questi due
+incarichi sono terminati e non sono stati rinnovati.
+Da ultimo, a fronte di questo monte la Regione ha finanziato con
+fondi vincolati per ogni anno per il sistema informativo
+950.000.000 all'anno, rispettivamente negli anni 1998-1999-2000, di
+cui liquidato ad oggi l'80 percento, pari a 760 milioni.
+Una valutazione di tipo generale è questa. Dalla relazione
+dell'USL si evince chiaramente una costante nota che riguardava
+all'epoca una fortissima arretratezza del sistema informatico e
+informativo all'interno di una struttura complessa come quella
+dell'USL, che ha centinaia di apparecchiature in rete (o che
+dovrebbero essere in rete). Una fortissima arretratezza in
+tecnologia e per quanto concerne la formazione e la professionalità
+interna. Per questo motivo mi pare che le intenzioni dell'USL siano
+chiare, cioè di lavorare molto sulla formazione interna delle
+risorse umane e nel contempo di utilizzare le risorse esterne
+proprio per queste finalità.
+Presidente
+La parola al Consigliere Frassy.
+Frassy (FI)
+Abbiamo ascoltato la risposta fornita
+dall'Assessore, una risposta lunga e piena di numeri, di cui
+chiederemo copia per poterla esaminare nel dettaglio, anche perché
+l'insieme di questi numeri è difficilmente comprensibile nel tempo
+veloce in cui vengono letti.
+Però una sensazione la vogliamo esprimere, alla luce dei dati
+principali che sono stati forniti e che riteniamo di aver colto. Le
+risorse che sono state in questo triennio, o meglio in questi due
+anni e mezzo impiegate direttamente dall'USL e secondariamente
+dalla Regione, nell'ambito dell'informatizzazione dei servizi
+sanitari sul territorio regionale, riteniamo che rappresentino una
+cifra che definire importante probabilmente non dà il senso della
+dimensione di cui stiamo parlando.
+Se i dati che ho appuntato velocemente non sono stati appuntati
+in maniera errata, parliamo in due anni e mezzo di 5,5 miliardi
+solo per quanto riguarda i costi sostenuti da parte dell'USL. E
+questi sono sicuramente costi che, sommati a quelli della Regione,
+dovrebbero aver messo il Servizio sanitario nazionale sul
+territorio regionale in grado di funzionare al meglio, di
+funzionare soprattutto con le sue gambe.
+Al di là di quanto l'USL ha detto per bocca dell'Assessore,
+abbiamo la sensazione, supportata anche dai dati fornitici, che
+invece si continui a fare ampio ricorso a supporti esterni. Per
+esempio, nel 2000 è stata rinnovata la convenzione con il consorzio
+informatico canavesano per una cifra intorno al miliardo, e nel
+leggere la premessa della delibera dell'USL apprendiamo che le
+procedure che vengono noleggiate riguardano la gestione
+dell'economato, del magazzino farmaceutico, della data base
+anagrafico degli assistiti, del CUP, delle degenze.
+Ci domandiamo allora come sia possibile che una struttura, che
+vuol fregiarsi della definizione di azienda, possa pensare di
+delegare all'esterno la gestione delle procedure fondamentali per
+un'azienda. Si fa riferimento fra l'altro qui alla sostituzione di
+queste procedure, ma da parte sempre del consorzio informatico
+canavesano, il quale dovrebbe avere acquisito nuove versioni della
+ditta Mad-truck che mi sembra sia quella citata dall'Assessore,
+anche se a me sembrava di aver capito che la ditta Mad-truck
+avrebbe dovuto vendere le procedure all'USL. Per il 2000 in base a
+questa delibera diamo invece 1 miliardo a questo consorzio
+informatico canavesano, affinché ci gestisca le procedure della
+ditta Mad-truck.
+Perciò mi sembra che ci sia anche una certa incongruenza fra
+quanto deliberato ad inizio anno e quanto dichiarato dai vertici
+dell'USL nella risposta che l'Assessore ci ha letto. Sappiamo
+inoltre di reparti e di servizi che hanno nel giro di pochi anni
+avuto una prima informatizzazione insoddisfacente, con una seconda
+informatizzazione che non sappiamo ancora che risultati darà. Di
+questo peraltro non c'è traccia nella risposta.
+Di conseguenza ci riserviamo di leggere nel dettaglio i dati che
+l'Assessore ci ha fornito, anche perché sulla questione
+dell'informatizzazione pensiamo che sia opportuno fare un po' di
+chiarezza, visti i problemi in gioco e viste le cifre che sono in
+gioco. Perciò in sintesi esprimiamo preoccupazione per il trend
+della spesa che l'USL ha impiegato nell'informatizzazione;
+rileviamo come, se le consulenze si sono limitate nelle cifre
+impegnate, non altrettanto può dirsi per i noli, pertanto ci
+riserviamo una successiva analisi dopo aver letto con più
+attenzione il documento.
