@@ -1,0 +1,162 @@
+Classificazione
+AMMINISTRAZIONE REGIONALE
+INFORMAZIONE
+Sistema informativo
+
+
+
+Oggetto del Consiglio n. 2613 del 3 ottobre 2012 - Resoconto
+OGGETTO N. 2613/XIII - Interrogazione: "Predisposizione da
+parte dell'Amministrazione di un cronoprogramma per il passaggio
+dall'attuale programma informatico al sistema "Open
+Source"".
+Interrogazione
+Richiamata la nostra interpellanza del marzo 2011 avente per
+oggetto: "Utilizzo di sistemi "Open Source" in Amministrazione
+regionale";
+Sottolineato che l'Amministrazione regionale nel 2010 ha
+speso in licenze informatiche la cifra di 1.376.000 Euro, di cui
+quasi 500.000 Euro per i soli prodotti della Microsoft;
+Evidenziato il significativo risparmio che potrebbe generare
+il passaggio dall'attuale sistema a quello a codice sorgente aperto
+(Open Source);
+i sottoscritti Consiglieri regionali
+Interrogano
+la Giunta regionale per conoscere:
+1) l'ammontare della spesa sostenuta dalla Regione nell'anno
+2011 e la previsione di spesa per il 2012 per l'acquisto di licenze
+informatiche;
+2) se l'Amministrazione si è dotata di un cronoprogramma per
+il passaggio dal sistema attualmente utilizzato al sistema "Open
+Source".
+F.to: Bertin - Louvin - Patrizia Morelli
+Président
+- La parole au Président de la Région,
+Rollandin.
+Rollandin (UV)
+- Merci Présidente.
+Pour ce qui est des questions posées, la première question, la
+dépense globale pour l'achat des licences informatiques relatives
+aux logiciels de base et aux logiciels d'exploitation, ainsi qu'au
+fonctionnement des postes de travail individuel aux services
+d'entretien et à l'assistance s'est élevée en 2012 à environ
+1.670.000 euros. L'augmentation de 300.000 euros par rapport à 2010
+est due à la passation des divers contrats biennaux et à
+l'introduction de nouveaux systèmes. Les dépenses afférentes au
+contrat de licence et d'utilisation des produits Microsoft s'est
+élevée en 2011 à environ 480.000 euros, soit un montant identique à
+celui de 2010. Au cours de 2012 les dépenses globales ont été
+d'environ 1.000.256 euros, ce qui représente une diminution de
+414.000 euros, soit environ moins 24 pour cent par rapport à 2010.
+Le montant des frais afférents aux produits Microsoft n'a pas
+changé en 2012.
+Pour ce qui est du deuxième point, il faut tout de suite
+rappeler ce qui a déjà été expliqué en réponse à une interpellation
+présentée au mois de mars 2011. Dans le processus de la définition
+du calendrier des passages à des systèmes
+Open Source
+il
+faut tenir compte du fait que les licences d'utilisation ne
+représentent qu'une partie du coût global de l'adoption des
+logiciels. Ce coût comprend notamment des facteurs tels que les
+frais relatifs à la formation du personnel, au changement
+organisationnel, à la modification et au replacement d'éléments qui
+ne sont pas parfaitement compatibles, ou encore à l'intégration
+avec le logiciel existant.
+L'adoption de solutions
+Open Source
+doit donc suivre un
+processus global et graduel et les orientations de l'Administration
+régionale pour les prochaines années sont les suivantes: pour ce
+qui est des applications des bureaux, c'est-à-dire les logiciels de
+productivité personnelle, je tiens à rappeler les postes de travail
+individuel du personnel utilisent déjà les logiciels gratuits ou
+Open Source
+chaque fois que possible. Quoi qu'il en soit il
+est prévu d'expérimenter en 2013 la suite
+Open Office
+dans
+un ou deux secteurs homogènes de l'Administration régionale, le
+premier de ces secteurs pilotes pourrait se situer dans le cadre du
+système bibliothécaire régional, qui comprend environ 140 postes de
+travail, dont certains sont accessibles au public.
+Pour ce qui est des applications serveurs, de nombreuses
+initiatives ont déjà été lancées pour passer à des systèmes
+Open
+Source
+, tels que le SIL, système informatique de travail, le
+système BIFI, budget et finances, le système FINA, loi de finances,
+et le système documentaire Index basé sur les plates-formes
+Alfresco. Il est prévu d'adopter en 2013 la plate-forme Orchard
+pour réaliser le nouveau site de tourisme et de poursuivre
+l'introduction des solutions
+Open Source
+chaque fois que
+cela sera possible dans les limites de faisabilité technique et de
+la convenance économique.
+Enfin, pour ce qui est des bases de données, les lignes
+directrices seront définies courant 2013, quant à l'adoption des
+bases de données
+Open Source
+à partir des solutions
+actuellement disponibles, afin de préparer l'introduction dans les
+années à venir des solutions applicables utilisant ces
+plates-formes, vraisemblablement à partir de 2014, mais peut-être
+même plus tôt si l'opportunité se présente de recycler les
+solutions déjà en application dans d'autres administrations
+publiques. Merci.
+Président -
+La parole au Conseiller Bertin.
+Bertin (ALPE)
+- Grazie Presidente.
+Questo dell'
+Open Source
+è un argomento che avevamo già
+affrontato qualche tempo fa, al quale attribuisco personalmente una
+certa importanza non solo dal punto di vista del risparmio delle
+risorse pubbliche, che di questi giorni è un fatto di per sé molto
+importante, ma anche perché questi sistemi aperti e gratuiti, che
+vengono poi implementati con la partecipazione degli utenti, sono
+più interessanti per la collettività e per gli sviluppi che possono
+dare alla crescita e alla diffusione dell'informatica. Nel 2010 si
+erano spesi circa 1.400.000 euro in licenze informatiche, ad oggi
+la situazione non è cambiata, c'è stato un aumento e poi una
+diminuzione, pertanto nei due anni che sono passati dalla
+precedente interpellanza la situazione è rimasta immutata,
+personalmente mi aspettavo una diminuzione significativa. Altre
+Regioni sono partite prima, sono più avanti e hanno dei progetti
+più importanti. Siamo in ritardo, abbiamo fatto qualcosa tipo il
+sistema della biblioteca regionale, eccetera, ma siamo in ritardo e
+dobbiamo recuperare ed è importante in questo momento anche dal
+punto di vista finanziario.
+Ricordiamo che con il decreto n. 83/2012, il famoso "decreto
+sviluppo", le pubbliche amministrazioni quando acquisiscono il
+software
+sono tenute ad effettuare una valutazione
+comparativa e dare la precedenza a soluzioni
+Open Source
+rispetto ai progetti proprietari. Insomma l'Amministrazione
+regionale è formalmente tenuta, anche in ragione della legge, a
+scegliere, quando è possibile ed economicamente preferibile, delle
+soluzioni con fonte aperta.
+Registriamo che purtroppo in questi due anni non c'è stato un
+sostanziale cambiamento di sistema nell'amministrazione, ci
+auguriamo che negli anni prossimi si passi in modo più sistematico
+a tale sistema. Per questo chiedevamo se era stato previsto un
+cronoprogramma; a mio avviso, andrebbe fatto in modo più puntuale e
+soprattutto immaginando i possibili risparmi e partecipando a
+quelle reti di enti pubblici che si stanno formando, che permettono
+di mettere in condivisione le esperienze e di avere ulteriori
+risparmi. Come giustamente sottolineava lei, il problema
+dell'
+Open Source
+è che bisogna gestirlo e bisogna avere
+delle risorse dal punto di vista umano capaci di farlo, per cui la
+condivisione all'interno di queste reti delle esperienze maturate
+in altre realtà è fondamentale non solo per l'efficacia, ma anche
+per il risparmio che questo comporta per l'utilizzo di questi
+sistemi.
+Invitiamo in questo senso ad aumentare l'efficacia di questa
+scelta e di predisporre un cronoprogramma o un programma di
+utilizzo più sistematico di questi sistemi aperti. Per il momento
+mi pare che la cosa sia piuttosto estemporanea. Grazie.

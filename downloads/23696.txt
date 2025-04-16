@@ -1,0 +1,233 @@
+Consiglio Regionale della Valle d'Aosta - Oggetto del Consiglio n. 2736 del 23 maggio 2007 - Resoconto
+Vai al contenuto principale
+Oggetti del Consiglio
+Invia
+Stampa
+Documenti
+Verbale
+Resoconto
+Collegamenti
+Iter atto
+Classificazione
+INFORMAZIONE
+Sistema informativo
+NOMINE E INCARICHI DI CONSULENZA E SPECIALI
+Incarichi di consulenza e speciali
+Precedente
+Successivo
+Resoconto integrale del dibattito dell'aula. I documenti allegati sono reperibili nel link "iter atto".
+Oggetto del Consiglio n. 2736 del 23 maggio 2007 - Resoconto
+OGGETTO N. 2736/XII - Risultanze dell'incarico conferito alla
+Società IN.VA. del trasferimento degli ambienti operativi del
+sistema informatico regionale verso la piattaforma "open source"
+Linux. (Interrogazione)
+Interrogazione
+Visto il pluralismo informatico introdotto con la legge
+regionale n. 11/2004 della Regione Emilia Romagna, con la legge
+regionale n. 11/2006 della Regione Umbria, con la legge regionale
+n. 1/2004 della Regione Toscana;
+Considerati i notevoli risparmi ottenuti dalla Provincia di
+Bolzano nel campo dei servizi informatici, in seguito alla
+decisione di adottare il software libero, (sia nel sistema
+operativo che negli applicativi) utilizzando fondi previsti dal
+Fondo Sociale Europeo sull'Open Source in tutte le scuole di lingua
+italiana della provincia, così come divulgato nella trasmissione
+televisiva di Rai 3 "Report" del 29 aprile u.s.;
+Vista la DGR n. 394 del 17 febbraio 2006, nella quale si
+affidava alla società IN.VA. il compito di trasferire tutti gli
+ambienti operativi, le procedure e gli applicativi del sistema
+regionale verso la piattaforma "open source" Linux;
+Atteso che nella stessa deliberazione si stimava possibile un
+risparmio annuo di almeno 200/250mila euro in virtù di tali
+cambiamenti, certamente superabile, in relazione all'avanzamento di
+tali processi;
+Dato atto che nella deliberazione stessa si prevedeva un
+periodo di transizione di circa otto mesi per tutte le operazioni
+di migrazione verso la nuova piattaforma;
+il sottoscritto Consigliere regionale
+Interroga
+il Governo regionale per sapere:
+1) quali risultati operativi siano stati raggiunti in base
+alla deliberazione citata in premessa e quali siano stati gli
+obiettivi realizzati in termini di costi-benefici;
+2) se l'Amministrazione ha posto in atto un piano di più
+ampio respiro per la completa adozione di software libero nella
+Pubblica Amministrazione e quali siano, eventualmente, i tempi di
+realizzazione;
+3) se il progetto di migrazione nei sistemi "open source"
+abbia riguardato con particolare evidenza i settori della scuola e
+della formazione, nei quali certamente il risparmio previsto per la
+pubblica amministrazione si rifletterebbe positivamente anche su
+quello delle famiglie (uso del software domestico).
+F.to: Bortot
+Président
+- La parole à l'Assesseur au budget, aux
+finances, à la programmation et aux participations régionales,
+Marguerettaz.
+Marguerettaz (UV)
+- Spero di stare nei tempi: ho una
+risposta articolata, ma ci sarà la stessa tolleranza che abbiamo
+avuto finora, quindi il 50% del tempo in più.
+Prima domanda che mi pone il collega Bortot, che ha forse lo
+stesso consulente che avevamo prima noi in Regione; rispetto a
+questo posso darle tutta una serie di informazioni. Con la
+deliberazione n. 394/2006 la Giunta ha affidato alla società "INVA"
+la migrazione dei propri sistemi informativi centrali - sottolineo
+"centrali", perché diventerà una questione importante - verso un
+sistema "open source". L'attività si è svolta, come previsto nel
+piano di progetto originale, nel periodo marzo - agosto 2006 ed ha
+riguardato i seguenti sistemi informativi: bilancio e finanze,
+gestione delle provvidenze per invalidi civili, ciechi, sordomuti
+ed ex combattenti, sistema zootecnico regionale, sistema
+informativo agricolo regionale. Al termine della fase di collaudo
+del nuovo impianto e dopo un adeguato periodo di sovrapposizione
+dei due ambienti operativi, nel mese di ottobre 2006 si è
+provveduto alla dismissione del vecchio impianto, basato sulla
+tecnologia denominata "mainframe".
+Obiettivi iniziali. L'Amministrazione regionale con la decisione
+di migrare i propri sistemi informativi centrali nel nuovo ambiente
+open source
+"Linux", si era data tre obiettivi principali:
+un miglioramento delle prestazioni complessive dei sistemi oggetto
+di migrazione; un adeguamento tecnologico che garantisse al sistema
+informativo regionale adeguate possibilità di crescita in ambienti
+più moderni e con maggiori potenzialità di sviluppo; una riduzione
+complessiva dei costi annui di gestione dell'ambiente tecnologico
+necessario per l'esercizio dei sistemi.
+Rispetto a questi risultati fornisco una rendicontazione.
+Miglioramento delle prestazioni complessive dei sistemi oggetto di
+migrazione: il miglioramento delle prestazioni complessive dei
+sistemi è stato superiore alle aspettative iniziali, la rilevazione
+delle prestazioni sul nuovo ambiente, condotta sia con strumenti
+automatici sia attraverso la percezione degli utenti finali dei
+sistemi regionali, ha evidenziato dei tempi di risposta delle
+trasmissioni inferiori al 50% rispetto al sistema dismesso.
+Adeguamento tecnologico: l'adozione della nuova piattaforma ha
+permesso all'Amministrazione regionale di iniziare un percorso
+verso il mondo
+open source
+in linea con quanto in corso in
+altre regioni italiane. Tale processo favorirà nel breve la
+partecipazione della Regione a progetti interregionali di riuso del
+software, aprendo potenziali collaborazioni fra enti diversi della
+pubblica amministrazione. La nuova piattaforma in prospettiva
+consente di ampliare la capacità del sistema con la semplice
+aggiunta di nuovi moduli hardware.
+Costi annuali di gestione. Nella valutazione complessiva della
+riduzione dei costi annui di gestione, a seguito della adozione del
+nuovo ambiente
+open
+, si sono al momento tenuti in
+considerazione solo i parametri oggettivamente misurabili (minor
+costo effettivo sostenuto da parte della Regione), mentre per
+quanto riguarda i benefici futuri che si tradurranno in ulteriori
+minori costi, ci si è limitati in questa sede ad un semplice elenco
+descrittivo, non essendo i costi al momento determinabili con
+certezza. Per calcolare il minor costo sostenuto
+dall'Amministrazione, si sono utilizzati come base comparativa i
+seguenti valori: prezzo del servizio di gestione sul vecchio
+ambiente per l'esercizio 2006 desunto dall'offerta "INVA",
+protocollo 11240/2005; prezzo del servizio di gestione del nuovo
+ambiente per l'esercizio 2006-2008 desunto dall'offerta "INVA" e
+dalle convenzioni per i servizi di elaborazione e gestione
+stipulati annualmente dal "DSI" con la società partecipata. Poi le
+fornirò la tabella, che riporta il confronto fra le due diverse
+opzioni contrattuali ed evidenzia il minor costo sostenuto
+dall'Amministrazione regionale; i prezzi sono da considerarsi IVA
+esclusa.
+Il vecchio ambiente costava 1 milione 170mila euro, il nuovo
+ambiente per il 2006 922mila euro, 908mila euro quindi in valore
+assoluto il risparmio; per il 2006 è 248mila euro, 262mila euro per
+il 2007-2008; in percentuale 248mila rapportati a 1 milione, danno
+un risparmio superiore al 20%. Il risparmio sui servizi
+dell'elaborazione e gestione, anche questo supera il 20%. Come
+emerge dalla lettura dei dati riportati in tabella, il minor costo
+ammonta a 248mila euro e 262mila euro del secondo anno;
+percentualmente la riduzione complessiva dei costi del contratto si
+assesta al 21,19% sul totale dei servizi acquistati e sul 28,12 sui
+servizi di elaborazione e gestione. La percentuale più
+significativa è la seconda, in quanto la riduzione del costo deve
+essere conteggiata sui servizi di elaborazione e non su quelli di
+presidio, che restano invariati.
+I benefici futuri attraverso l'impiego di questa nuova
+piattaforma possono essere così sintetizzati: possibilità di
+ospitare all'interno della piattaforma ulteriori sistemi senza
+oneri aggiuntivi, fino al raggiungimento della capacità massima del
+sistema, che si tradurrà in una diminuzione della spesa prevista
+per i nuovi servizi ospitati a bordo; possibilità - qualora fosse
+raggiunta la soglia massima di capacità del sistema - di ampliare
+l'impianto a costi contenuti; possibilità di riutilizzare software
+proveniente da altre realtà regionali, che utilizzano l'ambiente
+open
+, evitando in tal modo la realizzazione di sistemi
+ad
+hoc
+per la nostra Regione (un esempio di riuso è rappresentato
+dal sistema informativo del lavoro). Nel complesso i risultati
+raggiunti sono stati conformi alle aspettative iniziali.
+Seconda domanda, come il collega sa, il piano pluriennale
+2007-2008 per lo sviluppo e la conduzione del sistema informativo
+regionale, che la Giunta ha sottoposto all'approvazione del
+Consiglio il 27 aprile, prevede uno specifico intervento rivolto
+alla introduzione dei sistemi
+open source
+per la
+produttività individuale. Uno dei principali obiettivi è quello di
+costituire un osservatorio permanente sulle tematiche
+open
+source
+in collaborazione con le Regioni Liguria e Piemonte e
+con il sistema universitario. Attualmente la Regione ha avviato un
+progetto pilota, al fine di valutare l'utilizzo di software
+open
+source
+all'interno della propria organizzazione, in
+sostituzione degli usuali programmi commerciali. L'obiettivo è
+quello di analizzare e valutare l'impatto che il cambiamento ha
+sull'utente e sulla qualità del suo lavoro, parallelamente saranno
+analizzati gli aspetti organizzativi, tecnici ed economici che tale
+tipo di cambiamento comporta.
+Ultima domanda, abbiamo detto prima che il progetto di
+migrazione che abbiamo deliberato in Giunta il 17 febbraio 2006,
+non ha riguardato i settori della scuola e della formazione, ma i
+sistemi informativi centrali già elencati in risposta al primo
+quesito, quindi questo sarà in divenire.
+Président
+- La parole au Conseiller Bortot.
+Bortot (Arc-VA)
+- Sono quasi senza parole, sennonché
+l'ultima frase mi ha ridato la possibilità di intervento: il
+"divenire". Sul divenire penso che possiamo risparmiare tanti
+soldi.
+Le fonti di riferimento sono state la trasmissione "Report" del
+29 aprile, dove il Comune di Bolzano ha introdotto il sistema
+libero soprattutto nelle scuole; in sostanza questo sistema ha dato
+la possibilità di produrre un compact disc e di poterlo trasferire
+sui personal computer di casa. Sono stati coinvolti 17mila
+studenti, 1.680 docenti e avremo la possibilità di passare dal
+sistema centrale alla ricaduta su tutti i settori della pubblica
+amministrazione. Bisogna capire solo un po' meglio i tempi e uscire
+dal progetto pilota e, soprattutto, credo che si possa avere (per
+la ricaduta e per uscire dal sistema pilota) finanziamenti da parte
+del Fondo Sociale Europeo. Questa ultima cosa è da verificare,
+perché se cominciamo dalla scuola, ai Comuni, in parte
+l'Amministrazione regionale, consorzi, enti locali, Comunità
+montane, USL, credo che il risparmio dell'intera Regione su questo
+sistema che si autoriproduce, super collaudato e che dà garanzie
+non indifferenti, potremo fare un notevole passo avanti,
+soprattutto in funzione della mancanza di servizi che ci
+ritroveremo ad avere nei Comuni più piccoli. Faremmo un enorme
+passo avanti, facendo risparmiare la Regione, ma soprattutto
+facendo risparmiare i cittadini valdostani.
+Adesso studieremo con la persona a cui lei ha fatto riferimento,
+che non doveva lasciare a casa, non perché siamo amici, ma perché è
+un bravo tecnico... - se l'è cercata, Assessore -; studieremo e
+faremo ulteriori proposte di un progetto con delle tempistiche e
+con l'indicazione dei settori da coinvolgere.
+Informativa cookies
+Consiglio Regionale della Valle d'Aosta © 2025
+Questo sito utilizza cookies propri e di terze parti. Continuando ad usare questo sito, acconsenti all'utilizzo di questa tecnologia.
+Consulta la nostra
+informativa
+per maggiori informazioni e per istruzioni su come disattivare i cookies.
+OK

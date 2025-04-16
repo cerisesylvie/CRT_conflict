@@ -1,0 +1,182 @@
+Consiglio Regionale della Valle d'Aosta - Oggetto del Consiglio n. 3036 del 17 ottobre 2007 - Resoconto
+Vai al contenuto principale
+Oggetti del Consiglio
+Invia
+Stampa
+Documenti
+Verbale
+Resoconto
+Collegamenti
+Iter atto
+Classificazione
+INFORMAZIONE
+Radiotelecomunicazioni
+Precedente
+Successivo
+Resoconto integrale del dibattito dell'aula. I documenti allegati sono reperibili nel link "iter atto".
+Oggetto del Consiglio n. 3036 del 17 ottobre 2007 - Resoconto
+OGGETTO N. 3036/XII - Interrogazione: "Livelli di diffusione
+nei Comuni dell'offerta di connettività in banda larga".
+Interrogazione
+Visti i numerosi progetti avviati dalla Giunta regionale in
+materia di telecomunicazioni e di superamento del "digital divide"
+(RUPAR, RIST, eccetera), con l'obiettivo di fornire sempre migliori
+servizi per il cittadino, per una maggiore efficienza della
+pubblica amministrazione e per giungere a una sorta di "società
+dell'informazione";
+Considerato che, a fronte di tali progetti, l'offerta di
+connettività in banda larga risulta estremamente ridotta e limitata
+a pochi Comuni del fondo Valle, con una distribuzione "a macchia di
+leopardo" e un'incidenza valutata, dallo stesso Dipartimento
+dell'informazione, attorno al 20% dei Comuni valdostani;
+Atteso che, per quanto risulta al sottoscritto, la
+possibilità di usufruire del servizio ADSL è addirittura spesso
+negata ad una parte dei cittadini di uno stesso Comune in ragione
+del numero telefonico a loro assegnato e che, secondo informazioni
+fornite da tecnici del settore, sarebbe possibile superare la
+scopertura attraverso l'attivazione di una centralina;
+il sottoscritto Consigliere regionale
+Interroga
+L'Assessore competente per conoscere:
+1) se risponde tuttora al vero che soltanto 1/5 dei Comuni
+valdostani è attualmente servito dalla banda larga;
+2) se è previsto che la copertura di questi servizi
+telematici possa interessare veramente tutto il territorio
+regionale e in quali tempi essa possa avvenire;
+3) se risponde al vero che, ad esempio, nel Comune di Arnad,
+soltanto gli utenti con determinati numeri telefonici possono
+fruire dell'ADSL e se tecnicamente non sia possibile superare
+questo sbarramento in maniera semplice ed immediata.
+F.to: Bortot
+Président
+- La parole à l'Assesseur au budget, aux
+finances, à la programmation et aux participations régionales,
+Marguerettaz.
+Marguerettaz (UV)
+- Nell'interrogazione mi si chiede se
+risponde al vero che solo 1/5 dei Comuni valdostani è attualmente
+servito dalla banda larga. Evito di commentare le premesse.
+Rispetto ai dati esposti, anche a seguito delle azioni
+intraprese dall'Amministrazione regionale, sia in termini di azioni
+dirette, sia in termini di sensibilizzazione degli operatori di
+telecomunicazioni, la copertura ADSL ha subito un sostanziale
+aumento. Ad oggi sono raggiunti 51 Comuni su 74 con una percentuale
+di popolazione telefonica raggiunta pari all'83%, quindi la
+percentuale espressa nell'interrogazione non trova riscontro. Per
+essere precisi, dei 51 Comuni ve ne sono alcuni che hanno una
+copertura ridotta, tipo Fontainemore, Saint-Denis, Avise e Perloz.
+Dai dati che abbiamo, questi fanno parte dei 51, rientrano le
+popolazioni nell'83%, ma le difficoltà ci sono.
+Se
+"è previsto che la copertura di questi servizi telematici
+possa interessare veramente tutto il territorio regionale e in
+quali tempi..."
+, le attività prevedono di raggiungere entro il
+2008 il 95% dei Comuni, 70 su 74, e il 96% della popolazione
+telefonica, ed entro il 2010 il 100% dei Comuni e della popolazione
+telefonica. Rispetto ai piani di lavoro concordati con la società
+"Telecom", le attività sono oggi in leggero anticipo rispetto alla
+programmazione: i 4 Comuni mancanti sono Allein, Pontboset, Introd
+e Ollomont.
+Se risponde al vero che, ad esempio, nel Comune di Arnad solo
+"utenti con determinati numeri telefonici possono usufruire
+dell'ADSL e se tecnicamente non sia possibile superare questo
+sbarramento in maniera semplice e immediata"
+... all'interno del
+territorio regionale esistono alcune situazioni, quali quelle
+descritte per il Comune di Arnad, che traggono origine da due
+diverse motivazioni tecniche. La tecnologia ADSL su doppino
+telefonico presenta un limite sulla distanza massima dalla
+centrale, variabile a seconda della qualità del cavo all'interno di
+un intervallo compreso fra i 3-5 km.; oltre a queste distanze non è
+possibile ottenere il servizio. La seconda ragione deriva dalla
+presenza sul territorio dei cosiddetti "apparati stradali",
+utilizzati per concentrare più linee telefoniche su un unico cavo
+fisico. Tali apparecchi impediscono l'attivazione del servizio ADSL
+su rame e sono stati posizionati nel passato usualmente in
+corrispondenza di zone a rapido ed imprevisto sviluppo urbanistico,
+al fine di rispondere velocemente e a costi contenuti alla
+richiesta di accesso al servizio telefonico. Le problematiche sopra
+descritte sono state analizzate dalla Regione ai fini della loro
+risoluzione e sono state avviate le attività progettuali. La
+realizzazione di dorsali in tecnologia radio e in fibra, rese
+disponibili dagli operatori interessati, permetteranno agli stessi
+di fornire il servizio ADSL alle utenze oggi non coperte. Tali
+interventi non semplici dal punto di vista tecnico e non
+particolarmente rapidi dal punto di vista esecutivo, considerata la
+polverizzazione degli interventi sul territorio regionale, sono
+programmati per essere completati entro la fine del 2010. Per
+completezza informativa, va comunque fatto notare che la
+popolazione che insiste in queste zone è stimata in circa il 3% sul
+totale dei residenti sul territorio regionale.
+Risposto all'interrogazione, approfitto dell'occasione per
+condividere - ma lo faremo poi con un'interrogazione della collega
+Squarzino sul digitale terrestre - che il problema delle
+telecomunicazioni in genere è un problema di natura strategica che
+deve essere assunto per quello che è da parte di tutti i soggetti:
+sto parlando della Regione, degli enti locali, di tutti coloro che
+hanno a cuore la competitività di un territorio, perché oltre a
+pensare alle necessarie opere infrastrutturali - strade,
+acquedotti, fognature -, oggi dobbiamo immaginare una rete di
+telecomunicazione importantissima. Rispetto a questo tema c'è una
+sensibilità anche all'interno del consorzio degli enti locali che
+probabilmente porterà, in sede di approvazione di bilancio,
+all'individuazione di risorse che permetteranno di infrastrutturare
+correttamente per superare questo deficit che gli operatori non
+superano, a causa della polverizzazione delle utenze e dei ritorni
+di mercato... sono talmente ridotti... È per questo che fino ad
+oggi e prima dell'intervento così importante sul tema dell'All
+Digital da parte dell'ente pubblico vi è stata una certa
+disattenzione, ma non è una disattenzione, è una scelta aziendale
+di non intervenire con la banda larga nelle valli laterali, dove ci
+sono poche utenze, così come il segnale televisivo nelle valli
+laterali è assolutamente assente ed è distribuito solo grazie agli
+interventi pubblici e, nello specifico, delle Comunità montane.
+Il tema posto dal Consigliere Bortot è quindi un tema
+decisamente interessante, ci sono una serie di attività che vengono
+fatte dall'Amministrazione regionale per risolvere i problemi, ci
+sono anche operatori che interloquiscono con gli enti locali, i
+Comuni e, via via, si va arricchendo l'offerta di servizi a banda
+larga, quindi siamo sulla strada giusta, ma con questo non è che
+abbiamo risolto tutti i problemi, stiamo lavorando.
+Président
+- La parole au Conseiller Bortot.
+Bortot (Arc-VA)
+- Mi fa piacere la risposta
+dell'Assessore, perché ogni tanto si parla di "strategie", abbiamo
+anche in ballo la legge sulla montagna che fa riferimento esplicito
+a tutta questa serie di servizi, senza i quali credo che
+l'abbandono della montagna, salvo i luoghi più richiesti, possa
+continuare; invece, siamo in grado di intervenire.
+Sono anche d'accordo che, dove è necessario e il cosiddetto
+"mercato" non vuole intervenire perché non sufficientemente
+redditizio, intervenga la mano pubblica; bisogna solo capire questo
+mercato se è solo in giro per raccattare soldi o se è tale che gli
+si può imporre di intervenire anche in situazioni dove il ricavato
+non è roboante... ma questo fa parte della filosofia. D'accordo
+sulla strategia e anche sui tempi; l'unica nota stonata è che ho
+chiesto informazioni sulla problematica di Arnad; rispetto a quello
+che lei ha risposto mi si dice che, da informazioni affidabili
+fornite da dipendenti "Telecom", è sufficiente la banale
+attivazione di una centralina per garantire il servizio anche in
+questi ultimi. Si può fare una verifica, senza nessuna polemica, ma
+se la "Telecom" non vuole investire su una banale centralina per
+garantire il servizio a tutto il territorio di Arnad, credo che
+anche in previsione della necessità di avere i servizi in altre
+località più decentrate, con queste grandi aziende bisognerà
+definire meglio gli accordi sui quali poi interveniamo con denaro
+pubblico.
+Insisto: d'accordo sulla strategia, d'accordo sul fatto che i
+dati che mi ha fornito sono più positivi di quelli che ho riportato
+nell'interrogazione, meglio così... però dobbiamo stare attenti ai
+tempi e dove non ha interesse ad intervenire l'azienda privata,
+stare attenti a che tipo di convenzione si stipula per garantire i
+servizi anche in queste situazioni decentrate. Se poi mi vorrà
+cortesemente dare la nota, la ringrazio.
+Informativa cookies
+Consiglio Regionale della Valle d'Aosta © 2025
+Questo sito utilizza cookies propri e di terze parti. Continuando ad usare questo sito, acconsenti all'utilizzo di questa tecnologia.
+Consulta la nostra
+informativa
+per maggiori informazioni e per istruzioni su come disattivare i cookies.
+OK

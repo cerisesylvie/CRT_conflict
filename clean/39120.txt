@@ -1,0 +1,159 @@
+Classificazione
+AMMINISTRAZIONE REGIONALE
+Ordinamento degli uffici e del personale
+INFORMAZIONE
+Sistema informativo
+
+
+
+Oggetto del Consiglio n. 2444 del 8 novembre 2016 - Resoconto
+OGGETTO N. 2444/XIV - Interpellanza: "Iniziative intraprese
+per l'introduzione presso l'Amministrazione regionale di soluzioni
+open source".
+Rosset (Presidente) -
+Punto n. 19 dell'ordine del giorno.
+Per l'illustrazione, ha chiesto la parola il collega Bertin, ne ha
+facoltà.
+Bertin (ALPE) -
+Sarò particolarmente breve
+nell'illustrare questa interpellanza dato che questo argomento
+dell'utilizzo dei
+software
+liberi per l'Amministrazione
+regionale è già stato oggetto di molte iniziative negli anni; ho
+già avuto occasione di esprimermi più volte su questa cosa,
+pertanto sarò particolarmente sintetico. La migrazione verso
+soluzioni
+open source
+è per le amministrazioni pubbliche in
+generale un fatto possibile e vantaggioso, tant'è che molte
+amministrazioni in questo periodo di ristrettezze finanziarie e di
+spending review
+stanno operando questa migrazione.
+Per quanto mi riguarda, vedo anche aspetti importanti al di là
+dell'aspetto strettamente legato alla riduzione dei costi. Al di là
+di questo, quello che conta è - in questa fase soprattutto - il
+risparmio che questo può comportare. In passato avevo anche
+presentato una mozione per un impegno in questo senso che era stata
+approvata all'unanimità da questo Consiglio e che aveva poi dato
+come risultato uno studio approvato dal Governo regionale nel quale
+venivano dettagliate le modalità di questa migrazione, che comporta
+molti vantaggi innanzitutto dal punto di vista finanziario per
+l'Amministrazione regionale. Questa era l'occasione anche per fare
+il punto di questa delibera, poi approvata dal Governo regionale, e
+per capire anche gli intendimenti in merito a questa problematica,
+che è piuttosto vasta, ma che può dare degli ottimi risultati non
+soltanto in termini di risparmio economico.
+Presidente -
+Per la risposta, ha chiesto la parola il
+Presidente della Regione, ne ha facoltà.
+Rollandin (UV) -
+Je remercie le collègue pour avoir
+repris ce thème, qui a un intérêt important pour le développement
+des logiciels libres.
+En mai dernier, après une rencontre avec les bureaux techniques
+compétents de la Région, le Gouvernement régional a décidé que
+toutes les structures de direction ne seront pas concernées dans
+l'immédiat par le passage à des systèmes
+open source
+, mais
+que cette initiative sera mise en place dans quelques structures
+pilotes. En effet, le Gouvernement a considéré que lancer
+simultanément un projet aussi lourd de conséquences dans toute
+l'Administration risquait de ralentir l'opérativité de certains
+projets d'innovation importants actuellement en cours, comme le
+nouveau système de comptabilité et le système SISPREG, qui est
+utilisé dans le cadre des Politiques structurelles. C'est la raison
+pour laquelle des structures pilotes ont été choisies, à savoir le
+Département du personnel et de l'organisation, le Département des
+politiques structurelles et des affaires européennes, ainsi que le
+Département du territoire et de l'environnement, sur la base des
+types d'outils que leur personnel utilise et des usagers concernés,
+mais aussi parce que lesdits Départements sont disposés à
+participer aux analyses nécessaires, puis à la phase de
+formation.
+Pour ce qui est de la deuxième question, le plan de
+communication a été rédigé et a déjà été présenté au Département
+des politiques structurelles et des affaires européennes. Il sera
+bientôt présenté aux deux autres départements pilotes, puis les
+analyses prévues seront programmées, afin d'évaluer le volume de la
+documentation à convertir et les conséquences de ce processus,
+ainsi que d'établir l'ordre dans lequel les différentes structures
+passeront d'un système à l'autre. Parallèlement l'étude
+d'évaluation d'impact des systèmes d'information transversaux est
+en cours et, en vue de la réalisation du projet en question,
+quelques systèmes ont été développés sur une plateforme open source
+pour faciliter le recensement des documents produits par les
+structures concernées, ainsi que la collecte des informations
+relatives à ce projet de migration.
+Troisième question : quels sont les intentions prévues par le
+Gouvernement régional, le Gouvernement régional confirme qu'il
+entend passer à des logiciels libres ; ce projet sera réalisé
+progressivement, par étapes, afin de ne pas nuire au travail des
+bureaux et commencera début 2017 par les structures pilotes déjà
+désignées.
+Président -
+La parole au collègue Bertin.
+Bertin (ALPE) -
+Sono sorpreso negativamente dalla sua
+risposta, Presidente; l'anno scorso avevamo discusso di questa
+cosa, avevo apprezzato, anzi eravamo concordi sulla necessità di
+farlo e di farlo in fretta, di essere una delle prime realtà
+istituzionali in Italia a fare questa migrazione come stanno già
+facendo peraltro molte altre in Europa e anche in Italia. Dalla sua
+risposta mi rendo conto che quel progetto approvato con delibera
+della Giunta regionale che vincolava ad un'azione e un rispetto dei
+tempi, non è stato avviato nelle modalità previste. Una cosa è
+partire con tutta l'Amministrazione, poi se c'è qualcuno che va più
+avanti, bene, ma qui si fanno - da quanto ho capito - dei progetti
+pilota, che è il modo migliore quando non si vuole fare una cosa,
+si fa un progetto pilota, si fa una piccola cosa e lì si affossa.
+Il problema è che questa dovrebbe essere una migrazione di tutta
+l'Amministrazione. Poi che poi qualcuno vada più avanti può anche
+andare bene ma bisogna che partano tutti; limitare soltanto a tre
+dipartimenti questa cosa è un modo per non andare avanti, fare un
+progetto pilota che poi alla fine non avrà successo.
+Ricordo che i benefici ci saranno se parte tutta
+l'Amministrazione e bisognerebbe far partire poi anche gli Enti
+locali e le altre strutture pararegionali. Così facendo, il rischio
+è che quei benefici che immaginavamo con questo piano, che è anche
+abbastanza dettagliato, non arriveranno. Le ricordo peraltro che
+tra qualche anno scadranno le licenze Microsoft e non vorrei che
+alla fine, visto che siamo in ritardo, le dovremo poi rinnovare, è
+un rischio che non si può correre. Lo studio era dettagliato e ben
+fatto, l'abbiamo letto attentamente e non era per niente
+velleitario, ma bisogna seguirlo. Da quello che ho potuto capire,
+in realtà è stato in parte abbandonato, o perlomeno rimandato con
+il pretesto di fare un progetto pilota.
+In questi mesi le ricordo che, per esempio, il Ministero della
+difesa ha iniziato più o meno con i nostri tempi, a gennaio 2016,
+questa operazione di migrazione, immaginiamo che un Ministero come
+quello della difesa sia un sistema estremamente complesso e
+delicato e in sei mesi ha già fatto migrare 10.000 postazioni,
+senza creare particolari problemi. Vi sono altre realtà come quella
+di Trento, la Provincia di Trento è già da questo punto di vista
+molto in avanti, ha già quasi finito, per non parlare dell'Umbria o
+di altre Regioni. Abbiamo l'occasione, anche grazie a questo
+studio, di essere una tra le prime Regioni in Italia a migrare
+completamente sui sistemi
+open source
+e avere dei benefici
+anche in termini di risparmio in un periodo nel quale tagliamo su
+tutto e stiamo mettendo a rischio con questo rallentamento questo
+cambio di prospettiva con questi progetti pilota. Il rischio poi è
+che, fatto il progetto pilota, finito quello, siamo scivolati
+troppo in là, non vorrei che fosse un'occasione persa. Mi auguro
+che ritornerete all'integrità di questo studio, facendo partire
+tutta l'Amministrazione per avere dei risparmi effettivi in due-tre
+anni. Il rischio se ci limitiamo ad un'operazione pilota - ne
+avevamo già fatta una, Presidente, alla biblioteca regionale - è di
+ottenere risultati molto scarsi. Bisogna partire tutti insieme, poi
+se qualcuno vuole andare più avanti, meglio. Non vorrei che
+perdessimo un'altra occasione. Questa è l'occasione per essere una
+delle Regioni all'avanguardia in Italia, finiremo come il nostro
+solito ad arrivare per ultimi, in ritardo e per perdere buona parte
+dei benefici che questo può rappresentare. Siamo ancora in tempo
+per correggere le cose. Francamente oggi mi ha stupito la sua
+risposta, ero convinto di procedere rapidamente, mi auguro che si
+ripensi in generale a questa migrazione facendola in fretta e
+facendo partire più servizi possibili.

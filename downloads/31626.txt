@@ -1,0 +1,159 @@
+Consiglio Regionale della Valle d'Aosta - Oggetto del Consiglio n. 619 del 24 giugno 2009 - Resoconto
+Vai al contenuto principale
+Oggetti del Consiglio
+Invia
+Stampa
+Documenti
+Verbale
+Resoconto
+Collegamenti
+Iter atto
+Classificazione
+INFORMAZIONE
+Radiotelecomunicazioni
+NOMINE E INCARICHI DI CONSULENZA E SPECIALI
+Incarichi di consulenza e speciali
+Precedente
+Successivo
+Resoconto integrale del dibattito dell'aula. I documenti allegati sono reperibili nel link "iter atto".
+Oggetto del Consiglio n. 619 del 24 giugno 2009 - Resoconto
+OGGETTO N. 619/XIII - Interrogazione: "Realizzazione di un
+programma di consulenza e di ricerca affidato al Dipartimento di
+informatica dell'Università di Torino".
+Interrogazione
+Richiamata la delibera 1286 del 2009 con la quale viene
+approvata una convenzione tra la RAVDA e il Dipartimento di
+Informatica dell'Università di Torino per la realizzazione di un
+programma di consulenza e di ricerca dal titolo "Rete internet e
+intranet della Regione Valle d'Aosta: analisi di usabilità e
+valutazione tecnologica", per un importo di euro 98.400 Iva
+inclusa;
+Verificato che nel mese di marzo, con apposita deliberazione
+n. 584, la Giunta approvava un Piano Operativo Annuale 2009 per la
+programmazione, l'organizzazione e la gestione del sistema
+informativo regionale, redatto dal Dipartimento innovazione e
+tecnologia in collaborazione con la società partecipata INVA
+S.p.a.;
+Preso atto che all'interno dello stesso piano operativo erano
+previste consulenze esterne data la carenza di figure altamente
+specializzate nel settore informatico all'interno
+dell'amministrazione;
+Constatato che il programma di consulenza e ricerca del
+Dipartimento di Informatica dell'Università di Torino prevede in
+sintesi l'analisi del livello qualitativo e di usabilità del sito
+regionale e l'eventuale proposta di soluzioni migliorative;
+i sottoscritti Consiglieri regionali
+Interrogano
+il Presidente della Regione per sapere:
+1) per quali motivi il progetto di ricerca non è stato
+affidato alla società partecipata in house INVA S.p.a., società
+pubblica preposta alla progettazione e alla fornitura di prodotti
+informatici per la pubblica amministrazione;
+2) quali sono i motivi che hanno determinato la scelta del
+Dipartimento di Informatica dell'Università di Torino e non altri
+istituti di ricerca;
+3) attraverso quali criteri è stata ritenuta congrua la spesa
+complessiva di euro 98.400;
+4) se sarà lo stesso Dipartimento di Informatica a fornire i
+programmi e l'assistenza tecnica necessaria una volta individuati
+gli ambiti di miglioramento del servizio.
+F.to: Zucchi - Lattanzi - Benin
+Président
+- La parole au Président de la Région,
+Rollandin.
+Rollandin (UV)
+- Merci, M. le Président. Pour ce qui est
+des réponses sur ce thème:
+"
+per quali motivi il progetto
+di ricerca non è stato affidato alla società partecipata in house
+INVA, società pubblica preposta alla progettazione e alla fornitura
+di prodotti informatici per la pubblica amministrazione"
+,
+l'intervento oggetto della convenzione con il Dipartimento di
+informatica comprende una significativa componente di valutazione
+del sistema informatico attualmente in uso presso
+l'Amministrazione. Tale sistema è in parte sviluppato dalla società
+INVA, è già quello che ha sviluppato, allora si vuole far
+controllare questo e non potevamo affidarlo di nuovo ad INVA.
+Risultava quindi evidentemente improprio e poco significativo
+chiedere a lei stessa di fare una valutazione di quello che a suo
+tempo in parte aveva fatto. Inoltre in linea generale si reputa
+assolutamente opportuno, nell'ambito delle attività più innovative
+in ambito scientifico e tecnologico, operare a stretto contatto con
+l'ambiente accademico, ritenendo tale collaborazione stimolante sia
+per la crescita culturale del personale interno, sia per le
+ricadute dei risultati in termini di qualità del servizio sugli
+utenti dell'Amministrazione. L'intervento richiesto rientra in
+questo ambito considerando che il progetto non possa trovare
+partner più indicato di un'università dove la ricerca, in
+particolare sui temi richiesti, costituisce una delle attività
+fondamentali e qualificanti della stessa.
+Secondo punto:
+"quali sono i motivi che hanno determinato la
+scelta del Dipartimento di informatica dell'Università di
+Torino..."
+, il Dipartimento di informatica dell'Università di
+Torino, oltre alle normali competenze relative alla progettazione
+di sistemi informatici, svolge varie attività di ricerca e sviluppo
+proprio su temi specifici relativi all'interazione uomo-macchina,
+con particolare attenzione alle interfacce con gli utenti e
+all'usabilità delle applicazioni
+software
+, che è quella che
+noi vorremmo verificare. Nell'attività del progetto, ad
+integrazione delle competenze specifiche del Dipartimento di
+informatica, sono stati coinvolti ricercatori che fanno parte del
+gruppo di ricerca in scienze della comunicazione della Facoltà di
+lettere e filosofia, oltre che ricercatori afferenti alla Facoltà
+di scienza della formazione che si occupano di interfacce
+multimediali. Questa varietà di competenze multidisciplinari, tutte
+orientate, pur da prospettive diverse, allo sviluppo e alla
+valutazione di sistemi e di interfacce
+web
+, garantisce una
+visuale più ampia nei confronti delle numerose componenti extra
+informatiche che caratterizzano l'ambiente internet e costituisce
+una realtà scientifico-tecnologica unica in Italia. Il gruppo
+operante presso il Dipartimento di informatica dell'Università di
+Torino è stato pertanto selezionato per l'ampia varietà di
+competenze a cui ho fatto cenno di cui è in possesso e per le
+capacità non comunemente diffuse, neppure in ambito accademico, di
+affrontare i temi richiesti con prospettive diversificate e non
+strettamente limitate all'ambito tecnologico.
+"Attraverso quali criteri è stata ritenuta congrua la spesa
+complessiva di euro 98.400"
+: il programma dell'intervento si
+compone di due fasi, i cui risultati sono previsti a 120 e 180
+giorni dalla sottoscrizione della convenzione stessa. I costi del
+progetto sono stati ritenuti congrui sulla base dei 210 giorni/uomo
+che il gruppo di lavoro messo in campo dall'Università, composto da
+professori ordinari, ricercatori, sistemisti e analisti tecnici,
+dedicherà complessivamente alle attività richieste per l'esecuzione
+delle attività di ricerca, analisi e consulenza, individuate dalla
+convenzione, utilizzando le strutture e le apparecchiature del
+Dipartimento di informatica.
+"Se sarà lo stesso Dipartimento di informatica a fornire i
+programmi e l'assistenza tecnica necessaria una volta individuati
+gli ambiti di miglioramento del servizio"
+: a questo possiamo
+dire che il
+software
+e l'assistenza tecnica verranno
+acquisiti dall'Amministrazione seguendo le procedure normalmente
+adottate in questi casi. La fornitura di tali servizi non rientra
+infatti fra le attività specifiche dell'Università e non sono
+necessarie per le successive fasi attuative dei risultati del
+progetto le particolari competenze messe a disposizione
+dall'Università nella fase di ideazione e di progettazione delle
+componenti tecnologiche richieste. Spero di avere dato i
+chiarimenti necessari.
+Président
+- Est-ce qu'il y a la réplique?
+Informativa cookies
+Consiglio Regionale della Valle d'Aosta © 2025
+Questo sito utilizza cookies propri e di terze parti. Continuando ad usare questo sito, acconsenti all'utilizzo di questa tecnologia.
+Consulta la nostra
+informativa
+per maggiori informazioni e per istruzioni su come disattivare i cookies.
+OK

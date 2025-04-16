@@ -1,0 +1,222 @@
+Classificazione
+INFORMAZIONE
+Sistema informativo
+ISTRUZIONE PUBBLICA
+Istituzioni scolastiche
+
+
+
+Oggetto del Consiglio n. 1939 del 22 marzo 2016 - Resoconto
+OGGETTO N. 1939/XIV - Interpellanza: "Iniziative per
+l'introduzione dei sistemi informatici open source nelle
+scuole".
+Rosset (Presidente) -
+Punto n. 30 dell'ordine del giorno.
+Per l'illustrazione, chiede la parola il Consigliere Bertin, ne ha
+facoltà.
+Bertin (ALPE) -
+Grazie Presidente.
+Riprendiamo un tema già affrontato in molte occasioni in questo
+Consiglio, al quale attribuisco una certa importanza non soltanto
+in ragione dei risparmi possibili utilizzando il
+software
+libero, ma anche per un approccio diverso all'informatica e più
+aperto e condiviso. Con quest'interpellanza, dopo esserci occupati
+più in generale dell'Amministrazione regionale, volevamo dedicarci
+alla scuola, un settore nel quale quest'approccio potrebbe avere
+delle utili ricadute innanzitutto perché le giovani generazioni
+sono molto interessate all'utilizzo di queste tecnologie e di
+questi programmi aperti e liberi, cioè senza necessità di pagare le
+licenze. Questo peraltro comporterebbe anche un più facile
+passaggio dalla scuola alla famiglia perché si potrebbero
+utilizzare gli stessi programmi senza dover pagare delle licenze
+che magari sono accessibili per la scuola, ma non per le
+famiglie.
+Volevamo pertanto sapere con quest'interpellanza in termini
+generali qual era la situazione della scuola, se siano già state
+realizzate iniziative sull'argomento, con quali finalità e
+risultati, anche perché sappiamo che in altre realtà è già da tempo
+che si stanno facendo iniziative in questo senso e se vi è
+l'intenzione di portare il software libero e in che tempi, come tra
+l'altro già annunciato in diverse occasioni per quanto riguarda
+l'amministrazione nella sua totalità. Grazie.
+Presidente -
+La parola all'Assessore Rini.
+Rini (UV) -
+Grazie Presidente.
+Grazie collega Bertin. Veniamo subito puntualmente alle
+risposte. Per quanto riguarda il primo quesito, negli anni il
+servizio TICE (Tecnologie per l'Informazione e la Comunicazione
+Educativa) della Sovrintendenza agli studi è stato proprio
+promotore di diverse e variegate iniziative, alcune delle quali,
+come il progetto
+Ping00
+, che è un progetto INTERREG del
+2004-2006 la cui successiva evoluzione è utilizzata attualmente in
+12 plessi scolastici, hanno permesso alle istituzioni scolastiche
+prive di competenze tecniche specifiche di utilizzare servizi di
+rete per le esigenze propriamente didattiche. Altri casi hanno
+riguardato invece la piattaforma
+Web-École
+, ossia
+l'implementazione e la gestione del portale web della scuola
+valdostana, che attualmente ospita i portali web di 21 istituzioni
+scolastiche, oltre ad alcuni progetti web specifici della
+Sovrintendenza agli studi, di cui 12 attualmente attivi. Inoltre,
+sempre all'interno del portale Web-École sono stati implementati
+alcuni servizi sviluppati proprio con
+software
+open
+source
+, quali tra gli altri un applicativo per la gestione dei
+libri dismessi dalle istituzioni scolastiche, un applicativo per la
+gestione delle biblioteche scolastiche, un applicativo per il
+controllo dell'obbligo scolastico, la piattaforma per la
+compilazione e la pubblicazione del rapporto di autovalutazione
+delle scuole, nonché un applicativo per la compilazione dei verbali
+dell'esame di Stato a conclusione del primo grado della scuola
+secondaria. Sono state promosse poi ancora delle soluzioni web di
+supporto dalle istituzioni scolastiche che intendono utilizzare i
+servizi open source garantendo le fasi di installazione, di
+configurazione e poi di formazione di varie soluzioni destinate,
+per esempio, alla gestione delle biblioteche scolastiche o alla
+somministrazione di questionari e anche di diverse indagini che
+vengono promosse proprio all'interno delle istituzioni
+on
+line
+.
+Il servizio TICE della Soprintendenza agli studi si è inoltre
+impegnato negli ultimi anni per realizzare infrastrutture in grado
+di supportare una didattica innovativa e l'utilizzo massivo da
+parte e di studenti e di docenti di servizi condivisi con altri
+utenti come base per l'innovazione tecnologica della scuola. In tal
+senso ha promosso recentemente due soluzioni gratuite, che sono: la
+Web-École APPS
+, un ambiente condiviso istituzionale per le
+scuole valdostane utilizzata ad oggi - e credo che questo sia un
+dato positivo - dal 100 percento degli insegnanti e all'incirca dal
+50 percento degli alunni con un proprio
+account
+personale e
+il
+Web-École Radius
+che, utilizzando dei fondi PEEF ALCOTRA,
+ha fornito proprio attraverso le istituzioni scolastiche la
+possibilità ai docenti e agli studenti di utilizzare servizi per la
+navigazione in internet attraverso i loro apparecchi, come, per
+esempio, i
+tablet
+personali. Ad oggi i plessi che utilizzano
+Web-École Radius sono circa 40, per un numero più o meno di 2180
+utenti tra docenti e studenti iscritti.
+Oltre alle iniziative del servizio TICE, il servizio CTS (Centro
+Territoriale di Supporto per l'inclusione) della Sovrintendenza
+agli studi si è occupato, sempre nell'ambito delle sue attività
+istituzionali, della diffusione prevalente, se non esclusiva, di
+soluzioni didattiche che utilizzano software libero o gratuito e
+che in particolare contengono raccolte di software didattici e
+prodotti specifici per l'insegnamento e l'apprendimento, o di
+software che permettono di allestire i
+personal computer
+dei
+ragazzi con dislessia o con altri bisogni educativi speciali. È da
+rilevare infine che sono state acquistate 68 postazioni da
+destinare in comodato d'uso agli studenti con DSA frequentanti il
+primo anno delle scuole secondarie di primo grado, questo in base
+anche alla legge regionale n. 8/2009.
+Veniamo alla seconda questione. La deliberazione di Giunta
+regionale n. 179 del 12 febbraio 2016 ha approvato, proprio in
+materia di software libero, uno studio di fattibilità che prevede
+il coinvolgimento in apposito progetto anche degli Enti locali,
+delle istituzioni scolastiche e di altri enti territoriali
+eventualmente interessati, condividendone le metodologie e gli
+approcci realizzativi anche per favorire l'interoperabilità dei
+documenti della pubblica amministrazione locale nel suo insieme. La
+Sovrintendenza agli studi si farà promotrice dell'estensione alle
+segreterie scolastiche del progetto avviato con la delibera di cui
+sopra. A prescindere dallo studio, comunque alcune scuole hanno
+iniziato ad operare in autonomia, in particolare, ricordo che
+nell'anno scolastico 2014-2015 l'Istituto Manzetti ha iniziato una
+fase di transizione che ha portato alla realizzazione di vari
+laboratori con software libero, di 1 postazione personal computer
+in ogni aula e ancora un software libero di 10 postazioni ad uso
+docenti nelle aule insegnanti del Manzetti e dei Geometri per un
+totale di circa 120 postazioni, delle quali la maggior parte sono
+realizzati recuperando
+hardware
+dismessi dalla Regione. Si
+tratta di esperienze accumulate in anni di promozione,
+sperimentazione e successivo utilizzo, se non addirittura si può
+parlare di sviluppo di soluzioni open source per le scuole della
+regione utili ad evidenziare che a tutt'oggi la scuola valdostana
+già utilizza per esigenze didattiche prevalentemente, anche se non
+esclusivamente, software libero o open source. In particolare si
+stima che siano circa 140 gli applicativi che rientrano in questa
+categoria conosciuti e utilizzati dai docenti valdostani. Le ultime
+indicazioni ministeriali che invitano le scuole a promuovere la
+didattica abbinata alla più recente tecnologia daranno un ulteriore
+importante impulso a tale processo in quanto i principali software
+e ambienti di lavoro utilizzano proprio tecnologie open source, in
+tal senso si stanno muovendo alcune scuole anche di istituzioni
+primarie, credo che questo sia un fattore particolarmente positivo.
+Infine vi sono casi in cui le scuole hanno acquistato nuove
+postazioni di personal computer,
+desktop
+o portatili
+destinati alle aule, ai laboratori, ai docenti e anche alle
+segreterie utilizzando proprio le convenzioni MEPA. In questo caso
+bisogna ricordarlo, anche perché si possono cambiare le piattaforme
+e i programmi con un risparmio di circa il 20 percento a
+postazione. In questi casi i nuovi personal computer sono già
+dotati in maniera totale ed esclusiva di software libero.
+Grazie.
+Presidente -
+Per la replica chiede la parola il
+Consigliere Bertin, ne ha facoltà.
+Bertin (ALPE) -
+Grazie Presidente.
+Per quanto riguarda il primo punto, le iniziative fatte in
+passato, se paragonate a quanto avviene in altre realtà, siamo
+veramente...all'inizio e poco è stato fatto. I principali progetti
+risalgono nel tempo al 2006, come faceva cenno anche lei, progetto
+che conoscevo anch'io, che utilizzava i fondi europei. Come dicevo,
+comunque sono progetti piuttosto datati e per quanto riguarda
+l'utilizzo le iniziative passate sono francamente poche, dovrebbero
+essere aumentate e rese più presenti nella scuola non soltanto per
+quel che riguarda gli aspetti legati alla burocrazia interna, ma
+anche proprio alla didattica. Se andiamo a vedere le altre
+province, da quella di Bolzano a quella di Trento...ho qui
+un'indicazione generale, una sorta di linea guida della Provincia
+di Trento, che proprio per quello che riguarda la didattica invita
+ad utilizzare tutto il
+software
+libero, anche perché, come
+sappiamo, il software libero significa anche inclusione e
+accessibilità ed è un fatto importante nella scuola dei nostri
+tempi quest'aspetto dell'inclusione e dell'accessibilità per tutti,
+pertanto questa deve essere la direzione. Altre realtà scolastiche
+di altre Regioni e Province sono già avanti da questo punto di
+vista, cito la Provincia di Trento, ma potrei citarne anche molte
+altre, anche per quel che riguarda poi il formare gli stessi
+studenti all'utilizzo di questo software libero. Ad esempio, in
+collaborazione con associazioni che si occupano della diffusione
+del software libero, associazioni senza scopo di lucro, vengono
+organizzati in molte parti d'Italia dei corsi sia nelle scuole
+elementari che medie e nelle superiori per permettere al maggior
+numero di ragazzi di conoscere questi aspetti, di utilizzare questi
+strumenti, che saranno bene o male l'avvenire, sono interessanti
+soprattutto per le giovani generazioni, i nativi digitali, che sono
+quelli che avranno più occasioni di utilizzarle, anche perché in
+questo caso, come dicevo, vi è la questione di renderle
+maggiormente accessibili a tutti.
+Per quel che riguarda il futuro, la delibera n. 179 del 12
+febbraio evidentemente l'avevamo letta, anche perché è il risultato
+poi di una mozione che avevo presentato in questo Consiglio tempo
+fa. Quello che vogliamo sottolineare è che dalla scuola è
+essenziale partire in fretta, anche perché è un settore che può
+avere degli sviluppi interessanti non soltanto riguardanti il
+risparmio, ma, come dicevo, per le giovani generazioni. Ripeto che
+software libero significa anche inclusione e accessibilità per
+tutti, un elemento che nella scuola dei nostri tempi non può essere
+sottovalutato, pertanto vi invito ad iniziare rapidamente
+soprattutto e innanzitutto dalla scuola. Grazie.

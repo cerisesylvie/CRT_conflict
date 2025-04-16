@@ -1,0 +1,246 @@
+Consiglio Regionale della Valle d'Aosta - Oggetto del Consiglio n. 3113 del 21 novembre 2007 - Resoconto
+Vai al contenuto principale
+Oggetti del Consiglio
+Invia
+Stampa
+Documenti
+Verbale
+Resoconto
+Collegamenti
+Iter atto
+Classificazione
+INFORMAZIONE
+Sistema informativo
+ISTRUZIONE PUBBLICA
+Precedente
+Successivo
+Resoconto integrale del dibattito dell'aula. I documenti allegati sono reperibili nel link "iter atto".
+Oggetto del Consiglio n. 3113 del 21 novembre 2007 - Resoconto
+OGGETTO N. 3113/XII - Interrogazione: "Esclusione del settore
+della scuola dalla sperimentazione del sistema informatico "open
+source"".
+Interrogazione
+Verificata la disponibilità e l'attenzione
+dell'Amministrazione regionale nei confronti del software libero
+(sistema operativo e applicativi), messa in opera con la decisione
+di trasferire - con la delibera di Giunta del 17 febbraio 2006 -
+tutti gli ambienti operativi, le procedure e gli applicativi del
+sistema regionale verso la piattaforma "open source" Linux;
+Atteso che l'Amministrazione regionale confermava questa
+volontà anche nella precedente seduta del Consiglio regionale,
+nella quale l'Assessore alle Finanze, rispondendo ad una mia
+interrogazione, assicurava il compimento delle operazioni di
+trasferimento della piattaforma "Linux" entro la fine
+dell'anno;
+Preso atto che l'Assessore Marguerettaz ha esplicitamente
+escluso, dall'ambito dell'esperienza in corso, l'intero settore
+scolastico, asserendo che la trasformazione in oggetto riguardava
+solamente la struttura regionale in senso stretto;
+Considerato che, come ho già avuto modo di esprimere, è
+proprio nel settore scuola che si è registrata la maggiore
+efficacia di risultato, oltre tutto in tempi ragionevolmente rapidi
+e con una significativa crescita delle adesioni, soprattutto negli
+Istituti tecnici e scientifici;
+i sottoscritti Consiglieri regionali
+Interrogano
+gli Assessori competenti per sapere:
+1) se corrisponde al vero quanto dichiarato in merito al
+settore scuola e per quali ragioni ne sia stata decisa
+l'esclusione;
+2) se, nell'ambito del settore della scuola e della
+formazione, siano già presenti sperimentazioni in tal senso, quali
+sono, e se nel complesso vi siano ragionevoli motivi per
+rinunciarvi o per implementarli;
+3) quali sono, allo stato attuale, i costi sostenuti a
+seguito dell'adozione dei sistemi operativi proprietari e
+l'implementazione del relativo software;
+4) se corrisponde al vero che nel comparto scuola sia stato
+introdotto, per ora in modo parziale, il sistema "open source" e in
+caso affermativo con quali difficoltà e se ha prodotto dei
+risparmi.
+F.to: Bortot - Squarzino Secondina
+Presidente
+- La parola all'Assessore all'istruzione e
+cultura, Viérin Laurent.
+Viérin L. (UV)
+- Pour répondre aux questions des
+collègues avant tout l'école n'a absolument pas été tenue à l'écart
+des expérimentations de type "open source", au contraire divers
+projets en ce sens ont été suivis par le Service de soutien à
+l'autonomie scolaire de la Surintendance des écoles, en dehors des
+initiatives mises en place de façon autonome par les établissements
+scolaires.
+Pour ce qui est du point n° 2: "quelles expérimentations sont en
+cours", les solutions de type "open source", expérimentées dans les
+écoles par le Service de soutien à l'autonomie scolaire sont les
+suivantes:
+- premier projet, le Projet "PingOO": il s'agit de la
+réalisation, de la mise en œuvre, de la gestion
+et de l'entretien des serveurs "Linux" consacrés à l'école, d'usage
+particulièrement simple, qui permettent l'accès à "Internet" dans
+le respect de la "loi Stanca", mais aussi la configuration d'une
+boîte aux lettres pour chaque élève et chaque enseignant, ainsi que
+d'un serveur de dossiers et d'un serveur de réseau. A l'heure où
+nous parlons plus de 50 serveurs ont déjà été installés dans
+différents établissements de la région. Dans le cadre de ce projet
+des activités de formation ont été prévues à l'intention des
+enseignants et des techniciens pour la gestion ordinaire des ces
+serveurs. Ce projet a été réalisé avec la collaboration du Centre
+ressources informatiques de la Haute-Savoie et, pendant sa phase de
+lancement, a fait l'objet d'un projet "INTERREG" spécifique qui
+s'est achevé en 2006;
+- deuxième projet: pour ce qui est d'une diffusion plus générale
+du logiciel didactique "FLOSS", tous les établissements scolaires
+de la Vallée ont reçu un "DVD" - système opérationnel "Linux" -
+renfermant 146 logiciels didactiques "open source" subdivisés par
+niveau scolaire. Ce "DVD" est le fruit de la collaboration entre
+l'"Istituto per le tecnologie didattiche" du CNR et l'AICA
+("Associazione italiana per il calcolo automatico"). Un certain
+nombre de rencontres ont été organisées et d'autres encore sont
+prévues en vue de la formation des enseignants désireux d'exploiter
+cette opportunité;
+- autre projet: le portail "Webécole", le site des écoles
+(c'est-à-dire "www.scuole.vda.it") a été réalisé sur la plateforme
+"Linux" et offre une série de services aux établissements scolaires
+de la région: hébergement des sites des écoles; hébergement du
+portail des skieurs, cela rentre dans le projet classe de neige et
+autres sports, réalisé sur la plateforme "open source Moodle";
+réalisation par le groupe "TICE" (Technologies de l'information et
+de la communication éducative) du Service de soutien à l'autonomie
+scolaire, en collaboration avec la Direction du personnel scolaire
+de la Surintendance et en vue de la gestion de l'indemnité de
+départ (TFR), d'un logiciel "open source" grâce auquel il est
+possible de gérer les remplacements des enseignants auxquels ont
+été confiés des mandats à durée déterminée et de tout autre service
+nécessaire, le cas échéant;
+- autre projet: l'expérimentation (qui a été achevée ce mois-ci)
+et la mise en place prochaine d'un logiciel "open source"
+permettant de gérer la comptabilité des établissements scolaires.
+C'est un logiciel qui s'appuiera sur une plateforme "Linux" qui
+sera installée au secrétariat de chaque école, si celle-ci ne
+dispose pas encore d'un serveur "PingOO". Le projet en question a
+été réalisé avec la collaboration de la Direction des politiques de
+l'éducation et du Département du système d'information;
+- encore pour ajouter à tous ces projets le soutien du groupe
+"TICE" dans le cadre de tout problème relatif à la connaissance, à
+l'installation et à l'utilisation de logiciels "open source".
+Ce sont toute une série de projets qui figurent dans la
+délibération du Gouvernement qui définit et va régler les activités
+du Service de soutien à l'autonomie scolaire.
+Pour ce qui est du point n° 3, les coûts, il est difficile de
+quantifier les coûts - mais j'y retournerai - liés à l'adoption des
+systèmes opérationnels propriétaires et à la mise en
+œuvre des logiciels y afférents, dans la mesure
+où les écoles fonctionnent de façon autonome et où, même si
+plusieurs initiatives ont été lancées en ce sens, il n'est pas
+simple de dresser un état des lieux détaillé et à jour, mais on va
+essayer de le faire et j'y reviendrai. En tout cas, le Service de
+soutien à l'autonomie scolaire a fourni des indications quant aux
+types d'achats recommandés et a rappelé qu'il était prêt à épauler
+les différents établissements tant pour le choix du logiciel le
+mieux adapte à leurs besoins qu'aussi pour le recyclage d'anciens
+ordinateurs de l'Administration régionale sur lesquels peuvent être
+installés des systèmes opérationnels libres.
+Au-delà des projets dont je viens de vous parler, des systèmes
+opérationnels libres ont déjà été installés à diverses reprises sur
+des ordinateurs, parfois à côté de systèmes opérationnels
+propriétaires et parfois seuls. Dans la plupart des cas les
+difficultés ne sont pas liées à l'utilisation de logiciels "open
+source" particuliers, tels que "Open Office", qui a souvent permis
+de réaliser des économies sur l'achat de licences "Microsoft
+Office", ou "Firefox" qui permet de naviguer sur "Internet". Non,
+les problèmes naissent de l'utilisation d'une interface graphique
+autre que "Windows". D'autre part, à l'heure actuelle, le système
+opérationnel "Linux" n'est pas pleinement compatible avec un
+certain nombre de logiciels didactiques conçus et réalisés pour
+"Windows", ce qui engendre d'autres difficultés. Disons à ce propos
+que la situation pourrait s'améliorer considérablement si les
+logiciels de gestion relatifs à l'école et mis au point pour le
+compte de l'Administration régionale n'étaient pas liés à un
+système opérationnel précis, mais s'il était possible de les
+employer en s'appuyant sur divers systèmes opérationnels et,
+surtout, sur des systèmes "open source". Il ressort quand même
+d'une enquête de marché effectuée par le Centre ressources
+informatiques de la Haute-Savoie que le coût de la gestion des
+serveurs "PingOO" est de l'ordre de 5.000 euros par an et par
+serveur, sans compter l'achat de matériel. Compte tenu du fait que
+cette opération est assurée gratuitement par le groupe "TICE" du
+Service de soutien à l'autonomie scolaire pour tous les
+établissements scolaires, l'on peut raisonnablement considérer que
+la collectivité par le biais de l'école devrait ainsi économiser
+environ 300.000 euros par an, somme à laquelle il faut ajouter les
+économies réalisées d'un point de vue pratique: sur l'achat des
+licences "Microsoft Office" chaque fois qu'un logiciel "Open
+Office" a été installé et des licences "Windows" lorsque le système
+opérationnel utilisé est "Linux"; sur les cours de recyclage et de
+formation des enseignants à l'utilisation des applications "FLOSS"
+et sur les conseils pour l'achat de matériel et de logiciels, ce
+service étant lui aussi fourni gratuitement à tous les
+établissements scolaires par le groupe "TICE" du Service de soutien
+à l'autonomie scolaire, donc tous ces aspects rentrent dans le même
+discours. Cela pour vous dire que nous sommes en train de
+travailler en synergie avec les sujets concernés que je vous ai
+cités et que c'est un dossier auquel nous prêtons beaucoup
+d'attention et que nous sommes sensibles à faire encore
+améliorer.
+Presidente
+- La parola al Consigliere Bortot.
+Bortot (Arc-VA)
+- Si l'Assesseur peut me donner les
+réponses qu'il a données au Conseil...
+Qui si pone un problema al Consiglio regionale, non voglio fare
+polemiche, né creare contraddizioni, ma quello che continuiamo a
+dire da un anno che si possono risparmiare tanti soldi è possibile
+farlo, la dimostrazione è nelle risposte che ci ha dato adesso
+l'Assessore e questo tipo di interrogazione è dovuta al fatto che,
+in base alle risposte datemi dall'Assessore sullo stesso argomento
+lo scorso Consiglio, ho avuto decine di telefonate di insegnanti,
+di persone che lavorano alla Regione, che dicono: "guardate che non
+è assolutamente vero che la scuola è esclusa da questa
+sperimentazione", anzi diversi insegnanti hanno detto che stanno
+lavorando da diverso tempo, che hanno fatto risparmiare alla scuola
+un sacco di soldi. Mi spiace che l'Assessore Marguerettaz non vi
+sia, spero che vi sia qualcuno della maggioranza che ascolti,
+voglio dire che, se c'è la volontà politica, non so se il merito va
+tutto all'Assessore Viérin Laurent o anche all'Assessore
+precedente, ma sta di fatto che in un settore comunque complicato
+come la scuola sono state fatte delle cose, si è avviato un
+processo, questo processo ha portato a dei risultati, abbiamo come
+Amministrazione regionale risparmiato dei soldi, credo che faremo
+un'altra interrogazione per attirare l'attenzione dell'Assessore
+affinché chieda al collega come si fanno determinate cose e ci si
+scambino le informazioni. Se questo è stato attuato all'interno
+della scuola, penso che ci saranno delle persone brave in tale
+comparto e chiederemo all'Assessore all'istruzione di prestare agli
+altri Assessorati queste persone per far vedere loro come si può
+operare. È in tono mezzo ironico, ma anche mezzo serio tale
+risposta, nel senso che qui stiamo parlando di soldi che da anni
+"buttiamo dalla finestra"; è da un anno che l'Assessore
+Marguerettaz ci dice che su questo sistema della "sorgente aperta"
+per risparmiare soldi stiamo sperimentando. Ora mi sembra che si
+dovrebbe uscire dalla fase sperimentale per passare alla fase
+operativa e abbiamo solo da copiare. Quando io fino a poco tempo fa
+dicevo: "basta andare a Bolzano e vedere cosa fanno in quella
+città"... non occorre assolutamente andare a Bolzano, ma basta
+passare dal secondo al quinto piano dello stesso edificio, che
+abbiamo a disposizione le risorse, le professionalità e le capacità
+di persone che queste cose le hanno già fatte.
+Da parte nostra quindi ben felici di avere avuto una risposta
+propositiva e positiva e ben felici di tornare sull'argomento,
+affinché tali sistemi e le cose che sono state fatte in questo
+Assessorato si diffondano agli altri Assessorati. Quello di cui ci
+rammarichiamo è che non è possibile che, per questioni meramente
+tecniche che ci permettono di risparmiare soldi, l'opposizione
+debba alzare la voce, debba perdere tanto tempo per fare
+interrogazioni ed interpellanze su delle cose che dovrebbero andare
+in automatico. In un certo senso abbiamo una strada tracciata,
+nell'altro interverremo perché questa strada tracciata serva da
+punto di riferimento per gli altri comparti dell'Amministrazione
+regionale.
+Informativa cookies
+Consiglio Regionale della Valle d'Aosta © 2025
+Questo sito utilizza cookies propri e di terze parti. Continuando ad usare questo sito, acconsenti all'utilizzo di questa tecnologia.
+Consulta la nostra
+informativa
+per maggiori informazioni e per istruzioni su come disattivare i cookies.
+OK

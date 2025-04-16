@@ -1,0 +1,207 @@
+Consiglio Regionale della Valle d'Aosta - Oggetto del Consiglio n. 1729 del 7 aprile 2011 - Resoconto
+Vai al contenuto principale
+Oggetti del Consiglio
+Invia
+Stampa
+Documenti
+Verbale
+Resoconto
+Collegamenti
+Iter atto
+Classificazione
+INFORMAZIONE
+Sistema informativo
+Precedente
+Successivo
+Resoconto integrale del dibattito dell'aula. I documenti allegati sono reperibili nel link "iter atto".
+Oggetto del Consiglio n. 1729 del 7 aprile 2011 - Resoconto
+OGGETTO N. 1729/XIII - Interpellanza: "Utilizzo di sistemi
+"Open Source" in Amministrazione regionale".
+Interpellanza
+Constatato che, da alcuni anni, diverse entità istituzionali
+hanno avviato ipotesi e programmi per l'utilizzo dell"'Open Source"
+al fine di favorire la diffusione di questo tipo di soluzioni nel
+settore pubblico;
+Ricordato che il Codice dell'Amministrazione Digitale (D.lgs.
+82/2005) favorisce e stimola l'impiego delle tecnologie "Open
+Source" presso le pubbliche amministrazioni, nell'ottica di un
+contenimento della spesa concernente l'Information &
+Communication Technology;
+Evidenziato che il Sistema bibliotecario valdostano, sulla
+base degli esiti dello studio di fattibilità ultimato nel 2010,
+prevede che nel corso del 2011, venga adottato un nuovo sistema
+informativo con architettura web, a codice sorgente aperto (Open
+Source);
+i sottoscritti Consiglieri
+Interpellano
+la Giunta regionale per conoscere:
+1) a quanto ammonta la spesa complessiva dell'Amministrazione
+regionale per l'acquisto di licenze informatiche ed in particolare
+l'ammontare del contratto di licenza d'uso Microsoft;
+2) se intende promuovere il passaggio dal sistema attualmente
+utilizzato al sistema "Open Source";
+3) in caso affermativo, in che tempi è previsto l'utilizzo di
+sistemi ed applicazioni "Open Source".
+F.to: Bertin - Chatrian - Giuseppe Cerise - Louvin
+Président
+- La parole au Conseiller Bertin.
+Bertin (ALPE)
+- Già negli anni '50 all'inizio dell'era
+del computer il software era gratuito, anche perché rappresentava
+una parte poco significativa del costoso calcolatore ed era diffuso
+liberamente. Con il diffondersi negli anni '80 del personal
+computer, le licenze diventano private e si apre un mercato del
+software; già dall'inizio degli anni '80 vi è una diversa
+impostazione rispetto al software. Nasce ad esempio la Free
+Software Fondation, un'organizzazione senza fini di lucro per lo
+sviluppo e la diffusione del software libero, e da quel momento vi
+sono due visioni contrapposte nel mondo del software: da una parte,
+chi immagina un software libero, partecipato e, dall'altra, i
+produttori monopolisti, in particolar modo Microsoft, che spingono
+per far pagare le licenze d'uso del software; insomma, da una parte
+dei sistemi chiusi ed a pagamento, dall'altra dei sistemi aperti e
+gratuiti che vedono l'interazione degli utenti soprattutto nella
+diffusione e nello sviluppo dei sistemi a partire dalla diffusione
+di Internet.
+Oggigiorno buona parte dei programmi Open Source attualmente più
+diffusi, come Firefox, OpenOffice, eccetera, da un punto di vista
+dell'affidabilità e dell'efficienza sono del tutto simili ai
+software proprietari; in effetti buona parte degli utenti
+utilizzano già da ora i software liberi. Da diversi anni diverse
+entità istituzionali hanno iniziato a programmare l'utilizzo di
+questi software gratuiti, esistono a questo proposito diverse reti
+europee di Comuni, Province e Regioni per la diffusione, l'utilizzo
+e la condivisione di esperienze nel settore pubblico dell'utilizzo
+dell'Open Source. Soprattutto è importante, lo segnala anche il
+codice dell'amministrazione digitale, utilizzarlo per cercare di
+limitare le spese in questo settore e può essere una valida
+occasione di risparmio.
+In Valle d'Aosta - da quanto ho saputo - è previsto per il 2011,
+per il sistema bibliotecario valdostano, l'utilizzo di
+un'architettura Web a codice aperto, un utilizzo che si è
+dimostrato avere una sperimentazione sufficientemente efficace e
+rispondere alle esigenze; in effetti sostituirà entro fine anno il
+vecchio sistema e, da quello che si sa, dopo 14 anni permetterà a
+tutte le biblioteche del territorio di essere direttamente connesse
+in contemporanea con costi minori e con efficienza maggiore o
+comunque uguale a quella precedente.
+Pertanto è intenzione di questa interpellanza, che è anche da un
+certo punto di vista una mozione che invita ad allargare il più
+possibile questo tipo di esperienze, conoscere quanto
+l'Amministrazione regionale spende in acquisto di licenze
+informatiche, in particolare l'ammontare del contratto di licenze
+d'uso per Microsoft, se intende l'Amministrazione regionale
+promuovere questi sistemi Open Source e, nel caso, in che tempi è
+previsto l'utilizzo ed il passaggio a questo sistema.
+Président
+- La parole au Président de la Région,
+Rollandin.
+Rollandin (UV)
+- Merci M. le Président.
+Pour ce qui est de la première question:
+"a quanto ammonta la
+spesa complessiva dell'Amministrazione regionale per l'acquisto di
+licenze informatiche ed in particolare l'ammontare del contratto di
+licenza..."
+, la dépense globale pour l'achat de licences
+informatiques, incluant les services de maintenance et
+d'assistance, s'élève à environ 1.376.000 euros par an et la
+dépense relative au contrat de licence d'utilisation des produits
+Microsoft a été, en 2010, d'environ 480.000 euros, somme répartie
+comme suit: 309.000 euros pour les logiciels relatifs aux postes de
+travail individuels, comprenant le système d'exploitation Windows,
+environ 98.000 euros, et Microsoft Office environ 211.000 euros, et
+incluant les licences d'utilisation et de maintenance; 162.000
+euros environ pour les logiciels Microsoft destinés aux serveurs et
+nécessaires au fonctionnement des infrastructures du Centre de
+traitement et d'information de la Région; 8.000 euros environ pour
+d'autres logiciels destinés aux postes de travail.
+Deuxième question:
+"se intende promuovere il passaggio dal
+sistema attualmente utilizzato al sistema Open Source"
+; comme
+l'a déjà dit le collègue, il faut souligner que l'Administration
+régionale a engagé depuis longtemps plusieurs mesures pour
+l'adoption de logiciels à code source libre (Open Source) et de
+logiciels gratuits. Comme il a été dit, en 2011 un nouveau logiciel
+- donc je confirme ce que venait de dire le collègue - à code
+source ouvert sera utilisé par les services de catalogage de la
+bibliothèque, mais la migration vers des systèmes d'exploitation à
+code source libre Linux a déjà été effectuée en 2007 pour les
+systèmes informatiques des secteurs suivants: budget et finances;
+gestion des aides destinées aux invalides civils, aux aveugles, aux
+sourds-muets et aux anciens combattants; système régional de
+l'élevage; système agricole régional. Cette activité a permis
+d'améliorer globalement les prestations de ces systèmes et de
+diminuer - évidemment - les coûts annuels de gestion, qui sont
+passés progressivement de 1.170.000 à 950.000 euros en 2011.
+Evidemment cela ira à améliorer encore avec le nouveau système. De
+plus, au fil des ans, plusieurs logiciels à code source libre ou
+gratuits ont été adoptés pour remplacer les produits commerciaux,
+et ce chaque fois que cela a été possible et en avantage pour
+l'Administration régionale. Il faut considérer que, lors de
+l'évaluation précédente l'adoption des logiciels à code source
+libre, les frais afférents à la maintenance corrective et évolutive
+sont pris en compte dans le coût global et de la gratuité
+éventuelle du code source. En effet sont bien connues les
+difficultés liées à la fourniture de l'assistance et de la
+maintenance nécessaire pour assurer la continuité du service,
+activités qui sont de toute façon à paiement. Ainsi dans le cadre
+de la réutilisation des logiciels conçus par d'autres
+administrations publiques et, au fil des ans, des expériences de
+réalisation de logiciels à code source libre ont été adoptées.
+L'administration utilisatrice se trouve alors nécessairement
+conditionnée par les caractéristiques et les standards de
+compatibilité définis par les premiers utilisateurs.
+"In caso affermativo, in che tempi è previsto
+l'utilizzo..."
+: au sujet de cette question, l'utilisation de
+systèmes et des logiciels à code source libre ou gratuits est un
+parcours engagé depuis longtemps. Il ne s'agit pas, là, d'un
+processus global, mais graduel et ponctuel, fondé sur une analyse
+détaillée de l'utilisation possible de ces logiciels, prenant en
+compte la comptabilité et l'intégration desdits programmes avec le
+système informatique général. Donc il y a une progression, il n'y a
+pas une date pour dire que depuis ce moment tout est fait, mais
+chaque fois qu'on peut le faire, évidemment on partage ce que
+venait de dire le collègue: que là où il est possible on le fera,
+tout en considérant ce que je viens de dire, qu'il y a quand même
+des liens qui sont plus étroits par la suite. Cette analyse,
+effectuée sur la base de la stabilité des logiciels à code source
+libre et sur la disponibilité de services d'assistance et de
+maintenance, est effectuée chaque fois que des exigences
+spécifiques se présentent. Merci.
+Président
+- La parole au Conseiller Bertin.
+Bertin (ALPE)
+- Grazie Presidente per la risposta.
+Comunque, come era prevedibile, sono delle spese piuttosto
+significative, rimangono milioni di euro che vengono spesi in
+licenze.
+È a mio avviso invece necessario un programma in questo senso
+per un passaggio in tempi non brevi, ma comunque in tempi
+relativamente definiti, all'Open Source, anche perché in questo
+senso sarebbe importante partecipare alle reti che si stanno
+costituendo gli Enti locali e le Regioni in Europa, dove mettono in
+condivisione le loro esperienze e, da questo punto di vista, c'è un
+ulteriore abbattimento dei costi, perché come giustamente
+sottolineava lei rimangono dei costi per quanto riguarda poi il
+funzionamento di questi sistemi.
+Pertanto, programmando come in tutte le cose, i costi possono
+essere ancora minori ed avere maggiore efficacia, efficienza ed
+avere delle prospettive migliori, anche perché dal punto di vista
+della compatibilità degli archivi creati in questi anni con i
+software proprietari, questa è totale con l'Open Source, per cui la
+migrazione - per quanto non evidentemente così semplice da un punto
+di vista operativo - è possibile e garantisce la stessa efficienza
+ed efficacia degli altri.
+Pertanto l'invito è quello di accelerare ed inserirsi in quello
+che ad esempio la Provincia di Bolzano o la Provincia di Parma
+stanno facendo in questo senso.
+Informativa cookies
+Consiglio Regionale della Valle d'Aosta © 2025
+Questo sito utilizza cookies propri e di terze parti. Continuando ad usare questo sito, acconsenti all'utilizzo di questa tecnologia.
+Consulta la nostra
+informativa
+per maggiori informazioni e per istruzioni su come disattivare i cookies.
+OK

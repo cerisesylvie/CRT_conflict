@@ -1,0 +1,188 @@
+Classificazione
+ASSETTO DEL TERRITORIO
+Urbanistica e pianificazione territoriale
+INFORMAZIONE
+Sistema informativo
+
+
+
+Oggetto del Consiglio n. 2372 del 5 ottobre 2016 - Resoconto
+OGGETTO N. 2372/XIV - Interpellanza: "Completamento dello
+sviluppo del software riguardante la gestione dei procedimenti
+urbanistici".
+Rosset (Presidente) -
+Punto n. 10 all'ordine del giorno.
+Ha chiesto la parola il consigliere Cognetta, ne ha facoltà.
+Cognetta (M5S) -
+Parliamo di un
+software,
+fatto da
+Inva per l'Assessorato territorio e ambiente, relativo ai
+procedimenti urbanistici,
+composto di più parti che
+permettono la gestione del Prg, piuttosto che degli abusi edilizi,
+oppure della segnalazione e della gestione di tutto quello che
+riguarda le pratiche relative all'edilizia.
+Io con un 116 ho chiesto all'Assessorato di avere un quadro
+economico e temporale dell'intervento fatto su questo software e la
+stessa richiesta è stata inoltrata a Inva. Pertanto ho chiesto sia
+all'Assessorato che a Inva di dirmi quanto è stato speso, a che
+punto era lo sviluppo e così via. Mi è arrivata una risposta sia
+dall'ente che dalla società, in cui si dice che lo sviluppo di
+questo software è iniziato all'incirca nel 2010  e a oggi è in
+fase di completamento, perché ci sono ancora delle parti da
+definire. C'è stata una spesa di 334 mila euro e spiccioli, ma non
+si sa ancora quanto dovrà essere investito per terminare il
+software. Quindi questa interpellanza è per sapere quanto ancora
+verrà speso e in quanto tempo verrà terminato.
+C'è una aggiunta, però, che vorrei fare - mi rivolgo in
+particolare non tanto all'Assessore quanto alla Presidenza del
+Consiglio, al presidente Rosset - rispetto alle notizie che mi sono
+giunte da Inva, la quale nella risposta cita, concordemente con
+quanto riferito dall'Assessorato, che dal 2010 è cominciato il
+carteggio rispetto a questo software e indica anche qual è
+l'offerta che è stata fatta. Si cita in particolare l'offerta n.
+2540 del 2010, mentre io qui da Inva ho invece un'altra offerta che
+è la n. 989 del 2006, che riguarda lo stesso identico software, che
+si chiama "Gestione procedimenti urbanistici" e che dava nel 2006
+come importo per fare questo software due soluzioni: la prima di 35
+mila euro e la seconda, più evoluta, di 156 mila euro. Io non so, a
+questo punto, perché si è poi arrivati a spendere 334 mila euro, se
+l'offerta originale era quella del 2006. L'altra cosa che vorrei
+far notare al Presidente Rosset, è il fatto che io ho un documento
+che attesta chiaramente che la risposta di Inva non è corretta,
+perché quest'ultima doveva darmi la documentazione a cominciare dal
+2006 e non dal 2010 in avanti. Forse bisognerebbe anche entrare nel
+merito delle risposte e non soltanto valutare se la risposta
+formalmente è corretta oppure no.
+Presidente, mi rivolgo a lei perché più avanti ne parleremo:
+darmi una risposta non completa, equivale a dare una risposta
+sbagliata, per non dire in altro modo. Questo
+software
+ha
+cominciato a essere implementato effettivamente nel 2006, quindi
+sono dieci anni che va avanti. A questo punto non so quanto è stato
+speso, perché sinceramente non lo so: posso sapere più o meno
+quanto ha speso quell'Assessorato, ma non so quanto è stato speso
+prima.
+(Voce fuori microfono)
+È questo più quello? È solo quello? Vede, lei non lo sa,
+Assessore: facciamo rispondere a Inva quando sarà il momento. Non
+so se sono questi 156 mila euro, se sono 334 mila euro o quanto è
+stato speso. Una cosa è certa: lo sviluppo di questo software va
+avanti da dieci anni e non siamo ancora arrivati alla fine.
+Speriamo che Inva prima o poi ci arrivi alla fine, perché dieci
+anni di sviluppo software non sono mica pochi, e soprattutto
+speriamo che poi alla fine questo software funzioni.
+In aggiunta, chiedo anche di poter avere delle risposte chiare e
+complete alle mie domande: sarebbe molto meglio, anziché dover
+venire poi in aula e fare questi giochini. Inva non ha risposto in
+maniera corretta, non so l'Assessorato. Mi premurerò di vedere se
+magari anche in Assessorato avevate altra documentazione rispetto a
+quella che mi avete inviato. Spero di no. Quindi per favore,
+Assessore, se mi vuole rispondere almeno a queste domande, poi
+magari più avanti parleremo della questione Inva.
+Presidente -
+Ha chiesto la parola l'assessore Bianchi, ne
+ha facoltà.
+Bianchi (UV) -
+Come ha riepilogato lei, collega Cognetta,
+il
+software
+"Gestione procedimenti urbanistici" oggetto
+dell'interpellanza è un programma che consente la gestione
+on
+line
+dei procedimenti in capo alla struttura Pianificazione
+territoriale per la parte relativa alla materia urbanistica, il cui
+sviluppo è iniziato a partire dalla fine dell'anno 2010.
+mente i procedimenti erano organizzati sulla base di un
+programma ormai tecnologicamente obsoleto, che non consentiva un
+grado di controllo e di interazione confrontabile con quello
+attualmente in uso, oggetto dell'interpellanza.
+Il software messo a punto da Inva si compone di tre moduli. Il
+primo, la gestione procedimenti vera e propria, che ha implicato il
+50 percento dell'investimento. Quando qui parlo di investimenti, mi
+riferisco alla cifra che ha visto nella risposta al 116.
+Il secondo, la gestione dei dati riguardanti i piani regolatori
+comunali, prodotti dagli enti locali nella fase di predisposizione
+della variante sostanziale generale dei piani regolatori generali,
+che ha implicato il 37 percento dei costi del progetto. Il terzo,
+la segnalazione mensile degli abusi edilizi effettuata dai Comuni
+in ottemperanza all'articolo 75 comma 3 della legge n. 11 del 1998,
+che ha implicato una spesa pari al 9 percento dell'importo
+complessivo.
+Il restante 4 percento riguarda il servizio di supporto e
+assistenza all'avviamento.
+Questo programma è stato predisposto a seguito di quanto
+previsto nel piano operativo annuale 2010, con la delibera della
+Giunta regionale n. 303 del 2010, nella quale la scheda "Spese di
+realizzazione del SIT" prevedeva la revisione e l'integrazione
+progettuale del sistema per la gestione dei procedimenti
+urbanistici, da adeguare alla luce delle nuove norme in materia.
+Tutto il percorso della realizzazione del nuovo software è stato
+seguito dalla struttura Pianificazione territoriale, per gli
+aspetti funzionali di competenza, e dalla struttura Sistemi
+informativi e tecnologici, proprio per l'iter amministrativo in
+senso stretto.
+Il programma Gestione procedimenti urbanistici nella sua fase di
+predisposizione ha anticipato il complesso iter di semplificazione
+in corso nella pubblica amministrazione, che ha tra i suoi
+obiettivi principali la normalizzazione dei processi in una visione
+unitaria e di sempre maggiore trasparenza e interattività tra gli
+utenti coinvolti. Il programma infatti consente la completa
+gestione dei procedimenti in materia di urbanistica, instaurando un
+dialogo informatico tra Regione e Comuni. Il programma si pone
+pertanto un obiettivo ambizioso che ha richiesto la progettazione e
+l'implementazione di un'architettura piuttosto complessa. Le tre
+parti che compongono il programma, sono state concluse secondo
+quanto definito nella proposta tecnico-economica dell'ordinativo di
+fornitura correlato. Durante la fase di sviluppo è emersa
+l'opportunità di collegare in modo dinamico tale programma con il
+sistema di conoscenze territoriali e di rafforzare il livello di
+condivisione con le amministrazioni comunali. In particolare, il
+confronto con gli enti locali ha fatto emergere la necessità di
+ampliare il servizio legato alla comunicazione degli abusi edilizi,
+in modo che possa essere utilizzato più efficacemente dai Comuni
+per le informative alla Procura della Repubblica, nonché per
+rispondere in modo più completo alle esigenze statistiche. Tale
+circostanza ha poi portato a decidere di sospendere la messa in
+linea di questa parte del programma di gestione dei procedimenti,
+in attesa di perfezionare la valenza con l'integrazione di
+informazioni che all'origine non erano previste. Sui tempi
+necessari per la definitiva attivazione, questi sono da definire
+sul tavolo aperto con gli enti locali.
+Per quanto riguarda i costi ancora da sostenere per
+l'ampliamento del programma abusi, risulta al momento difficile
+prevederli, non essendo ancora perfezionati i requisiti richiesti
+dagli enti locali. Tuttavia, considerato che l'impostazione
+generale è già data, essi non potranno che essere marginali
+rispetto all'investimento a oggi effettuato per lo sviluppo del
+programma, trattandosi di manutenzione evolutiva di funzioni
+esistenti o di modeste implementazioni che fanno in ogni caso parte
+del normale ciclo di vita di un sistema informatico.
+Presidente -
+Ha chiesto la parola il consigliere
+Cognetta, ne ha facoltà.
+Cognetta (M5S) -
+Assessore, capisco che è difficile
+prevedere costi e tempi, però mi rendo anche conto che, avendo
+fatto per anni questo lavoro, sono stime che si possono fare. Se
+non vengono fatte, è perché probabilmente chi le sta facendo non ha
+tutta la competenza necessaria per riuscire a farle. Non parliamo
+di un
+software
+complicatissimo: non stiamo parlando di
+lanciare un razzo sulla Luna o cose di questo tipo. È un semplice
+database
+con degli accessi condivisi, non c'è niente di
+strano.
+Purtroppo, se un software viene fatto in maniera poco facile da
+usare, il software stesso non viene utilizzato, cosa che succede
+nel suo assessorato rispetto a questa procedura. Il punto è che
+quando facciamo degli investimenti, che durano anni come in questo
+caso, ma alla fine non otteniamo un prodotto che ci serve,
+l'investimento è assolutamente inutile ed è quello che è accaduto
+con questo software. Forse dovremmo cominciare a superare un po'
+questo problema, dopo dieci anni di sviluppo e dopo tutti i soldi
+spesi.

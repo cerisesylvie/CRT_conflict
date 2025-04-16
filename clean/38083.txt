@@ -1,0 +1,156 @@
+Classificazione
+AMMINISTRAZIONE REGIONALE
+Ordinamento degli uffici e del personale
+INFORMAZIONE
+Sistema informativo
+
+
+
+Oggetto del Consiglio n. 1690 del 13 gennaio 2016 - Resoconto
+OGGETTO N. 1690/XIV - Interpellanza: "Notizie in merito alla
+realizzazione di uno studio sulla migrazione degli attuali sistemi
+informatici dell'Amministrazione regionale verso l'"Open
+Source"".
+Viérin M. (Presidente) -
+Punto 22 all'ordine del giorno.
+La parola al Consigliere Bertin.
+Bertin (ALPE) -
+Grazie Presidente.
+Questo è un argomento che abbiamo già affrontato in diverse
+occasioni, in questa come nell'altra legislatura. Quella del
+software
+libero è una questione alla quale attribuisco una
+certa importanza in termini generali, perché credo che l'evoluzione
+dell'informatica sia migliore e abbia anche dei risultati migliori
+se indirizzata verso software libero che non verso software
+proprietario. Tra l'altro, i software nascono come liberi e
+soltanto in un momento successivo diventano proprietari, cambiando
+in parte anche l'evoluzione dell'informatica.
+Veniamo alla questione che riguarda l'utilizzazione del software
+libero nelle amministrazioni pubbliche, è un'utilizzazione che
+potrebbe riportare degli interessanti vantaggi; se fatta in modo
+corretto. In effetti può produrre dei risparmi economici
+significativi con parità di efficienza rispetto ai software
+proprietari. Sappiamo che l'Amministrazione regionale in questi
+anni ha dei contratti con Microsoft che andranno a scadenza fra due
+anni e nel frattempo negli anni abbiamo speso diverse centinaia di
+migliaia di euro all'anno per questi contratti. Come detto in altre
+occasioni, sono in scadenza fra due anni e proprio per questo il
+Consiglio regionale aveva approvato un ordine del giorno per uno
+studio da realizzare in collaborazione con INVA, la società
+in
+house
+della Regione, per valutare l'economicità e la
+fattibilità di questa migrazione dal sistema attuale a quello
+libero. Questa risoluzione è stata approvata nel giugno 2015, so
+che ci stavano lavorando, immagino che si sia conclusa. Non conosco
+le conclusioni di questo studio, ma, visto che sono ottimista,
+credo che il risultato sarà positivo, anche perché sappiamo che
+altre amministrazioni come la nostra stanno migrando i loro sistemi
+verso il software libero: l'esempio più significativo è quello
+della Baviera, la Regione più importante in Europa, che ha
+utilizzato il software libero, questo a riprova della validità di
+questa scelta; in Italia so che la Regione Molise ha intrapreso
+questa strada. Noi potremmo utilizzare proprio questi due anni di
+tempo che abbiamo prima del rinnovo dei contratti, nel caso
+specifico con Microsoft, per migrare dal sistema attuale al
+software libero con un risparmio significativo.
+Ci chiedevamo, proprio in funzione di questa possibile
+migrazione, se non fosse il caso - questa era la terza domanda di
+quest'interpellanza - di coinvolgere all'interno di questo
+processo, che non sarà breve come tutte le cose che richiedono sia
+formazione del personale, sia altri adattamenti del sistema, anche
+le altre strutture della Regione: dal CELVA per gli Enti locali, al
+polo USL e altre strutture, cosa che potrebbe permettere alla
+Regione Valle d'Aosta di essere tra le prime a realizzare questa
+transizione dai sistemi attuali a quelli liberi, il che sarebbe un
+fatto positivo per il risparmio che avremmo, ma anche un segnale
+importante del fatto che una volta tanto, invece di arrivare per
+ultimi, possiamo arrivare tra i primi in una direzione che stanno
+in fondo prendendo tutte le amministrazioni per ragioni di bilancio
+e non solo. Queste sono le domande.
+Presidente -
+La parola al Presidente della Regione.
+Rollandin (UV) -
+Ringrazio il collega Bertin per aver
+voluto fare quest'interpellanza, che riprende un tema molto
+importante. Ha ricordato l'ordine del giorno che era stato
+approvato, a cui noi abbiamo dato seguito, perché in effetti c'è
+una grande disponibilità e una volontà di poter rientrare nel
+novero delle prime che possono accedere a questo sistema in modo
+sistematico, nel senso di convincere anche le altre realtà ad
+utilizzare lo stesso sistema.
+Venendo nello specifico alle domande, lo studio è stato
+realizzato secondo le modalità previste dalla mozione approvata
+l'11 giugno scorso e concluso il 18 dicembre scorso, quindi credo
+che abbiamo mantenuto i tempi.
+Per quanto riguarda la seconda domanda, lo studio ha evidenziato
+la fattibilità della migrazione dei prodotti Microsoft Office verso
+la piattaforma LibreOffice, definendo altresì la portata degli
+interventi non solamente in termini tecnologici, ma anche sotto il
+profilo organizzativo di comunicazione e di formazione. Per la
+realizzazione del progetto nel suo insieme, i tempi stimati sono di
+circa trentasei mesi, che sono giustificati dalla complessità del
+passaggio graduale ai vari sistemi. Dal punto di vista economico,
+il risparmio complessivo su un arco temporale di dieci anni -
+questi sono i calcoli -, rispetto allo scenario di impiego più
+favorevole dei prodotti Microsoft, è di oltre il 50 percento. Per
+quanto riguarda gli intendimenti in merito, entro il mese di
+gennaio, lo studio sarà approvato dalla Giunta al fine di avviare
+già nel mese di febbraio prossimo il progetto, articolato nelle
+fasi di analisi, installazione, comunicazione, formazione,
+migrazione degli applicativi non compatibili, migrazione del
+patrimonio documentale, supporto agli utenti.
+Per quanto riguarda la terza domanda, credo di aver già in parte
+risposto e comunque lo studio prevede già il coinvolgimento anche
+degli Enti locali, delle istituzioni scolastiche e di altri enti
+territoriali eventualmente interessati, al fine di condividere le
+metodologie e gli approcci realizzativi, anche per garantire
+l'interoperatività dei documenti dell'insieme del sistema pubblico
+regionale e in questo ci sta, come lei diceva, anche l'USL, quindi
+la possibilità di ampliare.
+Come le ho detto, i tempi che si prevedono per l'articolazione
+globale sono stati tenuti piuttosto ampi, un po' larghi, però
+chiaramente si sta lavorando di buzzo buono per cercare di ottenere
+il prima possibile i risultati veri di quest'operazione, che noi
+crediamo sia molto importante, oltre che economicamente valida. Vi
+è quindi stata un'impostazione...come lei ha detto, per una volta
+se possiamo essere all'avanguardia non sarebbe male. Credo comunque
+che i tempi fino ad oggi siano stati rispettati e c'è un'adesione
+forte a questo tipo di operazione, che va nella logica anche
+dall'altra parte di quello che sarà il processo di
+informatizzazione generale della nostra regione, che è l'altro
+aspetto di supporto che va avanti parallelamente. Grazie.
+Presidente -
+La parola al Consigliere Bertin.
+Bertin (ALPE) -
+Grazie Presidente.
+Bisogna dire che su quest'argomento mi ero particolarmente
+impegnato negli anni a sollecitare questa via. Oggi vedo che
+finalmente l'atteggiamento è cambiato e che stiamo andando in
+questa direzione. È una questione importante per questioni di
+bilancio, ma non solo. È importante coinvolgere, come si
+sottolineava, anche le altre entità territoriali, anche perché,
+quando tutti utilizzano lo stesso sistema, ci si interfaccia in
+modo più semplice. Anche sulle scuole è importante intervenire,
+anche formando e informando le giovani generazioni, che sono quelle
+più interessate a questi aspetti essendo anche quelle che li
+utilizzano di più. È un'azione che non è immediata, ci vorranno dei
+tempi, ma i risultati si ottengono.
+Come sottolineavo in precedenza, la Baviera, che certamente è la
+più importante entità regionale d'Europa, sta andando in questa
+direzione rapidamente. Altre lo stanno facendo, come la
+Gendarmerie
+francese, ad esempio, tanto per dire che, anche
+dal punto di vista della sicurezza, si è garantiti come con gli
+altri programmi proprietari. È un problema anche di organizzazione
+e di formazione del personale, ma, nel momento in cui si
+intraprende questa pratica, i vantaggi sono certamente
+importanti.
+Nel caso specifico è una delle poche volte che posso quasi dire
+di essere soddisfatto del risultato di quest'interpellanza, vedo
+che l'atteggiamento è cambiato e spero che al più presto si
+raggiungano gli obiettivi, seguendo questo studio approvato dal
+Consiglio in seguito ad una mozione che avevo presentato all'epoca
+e ci auguriamo che tutto proceda rapidamente, ma mi sembra che le
+premesse siano buone. Grazie.

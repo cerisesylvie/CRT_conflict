@@ -1,0 +1,442 @@
+Classificazione
+AMMINISTRAZIONE REGIONALE
+Ordinamento degli uffici e del personale
+
+
+
+Oggetto del Consiglio n. 3220 del 10 gennaio 2008 - Resoconto
+OGGETTO N. 3220/XII - Interpellanza: "Predisposizione di
+un'unica carta elettronica per la gestione di servizi
+vari".
+Interpellanza
+Premesso che:
+-
+L'Amministrazione regionale direttamente o tramite società
+partecipate ha sostenuto e finanziato lo sviluppo di tecnologie
+informatiche quali le cosiddette "smart card";
+-
+Carte Vallée, nata per la gestione dei carburanti in
+esenzione, Carte Résident, realizzata per caricare gli skipass a
+tariffa agevolata, e Carta Valore, ultima arrivata per gestire i
+biglietti del trasporto pubblico locale;
+-
+in Valle d'Aosta è attiva la Carta di identità
+elettronica;
+-
+il Ministero della Sanità ha da tempo sostituito il
+tesserino cartaceo con una smart card;
+i sottoscritti Consiglieri regionali
+Interpellano
+il Presidente della Regione e l'Assessore delegato per
+sapere:
+1) quali sono i costi complessivi di ognuno dei tre progetti
+di Smart Card sopra indicati, con indicazione distinta dei costi di
+progettazione, di software, di hardware e di gestione sostenuti
+sino ad ora;
+2) per quali motivi non è stato creato un unico supporto
+magnetico plurifunzione;
+3) quali sono i motivi che impediscono di gestire e integrare
+le smart card statali in rete locale, con il caricamento di
+ulteriori dati con particolare riferimento alla tessera
+sanitaria;
+4) se è intenzione accentrare su un'unica smart card le
+funzioni ora gestite in maniera frammentata.
+F.to: Frassy - Tibaldi - Ottoz - Lattanzi
+Presidente
+- La parola al Consigliere Frassy.
+Frassy (CdL)
+- Direi che questa iniziativa viene
+spontanea e mi permetterei di definirla una "smart interpellanza"
+rispetto alle "smart card" che ormai stanno riempiendo il
+portafoglio. Quando iniziò l'epoca delle cosiddette "smart card",
+si disse che avrebbero ridotto tutte le esigenze di tessere di
+riconoscimento, è un po' quello che si disse quando prese piede il
+computer: "il computer ridurrà la carta" e penso che mai profezia
+fu più fallace di quella perché, a distanza ormai di più di 20
+anni, da quando il computer o, in particolar modo, il PC è
+diventato strumento usuale, la carta non è moltiplicata, ma si è
+decuplicata. Il rischio perciò è che spesso le tecnologie portino
+sicuramente dei vantaggi, ma non riescano a ridurre i documenti
+cartacei.
+Nel caso delle carte in particolare, riscontriamo che ormai i
+nostri portafogli sono pieni di carte, non essenzialmente di carte
+di credito: abbiamo la "Carta Vallée", che verrà pensionata per una
+parte delle sue funzioni, almeno per la sua funzione principe:
+quella dei buoni benzina; abbiamo la "Carte Résident" se ci piace
+andare a sciare, sulla quale viene caricato lo "skipass" e adesso
+avremo una "Carta Valore", come è stata definita in una recente
+deliberazione di Giunta, per gestire l'insieme della biglietteria
+del trasporto pubblico locale, senza dimenticare che abbiamo la
+"Carta di identità elettronica" - fra l'altro, come regione siamo
+una delle aree territoriali dove è stata sperimentata per prima
+questa carta -, e che il Ministero della sanità a suo tempo
+sostituì il tesserino cartaceo con un tesserino magnetico. Ci
+chiediamo se nella filosofia dell'informatizzazione non sia
+possibile arrivare ad un'unificazione di queste carte. È vero che
+gli esempi non sono dei più confortanti perché a livello
+ministeriale come minimo di carte ve ne sono 2, visto che quella
+del Codice fiscale è stata assorbita dal tesserino sanitario, ma
+rimane la "Carta di identità" e la "Carta di sanità", che erano
+state fatte, come avevate dichiarato, per interagire con le reti
+locali e lo stesso, per certi versi, erano le dichiarazioni che
+avevate posto alla base della "Carta Vallée", che era nata da una
+sinergia con Comune di Aosta, USL e Amministrazione regionale. Al
+di là dell'ingombro fisico di queste carte, la confusione fisica di
+scambiare una carta per l'altra, di avere tale rigidità nel
+portafoglio, è evidente che tante carte sono tanti costi, sia in
+termini di progettazione, di "software" e di "hardware", sia in
+termini di gestione. Vorremmo capire delle 3 carte che sono gestite
+a livello regionale - "Carta Vallée", "Carta Résident" e
+l'istituenda "Carta Valore" - quali sono i costi complessivi
+rispetto alle voci che ho prima citato, sostenuti dall'avvio dei
+primi progetti fino ai giorni nostri, e per quali motivi non si
+pensa di creare un unico supporto polifunzionale, anziché
+continuare ad inventarsi supporti diversi. Supporti che poi hanno
+anche dinamiche che comportano necessità di aggiornamento di
+"software", di sostituzione dell'"hardware", pensiamo ad esempio
+alle "Carte Résident" che hanno comportato recentemente la
+sostituzione dello stesso supporto magnetico e la sostituzione dei
+tornelli di controllo ai passaggi posti all'accesso degli impianti
+di risalita. Vorremmo capire se vi è stato un tentativo da parte
+dell'Amministrazione regionale di interloquire con gli uffici
+statali preposti alla gestione non so se dei "software" delle 2
+Carte citate: "Carta di identità" e "Carta della salute", o con il
+Ministero che si occupa di questa materia per tentare di utilizzare
+le potenzialità di quelle carte statali, piuttosto che introdurre
+ulteriori carte regionali. A complemento di tali quesiti
+vorremmo... se vi sono delle idee, se vi sono le intenzioni almeno
+politiche di arrivare ad un'unificazione delle carte regionali.
+Président
+- La parole à l'Assesseur au budget, aux
+finances, à la programmation et aux participations régionales,
+Marguerettaz.
+Marguerettaz (UV)
+- Il tema che lei pone è un tema
+decisamente importante e in qualche modo merita di avere tutta una
+serie di dati e merita una serie di attenzioni. Le cose hanno una
+ragione e cercherò di esporla, con alcune precisazioni che non
+vogliono essere un controcanto, ma vi sono alcune cose che sono
+specifiche e vedrete nell'ambito della risposta: ad esempio, la
+"Carta di identità elettronica" non è un progetto regionale, è un
+progetto che ha solo il Comune di Aosta, quindi era un'attività
+sperimentale nata in un certo momento e vediamo che lo Stato è un
+po' schizofrenico, dà delle indicazioni, ad un certo punto il
+Comune di Aosta non aveva più le carte, non venivano messe a
+disposizione, c'era un problema con il bilinguismo che abbiamo
+risolto, il problema delle carte che non erano disponibili da parte
+dei monopoli perché solo uno poteva stamparle... un problema
+enorme! La contraddittorietà poi è che il cittadino potrà chiedere
+anche la carta cartacea, avremo una discontinuità... e delle idee
+d'avanguardia poi hanno tutta una serie di problemi.
+Per ripercorrere la genesi delle varie iniziative, il Progetto
+"Carte Vallée" è nato nel 1998, su iniziativa di Regione,
+Assocredito, CELVA, USL, con l'obiettivo di disporre di una "smart
+card" per l'accesso ai servizi di questi enti e disporre al
+contempo di uno strumento di pagamento prepagato nell'ambito del
+circuito "minipay". La caratteristica era quella di un sistema
+"off-line", quindi non era in linea, abbiamo questi terminali che
+scaricano dati e poi giornalmente c'è un collegamento che viene
+scaricato, ma non c'è un accesso direttamente nella rete. Il
+Progetto "Carta di identità elettronica" (CIE) era un progetto
+promosso da Bassanini nel 1997, ma che mai aveva avuto dei
+riferimenti normativi, che arrivarono con la legge 31 maggio 2005 e
+dal Codice dell'amministrazione digitale (decreto legislativo del 7
+marzo 2005). Il Comune di Aosta è stato l'unico Comune valdostano
+che ha partecipato e anche bene, anche con soddisfazione a questa
+seconda fase sperimentale, il bacino di utenza è costituito da solo
+soggetti residenti nel Comune di Aosta. Abbiamo poi il progetto
+"SIT" (sistema integrato tariffario) realizzato dall'Assessorato
+del turismo con la "Carta VDA Transport" ed è la carta elettronica
+dedicata al trasporto pubblico locale della Regione. Si tratta di
+un supporto elettronico destinato a sostituire progressivamente nel
+corso degli anni una parte dei titoli di viaggio utilizzati
+attualmente con il progredire del sistema di integrazione
+tariffaria del trasporto pubblico regionale. Queste carte sono
+nominative e sono state distribuite ad anziani a partire dal 2005 e
+saranno distribuite nel 2008 per abbonamenti a studenti e
+lavoratori. La "Carta Valore" usa la stessa tecnologia della "Carta
+VDA Transport", non è nominativa e consente di avere uno sconto del
+22% dei titoli di viaggio di corsa semplice, questa non è
+nominativa, ma è una carta prepagata al portatore che può essere
+ricaricata e usata. La tecnologia poi lo vediamo è diversa dalle
+altre, perché c'è una tecnologia di prossimità, quindi una lettura
+della carta diversa. Abbiamo poi la "Carte Résident", che è stata
+introdotta nel 2002 al fine di poter applicare gli sconti previsti
+per i residenti in Valle e fino alla stagione 2006-2007 il numero
+complessivo delle tessere distribuite, comprese quelle sostituite
+per danneggiamenti, smarrimenti... ammonta a circa 40mila, la
+"Carte Résident" è una carta di prossimità. Il Progetto "Tessera
+sanitaria" che lei ha ricordato è un progetto invece realizzato
+dall'Agenzia delle entrate del Ministero dell'economia e delle
+finanze. La tessera è distribuita dal Ministero tramite il proprio
+"partner" tecnologico: la "Società generale informatica", ossia la
+"SOGEI". Non si tratta di una "smart card", ma di una tessera
+magnetica con validità anche all'estero - tessera europea di
+assicurazione malattia - sostituendo di fatto il Codice fiscale.
+Nasce principalmente per disporre di un migliore monitoraggio della
+spesa sanitaria, disciplinato da un decreto legge che è stato
+convertito successivamente del 2003.
+Fatte queste premesse, il primo quesito:
+"quali sono i costi
+complessivi di ognuno dei tre progetti di smart card, con
+indicazione distinta dei costi di progettazione, di
+software..."
+, poi le faccio avere questa memoria, perché vi
+sono le varie voci. Lei consideri che abbiamo per la progettazione
+dei costi per il sistema integrato della "Carte Vallée" nel 1998 e
+nel 2005... che sono il primo di 20.142 e il secondo di 24.024. La
+realizzazione del "software" sempre nel 1998 e nel 2005: il primo
+di 42mila e il secondo di 156mila, per "l'hardware", che è la parte
+più importante, abbiamo la prima fornitura che è di 562mila euro e
+le successive le carte euro di 432mila. La gestione: abbiamo le
+varie annualità che comprendono assistenza, numero telefonico...
+anno per anno, nel 1999 175.389, nel 2000 131.000, e così via. Le
+do il dato complessivo che parte dal 1998 per semplicità, poi le do
+tutti i dettagli: sono 2.833.044. Come le dicevo, l'assistenza
+telefonica comprende l'assistenza sui singoli servizi attivati
+sulla carta e non esclusivamente servizi inerenti la carta stessa -
+furto, smarrimento, distruzione -, quando lei ha dei problemi sulla
+carta, telefona e ha tutta l'assistenza. Le voglio dare questo dato
+perché il dato generale è importante, sto parlando della "Carte
+Vallée": 2.833.000; facendo mente il numero delle carte - ossia
+82.500 - mediamente circolanti, il costo complessivo dal 1998 al
+2007 è di 34 euro a carta, compresa la fornitura. L'importo quindi
+è importante, ma la gestione della carta, quello che una volta
+erano i buoni cartacei, le code per avere la distribuzione della
+carta, tutto insieme in 9 anni 34 euro a testa... quindi ritengo
+sia un'iniziativa che si è ultra pagata, perché è un servizio di
+grande valore. Nella documentazione che le do poi c'è tutto lo
+spazio di memoria all'interno della carta, che è assorbito dalla
+Regione, che è un dato a sua disposizione. La "Carta VDA Transport"
+ha: progettazione 126.000, il "software" 690.000, 70.000... la
+gestione che è il 65% dei costi sostenuti, per un totale di
+2.371.000. La "Carte Résident" ha anche tale progettazione di
+sistema, "software" di biglietteria, "hardware" e tutto il sistema
+per un costo di 4.345.000. La parte importantissima di questi 4,345
+milioni è "l'hardware", il "server", gli emettitori, i lettori, e
+risalgono al 2000, per 3.160.000.
+Secondo quesito:
+"per quali motivi non è stato creato un
+unico supporto magnetico plurifunzione"
+, non è stato creato in
+quanto ciascuno dei progetti è nato con differenti tempi, obiettivi
+e specificità nelle esigenze. La temporalità dei diversi progetti
+ha giocato un ruolo fondamentale in quanto è molto facile ora
+pensare ad una convergenza, come suggerito non solo verbalmente, ma
+dal Codice delle amministrazioni digitali, ossia un riferimento
+normativo, ma bisogna tenere in considerazione le caratteristiche
+tecnologiche e le disponibilità al momento in cui i progetti sono
+stati pensati e realizzati. Alcune scelte, in particolare
+"l'off-line "della "Carte Vallée", si erano basate sulle
+infrastrutture di rete disponibili al momento in cui i progetti
+sono stati concepiti; allora si era infatti lontani sia dalla
+presenza di un contesto di rete unitaria della pubblica
+amministrazione, "RUPAR", "PARTOUT"... sia dalla diffusione di
+connessione e abbonamenti "internet" anche tradizionali presso le
+utenze professionali e domestiche. Occorre tenere in debito conto
+che, sulla base delle cifre sopraesposte, il supporto tecnologico
+non rappresenta che una marginalità del costo complessivo di un
+servizio basato su carte a microprocessore. Molte volte ci
+concentriamo sulle tecnicità, non necessariamente è quello il vero
+problema, ma il problema è di processo, cercare di far convergere e
+di condividere le banche dati, superando la logica del singolo
+servizio. È un settore su cui stiamo lavorando pesantemente, ma
+questa rivoluzione dei processi non è cosa immediata, perché ognuno
+vuole essere titolare del dato, vuole avere la certezza che nessuno
+intervenga sul dato, ma il supporto è coerente con quello che lei
+diceva, ovvero arrivare ad una condivisione per arrivare ad un
+supporto tecnologico unico, ma quello è il dato finale, ossia avere
+una carta sola non è un problema tecnico, ma un problema di
+processi. In sintesi, gli elementi che oggi hanno condizionato la
+possibilità di una convergenza sono i seguenti: temporalità dei
+progetti, tipologia di utilizzo, tecnologie "standard" del
+supporto.
+Terza domanda:
+"quali sono i motivi che impediscono di
+gestire e integrare le smart card statali in rete locale, con il
+caricamento di ulteriori dati con particolare riferimento alla
+tessera sanitaria"
+, il problema non consiste tanto nel gestire
+le "smart card" statali in rete locale, ma è costituito da diversi
+elementi: la non stabilità delle disposizioni a livello nazionale,
+i diversi Governi che si sono succeduti a partire dalla nascita del
+Progetto "CIE" hanno emanato disposizioni normative spesso
+contrastanti, a puro titolo di esempio, la legge 31 marzo 2005,
+all'articolo 7, dispone che a decorrere dal 1° gennaio 2006 la
+"Carta di identità a supporto cartaceo" è costituita all'atto della
+richiesta del primo rilascio o del rinnovo del documento dalla
+"CIE". Peccato che dopo solo il 16 febbraio 2007 il decreto del
+Ministero dell'economia, di concerto con il Ministro dell'interno e
+il Ministro delle riforme e delle innovazioni della pubblica
+amministrazione, determina l'importo relativo al corrispettivo da
+porre a carico dei richiedenti per il rilascio della "CIE", ma un
+ulteriore paradosso è costituito dal fatto che le nuove
+disposizioni impongono ai Comuni l'obbligo di emettere
+esclusivamente "CIE" dal 1° gennaio 2007, dando però facoltà al
+cittadino di richiedere la "Carta di identità cartacea". Un altro
+elemento è la non completa copertura dell'utenza interessata, il
+Comune di Aosta è l'unico Comune in Valle ad aver attivato la
+sperimentazione, la complessità organizzativa e i costi strutturali
+derivanti non consentono agli altri Comuni del territorio di
+emettere tale supporto. Nella logica dei riuso gli amministratori e
+i funzionari di Aosta si sono resi disponibili a fare un "service",
+con delle convenzioni, anche per gli altri Comuni ed è una cosa che
+nell'ambito del nostro gruppo di lavoro relativo a "PARTOUT" stiamo
+approfondendo. Lo stesso discorso vale per le altre Regioni, le cui
+sperimentazioni con la "CIE" in Italia sono da considerarsi
+marginali in rapporto alla totalità della popolazione: meno del 5%.
+Inoltre la copertura non è garantita neppure nell'ambito dei Comuni
+sperimentatori in quanto i cittadini iscritti all'Anagrafe italiana
+residenti all'estero (AIRE) e gli extracomunitari devono avere
+obbligatoriamente per legge la "Carta di identità tradizionale". I
+livelli di servizio garantiti dai sistemi messi a disposizione
+dallo Stato, relativi al circuito di emissione di gestione, spesso
+non sono accettabili... ad esempio, il collegamento al sistema
+centrale indisponibile per più giorni. Il servizio va preso così
+com'è dall'amministrazione locale, in quanto non si basa su nessun
+contratto di servizio specifico. Il Comune di Aosta ha dovuto
+rilasciare ad un certo momento per circa 3 mesi carte di identità
+cartacee per l'assenza di supporti non più forniti dal Ministero a
+causa di problemi di natura contrattuale con il Poligrafico dello
+Stato. I tempi di attesa per l'utente nell'emissione di una "CIE"
+sono più elevati rispetto al rilascio di "Carta di identità
+tradizionale", spesso ai numeri di riferimento nazionale per la
+richiesta di assistenza non risponde nessuno. Lo stesso Comune di
+Aosta ha visto con molta delicatezza la possibilità di rilasciare
+servizi basati su "CIE". I livelli di servizio a cui è abituata
+invece la popolazione valdostana nel caso di "Carta Vallée" sono di
+altra natura, come dimostrano i questionari di "Customer Care"
+effettuati nel tempo. Ancora: la non convergenza di sistemi basati
+su carte neppure a livello nazionale; la dimostrazione è costituita
+dalla "CIE" e dalla Tessera sanitaria, contenenti entrambe i dati
+anagrafici dei cittadini, ma facenti parte di circuiti diversi e di
+competenze diverse, rispettivamente Ministero dell'interno, Centro
+nazionale dei servizi demografici e Ministero dell'economia,
+Agenzia delle entrate. L'onere dell'allineamento dei dati fra i 2
+sistemi viene riportato direttamente sulle amministrazioni locali
+territoriali, infatti nel Progetto "CIE" viene richiesto all'ente
+locale - in questo caso il Comune - di effettuare un allineamento
+con l'anagrafe tributaria, prima di poter alimentare l'indice
+nazionale delle anagrafi (INA) dal quale vengono previsti i dati
+della "CIE".
+Quarto quesito: la volontà della pubblica amministrazione locale
+di accentrare più servizi su un'unica "smart card" è presente da
+tempo, la "Carte Vallée" consente oggi di accedere a servizi
+dell'Amministrazione regionale, buoni carburanti e servizio mensa,
+dell'azienda USL, servizio mensa e di alcuni enti comunali, mensa
+scolastica e gestione rifiuti; questa filosofia è messa in parte in
+atto. Le iniziative per avviare un percorso di convergenza su nuovi
+"standard" emergenti in ambito nazionale sono in corso. Dobbiamo
+andare a ricercare ulteriori passaggi, tipo la firma digitale
+elettronica. Nell'ambito delle attività previste dalla Convenzione
+integrata sui servizi "Carte Vallée", approvata con deliberazione
+23 agosto 2007, è infatti in corso di predisposizione un rapporto
+inerente le attività di Osservatorio sulle carte a microprocessore
+concernenti l'analisi dello "stato dell'arte" a livello nazionale
+sia dal punto di vista tecnico che giuridico amministrativo,
+l'analisi specifica della situazione della "Carte Vallée",
+applicazioni residenti, "off-line", la definizione delle possibili
+evoluzioni tecnologiche ed eventuali piani di migrazione dei
+sistemi e dell'organizzazione. Il rapporto sarà disponibile entro
+marzo. Le attività di cui sopra rientrano fra i compiti del
+"competent center" previsto dalla convenzione quadro sulla "Carte
+Vallée", con tale attività si intende inserire un possibile
+graduale percorso di evoluzione della "Carte Vallée" nell'ambito
+della nuova scadenza definita dal Codice dell'amministrazione
+digitale, che vede come unici strumenti per l'accesso ai servizi
+"on-line" la "Carta nazionale dei servizi" (CNS) o la "Carta di
+identità elettronica". È importante evidenziare che nell'ambito di
+tale percorso evolutivo andranno considerati attentamente gli
+impatti sui sistemi gestionali di "back office" (buoni carburante)
+derivanti dal passaggio di un sistema di "smart card off-line",
+come l'attuale "Carte Vallée", caratterizzata dalla prevalenza dei
+dati all'interno del "microchip" a bordo della carta medesima, ad
+un sistema tipicamente "on-line" come avviene con la "CIE" e la
+"CNS". Queste ultime dispongono dei dati per la sola
+identificazione del titolare, demandando al sistema remoto - il
+"web" - la gestione di tutti i restanti dati. Oggi abbiamo la
+"Carte Vallée" che ha tutta la memoria, mentre la "CIE" e la "CNS"
+sono una chiave per entrare in un sistema che in remoto ha tutte le
+informazioni. Questa riteniamo sia la strada.
+Presidente
+- La parola al Consigliere Frassy.
+Frassy (CdL)
+- Alcune considerazioni su una risposta che
+riteniamo esaustiva rispetto alle domande poste con la nostra
+interpellanza. Avevamo esordito dicendo che questa era una "smart
+interpellanza", per certi versi l'argomento è di quelli sui quali
+meriterebbe il tempo di fare più di una riflessione che non sia la
+fugace riflessione che si può fare durante un'interpellanza, non
+fosse che per i dati importanti che ci ha snocciolato. È vero che i
+dati si lasciano interpretare e, se possiamo condividere che il
+costo di 34 euro a Carta sia un costo ragionevole, pensiamo però
+che quel costo non dovrebbe essere moltiplicato per 3. Il dato
+della "Carte Transport" e della "Carte Résident", che è di gran
+lunga maggiore facendo la proporzione fra le carte rilasciate e i
+costi sostenuti, porta a un costo pro capite di queste carte
+decisamente molto superiore ai 34 euro che lei ha voluto
+evidenziare del rapporto più conveniente di "Carta Vallée". Se
+facciamo una media con le altre 2 carte, superiamo di parecchio i
+150 euro. Questo per dire che alla fine la nostra considerazione
+penso sia condivisa dalle sue riflessioni, oltre che dai numeri; di
+conseguenza, bisognerebbe capire quali sono le esigenze, i tempi, i
+percorsi e le risorse da investire. L'ultima cosa che mancano nella
+Regione sono le risorse, soprattutto quelle investite nel settore
+dell'informatizzazione, settore nel quale investiamo cifre
+stratosferiche! I ritorni di questi investimenti purtroppo sono
+marginali, in particolare rispetto alla fruibilità del concreto;
+quando lei dice che la "Carta Valore" è sostitutiva della "Carta
+VDA Transport", ma la "Carta VDA Transport" è nata nel 2005, noi 2
+anni dopo sostituiamo un supporto e una tecnologia che forse era
+stata appena distribuita a tutti gli utenti. Su queste cose forse
+c'è qualcosa che non funziona nella gestione del coordinamento,
+penso che bisognerebbe creare dei meccanismi diversi per coordinare
+i vari progetti, la sensazione è che il Progetto "Carte Vallée"
+vada avanti per la sua strada, come i Progetti "Carte Résident" e
+"Carte Transport", e così via. Bisognerebbe che qualcuno si
+preoccupasse di iniziare ad individuare le esigenze comuni e le
+tipologie di utilizzo diverse per arrivare a creare non solo il
+supporto fisico, ma per capire come possono essere condivisi i dati
+delle molteplici operazioni. Che ciò sia possibile lo dimostra
+l'esperienza di "Carte Vallée", perché il fatto che questa carta
+sia utilizzata per le funzioni che lei ha ricordato - accesso alle
+mense, gestione rifiuti, "minipay"... - dimostra che il problema
+della condivisione dei dati è sì un problema tecnico informatico,
+ma alla fine risolvibile con le tecnologie attuali, senza bisogno
+di appellarsi a chissà quali ricerche futuribili. Paradossalmente è
+come se noi sulle nostre scrivanie avessimo un computer per
+accedere a "internet", un altro per mandare la posta elettronica,
+un altro per digitare testi; per fortuna, con un solo computer si
+fanno tutte queste cose. Ci troviamo invece ad avere una
+molteplicità di carte magnetiche più o meno intelligenti per
+gestire delle funzioni che dovrebbero essere gestibili su un unico
+supporto magnetico. Ho dimenticato nel mio elenco la Carta del
+sistema bibliotecario: un supporto magnetico che ha dei costi di
+gestione e che poteva essere gestito facendolo confluire su uno dei
+vari supporti, "Carta Vallée" ad esempio, che è forse il più
+flessibile.
+Quando dice che anche a livello nazionale non sono bravi, ho
+capito; cerchiamo però di trovare il modo di essere noi più bravi
+di quanto non siano a livello governativo, anche se purtroppo
+ultimamente sono fatti dei passi indietro a livello ministeriale,
+perché il Codice dell'amministrazione informatica predisposto dal
+Ministro Stanca avrebbe portato il nostro Paese all'avanguardia
+delle tecnologie informatiche, purtroppo il decreto del febbraio
+scorso ci fa fare un passo indietro, in quanto rimette in
+discussione un procedimento di informatizzazione al quale
+l'amministrazione pubblica doveva attenersi. Avremmo gradito che
+lei ci dicesse: "abbiamo verificato con l'Amministrazione dello
+Stato una possibilità e non abbiamo potuto arrivare a conclusione
+alcuna", invece la nostra sensazione è che questo pensiero non sia
+mai nato. Non vi è stato il tentativo di interloquire con
+l'Amministrazione dello Stato per verificare la possibilità di
+utilizzare un supporto già in essere, per dargli una valenza,
+tenendo presente che la "Carte Vallée" ce l'hanno quasi tutti, ma
+non tutti, perché sono solo 82.500 carte, ma la Tessera sanitaria
+distribuita dal Ministero delle finanze è distribuita a tutti i
+cittadini, è una carta magnetica. Il problema è capire se i dati
+devono stare sulle carte o se devono essere le carte delle chiavi
+per accedere ai sistemi. In conclusione, riteniamo che su questo
+argomento sia opportuno porre particolare attenzione, per arrivare
+ad unificare il sistema regionale e auspichiamo che da qui a
+qualche tempo non nasca l'ennesima carta regionale.

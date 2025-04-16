@@ -1,0 +1,153 @@
+Consiglio Regionale della Valle d'Aosta - Oggetto del Consiglio n. 3072 del 7 novembre 2007 - Resoconto
+Vai al contenuto principale
+Oggetti del Consiglio
+Invia
+Stampa
+Documenti
+Verbale
+Resoconto
+Collegamenti
+Iter atto
+Classificazione
+INFORMAZIONE
+Sistema informativo
+Precedente
+Successivo
+Resoconto integrale del dibattito dell'aula. I documenti allegati sono reperibili nel link "iter atto".
+Oggetto del Consiglio n. 3072 del 7 novembre 2007 - Resoconto
+OGGETTO N. 3072/XII - Interrogazione: "Risultanze del
+trasferimento degli ambienti operativi del sistema informatico
+regionale verso la piattaforma "Open Source Linux"".
+Interrogazione
+Considerati i notevoli avanzamenti registrati nel settore del
+software libero (nel sistema operativo e applicativi) in molte
+regioni italiane, che hanno deciso di adottare l'open source nei
+propri settori amministrativi e nelle scuole;
+Vista la delibera di Giunta n. 394 del 17 febbraio 2006,
+nella quale si decideva di trasferire tutti gli ambienti operativi,
+le procedure e gli applicativi del sistema regionale verso la
+piattaforma "open source" Linux;
+Atteso che l'Amministrazione regionale, rispondendo ad
+un'interrogazione del sottoscritto Consigliere nel mese di maggio
+scorso, confermava la volontà espressa con la deliberazione sopra
+citata, aggiungendo che erano in atto sperimentazioni finalizzate a
+questi obiettivi;
+Dato atto che le operazioni di migrazione verso la nuova
+piattaforma certamente comportano processi e modifiche di una certa
+complessità e, conseguentemente, necessitano di un certo periodo di
+tempo;
+Considerato che, sulla base di esperienze già verificate in
+altre regioni d'Italia, è soprattutto nel settore scuola che si è
+registrata la maggiore efficacia di risultato, oltre tutto in tempi
+ragionevolmente rapidi;
+il sottoscritto Consigliere regionale
+Interroga
+il Governo regionale per sapere:
+1) se nel frattempo siano stati raggiunti risultati operativi
+concreti, in base ai quali si possa già esprimere un giudizio di
+efficacia;
+2) se l'Amministrazione ha ritenuto di "privilegiare",
+nell'ambito di questi progetti, i settori della scuola e della
+formazione;
+3) se, allo stato attuale, si ritiene comunque di continuare,
+con rafforzata convinzione, tale progetto o se, per qualche
+ragione, si pensi di sospenderlo o di rinunciarvi.
+F.to: Bortot
+Président
+- La parole à l'Assesseur au budget, aux
+finances, à la programmation et aux participations régionales,
+Marguerettaz.
+Marguerettaz (UV)
+- Per affrontare il Consigliere Bortot
+ho avuto bisogno di un sostegno... L'amico Bortot ha una
+predilezione per i sistemi aperti, quindi ripropone di nuovo un
+tema che è stato più volte affrontato, quindi mi corre l'obbligo di
+fare un piccolo richiamo rispetto alle cose dette. Nelle premesse
+troviamo di nuovo la citazione della deliberazione di Giunta del 17
+febbraio 2006 e rispetto a questo volevo rilevare che questa
+deliberazione tratta la migrazione dei soli sistemi informativi
+centrali e bisogna prendere dal punto di vista letterale tale
+discorso, nel senso che si sottolineano i soli sistemi centrali
+dell'Amministrazione regionale verso un sistema "open source". La
+migrazione ha quindi riguardato il sistema informativo bilancio e
+finanze, la gestione delle provvidenze per invalidi civili, ciechi,
+sordomuti ed ex combattenti, il sistema zootecnico regionale e il
+sistema informativo agricolo regionale. Inoltre, quando affrontammo
+la questione a maggio, si era già precisato che la Regione ha
+avviato un progetto pilota al fine di valutare l'utilizzo di
+"software open source" all'interno della propria organizzazione,
+uffici della Regione, in sostituzione degli usuali programmi
+commerciali con l'obiettivo di analizzare e valutare l'impatto che
+il cambiamento ha sull'utente e sulla qualità del suo lavoro,
+nonché analizzare gli aspetti organizzativi tecnici ed economici
+che tale tipo di cambiamento comporta. Per dare una risposta alla
+prima domanda, il progetto è attualmente in corso e la sua
+conclusione è prevista per la fine dell'anno; solo al termine
+saranno disponibili in forma strutturata le informazioni
+riguardanti i risultati operativi concreti in base ai quali si
+potrà esprimere un giudizio di efficacia.
+La seconda domanda è una domanda che potrebbe già apprezzare in
+virtù delle considerazioni fatte prima... però si ribadisce che
+l'incarico di cui alla deliberazione n. 394/2006 ha riguardato i
+sistemi informativi ospitati sul sistema centrale e il progetto
+pilota che è stato avviato riguarda le strutture interne
+dell'Amministrazione e quindi non il settore della scuola e della
+formazione.
+Terza domanda: al di là che non so perché mi ha posto questa
+domanda, per quanto riguarda il quesito se il riferimento al
+progetto citato è quello del progetto pilota di cui si è detto in
+precedenza, si conferma che lo stesso procede come preventivato e,
+sulla base delle sue risultanze, la Giunta disporrà a fine anno
+delle necessarie conoscenze per stabilire le future strategie in
+merito all'introduzione di "software open source" negli uffici
+dell'Amministrazione. Se voleva avere la conferma che la
+sperimentazione va avanti, l'ha avuta; a fine anno avremo alcuni
+elementi e potremo giudicare. Anche all'interno del suo gruppo mi
+sono confrontato e, se da un lato l'"open source" può rappresentare
+un'opportunità, bisogna procedere con una certa cautela per evitare
+di avere dei tuffi nel vuoto da parte di procedure che devono
+essere ultragarantite e ultraffidabili; quindi, da un lato,
+opportunità, ma anche molte incognite. So che il collega Bortot ha
+tanti entusiasmi, ma lo invito alla prudenza e a seguire con noi la
+sperimentazione.
+Presidente
+- La parola al Consigliere Bortot.
+Bortot (Arc-VA)
+- Ho avuto un dubbio quando non si
+trovava l'Assessore: che non sapesse molto cosa rispondermi...
+Marguerettaz
+(fuori microfono)
+- ... invece
+no...
+Bortot (Arc-VA)
+- ... invece sì, Assessore, continuiamo a
+sperimentare una cosa che è funzione in mezza Europa e noi
+continuiamo a sperimentare. Mi dice che il settore della scuola è
+escluso, è dove tutti i sistemi informatici vengono usati di più
+per questioni ovviamente di età. Ne avremo bisogno, perché abbiamo
+un territorio decentrato in 74 Comuni e lei continua a dirmi che il
+progetto è in corso e che farete un'ulteriore verifica a fine anno.
+Mi sono preso l'appunto, le avevo promesso a maggio che dopo 6 mesi
+saremmo tornati sull'argomento, adesso diciamo che a gennaio
+torneremo sull'argomento, però è la seconda volta che mi risponde:
+"stiamo sperimentando, verificando" e mi dice anche di usare della
+cautela. Io direi di mandare qualcuno a copiare cosa hanno fatto a
+Bolzano o da qualsiasi altra parte, si tratta di sistemi
+informatici sperimentati, quindi non innovativi, mandiamo qualcuno
+a copiare se non siamo capaci noi! Qui stiamo parlando intanto di
+risparmiare soldi e poi dare un grosso servizio alla Regione e non
+solo all'Amministrazione regionale, ma anche ai cittadini, alle
+scuole, a tutto il comparto dei servizi della regione. Questo fa
+anche "a pugni" con le risorse che mettiamo in tale settore ogni
+anno, compreso il bilancio per il 2008, quindi non so con chi parla
+lei, dovrebbe verificare meglio se chi ha incaricato la Regione ad
+occuparsi di questo problema è in ferie da 6 mesi o se ne sta
+occupando sul serio! Se mi dà poi la risposta... no?... va bene,
+tanto ho preso gli appunti.
+Informativa cookies
+Consiglio Regionale della Valle d'Aosta © 2025
+Questo sito utilizza cookies propri e di terze parti. Continuando ad usare questo sito, acconsenti all'utilizzo di questa tecnologia.
+Consulta la nostra
+informativa
+per maggiori informazioni e per istruzioni su come disattivare i cookies.
+OK

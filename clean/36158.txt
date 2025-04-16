@@ -1,0 +1,228 @@
+Classificazione
+PROTEZIONE CIVILE, VIGILI DEL FUOCO E INTERVENTI PER CALAMITÀ NATURALI
+Protezione civile
+
+
+
+Oggetto del Consiglio n. 422 del 12 febbraio 2014 - Resoconto
+OGGETTO N. 422/XIV - Interpellanza: "Iniziative per rendere
+efficiente il nuovo sistema di Protezione civile della
+Regione".
+Presidente -
+Ha chiesto la parola, per l'illustrazione,
+il collega Chatrian; ne ha facoltà.
+Chatrian (ALPE)
+- Sì, grazie Presidente.
+Abbiamo voluto ripresentare questa iniziativa perché volevamo
+avere, da parte del Presidente del Governo regionale, contezza e
+delle risposte precise. Faccio una brevissima premessa. Il Governo
+regionale nel 2008 ha deciso di approvare la realizzazione di una
+nuova rete radio standard Tetra per la gestione delle comunicazioni
+mobili in fonia e i dati della rete regionale di radio
+comunicazione della Protezione civile. Questo è, diciamo,
+l'argomento di questa nostra iniziativa. Gli scorsi Consigli
+avevamo presentato un'iniziativa sempre su questo tema e il
+Presidente della Regione aveva risposto, in parte, ai quesiti che
+noi avevamo posto, oltretutto dei quesiti diciamo complessi, nella
+formulazione fatta dalla nostra iniziativa.
+Le risposte che ci ha fornito il Presidente della Regione ci
+hanno quasi creato più dubbi di quelli che avevamo al momento in
+cui avevamo presentato la scorsa iniziativa. Perché dico questo?
+Perché stiamo parlando di una scelta di campo che è stata fatta da
+parte dell'Amministrazione regionale, nel novembre 2008. Si è
+deciso, quindi, di mettere in campo un nuovo modo, un nuovo sistema
+a fronte di tantissime risorse pubbliche, che a domande puntuali
+che abbiamo fatto nella scorsa iniziativa, il Presidente della
+Regione ci ha risposto in questa maniera: "al momento il tutto è in
+sperimentazione, in affiancamento al sistema ordinario analogico,
+considerato che le comunicazioni sono ovviamente fondamentali per
+il funzionamento del sistema di protezione civile". Dopo 5 anni di
+percorso, quindi, a oggi il sistema Tetra non è ancora utilizzato
+al 100 percento e siamo ancora in una fase di sperimentazione.
+Nella seconda domanda il Presidente ci rispose che questo sistema
+ha degli svantaggi importanti e quali sono questi svantaggi
+importanti? Gli svantaggi hanno evidenziato il costo molto elevato,
+come vi dicevo poc'anzi e, secondo svantaggio forte, probabilmente
+la maggiore criticità è che, - chi è esperto del settore o magari
+ha utilizzato questo modello, questo sistema,- il segnale Tetra non
+copre ancora tutto il territorio regionale. Due forti criticità,
+quindi, come l'elevato costo e il fatto che a oggi non copre ancora
+tutto il territorio regionale.
+Di che cosa si parla quando faccio riferimento all'elevato
+costo. Il costo complessivo dal 2008 al 2013 per la realizzazione
+del sistema informatico e di comunicazione e per i successivi
+interventi di aggiornamento e implemento è stato di circa 3.750.000
+euro. Una cifra, quindi, molto importante. A questo dobbiamo
+aggiungere anche un costo annuo di contratto che ammonta a circa un
+milione di euro più Iva, per un contratto che praticamente è il
+costo annuo di manutenzione ordinaria, straordinaria, che
+dev'essere messo in campo.
+Cosa chiediamo oggi al Governo regionale: innanzitutto quali
+sono state le motivazioni che hanno indotto il Governo regionale a
+scegliere come tecnologia di comunicazione il sistema tetra. Come
+dicevo prima ci sono due grandi criticità: l'elevato costo e la
+parte forse più delicata, con una criticità altissima, che il
+territorio Valle d'Aosta non è coperto, a fronte di tutti gli
+svantaggi operativi ed economici e visto il buon funzionamento del
+precedente sistema. Quali iniziative intende assumere la Presidenza
+per rendere efficiente il sistema scelto per le comunicazioni, in
+tempi brevissimi, vista la fondamentale importanza. Ribadiamo la
+fondamentale importanza della Protezione civile, del sistema radio
+all'interno del nostro territorio, in modo da non essere "cornuti e
+mazziati", nel senso che abbiamo costo elevato, copertura scarsa e,
+magari, inefficienza alta per avere poi una ricaduta negativa sul
+territorio valdostano. Questi sono i due quesiti che poniamo al
+Governo regionale.
+Presidente
+- Ha chiesto la parola il Presidente
+Rollandin, per la risposta da parte del Governo; ne ha facoltà.
+Rollandin (UV)
+- Merci Président.
+Comme a rappelé le collègue, sur ce thème on a déjà parlé il y a
+quelques jours et pendant la séance précédente j'avais donné des
+informations liées à la naissance de cet achat et du choix du
+système, et surtout mis en évidence ceux qui étaient les problèmes
+ouverts.
+Pour ce qui est des réponses ponctuelles au collègue, dans la
+réponse à la précédente interpellation sur ce sujet, la décision
+d'adopter le système Tetra remonte à l'étude de faisabilité
+diligenté en 2005, la naissance du système et le choix du système a
+été fait en ce moment. En 2009 a été lancé l'appel à projet en vue
+de la conception et de la réalisation du système radio-mobile
+Tetra. Quant aux motivations techniques qui ont amené à opter pour
+le standard Tetra, je voudrais les résumer.
+Avant tout son efficience supérieure à celle des systèmes
+analogiques, puisque chaque onde porteuse peut gérer trois appels
+de groupe simultanément, ce qui donne pour le système de secours
+une validité importante et que l'analogique évidemment ne donne
+pas. Le fait qu'il nécessite moins de répétiteurs que le système
+analogique, d'où une gestion plus efficiente du réseau ainsi qu'une
+pollution électromagnétique moindre, réduite. La possibilité de
+géo-localiser les appareils, ce qui garantit le suivi et la gestion
+des ressources, fonction particulièrement importante dans les
+situations d'urgence et pour les secours, et c'est capital, dans
+certains cas, il a été déterminant. La garantie de la
+confidentialité des communications, c'est-à-dire sont réservées, on
+ne peut pas entrer dans le mérite de ces communications,
+puisqu'avec ce système Tetra, celles-ci sont codées et que seuls
+les appareils authentifiés par le système peuvent y avoir accès.
+Les fonctions de communication avancées: Tetra permettent la
+transmission simultanée d'appel vocal et de données, ainsi que des
+communications simultanées entre plusieurs sujets, alors que le
+système radio-analogique ne permet qu'une communication entre deux
+interlocuteurs. Je crois que ces aspects sont très spécifiques et
+j'estime l'autre fois je n'avais pas fait cette énonciation, étant
+donné qu'on discutait plus des couts de base...
+Pour ce qui est de la deuxième question:
+"quali iniziative si
+intende assumere..."
+Le système Tetra a déjà été utilisé comme système exclusif de
+communication dans différentes occasions, comme le Jeux mondiaux
+militaires et les deux dernières éditions, par exemple, de la Foire
+de Saint-Ours. Avant d'être pleinement exploitable, le système est
+passé par une phase expérimentale, qui touche aujourd'hui à sa fin.
+On a terminé la phase expérimentale, cette étape a permis de
+repérer les zones non-anthropisées, c'est-à-dire, étant donné qu'on
+les a données aux garde-forêts dans les différentes stations, on a
+pu voir jusqu'où et quand il y avait quelques problèmes par rapport
+aux autres. Ce que je veux rappeler est que les mêmes problèmes du
+système Tetra les a le système analogique, donc on a fait ce
+recueil de données, mais le système, s'il a des difficultés, les a
+moins encore que l'autre système.
+Alors je disais, de repérer les zones non-anthropisées - je
+répète donc pour le secours c'est un autre point de référence - qui
+ne sont pas couvertes par un signal radio. En effet la radio ne
+sert pas seulement aux communications, mais permet aussi la
+géolocalisation, élément fondamental pour la sécurité du personnel,
+surtout du personnel, il y a eu des cas pour les intéressés qui ont
+dû être objet de secours. On procédera maintenant à étendre où
+nécessaire ce système en ajoutant des répétiteurs ou en augmentant
+la puissance de ceux-ci. Nous attendons par exemple que la
+communauté de montagne Mont Rose nous autorise à utiliser le site
+de Grand-Rosier, qui lui appartient, pour assurer la couverture de
+la vallée de Champorcher, qui était maintenant une des "vallées
+problème".
+Les fonds nécessaires au financement de ces travaux d'extension
+sont déjà disponibles. Par ailleurs, dès la semaine prochaine tout
+le Corps forestier se verra prochainement remettre un appareil
+portable et une table-ronde technique est actuellement en train
+d'analyser la migration, sur le nouveau système, du service
+sanitaire. Comme je l'avais dit, il y a encore des stations qui
+n'avaient pas les radios, maintenant il y a la distribution des
+radios à toutes les stations forestières de toute la Vallée. Il y
+aura donc la possibilité d'utiliser ce système de la part de tout
+le Corps forestier et de cette façon il y aura, si par hasard il y
+a des difficultés, la possibilité de saisir les points faibles,
+s'il y en a encore, et donc de mettre à l'aise le système dans son
+ensemble, qui a tous les avantages que je viens de dire. Merci.
+Presidente
+- Grazie. Per la replica, ha chiesto la parola
+il collega Chatrian; ne ha facoltà.
+Chatrian (ALPE)
+- Sì, grazie Presidente.
+Non sono un tecnico di questa materia, ho ascoltato le premesse
+che immagino qualche funzionario, dirigente o i responsabili le
+hanno fornito. Il punto, però, è questo, nel senso che avete
+acquistato una macchina costosissima, lei ci dice oggi che è finito
+il percorso sperimentale e che nei prossimi mesi si dovrebbe
+chiudere questa fase...in questi giorni, questa fase sperimentale.
+Mi chiedo, però, come si possa chiudere la fase sperimentale quando
+lei sa meglio di me che a oggi la copertura è inefficiente e
+rispetto al vecchio modello, le persone sul campo, i funzionari, i
+dirigenti e non solo continuino a dire che il modello meno costoso
+dava più sicurezza e più possibilità di copertura territoriale.
+Rimangono, a mio avviso, delle zone d'ombra.
+Lei ha illustrato il secondo quesito:
+"Quali iniziative
+intende assumere la Presidenza"
+. Ci aspettavamo qualcosa di
+più, Presidente Rollandin, ci aspettavamo che dicesse alla
+popolazione valdostana "forse...sì abbiamo sbagliato modello?
+Abbiamo sbagliato percorso?" A oggi tanti di questi strumenti
+acquistati, che ho invitato a verificare, non sono ancora
+utilizzati e mi sembra che ci sia, di fondo, una non affidabilità
+su questo sistema, che comunque è stato approvato nel novembre 2008
+da una delibera di Giunta.
+Come dire, è stato un
+flop
+, è costato troppo, il buco è
+peggio della toppa, e probabilmente qualcuno deve prendersi delle
+responsabilità, Presidente Rollandin. Lei sa perfettamente che
+qualcuno si sta rimpallando le responsabilità all'interno dei vari
+attori, lo sa, conosce la situazione, gli operatori conoscono molto
+bene la situazione e l'inefficienza di questo sistema messo in
+campo, e di più lei ci dice oggi "allargheremo a tutte le stazioni
+forestali questo...". A oggi non ancora tutte le stazioni forestali
+lo utilizzano...solo 4 stazioni forestali utilizzano questo
+sistema... Questa settimana le altre stazioni lo utilizzeranno, ma
+continuo a invitare il Governo regionale a prendere il toro per le
+corna, a mettere insieme tutti gli attori che concorrono a
+condividere questo nuovo modello acquistato nel novembre 2008 e al
+quel punto mettere gli operatori addetti, come dicevo prima,
+attorno a un tavolo e che ognuno si prenda le proprie
+responsabilità, sotto un coordinamento puntuale, scientifico e
+pianificato.
+A oggi continuo a ribadire che non è così, che le risposte non
+sono quelle che lei ci sta dando di nuovo per la seconda volta, in
+quest'aula. Noi non possiamo metterci al vostro posto, perché
+abbiamo un ruolo diverso, voi avete un ruolo di governo, noi
+abbiamo in questo caso un ruolo ispettivo e di consiglio, ma le
+chiediamo con tutta onestà e franchezza di entrare nel merito, chi
+fa che cosa, chi decide che cosa, chi è responsabile, per
+utilizzare al meglio una scelta fatta, che forse è partita nel 2005
+con uno studio di fattibilità, poi concretizzata nel novembre 2008
+con una delibera di Giunta regionale.
+Termino queste riflessioni dicendo che a mio avviso, purtroppo,
+rimangono ancora delle zone d'ombra che lei oggi non ci ha
+chiarito, probabilmente torneremo su questo dossier, magari con una
+mozione che impegni il Governo ad andare in Commissione per mettere
+tutti gli attori attorno a un tavolo. Dispiace perché queste
+inefficienze e questi sprechi fanno male al modello Valle d'Aosta,
+così come i soldi inutilizzati, stiamo parlando di milioni e
+milioni di euro, non danno i risultati per cui l'Amministrazione
+aveva messo in campo una scelta importante e impattante 5 anni
+fa.
+Si dà atto che dalle ore 17,09 assume la presidenza il
+Presidente Emily Rini.
+Rini (Président)
+- Point 19 à l'ordre du jour.

@@ -1,0 +1,1073 @@
+Consiglio Regionale della Valle d'Aosta - Oggetto del Consiglio n. 718 del 25 settembre 2014 - Resoconto
+Vai al contenuto principale
+Oggetti del Consiglio
+Invia
+Stampa
+Documenti
+Verbale
+Resoconto
+Collegamenti
+Iter atto
+Classificazione
+INFORMAZIONE
+Sistema informativo
+Precedente
+Successivo
+Resoconto integrale del dibattito dell'aula. I documenti allegati sono reperibili nel link "iter atto".
+Oggetto del Consiglio n. 718 del 25 settembre 2014 - Resoconto
+OGGETTO N. 718/XIV - Approvazione del piano pluriennale
+2014-2018, per lo sviluppo del sistema informativo regionale, di
+cui alla legge regionale 12 luglio 1996, n. 16 - Linee guida per
+l'Agenda digitale in Valle d'Aosta.
+Presidente -
+La parola al Presidente della Regione
+Rollandin, ne ha la facoltà.
+Rollandin (UV)
+- Grazie Presidente.
+L'esposizione di questo piano fa riferimento sostanzialmente
+alla legge 16 del 1996, che è alla base della programmazione
+pluriennale e che si riferisce a questa tematica. Il piano che si
+presenta, 2014/2018, rappresenta la sintesi tra la visione politica
+regionale, gli indirizzi nazionali europei che sono stati emanati,
+lo stato dell'arte delle tecnologie informatiche delle
+comunicazioni e si inserisce in qualche modo nel più ampio scenario
+che vede le varie strategie a livello europeo e la
+Digital
+Agenda
+che è sia europea che italiana. Il piano illustra le
+azioni che saranno intraprese nell'ambito dell'agenda digitale in
+Valle d'Aosta, definite sulla base delle analisi del contesto e dei
+risultati del precedente periodo di programmazione e ricondotte
+alle priorità strategiche condivise dalle Regioni italiane e
+approvate nell'ambito della Conferenza delle Regioni e delle
+Province del 24 luglio 2013.
+Come si articola il piano? Si articola in diversi punti e
+sostanzialmente tiene come base il contesto socioeconomico,
+normativo, organizzativo e in qualche modo l'elencazione, o meglio,
+la validazione dei principali risultati conseguiti nel periodo
+2010/2013; indica le linee di intervento della programmazione
+2014/2018, articolando il tutto in sei priorità strategiche
+condivise dalle Regioni italiane nel documento che ho appena
+ricordato e che sono: infrastrutturazione digitale, cittadinanza
+digitale, competizione ed inclusione digitale, crescita digitale,
+intelligenza diffusa nelle città e salute digitale. Per quanto
+riguarda gli aspetti finanziari, l'impegno del piano 2014/2018 è di
+94 milioni di euro, di cui 53 milioni per spesa corrente e 41
+milioni per spese di investimento. Le fonti di finanziamento sono
+oggi riconducibili ai fondi regionali destinati alle strutture e a
+quelli destinati alla finanza locale, i fondi europei e nazionali a
+finalità strutturale. Relativamente alle disponibilità dei fondi
+regionali, il bilancio di previsione 2014/2016 ha destinato alle
+strutture in ambito ICT l'importo complessivo di 57 milioni, di cui
+31 milioni per spese correnti e 26 milioni per spese di
+investimento. Nel predetto importo delle spese correnti rientrano
+circa 3 milioni e mezzo per interventi correnti di finanza locale,
+con vincolo di destinazione nel settore dei servizi generali e
+dello sviluppo economico, mentre l'importo delle spese per
+l'investimento comprende 1 milione e 700 mila, sempre in finanza
+locale. Le annualità 2014/2016 e 2017 comprendono altresì gli
+importi per la realizzazione del piano di sviluppo regionale di
+reti di nuova generazione: il documento è già stato approvato con
+deliberazione di Giunta nel 2009, rispettivamente con 3 milioni di
+euro per il 2014, 5 milioni e 600 mila per il 2016 e 3 milioni per
+2017. Per gli anni 2017/2018 il fabbisogno finanziario è stato
+stimato in linea con le precedenti annualità: 19 milioni 800 mila
+per il 2017 e 16 milioni 800 mila per il 2018.
+Qual è lo stato di attuazione del piano del 2014 a oggi, al 25
+settembre? I principali interventi realizzati o in corso di
+realizzazione sono articolati seguendo le sei priorità che ho
+appena enunciato, che sono il riferimento anche per la prossima
+programmazione nel 2014/2020. Per quanto riguarda
+l'infrastrutturazione digitale, quindi reti a banda larga e ultra
+larga,
+data center
+, l'infrastruttura dati, il nuovo
+paradigma
+Cloud
+, i processi di consolidamento e
+razionalizzazione infrastruttura, l'infrastrutturazione sul
+territorio tramite fibra ottica e punti di accesso
+Wi-Fi
+per
+la creazione della rete regionale di nuova generazione nell'ambito
+di
+VdA Board Business
+(dove siamo molto avanti, come abbiamo
+già detto e come sapete, per i chilometri di fibra posata), la
+realizzazione e gestione di una rete di trasporto del segnale in
+tecnica digitale per la ritrasmissione dei canali televisivi
+esteri, l'adeguamento della gestione e manutenzione delle
+postazioni per la radiotelecomunicazione, che si stanno ultimando,
+la gestione sul territorio regionale di tratti di fibra ottica di
+proprietà di altri soggetti in uso all'amministrazione regionale, i
+servizi di connettività tramite sistema pubblico con
+IP
+e la
+gestione dell'infrastruttura strategica. L'impegno è nel totale di
+5 milioni di euro.
+Per quanto riguarda la
+Cittadinanza digitale
+, questo si
+riferisce: all'avvio delle attività concernenti i servizi di
+conservazione digitale a norma, presso il polo archivistico
+regionale e sulla base dell'esperienza dell'Emilia Romagna,
+all'approvazione delle linee guide regionali concernente la
+disciplina dell'
+open data
+, all'avvio delle analisi per
+l'adeguamento del sistema contabile secondo il decreto 118 del
+2011, al potenziamento dei servizi del
+Data Wake House
+regionale, con particolare riferimento alla predisposizione e alla
+divulgazione del servizio del sistema statistico regionale, alla
+realizzazione dei servizi atti a garantire il sistema telematico
+fra i sistemi regionali e la Ragioneria generale dello Stato, allo
+sviluppo del potenziamento del Sistema Informativo Lavoro, il SIL,
+e messa in linea dei nuovi servizi.
+Per quanto riguarda le competenze e l'inclusione digitale, il
+focus è sulla precondizione rappresentata dalle competenze digitali
+dei cittadini-impresa, lo sviluppo in rete della didattica nelle
+scuole di formazione e la capacità dei soggetti pubblici di
+ridefinire le modalità di approccio e relazione con partenariati e
+comunità locali nella logica
+Open Government
+. Quindi la
+gestione è prevista con un'evoluzione dei supporti e dei siti
+portali dell'Amministrazione regionale e di tutte le altre. Per
+quanto riguarda la criticità digitale, il superamento del famoso
+digital divide
+: l'economia della conoscenza, la creatività e
+lo sviluppo di un ecosistema favorevole alle
+start up
+,
+l'erogazione dei servizi di aggiornamento evoluzione del sistema
+dello sportello unico, la definizione del percorso evolutivo (di
+conseguenza dei sistemi SISPREG e SISPOR a supporto della nuova
+programmazione: sono i sistemi di controllo previsti per i
+finanziamenti), il proseguimento della collaborazione
+interregionale sulle attività di manutenzione e sviluppo del
+sistema Sigma Ter, finalizzato alla fruizione dei dati catastali.
+L'impegno è di quasi un milione di euro.
+Poi, intelligenza diffusa nella città e aree interne, che si
+riferisce ai progetti
+Smart City and Communities
+: il
+sostegno del
+Social Innovation
+ai servizi per l'infomobilità
+e la qualità della vita (questo significa la messa in linea dei
+sistemi di mediateca regionale), il mantenimento e lo sviluppo del
+sistema informativo bibliotecario in tecnologia
+open source
+(quindi quello di cui in parte si parlava anche in questi giorni),
+la prosecuzione della realizzazione del sistema di infomobilità con
+l'attivazione dei punti di rilevamento del traffico sulle strade
+regionali nei Comuni di Pont-Saint-Martin, Verrès, Châtillon,
+Aymavilles e Villeneuve, il mantenimento dei sistemi di
+prenotazione e acquisto biglietti per la fruizione delle visite dei
+castelli e delle mostre. Quindi si va nella direzione più volte
+auspicata anche in quest'aula, cioè di trovare un meccanismo più
+celere, più efficace e soprattutto che dia la possibilità di avere
+riscontri delle visite, quindi delle ricadute delle operazioni
+relative all'utilizzo di queste strutture.
+Per quanto riguarda la salute digitale, il focus è sulla
+precondizione rappresentata dal fascicolo sanitario elettronico.
+Con l'Assessore Fosson si sta seguendo questo tema molto delicato
+che è riferito a un piano nazionale partito da tanto tempo, ma che
+è abbastanza difficile nella sua concezione e nel suo adeguamento:
+si tratta di mantenere e adeguare gli applicativi del sistema
+informativo sanitario sull'anagrafe assistiti-mobilità, il discorso
+interregionale, il discorso dei farmaci - quindi, la possibilità di
+avere tutta una serie di economie e soprattutto di avere la
+contezza di quello che succede all'interno delle singole strutture
+- e il proseguimento della progettazione del fascicolo sanitario
+elettronico da parte dell'azienda USL, con circa 900 mila euro. Ci
+sono, poi, le spese di funzionamento per garantire la manutenzione,
+i servizi di supporto, i servizi dell'applicativo, la gestione e la
+manutenzione delle varie risorse delle tecnologie applicate.
+Nell'insieme l'impegno di spesa è pari a circa 8 milioni di
+euro.
+Queste, a grandi linee, sono le articolazioni in cui ci
+ritroviamo per quanto riguarda questo piano. Il piano in sé, poi,
+sviluppa una serie di tematiche che sono sicuramente importanti,
+come quella dell'analisi del contesto regionale, cioè di come e
+dove siamo arrivati, di quello che è il contesto organizzativo, ma
+nel contesto regionale la strategia in qualche modo dice che sarà
+attuato nei singoli settori un turismo di qualità, motore di
+sviluppo, una rete di imprese innovative, un'agricoltura
+d'eccellenza custodia del territorio e una formazione dei giovani e
+degli adulti. In particolare per le aziende si fa giustamente
+riferimento alla situazione in cui oggi siamo: quello che viene
+visto come un punto di attesa, proprio per lo sviluppo di queste
+tecnologie che possano permettere di essere adeguatamente in grado
+di collegarsi con il sistema che oggi fa rete, al di là delle varie
+innovazioni in corso. Proprio sotto questo profilo c'è un'esigenza
+di aumentare la quota delle imprese valdostane che utilizza i
+servizi bancari e finanziari tramite internet, che oggi è ancora
+molto modesto, da una parte per le difficoltà tecnologiche,
+dall'altra per un adeguamento che è ancora lento. Si rileva, poi,
+la propensione a ricercare informazioni sui mercati tramite la
+rete, che è quello a cui tutti tendono e che oggi, per le ragioni
+che ho appena detto, è ancora molto deficitario. Questi sono alcuni
+degli aspetti che potranno essere migliorati con il nuovo piano
+2014/2020.
+Ecco, io ho sintetizzato, ma credo che l'allegato spieghi nella
+sostanza le varie puntualizzazioni che questo piano declinerà
+nell'ambito del programma che andrà visto e attuato negli anni a
+venire, appunto dal 2014 al 2020. Grazie.
+Presidente
+- Per la discussione del punto 41 ci sono
+richieste di intervento? Ha chiesto la parola il Consigliere
+Gerandin nella facoltà.
+Gerandin (UVP)
+- Merci Président.
+Presidente, lei è stato molto competente, direi molto
+convincente nell'illustrazione, per cui non possiamo che
+condividere la necessità di sviluppare il sistema informativo
+regionale e quelle che sono le prospettive. Lei ha parlato di
+analisi del contesto regionale, di sviluppo di tecnologie, di
+sviluppo di rete: è veramente il nostro futuro, per cui non
+possiamo non condividere questo importante percorso.
+Nello stesso tempo lei nell'illustrazione ha forse omesso una
+parte importante di questo piano - parlo delle pagine trenta e
+trentuno - quella dei meccanismi di affidamento
+in house
+e
+di controllo analogo. È un passo molto importante, perché noi
+riteniamo che - d'altronde, lo scrivete voi in questo passaggio -
+le modalità di affidamento e di controllo siano cose
+importanti.
+Breve premessa. A noi dispiace che questo piano 2014/2018 venga
+approvato a fine 2014. Per cui il primo elemento di incongruità o,
+quanto meno, di fatto poco coerente, è il fatto che un piano del
+genere andava quanto meno approvato molto prima. Nel passaggio del
+discorso sull'
+in house
+, passaggio che io ci terrei veramente
+a leggere, perché sono solo le ultime righe di pagina trentuno, si
+dice - almeno, così è scritto - sull'aspetto della rendicontazione:
+"Negli ultimi anni tali aspetti si sono maggiormente chiariti, in
+modo uniforme, nei manuali di gestione dei diversi programmi
+cofinanziati dai fondi strutturali (FESR, ecc.) e le relative
+modalità sono state applicate nei rapporti contrattuali tra le
+strutture dell'Amministrazione e le società partecipate regionali".
+Poi si dice, leggo precisamente quello che è scritto nel piano:
+"Tali meccanismi si discostano dalle logiche contrattuali
+normalmente applicate con la società partecipata IN.VA., basate su
+tariffe giornaliere per figura professionale, approvate dalla
+Giunta regionale". Mi riferisco chiaramente alla delibera di Giunta
+regionale 303 del 5 febbraio 2010, perché è quella di riferimento
+in questo momento. Dice anche: "...sarebbe pertanto opportuno
+uniformare tali meccanismi valutando gli impatti dell'applicazione
+delle regole utilizzate nell'ambito di progetti cofinanziati
+comunitari. L'applicazione uniforme di tale modalità non
+rappresenta soltanto una modifica di metodo, seppur importante, ma
+rivoluziona i rapporti tra Regione e IN.VA., in quanto può
+consentire: di esercitare il cosiddetto controllo analogo, non
+solamente attraverso le modalità prescritte all'articolo 31 della
+legge regionale n. 8 del 2013...", che sono molto sintetiche,
+perché ti obbligano solo a alcuni passaggi riferiti ai bilanci, e
+"di meglio coniugare gli obiettivi strategici di investimento e di
+sviluppo richiesti...". Poi c'è la parte relativa agli obblighi
+gestionali di efficienza, economicità dei servizi erogati, "di
+semplificare il processo di valutazione delle proposte
+tecnico/economiche..." e ultimo passaggio che io ritengo
+assolutamente importante, "di agevolare IN.VA. nel processo di
+allocazione delle proprie risorse".
+Ora, perché dico questo? Perché con questo ritardo
+nell'applicazione a oggi noi abbiamo visto una sequela infinita di
+deliberazioni di Giunta e di provvedimenti dirigenziali che
+affidavano per il 2014 ad IN.VA., in attesa dell'approvazione del
+piano, con le modalità di compenso a giornata! L'esatto contrario
+di quello che si scrive sul piano! Ma è così, è assolutamente così!
+Se vuole le faccio l'elenco, ma non voglio, perché fanno tutti
+riferimento alla delibera 303, dove l'unico riferimento è il costo
+giornaliero. Ora io dico: se si vuole approvare un piano con questi
+indirizzi - bontà vuole che parliamo di una delibera di Giunta del
+2010 -, se c'era la volontà di voltar pagina, era sufficiente
+modificare la 303. Questo sarebbe stato un segnale importante da
+parte nostra, nel senso che avremmo evitato di scrivere delle linee
+guide o quant'altro che poi sono in antitesi totale coi
+provvedimenti. Ora io chiedo: c'è la volontà di rivedere questi
+provvedimenti? C'è la volontà già per il 2014 di tener fede a
+quanto previsto nel piano, vale a dire rendicontazioni ad ore e non
+a giornata? Primo quesito.
+Secondo quesito. Lei ha parlato di impegni finanziari relativi
+anche alla copertura 2014. A noi risulta che nei provvedimenti che
+sono stati adottati sino ad oggi c'è garantita la copertura
+finanziaria per il primo semestre. Il secondo semestre come
+pensiamo di chiuderlo? Anche perché, sulla base di queste
+comunicazioni IN.VA. scrive alla Regione: "tutto ciò premesso,
+IN.VA., qualora non ricevesse con congruo anticipo la comunicazione
+di rifinanziamento della convenzione anche per il secondo semestre,
+si troverà costretta all'emissione di una fattura aggiuntiva a
+saldo delle prestazioni erogate nel primo semestre per un importo
+pari al 20 percento del valore della convenzione stipulata, ciò al
+fine di garantire l'equilibrio costi e ricavi della convenzione".
+Noi viviamo in questo momento in cui è la società
+in house
+a
+dettare le regole all'Amministrazione.
+Ci sono altri passaggi assolutamente interessanti per capire che
+c'è questo buio, legato agli affidamenti e alle rendicontazioni. A
+seguito di osservazioni fatte su una proposta economica di IN.VA.,
+nella quale chi ha valutato la congruità economica scriveva a
+IN.VA.: scusa, ma devi rivedere l'importo. Beh, IN.VA. comunicava
+subito di non essere disposta a rivedere l'importo da fatturare.
+Dopo un incontro veniva rimodificata la proposta tecnico-economica,
+mantenendo gli stessi servizi, mantenendo lo stesso monte giornate,
+ma dicendo che, eccezionalmente per il solo 2014, si accetta di
+cambiare l'importo relativo alla manutenzione ordinaria a canone da
+511 mila euro a 488 mila, riaffermando nel contempo che il valore
+inizialmente previsto non potrà subire riduzioni nel 2015. Per cui
+siamo di fronte a un soggetto che dice: scusa, va bene, ma gli
+importi e gli affidamenti li decido io! Non solo: ti dico già che
+nel 2015 questo sarà quanto mi pagherai!
+Presidente, noi siamo veramente qui a denunciare che non c'è
+coerenza tra quanto si scrive e quelli che poi sono i comportamenti
+effettivi, gli atti, le delibere. Non si può venirci a chiedere di
+votare un provvedimento del genere, quando poi sappiamo già a
+priori che non c'è un comportamento coerente. Non solo: è un
+comportamento totalmente contrario a quello che dovrebbe essere il
+rapporto tra un'Amministrazione pubblica e una società
+in
+house
+. Io non so se, quando fate queste rendicontazioni al
+Fondo Europeo, dite che il rapporto è di sudditanza, come succede
+in questo caso con la partecipata. Ma attenzione: fate il male
+anche della partecipata, anche della società in house! Perché non
+gli date certezze, perché non ha un riferimento certo! La legate a
+contrattazioni che - con tutto il rispetto - sembrano più legate a
+quelle che erano le nostre vecchie fiere di vecchia memoria, che
+non a un rapporto tra pubblica amministrazione e società in house.
+Ora, sinceramente, questo ci impedisce di votare un provvedimento
+che noi abbiamo condiviso nei principi, nei valori, negli
+obiettivi, ma non possiamo - non possiamo! - votare un documento
+del genere, in cui si dice tutto e il contrario di tutto.
+Presidente
+- Ha chiesto la parola il Consigliere Donzel,
+ne ha la facoltà.
+Donzel (PD-SIN.VDA) -
+Grazie Presidente.
+L'impostazione di questi documenti, come ahimè avviene in
+maniera un po' troppo spesso rituale, è quella di dover assolvere a
+compiti burocratici. Naturalmente all'interno di questi compiti
+burocratici tutta la parte che riguarda i principi e che è dettata
+anche da una normativa europea, nazionale e a un modo di procedere
+ormai riconosciuto universalmente, non può che trovare ampio
+consenso: promuovere e sostenere lo sviluppo della società
+dell'informazione, favorire il processo di innovazione
+organizzativa, sviluppare, modernizzare, diffondere gli strumenti.
+Tutte queste cose sono naturalmente affermazioni di principio che
+non possono che trovare il più ampio consenso. È invece nella parte
+cosiddetta applicativa concreta che bisogna spostare la nostra
+riflessione.
+Intanto, una questione che avevo posto già da tempo anche in
+Commissione, nonostante io non faccia parte della Commissione
+competente, è lo scostamento fortissimo che c'è all'interno di una
+cifra molto importante: parliamo di un piano da 150 milioni, quindi
+un piano dai numeri pesantissimi. Se noi andiamo a vedere, lo
+scostamento lo troviamo subito sul fatto che la spesa corrente è
+nettamente superiore alla spesa per investimenti. Già questo è un
+dato su cui io, in vista dell'approvazione del piano, non soltanto
+quest'anno e in questa sede, ho chiesto di avere maggiori
+chiarimenti, perché mettere oggi a disposizione delle risorse così
+importanti e vedere che comunque e sempre il meccanismo della spesa
+corrente prevale e prevarica su quello della spesa per
+investimento, è una cosa che mi lascia molto perplesso.
+Naturalmente esistono poi delle spese correnti che sono finalizzate
+a far funzionare spese di investimento, quindi non voglio
+banalizzare la cosa. Però è evidente che ci sono degli anni nel
+programma in cui praticamente la spesa per investimento è un po'
+come una macchina che devo continuare a mantenere e, invece, lo
+sforzo maggiore dovrebbe essere nel salto di qualità.
+Presidente, naturalmente questo piano è redatto da persone
+preparate, da tecnici e quant'altro, e lei ovviamente fa parte di
+questa equipe, sovraintende politicamente la stesura, per cui
+capisco che certe affermazioni probabilmente non le appartengono
+come stile, perché mi sembra un po' troppo roboante dire: questa
+Valle d'Aosta in cui ha saputo svolgere un ruolo di pioniere;
+l'azione pubblica in favore della disposizione di dispositivi
+digitali e dell'alfabetizzazione informatica è stata un'azione
+prorompente. Vorrei, invece, affidarmi un po' al suo senso pratico
+e farle capire cosa succede in questa Valle d'Aosta in cui, dalla
+sera alla mattina, delle famiglie si sentono dire: ah, ma ormai noi
+non scriviamo più i voti dei vostri alunni su un quaderno, su un
+pezzo di carta, ve li dovete andare a leggere sul computer a casa!
+Dalla sera alla mattina e ci sono famiglie che non hanno neanche il
+computer a casa.
+Io vorrei che questa estensione, questi programmi fossero veri,
+fossero reali, fossero calati nella nostra realtà. Certo, le scuole
+valdostane si stanno digitalizzando, c'è un percorso che va in una
+certa direzione, ma magari qualcuna per la distrazione di una
+segreteria o di un dirigente rimane bloccata per una settimana, per
+cui si segnano le assenze sulla mano, in attesa che si riesca a
+trovare la soluzione; ma questo fa parte di un percorso, non è
+questo il punto. È come lo stiamo affrontando e se lo caliamo
+veramente nella realtà!
+Altro esempio fondamentale che qui è contenuto e che a me
+interessa molto: la questione dello sviluppo economico e quindi del
+turismo. Il piano chiaramente calibra anche su questa voce
+fondamentale per noi, il programma di digitalizzazione. Quello che
+sta emergendo dai primi dati, poi ovviamente io non ho a
+disposizione gli uffici che ha l'Assessorato al turismo, è che un
+pezzo di turismo che ha sofferto molto in Valle d'Aosta è proprio
+quello delle famiglie, che magari affittavano un appartamento,
+affittavano una casa: è lì che si sta svuotando, ma proprio perché
+è lì che non siamo in grado di connetterci. Non sono gli alberghi
+che non sono collegati con i
+booking.com
+, ma è proprio il
+turismo casalingo, quella cosa che però costituiva un volano della
+nostra economia, è lì che c'è questo scarto. Oggi qualcuno ha detto
+che è meglio mangiare che leggere: io dico che, se non si sa
+leggere, diventa difficile mangiare! L'informatica è oggi lo
+strumento che noi forniamo alle nostre famiglie per lavorare, per
+poter mangiare, perché nessuno dà più il mangiare dall'alto.
+Bisogna avere lo strumento: se una volta era la zappa, oggi può
+essere un computer e su questo secondo me va fatta una riflessione
+forte, in Valle d'Aosta, di come fornire questi strumenti. Mi
+interessa molto l'aspetto, per esempio, dell'informatica nel mondo
+agricolo, nel mondo rurale, perché ormai - da tempo io lo dico -
+parliamo di imprese, e quindi sempre di più bisogna andare in
+quella direzione.
+Di certo non voteremo contro questo provvedimento e ci
+asterremo, ma una delle ragioni che mi hanno portato alla
+riflessione con il gruppo su questo punto, è quest'enorme sforzo
+che l'Amministrazione fa di evolversi, perché poi significa anche
+dare tempestivamente servizi ai cittadini. Arriviamo persino, ne ha
+parlato Lei, a servizi sanitari erogati attraverso il sistema
+informatico, quindi cose importanti in cui, in questa evoluzione,
+non mi è chiaro come si riorganizza la macchina regionale, come
+cambia la macchina regionale di fronte a imponenti investimenti per
+informatizzare, per dare risposte più energiche, più puntuali.
+Intendiamoci, questo non è il vecchio pensiero del "se metto un
+computer tolgo un uomo": se metto un computer, magari ne metto
+anche due di persone, ma è chiaro che l'attività che faceva prima
+il dipendente regionale è diversa, cambia completamente. Vorrei
+quindi che mi fosse rappresentata meglio, non avendone avuto in
+questo momento contezza, come si riorganizza tutto l'apparato
+regionale in funzione di una capacità di erogare servizi, senza
+avere magari più un
+front office
+come c'era prima, ma avendo
+magari bisogno di un nuovo tipo di
+front
+office
+. Come
+si ripensa la macchina burocratica, di fronte a principi che tutti,
+ripeto, possiamo assolutamente condividere? La necessità di una
+Regione che si informatizza di più, vuol dire che è una Regione che
+è più capace di produrre, ma è nella fase della traduzione concreta
+che io in questi anni ho visto degli intoppi enormi: ho visto delle
+cose che vanno avanti, lasciando magari indietro chi è più in
+difficoltà.
+Quando si parla di alfabetizzazione, noi vediamo che le nuove
+generazioni sono già dentro questo mondo molto di più di quanto non
+lo siamo noi, ma mi fa specie che una Regione che è stata così
+attenta negli anni a fornire tutti gli strumenti... Abbiamo pagato
+e paghiamo ai nostri ragazzi la gomma, il temperino, l'astuccio;
+interveniamo economicamente a sostenere le famiglie ed è giusto
+farlo. Io trovo che bisogna affrontare meglio la questione
+dell'informatica nelle scuole, che naturalmente purtroppo è tra i
+settori che evolvono a una velocità incredibile. Una volta, quando
+vidi inaugurare in una scuola la piccola aula informatica,
+costruita quasi dalla buona volontà degli insegnanti (mi ricordo
+che quello fu un episodio incredibile), c'erano quattro ragazzi
+intorno a un computer per ogni classe, poiché non avevamo il numero
+sufficiente. Adesso abbiamo le aule di informatica, però siamo
+passati di colpo al fatto che ogni alunno ha già un
+tablet
+,
+ha già... Quindi è anche un campo dove è difficile investire,
+perché gli investimenti sono scavalcati nel tempo.
+Ripeto: bisogna che su queste cose ci sia la massima attenzione,
+perché qualcuno non rimanga indietro. Quando si coinvolge l'alunno
+a scuola, lui sì ce la fa, ma non si tiene conto che nel retroterra
+culturale ci possono essere famiglie che magari non sono in grado
+di usare determinati strumenti: forse chi immagina di usarli deve
+avere quell'attimo di attenzione verso queste persone. L'abbiamo
+detto più volte anche per i servizi erogati agli anziani: ai tempi
+in cui lavoravo nel sindacato, lo sforzo era di fare una formazione
+agli anziani, anche attraverso le strutture sindacali, perché
+potessero utilizzare questi sistemi tecnologici, non dando sempre
+tutto per scontato, perché non tutti hanno il nipote o il familiare
+a casa che ti aiuta. Quindi, se da parte nostra c'è una prospettiva
+positiva per l'enorme sforzo economico che si fa nella direzione
+del sistema informativo regionale, rimangono perplessità
+sull'applicazione concreta e sul calare poi nella concreta realtà
+queste cose, che si fanno anche leggere facilmente, ma che hanno
+poi la caratteristica tipica dei nostri bilanci, cioè con una parte
+corrente gigantesca e poi la parte per investimenti che è sempre
+quella che deve affannarsi dietro. Dobbiamo proprio anche un po'
+ripensare e applicare meglio queste risorse enormi che abbiamo a
+disposizione.
+Presidente
+- Siamo sempre in discussione generale. Ha
+chiesto la parola il Consigliere Chatrian, ne ha la facoltà.
+Chatrian (ALPE)
+- Grazie Presidente.
+Qualche considerazione. Devo dire che purtroppo questo piano
+pluriennale 2014-2018, dal punto di vista politico, ha avuto un
+bruttissimo percorso, perché abbiamo audito il Presidente Rollandin
+il 17 febbraio di quest'anno e ci ha presentato dal punto di vista
+generale le macro linee, le macro strategie. Poi la II Commissione
+ha iniziato il suo percorso interno, per avere tutte le
+informazioni, soprattutto per entrare nel merito di questo piano
+strategico. I miei colleghi mi hanno anticipato: un piano
+strategico che ha meno risorse ed è inutile continuare a ribadire
+questo concetto. L'obiettivo
+in primis
+di questo piano
+strategico era ed è quello di trovare delle soluzioni con meno
+risorse, per dare delle risposte puntuali a un modello Valle
+d'Aosta. Qualche settimana dopo abbiamo audito come Commissione chi
+si occupa all'interno dell'Amministrazione di questo dossier, il
+segretario generale Malfa coi suoi collaboratori.
+Faccio qualche passo indietro. C'è stata una scelta, anche dal
+punto di vista politico, di azzerare un dipartimento all'interno
+dell'Amministrazione regionale: è stata una scelta. Dico questo
+perché il Segretario generale ha fatto il 10 di marzo un passaggio,
+a mio avviso importante, che vorrei riprendere: "per chiosare, non
+stiamo più destinando fondi a software che gestiscono procedimenti
+di erogazione che ormai non sono più finanziati - questo la dice
+lunga: non abbiamo più certe risorse - ma stiamo destinando fondi
+per modernizzare la Pubblica Amministrazione regionale, al fine di
+renderla rispondente alle innovazioni enormi che vengono dal
+livello nazionale ed europeo"; questo è un macro obiettivo che
+tutti possiamo, penso, condividere. Poi c'è un passaggio in più, a
+mio avviso importante: "per il periodo 2014-2015-2016, troverete in
+questo momento soltanto le risorse regionali - dal punto di vista
+economico - e non ancora quelle europee e nazionali, perché non
+abbiamo ancora avuto quei soldi e continuiamo a presentare la
+richiesta di finanziamento, e confidiamo che sarà approvata
+subito". Questo ce lo diceva il Segretario generale
+dell'Amministrazione regionale il 10 di marzo: questo piano
+dev'essere approvato subito, perché dobbiamo essere rapidi a fare
+le richieste.
+Mi sembra che i due colleghi che mi hanno preceduto hanno già
+denunciato il fatto che la maggioranza - mi scusi Presidente -
+quanto meno in Commissione, ha dormito sonni tranquilli su questo
+dossier! Talmente tranquilli che una volta in Commissione, se non
+ci fosse stata la minoranza, saltava persino una riunione. E siamo
+andati oltre, colleghi, perché nel momento in cui il Presidente La
+Torre ha voluto approvare questo documento importante, a nostro
+avviso, non abbiamo neanche terminato i lavori della Commissione,
+nel senso che la commissione si era organizzata per sentire i
+colossi che utilizzano hardware, software, maestranze e non solo
+delle nostre società partecipate e che non hanno mai fatto nessuna
+richiesta alla nostra società IN.VA. per conoscere lo stato
+dell'arte; ci sembrava naturale avere delle informazioni per poter
+affrontare oggi in aula in maniera, io dico, dignitosa questo
+dossier. Come dire, La Torre ci ha presentato questo documento
+dicendoci: ascoltate, non possiamo dare corso e gambe alle
+richieste che avete fatto, che oltretutto avevamo tutti condiviso
+in Commissione, ma dobbiamo portare questo documento in aula,
+quindi noi responsabili di maggioranza dobbiamo votarlo, perché
+altrimenti i tempi sono troppo lunghi. Quindi, tutta una serie di
+informazioni che noi volevamo conoscere, sapere nel merito, non
+abbiamo potuto averle. Le ricordo, Presidente Rollandin, che si
+tratta d'informazioni che oltretutto la II Commissione, a nome del
+Presidente, ha richiesto a diverse società partecipate e diverse
+società non ci hanno neanche risposto. Non si sono neanche degnati
+di risponderci, per dire quanto meno: noi con la società IN.VA. non
+abbiamo nessun tipo di collegamento, la società IN.VA. non ha mai
+chiesto nessun tipo di preventivo o di collaborazione a questa
+società.
+Non è possibile che un piano di questa portata rimanga in
+Commissione consiliare sette mesi! Penso che non si possa, dal
+punto di vista politico, aspettare così tanto ed essere così
+superficiali. Ma al di là di quello, sempre a marzo siamo riusciti
+quantomeno ad audire i vertici della nostra società partecipata
+principale, IN.VA. Il presidente Rusci, nel relazionarci per la
+prima volta le loro valutazioni su questo piano, il 17 marzo ci
+disse questo: "il progetto regionale è ambizioso e sfidante,
+soprattutto in un momento finanziariamente difficile. Ci vedrà come
+soggetto portante del comitato strategico per l'attuazione
+dell'agenda digitale in Valle d'Aosta. Mi preme dire, però, che il
+piano è stato redatto esclusivamente dall'Amministrazione regionale
+e ci ha visti coinvolti in una fase solo di lettura... - questa è
+la nostra società partecipata
+in house
+che in Valle d'Aosta
+si occupa praticamente esclusivamente di informatica - ...anche da
+parte nostra una serie di suggerimenti, soprattutto di carattere
+tecnico, che mi sembra che siano stati recepiti. Certo speravamo in
+un pluriennale più ricco, da un punto di vista economico. La nostra
+visione che è più aziendalistica ci fa evidenziare che le cifre qui
+esposte sono, a nostro avviso, un po' sottostimate - questo il
+presidente della società - specialmente sul lato investimenti
+-sembra di riprendere l'intervento di altri colleghi -, perché a
+minori investimenti del piano corrispondono minori possibilità di
+lavoro per noi"; ovviamente parlava a nome della società IN.VA. Per
+chi non la conosce, è una società che comunque ha 239 dipendenti a
+tempo indeterminato e che quindi o si cerca lavoro o trova delle
+soluzioni alternative oppure c'è qualcuno che le dà copertura,
+altrimenti immagino - come la prossima settimana discuteremo del
+bilancio della Casa da gioco in perdita pesante - che fra qualche
+mese discuteremo sulle perdite di questa società. Poi sempre il
+presidente ci dice, sollecitato da noi Consiglieri di opposizione:
+"debbo dire che ce lo stiamo cercando un po' il lavoro. Abbiamo
+aperto un canale importante con le partecipate CVA e Casinò, con
+anche il serio obiettivo di mantenere il lavoro in Valle, facendo
+sistema e senza dimenticare i dieci decimi". Ottima, come idea,
+ottima! Tanto è vero che la nostra Commissione non ha neanche avuto
+l'onore e la possibilità di discutere con il Signor Frigerio, in
+quanto amministratore unico, con i vertici di CVA, perché non si
+sono presentati, e con tutti quelli degli impianti a fune e non
+solo. Questo per dire come si affrontano dossier di tale
+importanza, Presidente Rollandin, nelle sedi delle Commissioni. Non
+essendo al Governo, noi non sappiamo come voi avete affrontato e
+come avete redatto nel merito questo piano pluriennale
+2014-2018.
+Altre riflessioni. "Tuttavia la previsione budgettaria per il
+2014 - è sempre il presidente di IN.VA. - sbilancia comunque di 1
+milione 100 mila euro, e questo nonostante non si spenda un euro in
+più di quello che serve, vedasi per esempio la voce incarichi e
+consulenze. In conclusione, ci permettiamo di chiedere alle forze
+politiche sostegno affinché la spesa informatica sia orientata
+prioritariamente su IN.VA. e sulle 239 risorse, quindi più lavoro e
+più lavoro che resti in Valle". Considerazioni che si possono in
+parte condividere, in parte no. Noi abbiamo fatto delle domande
+puntuali ai dirigenti di IN.VA., perché se c'è una società
+in
+house
+e ci sono delle società partecipate e controllate che
+hanno bisogno di collaborazione su questi argomenti, la domanda, io
+penso, normale per un amministratore è: c'è stata una indicazione?
+C'è stato almeno un suggerimento? Le nostre società possono
+chiedere quanto meno i preventivi alla società IN.VA., per poter
+utilizzare, come dice il direttore Zanella, il
+know-how
+della nostra società? E vi leggo qualche riflessione che ci ha
+fatto il dottor Zanella: "in realtà ho cominciato già quattro anni
+fa ad andare a trovare i due soggetti, prima richiamati, della
+società CVA e Casinò, ponendomi nella stessa maniera in cui ci
+stiamo ponendo oggi, però non ho poi raccolto quello che speravo. -
+cioè non c'è trippa! Nel senso che IN.VA. non doveva o non poteva
+lavorare con CVA e con la Casa da gioco - Poi ho raccolto quello
+che speravo... - cioè, il nostro coinvolgimento - La stessa cosa la
+feci a suo tempo nelle società Finaosta, quando però il mondo delle
+società degli impianti a fune era un mondo ancora distribuito...
+oggi col raggruppamento, forse perché è più facile - perché queste
+erano domande puntuali, che noi avevamo fatto al dottor Zanella -
+ma in realtà è ancora un po' soffocato. - parlando di IN.VA.. - Il
+principale
+asset
+della società - secondo me questo passaggio
+è importante - è il capitale umano, cioè è un'azienda che fa
+servizi e ha il suo know-how nella persona. Se io prendo il
+bilancio, la situazione patrimoniale di IN.VA. avrò delle licenze,
+dell'hardware, ma l'
+asset
+principale è il capitale umano che
+teniamo costantemente aggiornato, per cui spendiamo parecchi soldi
+nella formazione, perché ci crediamo".
+Ecco, questi sono dei contributi all'aula e ai colleghi. Noi
+pensiamo che forse sia il momento che ci si parli, ci si confronti
+e che anche i vertici di queste aziende - tra pochi mesi
+discuteremo probabilmente delle perdite di esercizio di queste
+aziende - possano quantomeno mettere a disposizione il proprio
+know-how innanzitutto per le altre società partecipate: potrebbe
+essere una piccola proposta; queste sono dichiarazioni della
+dirigenza di IN.VA., non del sottoscritto o di altri.
+Un altro passaggio a mio avviso di rilievo, cito sempre il
+direttore: "provo ad affievolire la cosa, perché sembrerebbe che
+non ci vogliano. Dico sempre che i nostri clienti - dice il dottor
+Zanella - ci devono scegliere consapevolmente, non perché siamo una
+in house
+. Soltanto quando un cliente ti sceglie
+consapevolmente ti rimane fedele il più a lungo possibile: hai
+fatto un buon mestiere". Ottima come considerazione, ma magari se
+si creano anche dei canali per poter partecipare a delle procedure
+negoziate o a delle gare, io penso che alla fine creiamo le
+condizioni: uno per mantenere una società in house; due per
+mantenere i posti di lavoro; tre, se il
+know-how
+è veramente
+interessante e valorizzato, valorizziamolo tutti insieme e
+cerchiamo di rispondere.
+Ho fatto queste piccole considerazioni, perché l'impianto e
+l'architettura il confezionamento del piano pluriennale 2014-2018
+si possono nel suo insieme condividere, ma nel merito ci sembra che
+ci sia una superficialità totale, che non ci sia una strategia di
+fondo, che non ci sia quanto meno la voglia di utilizzare al meglio
+tutto quello che abbiamo e soprattutto, come dicevo prima, la
+società
+in house
+che si occupa principalmente di questo
+dossier. Io penso che un po' di responsabilità anche dal punto di
+vista politico ci sia e quanto meno ci sia la possibilità di
+partire da subito, dal mese di ottobre, creando questa filiera,
+queste condizioni che a oggi non ci sono.
+Faccio un altro esempio, anche se le perdite di esercizio sono
+sempre più alte: Vallée d'Aoste Structure. Ma vi sembra normale che
+Vallée d'Aoste Structure non chieda neanche dei preventivi per
+quanto riguarda il
+know-how
+della nostra società IN.VA. e
+delle proposte che può fare la nostra società in house, dato che si
+occupa del patrimonio immobiliare, che si occupa comunque di
+gestione? Non lo so, vi sembra normale? Vi sembra normale che la
+Casa da gioco non chieda un preventivo ad IN.VA.? Vi sembra normale
+che CVA - ieri ne abbiamo parlato diverse volte in quest'aula - dia
+quasi nulla? Nulla, nulla alla nostra società IN.VA.! E il
+presidente di questa società che voi avete nominato viene a dirci:
+cari ragazzi, cari politici, pensate anche un po' a noi, perché
+probabilmente vi porteremo conti in rosso nel giro di pochi mesi. E
+ci mettete otto mesi per arrivare in aula a discutere di questo
+piano triennale, senza avere, collega La Torre, neanche le minime
+informazioni per poter discutere. Noi chiediamo quanto meno la
+possibilità di poter avere quelle pari informazioni per poter
+affrontare un documento di tale importanza, di tale impatto. Ma
+penso che di fondo ci sia veramente non so se una volontà, non so
+se è voluto, se c'è dell'incapacità, se c'è della non strategia o
+se, invece, c'è solo superficialità. Penso che sia compito nostro,
+invece, creare delle condizioni per utilizzare al meglio la nostra
+società
+in house
+. Grazie.
+Presidente -
+La parola al Consigliere Cognetta, ne ha la
+facoltà.
+Cognetta (M5S)
+- Grazie, Presidente.
+Anche noi come Movimento Cinque Stelle annunciamo l'astensione
+su questo provvedimento. Si è parlato tantissimo in Commissione,
+abbiamo cominciando a parlarne a febbraio di quest'anno, quindi è
+stato un iter piuttosto lungo, che si è interrotto per questioni
+che conosciamo, ma non solo per quello. Io personalmente mi sento
+molto coinvolto rispetto a questo argomento, perché come sapete ho
+un'esperienza pluridecennale nel settore.
+Quello che ho evidenziato, al di là della questione economica
+che già hanno giustamente illustrato i miei colleghi, è la carenza
+da un punto di vista di servizio al cittadino. Quasi tutte le
+azioni che ci sono qui dentro sono rivolte esclusivamente a noi
+stessi, alla nostra amministrazione e non permettono di fatto uno
+sviluppo reale delle tecnologie sul territorio, che dovrebbero
+essere poi la spina dorsale per lo sviluppo di qualsiasi
+territorio, oggi come oggi. Noi - quando dico noi, intendo noi come
+amministrazione - da quello che ho capito, abbiamo spostato su
+questo piano cose che avremmo dovuto fare direttamente come
+amministrazione. Abbiamo utilizzato dei fondi europei: ben vengano,
+però dovrebbero essere sviluppo, non dovrebbero essere
+semplicemente ottimizzazione dei servizi interni
+all'amministrazione.
+Ho fatto delle domande precise a chi è venuto in Commissione.
+Ricordo che ho fatto un esempio specifico rispetto alla
+prenotazione degli alberghi che avviene sul nostro sito, se
+conoscevano il programma di gestione che viene fatto sul turismo.
+Mi ha detto che loro hanno le competenze per farlo, ma non viene
+fatto da loro, e questo è un esempio banale. Ho fatto altre
+richieste rispetto al programma di gestione dei fondi comunitari
+SISFOR, che è fatto da loro e che ha un costo che è quattro volte
+rispetto a quello che ha in Piemonte: noi abbiamo speso circa 1
+milione e 200 mila euro, in Piemonte hanno speso circa 300 mila
+euro. Mi sono state date risposte politiche, mi è stato detto che
+sono state scelte fatte in passato, scelte che non ci competevano,
+scelte che abbiamo ereditato, va beh!
+Abbiamo ereditato 250 dipendenti o 239, quanti sono, abbiamo
+ereditato questa situazione: va bene, non importa! Però, se non ci
+diamo una mossa e una sveglia, se non cominciamo a mettere mano
+effettivamente all'interno dei problemi tecnici e soprattutto
+sull'informatica! Voglio dire: non toccare l'informatica oggi è
+tagliarsi le gambe completamente per qualsiasi sviluppo futuro. Non
+serve mantenere i posti di lavoro e basta, non serve spendere per
+fare il
+data center
+centrale di tutti quanti i server della
+Regione, se poi questo non si traduce in qualcosa verso il
+cittadino. Va beh, abbiamo risolto il problema tecnico nostro e chi
+se ne frega, detto fra di noi, perché spendiamo 80 milioni di euro,
+mica spendiamo due soldi! Questa soluzione ricorda molto, scusi il
+paragone, ma ricorda molto la questione dei bimodali: si cerca una
+soluzione che è una toppa, per cercare di mantenere in piedi una
+certa funzione tecnica, oppure semplicemente per mantenere in piedi
+un carrozzone e poi, però, il vero problema non lo si affronta,
+quindi tra un po' ci ritroveremo sempre nella stessa
+situazione.
+Avere un'infrastruttura digitale funzionante, avere dei servizi
+al cittadino attivi, crea sviluppo, crea economia! Io ve lo devo
+raccontare? Gli esempi in giro in Italia, ma soprattutto fuori, ce
+ne sono quanti ne vogliamo. Il fatto che si faccia
+VdA
+Broadbusiness
+va bene, però diciamoci la verità: VdA
+Broadbusiness è un problema tecnico che sopperisce sostanzialmente
+ad una mancanza territoriale; non avendo una rete ad alta velocità
+distribuita, l'abbiamo dovuta fare con il Fondo europeo e poi farla
+gestire, diciamo così, in appalto da qualcuno che speriamo, bontà
+sua, ce la faccia gestire in maniera corretta. La posa dei cavi in
+fibra ottica (mi viene l'esempio di TELCHA), perché non l'abbiamo
+concordata insieme alla posa delle tubazioni in città? Poteva
+essere una cosa semplice, gestibile! Oppure tra un po' rifacciamo
+gli scavi e rimettiamo giù il filo, tanto per divertirci ancora un
+po'? Vi racconto solo degli esempi banali e non voglio entrare nel
+tecnico, perché mi rendo conto che l'argomento può essere ostico
+per qualcuno.
+Questo documento risolve i problemi economici di IN.VA., nel
+senso che paga le spese correnti per qualche tempo, ma non risolve
+e non dà sviluppo per la Valle d'Aosta, se non in piccolissima
+parte. È stato addirittura detto da parte di uno dei dirigenti, non
+ricordo esattamente il nome, che loro fanno delle azioni, ma manca
+la comunicazione verso il cittadino delle azioni che vengono fatte,
+cioè: noi facciamo delle cose, però poi i cittadini non lo sanno.
+Allora è come non farle! Tecnicamente se tu fai una cosa, ma poi
+non viene utilizzata, fai prima a non farla! Questo è un altro
+degli aspetti negativi di questo piano e soprattutto non c'è
+interazione. Noi dovremmo sviluppare finalmente un po'
+d'interazione, un po' di collegamento tra chi c'è fuori e chi è qui
+che deve lavorare. Io vedo gli strumenti che abbiamo come Consiglio
+regionale: abbiamo la posta elettronica; va beh, meno male!
+Spendiamo una valanga di soldi rispetto allo strumento, ma abbiamo
+solo la posta elettronica e nient'altro!
+Noi, come ho detto, ci asterremo per questioni anche politiche e
+questo piano andava sicuramente fatto... Grazie.
+Presidente
+- Grazie. Ci sono altre richieste di
+intervento? Chiudo la discussione. La parola al Presidente
+Rollandin per la replica.
+Rollandin (UV)
+- Grazie Presidente.
+Credo che gli interventi dei colleghi siano stati sicuramente
+puntuali e molto pertinenti nei confronti di un piano che, devo
+ammettere, arriva sicuramente in ritardo: si è iniziato, come è
+stato ricordato, a febbraio e siamo a fine settembre, questo per
+una serie di ragioni che conosciamo. Però, credo che nel merito sia
+giusto dare alcune risposte a quelle che sono state delle
+osservazioni puntuali.
+Io non vorrei che la lettura fosse che questo piano è funzionale
+allo sviluppo o al mantenimento di IN.VA. Questo piano è funzionale
+a dare delle risposte sulle sei tematiche che sono state ricordate,
+che non sono solo per l'Amministrazione regionale! Queste tematiche
+riguardano le imprese, riguardano tutti i settori, riguardano i
+cittadini e riguardano anche le amministrazioni.
+Nell'infrastrutturazione digitale, sicuramente c'è anche quello
+che il collega Cognetta correttamente ricordava. C'è stato qui uno
+sforzo per cercare di avere un'infrastrutturazione, che già fruisce
+di fondi europei. È stato riconosciuto: la Valle d'Aosta è una
+delle poche regioni che ha avuto questo fondo prima ancora di
+questo piano, per arrivare ad avere un'infrastrutturazione su cui
+poi avere la possibilità di far viaggiare, con una velocità che sia
+confacente, tutte le informazioni e tutte le esigenze dei vari
+settori. Il settore turistico: ci sentiamo dire che non riusciamo
+ad essere connessi nelle singole zone, che uno dei deficit è legato
+a questo campo, che tanta gente si lamenta di questo; per dare
+queste risposte è necessaria sicuramente
+un'infrastrutturazione!
+Devo dire che con correttezza i colleghi hanno tutti
+riconosciuto che il piano fissa degli obiettivi condivisibili. Il
+problema è che a oggi ci sono sicuramente delle deficienze che
+devono essere, in qualche modo, corrette, che devono essere
+riviste. Il collega Gerandin, all'inizio, ha fatto presente un
+aspetto che è riferito al rapporto tra IN.VA. e la Regione:
+sicuramente questo va corretto e possiamo rivedere il discorso ore
+o giornata. Nella sostanza dovrebbe esserci un rapporto, perché la
+giornata voleva dire un tot di ore, ma se questo può essere rivisto
+io non ho problemi a ragionare su questa tematica, in modo da
+evitare che ci sia un'idea di sudditanza del committente rispetto
+all'IN.VA., la quale, essendo società
+in
+house
+,
+lavora sostanzialmente per la Regione e per gli enti che in esso si
+riconoscono.
+Vorrei dire che forse non si è sufficientemente fatto attenzione
+a cosa è una società in house. La società in house lavora per chi è
+socio, ma le partecipate non sono soci di IN.VA., quindi se
+vogliono entrare - lo dico perché è uno dei rapporti che noi
+abbiamo cercato di far passare adesso - il passo è proprio quello
+di entrare nella società.
+Io vorrei che qualcuno di voi andasse a rileggere le discussioni
+su IN.VA. fatte in quest'aula, nelle quali si diceva che non deve
+essere una società pubblica che va a togliere il fiato, a togliere
+il respiro a tutte le altre iniziative private che ci sono; non
+l'ho detto io questo, ma è stato detto in quest'aula, poi andate a
+rivedere i verbali. Qui diciamo - e io condivido - che le
+partecipate possono e diciamo anche dovrebbero, ma nella loro
+autonomia, perché uno nella sua autonomia può dire: scusami, questo
+prodotto so che l'hanno già fatto lì e io invece di fare
+riferimento a IN.VA. vado direttamente e chiedo ad un altro. Quello
+che diceva Chatrian è giusto: chiedo anche a IN.VA., ma per
+chiedere devo aderire. Oggi quel passaggio non c'è e l'abbiamo
+detto alle due che sono citate (Casinò e...), le quali possono
+chiaramente far parte e prendere, come hanno fatto i Comuni,
+un'azione! Ecco, questo è auspicabile. Noi, quindi, condividiamo
+questo passaggio e faremo il possibile perché ci sia un'azione in
+tal senso, che aiuti a dare la possibilità di avere con IN.VA.
+questo rapporto in quanto società in house. Però, quello che volevo
+dire è che non è automatico, perché sennò...
+(voci fuori microfono)
+...sì, possiamo dire che questa operazione noi possiamo
+suggerirla, ma nella loro autonomia le varie società possono
+aderire o no. Faccio l'esempio della CVA: aveva ereditato tutti i
+sistemi dall'Enel e non poteva immediatamente dire io rivoluziono
+tutto! Progressivamente sta cercando di rendersi autonoma e aveva
+già collaborato per la puntualizzazione dei sistemi che potevano
+essere adottati. Credo che in questo senso, con la logica della
+gradualità, ci può essere anche questo passaggio che noi
+auspichiamo, quindi su questo siamo sicuramente in linea.
+Per quanto riguarda le altre osservazioni che sono state fatte,
+il collega Cognetta diceva giustamente che avere un
+data
+center
+centrale può essere un'ottima idea, ma non è nella
+logica del piano di risolvere questi problemi. Quella è
+un'organizzazione che può essere utile, ma non dà una risposta al
+cittadino, come lei diceva. Però, lo voglio risottolineare e a lei
+sicuramente non è sfuggito, c'è ad esempio il problema della salute
+digitale che va nella logica di dare risposte al cittadino, così
+come la cittadinanza digitale e l'inclusione digitale vanno nella
+logica di non escludere nessuno. Su questo, il collega Donzel ha
+fatto le sue osservazioni dicendo di tener conto che non ci sono
+solo i giovani, i quali hanno già quasi naturalmente una
+predisposizione al mondo digitale, ma ci sono anche le persone di
+una certa età che molte volte si trovano spaesate, tant'è che, su
+suggerimento anche della collega Carmela Fontana, sono stati
+attivati con successo dei corsi per le persone anziane sull'uso del
+computer, che tra l'altro si sono dimostrati molto positivi, con
+una grande partecipazione e con dei risultati eccezionali. Questo
+sicuramente la dice lunga sul fatto che comunque c'è ancora un
+digital divide
+! C'è più nelle persone di una certa età che
+non tra i giovani, che ci lavorano normalmente, tant'è che le
+università si stanno tutte mettendo in rete. Noi abbiamo l'esempio
+di Verrès, che è l'università in rete con il Politecnico di Torino
+e funziona benissimo: c'è un
+tutor
+e lavorano con questo
+sistema che solo pochi anni fa era impensabile, mentre oggi è
+realtà.
+Nella sostanza, diciamo che le osservazioni sono sicuramente
+importanti e noi ne terremo conto nell'ambito di quello che è stato
+detto, ma non vorrei che riducessimo il piano a un aspetto. È
+corretto quello che è stato detto e noi ne abbiamo preso nota:
+vedremo come correggere una serie di posizioni che possono essere
+anche riviste, perché migliorative nei confronti di rapporti che
+giustamente devono essere chiariti, per non dare l'idea di avere
+delle situazioni non compatibili con la logica delle cose. Io credo
+che nell'insieme, con tutte le difficoltà che abbiamo avuto e con
+la tempistica sicuramente sbagliata, perché arriviamo tardi, però
+il piano credo che spieghi alcuni concetti che sicuramente sono
+percorribili.
+Un'ultima cosa sugli investimenti. Sicuramente la parte
+investimenti è inferiore a quella della gestione, anche perché
+nell'ambito del discorso gestione c'è tutta la parte di
+preparazione, soprattutto per alcune categorie; la chiamiamo
+gestione, ma è la formazione, l'apprendimento e tutto quello che
+viene fatto per rendere fruibili i sistemi che poi vengono messi in
+atto. Non dimentichiamo che la formazione, oggi, non viene ancora
+vista come un investimento, mentre lo sforzo che si sta facendo a
+livello nazionale è per un riconoscimento europeo, in modo che
+venga escluso tra l'altro dal patto di stabilità, perché la
+formazione è un investimento! Dove la inserisci la formazione, se
+non come un investimento per il futuro delle nuove generazioni?
+Credo che questo documento possa essere una base di partenza per
+uno sviluppo che sicuramente anche negli anni potrà essere rivisto,
+perché questo è un piano pluriennale, ma nell'anno possiamo poi
+vedere anche dei correttivi, in modo tale da ragionare in termini
+attuativi, in modo tale che sia coerente con quello che è emerso
+oggi da questo dibattito. Grazie.
+Presidente
+- Grazie Presidente. Vi sono richieste per
+dichiarazione di voto? Il Consigliere Gerandin ha chiesto la
+parola, ne ha la facoltà.
+Gerandin (UVP)
+- Merci Président.
+La ringrazio, Presidente, perché le nostre osservazioni sono
+state viste come possibilità, eventualmente di correggere, se
+errori c'erano. Apprezziamo la possibilità di correggere negli
+anni, eventualmente, questo piano pluriennale, se ci sarà la
+necessità di modificare qualcosa.
+Due aspetti, ancora, a cui lei non ha risposto. Lei ha detto che
+questo non è un piano funzionale ad IN.VA. Sono d'accordo che non è
+un piano funzionale ad IN.VA.: su questo siamo assolutamente
+d'accordo. Non penso che sia neanche stato strutturato per
+risolvere i problemi economici di IN.VA. Gliene do atto, però lei
+non ha risposto ad una domanda precisa che le ho fatto: che
+garanzie ci sono, affinché ci siano i trasferimenti ad IN.VA., per
+il secondo semestre? Perché su questo si gioca il futuro di IN.VA.!
+Noi non abbiamo nulla contro IN.VA. - ci mancherebbe! - noi siamo
+ben felici che IN.VA. cresca e siamo ben felici che IN.VA. sia di
+riferimento per quello che riguarda il discorso informatico,
+tecnologico e chi ne ha più ne metta, del sistema valdostano, però
+le note di IN.VA. vanno in questo senso. In questo momento a me non
+risulta che ci siano state garanzie ad IN.VA. per il trasferimento
+del secondo semestre.
+Dico questo perché siamo preoccupati. Noi lo sappiamo e lei lo
+sa, Presidente, che IN.VA. ha chiuso, già l'anno scorso, con un
+deficit di bilancio. Sappiamo che le società
+in house
+, le
+società pubbliche, dopo tre esercizi in negativo, vanno messe in
+liquidazione. Non vorremmo che, magari, con questi ritardi... non
+vorremo neanche che poi alla fine ci fossero degli artifizi per
+farli figurare in attivo, magari scrivendo - ne parleremo, magari,
+nel prossimo Consiglio - artifizi contabili su risorse o su crediti
+di imposta, per riuscire a diminuire il deficit di bilancio.
+Ciò detto, la preoccupazione è proprio questa: noi vorremmo che
+ci sia serenità da parte dei dirigenti che si trovano a gestire
+queste risorse e che devono fare gli affidamenti. Vorremmo che ci
+sia serenità da parte della società IN.VA., ma soprattutto dei suoi
+dipendenti, in modo che non venga messo in discussione il futuro di
+IN.VA. Grazie.
+Presidente
+- Grazie collega Gerandin.
+Ci sono altri interventi per dichiarazioni di voto? Chiede la
+parola il Presidente della Regione, prego.
+Rollandin (UV)
+- Grazie.
+Chiedo scusa al collega Gerandin, mi ero concentrato più sulle
+parti relative al piano. Su quello del semestre abbiamo già preso
+contatti e a breve sbloccheremo la parte sostanziale anche del
+secondo semestre.
+Presidente
+- Grazie. Ha chiesto la parola il collega
+Chatrian, ne ha la facoltà.
+Chatrian (ALPE)
+- Grazie Presidente.
+Abbiamo ascoltato attentamente le riflessioni del Presidente
+Rollandin e se ci sono dei contributi da portare, come avete potuto
+notare, il nostro gruppo c'è. Penso che, per quanto riguarda la
+possibilità che le nostre società, le grandi società partecipate,
+possano comunque collaborare, entrando come socio a far parte di
+l'IN.VA., sappiamo perfettamente che è un discorso di volontà,
+fatto in autonomia, dalle società, ma l'auspicio, di tutto il
+Consiglio, penso sia quello. Quello che dicevo prima è che, forse,
+per quanto riguarda proprio una visione strategica generale, queste
+possibilità non possiamo più permetterci di non metterle in campo.
+Al di là di tutto, le sinergie e le strategie devono essere messe
+in campo subito, perché altrimenti risolvi il problema da una
+parte, ma lo crei dall'altra, e mi sembrano semplicistici certi
+passaggi che ho sentito oggi in aula. Allora, o abbiamo voglia di
+trovare delle soluzioni alternative, perché è semplice chiudere una
+parte, ma poi magari il problema si apre dal punto di vista della
+disoccupazione e non solo. Quindi, facciamo attenzione e cerchiamo
+di mettere in campo una filiera, una strategia che possa dare delle
+risposte puntuali e, soprattutto, valorizzare e far crescere il
+personale che noi abbiamo. Grazie.
+Presidente
+- Altri interventi? Non ci sono altri
+interventi. Mettiamo in votazione il punto 41. Si, preciso che la
+votazione è comprensiva dell'emendamento della II Commissione, che
+modifica la tabella di pagina 64. La votazione è aperta. Chiudo la
+votazione.
+Esito della votazione:
+Presenti: 34
+Votanti: 18
+Favorevoli :18
+Astenuti: 16. Si sono astenuti i Consiglieri Bertin, Bertschy,
+Certan, Chatrian, Cognetta, Donzel, Fabbri, Ferrero, Fontana,
+Gerandin, Grosjean, Guichardaz, Morelli, Nogara, Roscio,
+Rosset.
+Con 18 voti è approvato.
+Direi, vista l'ora e avendo ancora qualche minuto a
+disposizione, anziché iniziare con il punto 41.1, di proporvi la
+discussione del punto 44.
+Informativa cookies
+Consiglio Regionale della Valle d'Aosta © 2025
+Questo sito utilizza cookies propri e di terze parti. Continuando ad usare questo sito, acconsenti all'utilizzo di questa tecnologia.
+Consulta la nostra
+informativa
+per maggiori informazioni e per istruzioni su come disattivare i cookies.
+OK

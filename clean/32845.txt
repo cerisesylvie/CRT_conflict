@@ -1,0 +1,902 @@
+Classificazione
+INFORMAZIONE
+Sistema informativo
+
+
+
+Oggetto del Consiglio n. 1401 del 6 ottobre 2010 - Resoconto
+OGGETTO N. 1401/XIII - Approvazione del piano pluriennale
+2010-2013, per lo sviluppo del sistema informativo regionale, di
+cui alla legge regionale 12 luglio 1996, n. 16.
+Il Consiglio
+Richiamata la legge regionale 12 luglio 1996, n. 16, recante:
+"Programmazione, organizzazione e gestione del sistema informativo
+regionale. Ulteriori modificazioni alla legge regionale 17 agosto
+1987, n. 81 (Costituzione di una Società per azioni nel settore
+dello sviluppo dell'informatica), già modificata dalla legge
+regionale 1° luglio 1994, n. 32. Abrogazione di norme.";
+Ricordato come l'articolo 1 (Piano pluriennale) della
+predetta legge preveda, al suo comma 1, che il Consiglio regionale
+approvi un piano pluriennale volto a:
+a) promuovere e sostenere lo sviluppo della società
+dell'informazione e della conoscenza in ambito regionale a fini di
+progresso sociale e di miglioramento della qualità della vita,
+favorendo la piena parità di accesso alle tecnologie
+dell'informazione e della comunicazione;
+b) favorire il processo di innovazione organizzativa e
+tecnologica degli enti pubblici territoriali valdostani in un
+contesto organizzativo di cooperazione istituzionale;
+c) sviluppare, modernizzare e diffondere gli strumenti, le
+tecnologie telematiche e i sistemi informativi nell'ambito
+dell'Amministrazione regionale;
+Richiamata la deliberazione della Giunta regionale 3674
+dell'11 dicembre 2009 concernente l'approvazione delle linee guida
+per l'elaborazione del piano pluriennale in argomento, nonché degli
+obiettivi che lo stesso dovrà perseguire;
+Rammentato che la predetta deliberazione:
+a) avviava la stesura del piano pluriennale per il triennio
+2010-2012;
+b) stabiliva che la stesura del piano dovesse avvenire, con
+il coinvolgimento di tutti gli assessorati regionali, da parte di
+un gruppo di lavoro formato da rappresentanti del Dipartimento
+innovazione e tecnologia, da rappresentanti degli enti operanti sul
+territorio regionale e della partecipata IN.VA. S.p.A., soggetti
+già individuati nell'ambito del "Gruppo Guida" previsto
+dall'Accordo regionale in materia di innovazione e sviluppo delle
+tecnologie informatiche e telematiche nella Regione Valle d'Aosta
+di cui alla deliberazione della Giunta regionale n. 4565 del 10
+dicembre 2004;
+Atteso che nel corso della stesura del piano in argomento è
+stata espressa dalla Giunta regionale la volontà di estendere il
+periodo di riferimento dello stesso fino al termine dell'attuale
+legislatura, previsto nell'anno 2013;
+Preso atto che il gruppo di lavoro in questione ha concluso
+il suo compito e ha prodotto l'allegato piano pluriennale, riferito
+al periodo 2010 - 2013;
+Vista la legge regionale 12 luglio 1996, n. 16 e, in
+particolare, l'articolo 1 della stessa (Piano pluriennale);
+Viste le motivazioni ed i contenuti del piano pluriennale di
+cui trattasi;
+Richiamata la deliberazione della Giunta regionale n. 3702 in
+data 18 dicembre 2009 concernente l'approvazione del bilancio di
+gestione per il triennio 2010/2012 con attribuzione alle strutture
+dirigenziali di quote di bilancio e degli obiettivi gestionali
+correlati, del bilancio di cassa per l'anno 2010 e di disposizioni
+applicative;
+Visto il parere favorevole rilasciato dal Coordinatore del
+Dipartimento innovazione e tecnologia della Presidenza della
+Regione, ai sensi del combinato disposto dell'articolo 3, comma 4,
+della legge regionale 23 luglio 2010 n. 22, in ordine alla
+legittimità della presente deliberazione;
+Visto il parere della II Commissione consiliare
+permanente;
+Visto il parere del Consiglio permanente degli Enti
+locali;
+Delibera
+1) di approvare, ai sensi della legge regionale 12 luglio
+1996, n. 16, il piano pluriennale 2010-2013 per lo sviluppo del
+sistema informativo regionale, volto a:
+a) promuovere e sostenere lo sviluppo della società
+dell'informazione e della conoscenza in ambito regionale a fini di
+progresso sociale e di miglioramento della qualità della vita,
+favorendo la piena parità di accesso alle tecnologie
+dell'informazione e della comunicazione;
+b) favorire il processo di innovazione organizzativa e
+tecnologica degli enti pubblici territoriali valdostani in un
+contesto organizzativo di cooperazione istituzionale;
+c) sviluppare, modernizzare e diffondere gli strumenti, le
+tecnologie telematiche e i sistemi informativi nell'ambito
+dell'Amministrazione regionale;
+2) di dare atto che tale piano pluriennale costituisce parte
+integrante della presente deliberazione.
+Allegato
+(omissis)
+Presidente
+- Il piano ha avuto parere favorevole a
+maggioranza della II Commissione e il parere favorevole del
+Consiglio permanente degli enti locali.
+La parola al Presidente della Regione, Rollandin.
+Rollandin (UV)
+- Grazie, Presidente.
+Il piano triennale per lo sviluppo del sistema informatico
+2010-2013, che è stato sottoposto alle commissioni e che vede oggi
+il dibattito in Consiglio, si pone l'obiettivo di tracciare un
+percorso concreto di sviluppo dell'innovazione, coinvolgendo
+l'intero comparto pubblico regionale e, attraverso questo, l'intero
+sistema socio-economico valdostano nella logica di un processo e
+non di pura tecnologia. Rappresenta la sintesi fra quella che è la
+visione politica regionale, gli indirizzi europei e italiani in
+materia, e lo stato dell'arte delle tecnologie informatiche della
+comunicazione. Dal punto di vista del metodo, il piano si riferisce
+alle linee guida e all'impostazione del piano nazionale di
+e-gouvernment
+2012 del Ministero per la pubblica
+amministrazione e l'innovazione, recepisce il programma di
+indicazione di maggioranza individuando le tematiche di rilevanza
+per lo sviluppo dell'innovazione e della tecnologia regionale, e si
+articola secondo linee indicate successivamente. Recepisce le
+indicazioni, come è stato scritto nella prima parte, perché è
+articolato giustamente in una parte là dove si dà atto della
+redazione settoriale, cioè in ognuno dei singoli settori è
+evidenziato lo stato dell'arte e cosa è necessario fare; questo
+credo aiuti a capire gli scompensi, quelle che sono ancora le zone
+più avanzate o meno avanzate.
+C'è poi l'area delle iniziative territoriali e credo questo sia
+uno dei punti focali, forse l'aspetto più innovativo che dà il
+segno di cosa si vuole portare avanti e dove si vuole arrivare,
+soprattutto attraverso la fornitura delle reti a banda larga.
+Questo è un argomento di grande rilievo; più volte i colleghi in
+Consiglio hanno fatto presente come la possibile complementarietà
+fra quello che sta avvenendo, con un progetto già avviato in Valle
+d'Aosta con la rete a fibra ottica, completato nelle singole zone
+di approccio con il
+wireless
+, in modo da portare la banda
+larga progressivamente in tutte le valli laterali, ma si sta già
+lavorando - come sapete - per la realizzazione come da programma
+nelle singole valli, per dare la copertura vera a questo strumento,
+che di fatto rappresenta per tutti i settori un aspetto molto
+importante. Non dimentichiamo come attraverso la copertura a banda
+larga chiunque... parliamo soprattutto per l'aspetto turistico e la
+gente che lavora qui come se fosse in ufficio, per una serie di
+ragioni, manager e così via, posso contattare ed essere nella
+situazione di poter avere tutto come se fossero nella sede
+operativa della società. Credo sia uno degli aspetti più importanti
+di questo piano di sviluppo e, sotto questo profilo - e qui
+anticipo quello che voi avete notato - che nella cifra totale della
+spesa c'è anche un finanziamento statale ed europeo.
+A livello di intervento europeo, a fronte del piano che
+presentiamo, c'è la possibilità di avere ulteriori finanziamenti
+proprio in questo settore, perché la nostra regione verrebbe
+presentata come un
+unicum
+, come primo esempio di
+integrazione totale del sistema di informatizzazione e di
+collegamento diretto fra le varie istituzioni e la possibilità
+operativa dei settori commerciali presenti sul territorio. Quindi
+sotto questo profilo...
+(interruzione del Consigliere Louvin, fuori
+microfono)
+...viene presentato adesso, verrà presentato questo progetto a
+livello europeo, per ulteriori finanziamenti rispetto a quello
+esistente.
+C'è poi l'infomobilità e vorrei sottolineare anche il capitolo
+della videosorveglianza territoriale, visto non tanto come
+iniziativa del singolo, noi abbiamo già discusso anche dei Comuni
+che stanno agendo a questo livello, ma soprattutto visto come
+esigenza di mettere in rete l'utilizzo di questo settore per
+evidenti motivi di sicurezza, perché se non sono utilizzabili con
+una rete coordinata a livello regionale con le forze di sicurezza,
+rischiano di avere un mero effetto di attività di controllo locale
+che non è finalizzabile.
+Per quanto riguarda la parte delle iniziative di sistema, gli
+interventi sono ricollegabili alle azioni specifiche su quelle che
+possono essere le attività che in questo triennio vengono portate
+avanti, tenendo conto delle risorse messe a disposizione e del
+collegamento con i Comuni. L'altro aspetto importante di questo
+piano è che, se da una parte l'analisi è partita dalle esigenze
+dell'Amministrazione regionale, non dimenticando l'esigenza di
+accorpare certi servizi, cioè di avere un collegamento stretto che
+è alla base della semplificazione del metodo di lavoro, dall'altra
+è importante la possibilità di mantenere questo sviluppo sia del
+ruolo dei Comuni che dello sportello unico, in modo da fare rete
+per poter attivare tutti i meccanismi delle procedure che devono
+andare avanti. È già stata fatta una sperimentazione importante con
+esperienze significative e positive, come è stato detto, ma ci sono
+ancora delle difficoltà nell'utilizzo di questo strumento; la fase
+su cui ci avviamo è di andare a regime con questo sistema in modo
+tale che tutto il territorio regionale sia coperto e possa avere la
+possibilità di essere integrato:
+- l'identità digitale e la Carta regionale dei servizi,
+finalizzate, la prima, alla gestione dell'identità digitale dei
+cittadini per l'accesso ai servizi erogati dalla pubblica
+amministrazione e, la seconda, alla realizzazione di un'unica
+tessera - evoluzione della Carte Vallée - rispondente agli standard
+della Carta nazionale dei servizi in cui converga anche la tessera
+sanitaria: abbiamo avuto l'okay del ministero, stiamo andando
+avanti con la tessera unica in cui verrà riprodotta in piccolo
+anche la Carte Vallée, quindi è riconoscibile anche il segno della
+nostra regione, servirà da carta sanitaria e quindi avrà tutti
+questi requisiti. Questo credo sia un altro passo determinante, è
+stato dato l'okay solo in questi giorni da parte del ministero, è
+stata una trattativa piuttosto lunga, perché si voleva vedere come
+andava ad incidere la presenza di questo modellino Carte Vallée
+rispetto a quella che è la Carta dei servizi, e soprattutto il
+documento sanitario, perché questa era la parte importante: avere
+una concentrazione di tutti questi servizi;
+- il sistema delle conoscenze territoriali, che si pone
+l'obiettivo della gestione e divulgazione delle informazioni
+territoriali, facendo chiaramente capo alla Regione e agli enti
+locali;
+- il servizio
+online
+per i cittadini e per le imprese,
+con l'obiettivo di sviluppare e diffondere sempre più l'interazione
+fra le pubbliche amministrazioni;
+- il documento elettronico e la dematerializzazione dei
+documenti cartacei, in linea con il nuovo codice
+dell'amministrazione digitale che, insieme ad altri strumenti di
+innovazione quali la posta elettronica certificata, la firma
+digitale, il protocollo elettronico, l'archiviazione digitale,
+costituisce un intervento di grande rilevanza e di notevole impatto
+sull'organizzazione del lavoro della pubblica amministrazione.
+È un piano che riteniamo complesso sotto il profilo della sua
+articolazione, però strutturato in modo da rendere i soggetti
+coinvolti sulle singole tematiche trattate e di grande impatto sul
+contesto regionale, che dovrà essere governato attraverso modelli
+organizzativi individuati, da un lato, attraverso il gruppo Guida
+Partout, che raggruppa gli enti sottoscrittori dell'accordo
+regionale in materia di innovazione e sviluppo delle tecnologie
+informative e, dall'altro lato, dal comitato per l'avvio e la
+realizzazione del sistema di conoscenza territoriale. Il piano è
+strutturato per permettere il costante monitoraggio dei risultati
+previsti e il controllo della spesa; sono stati definiti gli
+indicatori di risultati realizzabili e strettamente associati ad
+obiettivi attesi e tempi di attuazione per ognuna delle iniziative
+inserite.
+Per quanto riguarda gli aspetti finanziari, come ho anticipato,
+il piano definisce il fabbisogno stimato necessario per realizzare
+gli interventi previsti per la gestione del sistema; non sono
+definiti analiticamente i singoli costi, che saranno invece
+individuati dal piano operativo annuale, perché di volta in volta
+l'approccio sarà tale da rendere possibile l'avvicinamento alla
+risorsa necessaria. Complessivamente il piano porta a 122.000.000
+di euro, di cui 48.000.000 per spese correnti e 74.000.000 per
+spese di investimento, e di questi sono stati iscritti, già a
+bilancio 2010-2012, 80.000.000 di euro, mentre nel 2013 ci sarà il
+discorso dei 30.000.000 di euro necessari per la copertura totale.
+A questi si aggiungono 13.000.000 di euro derivanti dai
+finanziamenti statali ed europei con la possibilità, soprattutto
+per quanto riguarda quelli europei, di incrementare questo dato a
+vantaggio della sperimentazione, che verrebbe accolta a livello
+europeo come unità regionale nel suo insieme, e che si estende su
+tutto il suo territorio.
+Il piano pluriennale interpreta in modo corretto quello che è
+stato, da una parte, l'auspicio che in quest'aula è stato
+presentato a vari livelli; anche quando abbiamo parlato di bilancio
+annuale e pluriennale ci sono stati, su questi temi, interventi
+importanti dei colleghi che hanno sollecitato l'integrazione del
+sistema e soprattutto il recupero del
+digital divide
+, che
+sappiamo essere uno dei temi molto importanti per lo sviluppo nel
+suo insieme, soprattutto come possibilità di dialogo integrato fra
+le varie forze produttive, le varie istituzioni e le varie forze
+che a tutti i livelli operano nella nostra regione... non solo, ma
+di essere integrati in un sistema più ampio. Questo significa
+mettere in rete, come è stato fatto per una serie di dipartimenti,
+tutto quello che succede in amministrazione, di avere il governo,
+quindi l'
+e-gouvernment
+passa attraverso questo sistema di
+controllo; vuol dire che a questo, abbinando i centri di costo, si
+potrà sempre più avvicinare quell'analisi che permetta, quando c'è
+un problema, di dare la risposta in tempo reale senza dover fare
+ulteriori ricerche. Quindi ci sono tutti i dati disponibili per
+riuscire a capire se l'indirizzo in cui vogliamo andare, se la
+scelta politica che ne è conseguente è condivisa o meno, sapendo
+che ci sono dei dati reali su cui ragionare e su cui discutere.
+Per il resto, credo che l'articolato sia sufficientemente chiaro
+per avere la possibilità di valutare con i singoli capitoli; a
+questo proposito ringrazio le strutture e tutti quelli che hanno
+lavorato a questa realizzazione, perché credo sia un documento
+importante. Ripeto, un documento che potrà essere integrato negli
+anni, come tutti i documenti pluriennali, ma credo dia già un segno
+di come si vuole fornire un servizio al cittadino che passa
+attraverso un'articolazione, sì, complessa, ma sempre più attuale
+sotto il profilo dell'organizzazione che coinvolge tutti i singoli
+settori: questo è il segnale che si vuole dare con questo piano
+triennale. Grazie.
+Presidente
+- Dichiaro aperta la discussione generale.
+La parola al Consigliere Louvin.
+Louvin (ALPE)
+- Grazie, Presidente.
+La natura un po' particolare di questo documento consente di
+fare qualche considerazione di ampia portata e poi mi permetterà,
+Presidente, di scendere nel dettaglio, ma credo che siano delle
+occasioni utili per valutare anche globalmente l'impatto che stanno
+esercitando queste nuove tecnologie sul nostro stile di vita, sulla
+nostra organizzazione amministrativa, su quello che è stato
+ricordato come l'
+e-gouvernment
+, ma anche indirettamente
+sull'altro grande versante che è la
+e-community
+, perché si
+sta sviluppando un modo di essere, di vivere una qualità della
+vita, del lavoro anche fuori dal rapporto con l'Amministrazione,
+che risente sensibilmente della presenza di queste nuove
+tecnologie. Nel lavoro amministrativo, nell'esercizio delle nostre
+funzioni e nei rapporti che abbiamo con i servizi pubblici
+risentiamo di questa rivoluzione in corso, ma la rivoluzione è
+interiorizzata, cambia il nostro modo di vivere nelle città, nei
+villaggi, nei paesi.
+Pochi giorni fa mi sono trovato all'assemblea dei popoli di
+montagna dei monti dei Pirenei, dove quasi 200 rappresentanti di
+paesi di montagna ragionavano proprio sulla grandissima opportunità
+che rappresenta per i popoli di altitudine l'introduzione delle
+nuove tecnologie. Il risalto straordinario che hanno e la
+possibilità di messa in rete di popolazioni autoctone un tempo
+chiuse, come i Quechua delle Ande o di popolazioni disperse come le
+popolazioni berbere nel nord Africa, finalmente trovare
+collegamento, trovare modo di operare in comunità, ha cambiato gli
+orizzonti della loro vita. Credo che anche per le nostre comunità,
+per i nostri villaggi, per la nostra montagna questo non deve
+essere sottovalutato, perché avrà impatto nel cambiamento delle
+mentalità, ma anche degli stili di vita e forse delle opportunità
+per il futuro delle nostre generazioni che vorranno rimanere
+ancorate a questo territorio.
+Guardiamo quindi con questa logica al lavoro di cornice che ha
+fatto l'Amministrazione con una ricognizione ed una prospettiva che
+ci sembra di poter condividere ed accompagnare, con una
+sottolineatura di fondo. L'impatto della nuova tecnologia rimetterà
+in discussione il rapporto anche di decentramento con gli enti
+locali e il funzionamento complessivo dell'Amministrazione rispetto
+ai cittadini; l'angolo visuale con il quale siamo partiti quindici
+anni fa - dal 1995 in avanti - nel cercare di decentrare i servizi
+sul territorio, oggi prende l'onda del rapporto diretto fra un
+centro che potrebbe non essere quello fisico di Aosta, ma un centro
+amministrativo valdostano, e l'insieme della comunità, un rapporto
+anche diretto del cittadino con l'utente, un abbattimento forse dei
+costi, un miglioramento della qualità dei servizi, dalla
+telemedicina in avanti, ma comunque dei servizi informativi al
+cittadino, che by-passa forse anche gli enti locali o comunque ne
+può modificare le funzioni e la vocazione. Credo che su questo
+andrebbe fatto in sede politica un ragionamento più profondo di
+riassetto delle nostre prospettive, perché c'è il rischio di
+continuare a ragionare settorialmente e di non vedere il
+cambiamento globale. È un tema sul quale la politica generale di
+questa Regione avrebbe il dovere di fare qualche riflessione
+ulteriore, che questo documento aiuta sicuramente a fare.
+Mi consenta, Presidente, di entrare nel merito della questione
+della banda larga, per far rilevare come sia ancora in sofferenza
+una parte consistente del territorio regionale rispetto ai servizi
+di accesso ad Internet. Io l'ho toccata direttamente questa estate,
+in alcune località di montagna, dove l'affollamento turistico ha
+mandato in tilt quantità di disponibilità, quelle che credevamo già
+essere delle autostrade di informazione, che in determinate fasce
+orarie erano già intasate. Sembra un dato impossibile, ma
+determinate località durante l'estate erano bloccate, per cui il
+grande sforzo che facciamo e che consente durante la normalità
+dell'anno di svolgere una qualsiasi attività anche professionale,
+durante i mesi di luglio e agosto e durante il periodo di Natale
+automaticamente blocca questa possibilità. Credo che anche su
+questo sarà necessario fare uno sforzo ulteriore e accendere
+qualche riflettore, perché rischia di essere proprio il momento di
+maggior domanda il momento nel quale esplode la criticità della
+domanda di accesso.
+Nel dettaglio, ci sono molte iniziative apprezzabili, delle
+quali eravamo anche solo sommariamente a conoscenza; ce ne sono
+alcune sulle quali siamo a sollecitare un'attenzione particolare.
+Una riguarda la trasparenza di questa Amministrazione e la
+leggibilità del percorso dei provvedimenti dirigenziali. Ormai
+buona parte del lavoro di questa Amministrazione è passato nel
+livello della Giunta... la decisione della Giunta a livello della
+decisione dei dirigenti, ma qui purtroppo non siamo in grado di
+avere una leggibilità e anche un'identificabilità dei documenti
+sufficiente. Su questo un'accelerazione, se fosse possibile,
+sarebbe gradita non solo in sede di opposizione, di lavoro nostro
+di ricerca di dati, ma di lavoro che fanno anche tanti altri
+soggetti esterni.
+Mi pare sottovalutato, nel documento a cui si è già arrivati, il
+telelavoro; si dà un punto zero per il 2010, mi pare che l'avvio
+sia già stato positivo, quindi lo ritenevo in qualche modo
+sottovalutato apparentemente, come se fosse un anno di partenza.
+Credo che non lo sia totalmente, almeno dovrebbe poter essere un
+punto di partenza leggermente più avanzato. Molto importante, anche
+in collegamento con quanto abbiamo ascoltato nella giornata di
+Saint-Vincent sui rischi idrogeologici, il lavoro che si sta
+svolgendo per il sistema informativo delle risorse idriche e per il
+sistema sismico. Su questo è opinione del gruppo ALPE
+mettre le
+paquet
+, cioè andarci decisi, riuscire a consolidare molto
+rapidamente questi sistemi sui quali possiamo sicuramente avere un
+punto di forza poi per momenti successivi.
+Ultima delle sottolineature, cerco di procedere anch'io per
+estrema sintesi, come è doveroso in questo caso, la questione
+dell'anagrafe immobiliare, del catasto, questa leggibilità
+trasversale della proprietà immobiliare in Valle d'Aosta, a fini di
+controlli anche fiscali - abbiamo un dovere comune di pagare le
+tasse -, ma in termini di chiarezza su quello che esiste sul
+territorio, su come viene trasformato, su quelli che sono gli
+impatti, possibilità di avere una leggibilità d'insieme del nostro
+territorio, un accesso anche da parte dei professionisti, la
+possibilità di avere subito i dati, credo che sia anche questo
+fondamentale e abbia dei grandi ritorni, perché qui si parla di
+tutto il versante spesa, ma c'è un versante ritorno economico
+positivo per la Regione e per il sistema. Queste sono le piccole
+osservazioni che facciamo noi, Presidente.
+Un'ultima osservazione va in un senso che non abbiamo trovato
+nel documento, forse per nostra disattenzione, pur avendolo letto
+con cura, ed è il problema della conservazione dei dati. Siamo una
+società che sta passando dal cartaceo al digitale e sembra che il
+fatto di avere nel nostro computer, in una banca dati, eccetera,
+tutti i dati, metta tutto in assoluta tranquillità. Abbiamo invece
+consapevolezza che il dato digitale è un dato volatile, è un dato
+che può comunque, come qualsiasi strumento e supporto, risentire di
+usura del tempo; ecco non siamo sicuri che la nostra società nel
+complesso - non solo questa da Pont-Saint-Martin a La Thuile, ma in
+generale - avrà memoria delle cose utili ed essenziali che sta
+facendo. Su questo la pregherei di avere attenzione, lei che ha
+oltretutto la responsabilità sull'insieme della memoria
+dell'Amministrazione regionale, ma anche come capofila dei Comuni
+che hanno fatto negli anni passati dei riordini degli archivi
+bellissimi per i secoli precedenti. Mi chiedo se non hanno
+un'attenzione da questo punto di vista, se non ci sono adeguati
+standard; so che è stato fatto questo lavoro di collegamento, ci
+sono degli standard comuni, ma l'idea di avere una copia di
+sicurezza delle nostre documentazioni essenziali, di avere un
+back-up, chiamiamolo così, nel modo che poi le teste pensanti del
+Governo, i tecnici ci indicheranno, ma per poter mettere al sicuro
+da rischi, da manomissioni, eccetera, pirati di pirateria esterna
+che ormai diventano sempre più, credo che sia un dovere ed una
+necessità! Quindi, se possibile, farci poi sapere nel prosieguo -
+so che abbiamo tecnici e funzionari attenti e competenti su queste
+cose - come si procederà a conservare memoria di questa società
+sempre più informatizzata e digitalizzata, questo ci farà molto
+piacere.
+Con questo annunciamo un apprezzamento complessivo per il lavoro
+fatto e per le indicazioni che sono tratte nel piano pluriennale.
+Grazie.
+Presidente
+- La parola al Consigliere Lattanzi.
+Lattanzi (PdL)
+- Grazie, Presidente.
+Noi lo consideriamo un piano importante. Negli anni passati la
+nostra parte politica ha sempre condiviso la necessità di avere
+piani strutturali importanti per quanto riguarda lo sviluppo delle
+tecnologie, ma non abbiamo mai avuto l'opportunità di condividere
+fino in fondo quei piani perché non contenevano, a nostro avviso,
+una di quelle novità che invece in questo piano fa la
+differenza.
+Negli anni passati abbiamo sempre assistito alla necessità della
+pubblica amministrazione di dotarsi di sistemi per far fronte alle
+necessità interne dell'amministrazione stessa. Abbiamo avuto modo
+anche di criticare come gli ingenti investimenti, che nei bilanci
+passati destinavamo all'informatizzazione ed alla digitalizzazione
+del sistema, di fatto poi non trovassero un riscontro in termini di
+qualità del servizio al cittadino, che è poi l'utente principale
+che dovrebbe beneficiare di questi investimenti e miglioramenti
+delle tecnologie.
+Questo piano invece, oggi, traccia una linea di discontinuità
+rispetto ai piani passati, proprio perché affronta una delle
+tematiche più importanti a nostro avviso, che è quella che il
+Presidente della Regione ha annunciato nella sua relazione: il
+fatto di come questo piano voglia - in termini teorici,
+evidentemente, tutti i piani hanno il limite di essere teorici fino
+a quando non iniziano ad essere applicati - affrontare la tematica
+per noi centrale del mettere a disposizione della comunità tutta, i
+cittadini per quanto riguarda la ristrutturazione delle relazioni
+della pubblica amministrazione, quella regionale e quella delle
+Comunità di montagna, come quella che diceva il collega Louvin
+essere una necessità molto importante, quindi di collegare le
+amministrazioni pubbliche fra di loro e di rendere - grazie alla
+tecnologia - più facile il rapporto con il cittadino, fra le
+amministrazioni e fra l'amministrazione e il cittadino. Ma
+affronta, dicevo, il tema centrale, quello del mettere a servizio
+con investimenti della comunità, quella sociale, ma anche
+economica, quella delle imprese, in particolar modo il Presidente
+giustamente sottolineava quella del turismo, quella che
+consideriamo un'opportunità storica.
+Gli ingenti investimenti che questo piano prevede per quanto
+riguarda lo sviluppo della parte strutturale della rete che
+permetterà alla nostra Regione - se questo piano verrà applicato,
+come auspichiamo - di dotarsi di una struttura che permetterà di
+immaginare una connessione in WI-FI sostanzialmente globale della
+nostra Regione, per portare la nostra Regione fra le prime al mondo
+ad essere accessibile per via digitale attraverso autostrade
+tecnologiche di alta velocità, quindi con l'opportunità di dare ai
+nostri turisti, ma anche ai nostri cittadini, alle nostre imprese,
+delle tecnologie uniche al mondo per quanto riguarda la velocità di
+connessione, credo che possa realmente far fare il salto di qualità
+alla nostra Regione. Lo diciamo con un sentimento anche di
+orgoglio, perché negli anni passati avevamo molto puntato su questo
+fatto, sullo stimolare le scelte dei governi precedenti ad una
+direttiva che fosse l'investimento nelle strutture per dotare, così
+come in informatica è successo nelle autostrade per le autovetture,
+anche la tecnologia, e quindi anche gli accessi dei nostri computer
+a delle autostrade informatiche digitali.
+Se questo piano verrà realizzato, siamo convinti che la nostra
+Regione avrà un notevole incremento dell'opportunità economica: lo
+avrà perché comunicheranno meglio le amministrazioni pubbliche, lo
+avrà perché i cittadini avranno l'opportunità di accedere molto più
+facilmente agli uffici pubblici, magari andando a casa; lo avrà
+perché - come diceva bene il collega Louvin - le comunità alpine
+hanno ancor più bisogno di collegamenti tecnologici che sono
+tutt'altro che virtuali. Oggi nella rete non corrono semplicemente
+dei dati, corrono delle relazioni, corrono delle emozioni, corrono
+delle vendite, corrono dei fatturati, corrono cose molto
+sostanziali, corrono le relazioni fra comunità. Citava il collega
+prima l'incontro che c'è stato fra le comunità alpine; doveva
+ricordare che quell'incontro è stato supportato da una relazione
+che ha preparato quell'incontro, che è corsa prima sul digitale che
+sull'umano. Lo strumento ha creato l'opportunità di preparare
+quell'incontro di cui parlava il collega Louvin, perché se si vanno
+a vedere i siti di comunicazione, quell'incontro è stato prima
+comunicato in rete, poi c'è stata la connessione della
+comunicazione e quindi l'opportunità di mettere insieme delle
+persone in un luogo fisico, vero, reale, dopo che la tecnologia
+aveva dato il suo contributo a mettere in rete, e quindi a mettere
+in relazione le persone stesse.
+Noi crediamo molto in questo piano, Presidente; non abbiamo
+avuto l'opportunità tecnica di poterci lavorare perché non siamo né
+in maggioranza... anche se qualcuno lo sostiene ormai da mesi... ma
+in questo caso ci sentiamo in maggioranza! Quando questi sono i
+provvedimenti che la Giunta, il Governo porta all'attenzione di
+questo Consiglio, non abbiamo difficoltà e neanche attiviamo i
+teatrini della politica per trovare i
+distinguo
+, per dire
+che esistiamo solo perché esistiamo nella contrarietà. Crediamo che
+sia importante esserci nella positività, nella costruttività di un
+progetto, e questo è un progetto che rispecchia pienamente le
+indicazioni, condivise con la maggioranza e le forze autonomiste, e
+la volontà di avere una società valdostana connessa all'interno di
+essa e con il mondo, di portare questa isola felice nella quale
+abbiamo la fortuna di vivere, in relazione sociale ed economica con
+il resto del mondo, andando oltre le barriere di Pont-Saint-Martin,
+portando questa comunità a poter non solo dialogare socialmente, ma
+anche economicamente con il resto del Paese e con il resto delle
+comunità globalizzate.
+Noi di questo piano condividiamo gli obiettivi, le strategie;
+abbiamo utilizzato consulenti che ci hanno aiutato a comprenderne
+la validità, ne condividiamo i tempi, anche se non sono mai
+sufficientemente brevi, ne condividiamo anche i costi che in parte
+sono costi e la parte più importante sono investimenti i quali
+permetteranno a questo piano di potersi realizzare. Naturalmente
+questo piano ha necessità di essere coordinato, di essere
+controllato e di essere realizzato; qui ci affidiamo a chi avrà le
+competenze per poterlo fare, ma non abbiamo dubbi che questo piano
+potrà essere un fattore di garanzia per quanto riguarda gli
+obiettivi condivisi, le coerenze strategiche, il suo puntuale
+finanziamento nei tempi e nei modi, nella sua realizzazione e
+quindi possa essere per la comunità valdostana un'opportunità. Per
+quello che possiamo dare in termini di contributo in questo ci
+sentiamo con le forze di maggioranza insieme su questi progetti, lo
+saremo sempre quando le scelte andranno nella direzione di favorire
+la comunità valdostana e sempre più lo saremo, al di là di chi si
+stupisce della nostra posizione costruttiva, e sapremo dare il
+nostro contributo per la realizzazione di questo piano.
+Voteremo a favore di questo piano, Presidente.
+Presidente
+- La parola al Consigliere Donzel.
+Donzel (PD)
+- Egregio Presidente, cari colleghi, mi
+scuserete se non ho una giacca con le
+paillettes
+, visto che
+appartengo a quelli che adesso fanno il teatrino della politica,
+mentre quelli che hanno la giacca gessata naturalmente si sono
+esibiti in un intervento che doveva giustificare, come al solito,
+il sostegno a spada tratta alla maggioranza regionale...
+(intervento fuori microfono)
+...infatti abbiamo alternato gli interventi, uno di minoranza e
+uno di maggioranza, e adesso l'altro, di minoranza.
+Intanto parto da un presupposto: questo documento è estremamente
+complesso. Noi non abbiamo le strutture di consulenza che ha il
+collega per esaminarlo, quindi lo abbiamo studiato con la nostra
+umiltà di capacità di affrontare questi problemi e quello che salta
+agli occhi è che c'è uno straordinario lavoro delle strutture
+competenti. Ci riconosciamo, in questo, e tutti i colleghi hanno
+riconosciuto il lavoro svolto dalle strutture amministrative perché
+si tratta di un lavoro assolutamente di pregio.
+Le considerazioni che farò non sono quindi tali da mettere in
+discussione l'aspetto tecnico, ma cercano di approfondire alcuni
+aspetti della struttura di questi piani; peraltro, insieme ai
+colleghi del Popolo della Libertà - ma probabilmente quella volta
+interveniva Tibaldi -, avevamo condiviso, invece, il piano dei
+lavori pubblici... questi piani triennali che hanno delle strutture
+piuttosto rigide e che tendono a ripetersi nel corso degli anni. La
+lettura di questo piano va quindi anche inquadrata alla luce della
+lettura del piano precedente, di quante cose del piano
+precedente... piano precedente che, le ricordo, Lattanzi, recitava
+a pagina 7, quell'attenzione che lei non ha mai riscontrato nei
+precedenti piani... il piano precedente diceva:
+"contribuire
+allo sviluppo della società ed all'innalzamento della qualità di
+vita dei cittadini, beneficiando del ruolo centrale che ricopre
+l'Information and communication technology, come motore principale
+dell'evoluzione dei servizi pubblici con conseguente abbassamento
+dei costi, miglioramento dell'efficienza e come strumento che
+garantisce la disponibilità dei nuovi mezzi a tutti, senza
+esclusione di sorta"
+, quindi non è che nei piani precedenti i
+cittadini non c'erano e adesso si è scoperto il cittadino e la
+persona.
+Diciamo che purtroppo molte cose erano già previste nel
+precedente piano e molte cose del piano precedente, sebbene
+giustamente è riportato in questo piano un resoconto delle spese e
+quindi devo dire gli investimenti previsti sono stati fatti, come
+riporta la tabella finale... nonostante questi investimenti, a
+nostro avviso, molti degli obiettivi del piano precedente non sono
+stati conseguiti in pieno e i piani pluriennali, a nostro avviso,
+dovrebbero avere una prima parte che dà una valutazione di quello
+che è stato raggiunto, di quello che non è stato raggiunto, del
+perché, in qualche modo, nonostante gli investimenti siano tutti
+fatti... perché sono andato a vedere, praticamente le cifre sono
+tutte state impegnate, quindi da questo punto di vista non è che
+c'è stata un'inefficienza, bisogna riconoscere che, anche se il
+piano risale al 2007, comunque nel 2008-2009 il denaro è stato
+impegnato, ma a nostro avviso non tutto è stato completamente
+raggiunto. Faccio un esempio concreto (accennava anche lei
+all'importanza della Comunità Partout, in cui si trovava già questo
+obiettivo nel precedente piano): a quanto ci risulta, sono soltanto
+28 i Comuni che ad oggi hanno pubblicato la PEC, cosa che invece
+nel precedente piano era dato come obiettivo generalizzato; quindi
+questo piano, da questo punto di vista, riparte con uno
+step
+che doveva già essere conseguito.
+Un'altra considerazione assolutamente importante per noi è che
+il bistrattato precedente piano aveva un'intera pagina molto
+importante, che questa volta non riscontro con la stessa nettezza,
+sull'importanza di come tutto questo sviluppo tecnologico poteva
+portare sia come positività - ed è stato accennato nel suo
+intervento - agli operatori turistici, quindi all'impresa, e quindi
+come ricaduta qui si faceva uno specifico riferimento anche al tema
+dell'occupazione. Un tema, quello dell'occupazione e del lavoro,
+che francamente, qui, nella parte che ho osservato delle
+considerazioni generali, non viene affrontato con la stessa
+ampiezza e determinazione, mentre a nostro avviso questo rimane un
+tema fondamentale, strettamente connesso a quello delle nuove
+tecnologie. Certo, ci sono dei passaggi specifici, il telelavoro,
+eccetera, ma ripeto, nelle considerazioni generali del piano
+precedente la visione della ricaduta sull'occupazione e sul lavoro
+era trattata in modo decisamente più ampio e più articolato. Mi sia
+consentito di fare una puntualizzazione che riguarda una questione
+che probabilmente mi è sfuggita, che non sono stato in grado di
+capire fino in fondo: la questione dell'implementazione della Carte
+Vallée o - come mi pare di aver capito - del passaggio alla Carta
+regionale dei servizi. So che lei giustamente ha fatto uno sforzo
+ed è riuscito nel suo intento, gliene va dato atto, di ottenere che
+sulla Carta regionale dei servizi vi sia il simbolo della Regione;
+quello che è da capire è se siamo di fronte ad una nuova carta o
+siamo di fronte all'implementazione di Carte Vallée, perché una
+cosa è la Carta nazionale dei servizi, altra cosa è la Carte
+Vallée! Abbiamo due carte o la Carte Vallée viene momentaneamente
+sospesa o entrambe si sovrappongono? Sulla Carte Vallée abbiamo
+investito non pochi denari per salvare il logo Carte Vallée; adesso
+la mettiamo in prepensionamento, in stand-by perché passiamo alla
+Carta nazionale dei servizi? Questo è denaro pubblico, sono stati
+investiti giustamente dei soldi per implementare la Carte Vallée!
+Certo che se la Carte Vallée si limita poi a fare i buoni mensa dei
+dipendenti regionali e il minipay del parcheggio, non è quello lo
+strumento che si ipotizzava di avere!
+Ci sono all'interno poi di questo piano alcune considerazioni da
+fare estremamente positive a nostro avviso, che riguardano - mi
+riferisco in particolare a pagina 126 - a cose che noi, come
+Partito Democratico, abbiamo in modo particolare sostenuto e che
+l'Amministrazione aveva avviato: l'avvio di ulteriori edizioni del
+progetto "Un computer in famiglia", e questo mi pare assolutamente
+condivisibile da parte nostra, e ci fa molto piacere che una
+richiesta del Partito Democratico che non era stata accolta nelle
+precedenti discussioni sul bilancio l'anno passato, trova però
+conferma della validità come proposta, naturalmente con le
+valutazioni opportune, rispetto al completamento dello studio
+relativo al contributo per l'acquisto di un personal computer e per
+i servizi informativi e formativi ai cittadini over 65. Questa era
+una cosa a cui noi tenevamo in modo particolare, quindi non può che
+farci piacere trovarla all'interno di questo piano, perché in prima
+battuta si era detto addirittura in termini un po' ironici: ma
+state scherzando, costa troppo dare un computer a tutti i
+valdostani sopra i 65 anni... ci fa molto piacere che adesso,
+invece, la maggioranza ha recepito questa istanza del Partito
+Democratico e sta studiando un progetto, naturalmente con tutte le
+limitazioni necessarie per contenerne la spesa, che va in questa
+direzione. Quindi da questo punto di vista esistono anche
+elementi... come dire?... non è che facciamo solo letture critiche
+dei documenti, ma vediamo anche gli aspetti positivi che questi
+documenti contengono.
+Mi sia consentito esprimere una perplessità, Presidente, per
+farle notare come arriviamo alla fine dell'anno ad approvare un
+piano che - naturalmente capisco, l'ho già fatto prima l'elogio
+delle strutture che ci hanno lavorato - contiene al suo interno...
+cioè adesso votiamo un piano che al suo interno contiene tutta una
+serie di
+step
+che fanno riferimento al primo trimestre 2010,
+al secondo trimestre 2010, a cose passate! Quindi noi votiamo oggi
+per cose che dovevano essere fatte mesi fa, e anche qui, è chiaro,
+il piano titola 2010-2013, ma fra di noi dovremmo dirci che votiamo
+oggi cose che hanno preso avvio senza che vi fosse il piano
+approvato!
+Anche noi, in alcuni interventi e anche in Consiglio regionale,
+siamo stati fra i sostenitori della banda larga e sicuramente
+migliorare i collegamenti con le valli laterali è uno strumento
+indispensabile per lo sviluppo della nostra realtà. Mi sia però
+consentito di far notare che, a fronte di situazioni di
+miglioramento e di utilizzo sempre maggiore da parte delle
+strutture regionali amministrative e degli strumenti informatici,
+abbiamo conosciuto dei veri e propri "disastri informatici" e cito
+il caso dell'Assessorato all'agricoltura, il caso AREA, che ha
+impedito che si mantenesse il collegamento di tutti i dati
+informatici a disposizione dell'Assessorato dell'agricoltura fra le
+varie strutture, creando una confusione terribile fra queste, e che
+impedisce, ancora oggi, la trasmissione e la comunicazione dei dati
+che si basavano su un precedente sistema informatico. Allora
+facciamoci gli elogi, diciamo che siamo bravi, ma stiamo attenti,
+perché questi strumenti, se non sono usati correttamente, possono
+anche creare dei guasti non indifferenti.
+Ancora: in alcuni passaggi si legge che:
+"nell'ambito del
+rinnovamento e dell'innovazione tecnologica della pubblica
+amministrazione"
+... eccetera, eccetera,
+"l'inserimento delle
+tecnologie informatiche è da considerarsi fra i più importanti per
+l'impatto sull'organizzazione del lavoro fra i più innovativi"
+,
+e poi si dice, a pagina 126 (ma c'è in altri passaggi):
+"per la
+semplificazione delle procedure"
+. Ora è lei che mi insegna che
+la semplificazione delle procedure non avviene semplicemente per
+innesto di un passaggio da una condizione cartacea ad una
+condizione informatica, occorre semplificare le procedure, superare
+certi passaggi, perché alle volte il passaggio all'informatica crea
+degli intoppi, delle difficoltà. Non è che passo all'informatica e
+tutto diventa più semplice; noi ci auguriamo che questa cosa
+riduca, ad esempio, quelle trasmissioni a mano da un Assessorato
+all'altro delle lettere e quant'altro... questo senza dubbio!
+Per quanto riguarda l'eccellenza della nostra Regione, anch'io
+auspico che questo piano venga portato tutto a compimento e attuato
+e che brilli la stella della cosiddetta "isola felice", oggi
+definita "isola felice" da Lattanzi. Voglio ricordare che in altre
+Regioni più grandi della nostra... faccio il caso della Regione
+Friuli, dove il Presidente Illy, che attualmente non è più in
+carica - quindi mi riferisco a tanti anni fa - firmava già
+digitalmente; questo non esiste ancora qui da noi. Non è che questo
+ci fa meno bravi degli altri, ma visto che abbiamo scritto un
+documento di questo tipo, in cui si parla di firme digitali,
+eccetera... parecchi anni fa il Friuli era già arrivato dove noi
+oggi poniamo queste cose come dei grandi obiettivi... quindi ben
+venga che arriviamo anche noi, lì, dove altri già sono
+arrivati!
+Infine chiudo con una considerazione. L'auspicio è che questo
+tipo di attività molto consistente abbia delle ricadute importanti
+anche sullo sviluppo della nostra Regione... perché dico questo?
+Perché anche in rapporto al precedente piano noi investiamo
+importanti risorse in più rispetto a questo piano pluriennale
+sull'informatica, quindi ci sono, rispetto al piano precedente,
+40-50.000 euro in più; alcune sono risorse importanti che vengono
+dall'Europa, quindi bene ai lavori delle strutture che sono
+riusciti a recuperare queste energie, però c'è un investimento
+fortissimo e quindi la delicatezza di tradurre questi importanti
+investimenti in azioni concrete, cosa che a mio avviso non è stato
+nel precedente piano che è rimasto incompiuto in molte parti e
+questo obbliga il piano attuale a riprendere, addirittura in alcuni
+casi passo passo, delle cose che erano già state progettate e che
+dovevano chiudersi.
+Quello che si prende questa Amministrazione è quindi un impegno
+importante e noi naturalmente guarderemo con attenzione, perché
+questo importante investimento, in un momento di difficoltà
+economica, non rimanga sulla carta o non proceda a macchia di
+leopardo, come a noi è parso si sia proceduto per quanto riguarda
+il precedente piano pluriennale, che magari ha avuto una
+pubblicazione su una splendida
+brochure
+... non so se avete
+avuto l'opportunità di sfogliarla, io non ne sono venuto in
+possesso, ma l'ho potuta consultare... cioè che l'informatica non
+diventi un bellissimo libriccino, ma diventi davvero quello
+strumento di lavoro di cui deve essere sempre più dotata la nostra
+Amministrazione, sempre più dotati i cittadini valdostani per
+migliorare le condizioni di efficienza del nostro sistema pubblico,
+con le ricadute che ci aspettiamo, anche se non sono state indicate
+come nel precedente piano, sugli investimenti e
+sull'occupazione.
+Presidente
+- Se nessun altro chiede la parola, dichiaro
+chiusa la discussione generale.
+La parola al Presidente della Regione, Rollandin.
+Rollandin (UV)
+- Grazie, Presidente. Innanzitutto per
+ringraziare i colleghi che hanno preso la parola, e voglio dire che
+anche il lavoro svolto all'interno della commissione, dal
+Presidente della commissione e dai colleghi credo sia stato
+importante.
+Voglio altresì sottolineare che questa proposta, approvata dalla
+Giunta il 22 giugno di quest'anno, è stata depositata in Consiglio,
+poi c'è stata la pausa estiva; avevamo giustamente detto che
+c'erano una serie di interventi alla fine dei lavori pre-ferie, che
+era stato consigliato di presentare questo argomento a dopo le
+ferie... per dire che il documento era già di giugno, quindi era
+stato preparato all'inizio, ed ecco perché fa dei riferimenti che
+sono relativi al 2010, anche se è l'elemento a cavallo del 2010 e
+si proietta sugli anni 2011-2012-2013.
+Non voglio riprendere tutti gli interventi che sono stati fatti,
+che sono più che condivisibili; vorrei solo dare alcune brevi
+notazioni. Non è stato ripreso il discorso del telelavoro solo
+perché su questo tema, di fatto, la parte informatizzata è stata
+predisposta; adesso si tratta di darle attuazione, quindi ci sono
+già gli strumenti che lo danno per scontato. Per quanto riguarda
+l'anagrafe immobiliare, sicuramente condivido l'osservazione, è uno
+degli strumenti di grande efficacia sotto più profili; adesso siamo
+in una fase di avviamento ed è necessario che venga seguita con
+attenzione perché i risvolti sono di diversa natura. Per quanto
+riguarda la conservazione dei dati, voglio solo far notare che c'è
+un punto specifico, a pagina 121, in cui si parla di
+digitalizzazione del patrimonio documentale audiovisivo e là dove
+si fa espresso riferimento... adesso non è specificato e accetto il
+suggerimento di dire: cerchiamo di non avere, anche rispetto al
+cartaceo, dei doppioni; però l'indirizzo - come si dice qui - di
+tutta l'Amministrazione è di andare in questa ottica. Volevo solo
+sottolineare questo.
+Per quanto riguarda l'intervento del collega Lattanzi, credo che
+quello che sia da sottolineare e che è un po' il
+leitmotiv
+di tutto quello che è stato detto, è che gli interessi sono due: da
+un lato, quello di semplificare il lavoro dell'Amministrazione, che
+dovrebbe avere come ricaduta la facoltà per il cittadino di essere
+più vicino al servizio ed essere agevolato. Mi rendo conto che non
+è ancora per tutti così, mi rendo conto che tutta una serie di cose
+sono ancora da fare, quindi c'è da lavorare; però le relazioni, in
+particolare sociali ed economiche a tutti i livelli, sono quelle
+che avranno giovamento da tutto questo...
+Su un punto solo una precisazione per il collega Donzel: qui si
+è riparlato dei computer, computer per i ragazzi e per gli over
+65... avevamo specificato, in una risposta puntuale, che dare a
+tutti gli over 65 il computer era molto difficile, perché si
+rischiava di dare a pioggia una serie di computer senza onestamente
+sapere se poi sarebbero stati gli anziani ad utilizzarli o qualcun
+altro. La scelta su cui si sta lavorando è quella di predisporre
+dei corsi di formazione in modo tale che alla fine si abbia
+coscienza che coloro che partecipano siano interessati prima di
+tutto a farli, dopodiché ben venga la possibilità di avere, anche
+per gli over 65, questa possibilità di un'alfabetizzazione digitale
+che sicuramente non può che portare beneficio all'insieme della
+collettività. Quindi credo che su questo ci sia da dire che anche a
+livello regionale, qui, non si è voluto misconoscere quello che è
+stato fatto; abbiamo solo voluto dire che, rispetto al piano
+precedente, qui abbiamo cercato... e ho ripreso le parti centrali
+degli interventi che vanno nella modifica totale, perché questo è
+il discorso, di avere la fibra ottica, il WI-FI che copre tutta la
+regione la banda larga, questa è la risposta vera a tutta una serie
+di problematiche che sono pesanti per tutti i settori.
+Non dimentichiamo che a livello di utilizzazione del sistema
+informatizzato, abbiamo cercato di attivarlo... vi ricordate una
+delle prime interrogazioni che sono state fatte in quest'aula che
+chiedeva come mai c'erano ancora i controlli dei cartellini a mano,
+non c'erano ancora i
+badge
+... Credo che lo avete visto anche
+voi, su questo si sta attuando il sistema su tutta la Regione, già
+oggi ci sono i
+badge
+per 2.300 dipendenti questo è un
+controllo che va nel senso della sicurezza, nel discorso di avere
+contezza e di dare la possibilità ad ognuno di avere un riscontro
+nel quale faccia fede la propria attività, che molto spesso viene
+discussa.
+In conclusione, accolgo volentieri tutti i suggerimenti che sono
+stati fatti; spero che annualmente avremo anche occasione di fare
+un'analisi su quello che è stato fatto, di quello che si fa, delle
+eventuali difficoltà a trovare l'applicazione al piano, perché non
+è tutto così scontato, ci sono sicuramente delle problematiche da
+affrontare. Quello che dobbiamo dire è che per il momento il piano
+di realizzazione delle strutture in fibra ottica sta andando avanti
+bene, si sta lavorando per la posa della fibra sulle canalizzazioni
+delle strutture delle centrali idroelettriche, che velocizza questo
+percorso, e rende possibile questi collegamenti diretti in
+sicurezza, e che agevola anche la possibilità di ottenere in tempi
+stretti quello che il piano ha fissato.
+Con l'augurio condiviso che si possa realizzare nei tempi che
+sono stati previsti, vi ringrazio ancora per l'attenzione che è
+stata posta a questi temi. Grazie.
+Presidente
+- Pongo in votazione il piano pluriennale sul
+sistema informativo:
+Consiglieri presenti: 32
+Votanti e favorevoli: 29
+Astenuti: 3 (Donzel, Carmela Fontana, Rigo)
+Il Consiglio approva.
+Presidente
+- Prima di passare al punto 23.2 volevo solo
+farvi presente che sono stati presentati all'Ufficio di Presidenza
+due ordini del giorno firmati dai Consiglieri Rigo e Morelli
+sull'atto concernente il Servizio civile regionale ed un
+emendamento firmato dall'Assessore Zublena e dal Consigliere Rigo
+sulla mozione iscritta al punto 25 all'ordine del giorno.
+Si dà atto che dalle ore 17,27 assume la presidenza il
+Presidente Alberto Cerise.

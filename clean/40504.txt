@@ -1,0 +1,165 @@
+Classificazione
+AMMINISTRAZIONE REGIONALE
+Ordinamento degli uffici e del personale
+INFORMAZIONE
+Sistema informativo
+
+
+
+Oggetto del Consiglio n. 3293 del 15 marzo 2018 - Resoconto
+OGGETTO N. 3293/XIV - Interpellanza: "Tempistica per la
+conclusione del progetto realizzato dalla società Inva per
+l'introduzione presso l'Amministrazione regionale di soluzioni open
+source".
+Grosjean (Président) -
+Point n° 6 de l'ordre du jour. La
+parole au collègue Bertin pour l'illustration.
+Bertin (CC-MOUV) -
+Riprendo qui un argomento di cui mi
+sono interessato in passato in molte occasioni: mi riferisco
+all'utilizzo dei sistemi
+open source
+nell'ambito delle
+pubbliche amministrazioni. È ormai in atto da diversi anni in molte
+amministrazioni europee una migrazione dai sistemi
+software
+proprietari a quelli liberi. Un processo che è in atto da diversi
+anni e che vede coinvolte grandi strutture: da Ministeri per quel
+che riguarda l'Italia e la Francia, mi riferisco al Ministero della
+difesa in Italia, in Francia, ad esempio, tutta la
+Gendarmerie
+è già migrata verso l'utilizzo dei sistemi open
+source non proprietari. Altre Regioni hanno da diverso tempo
+intrapreso questa via e, tra l'altro, le più moderne, tipo la
+Baviera, si è posta un obiettivo importante: quello di una
+migrazione totale in tempi relativamente brevi. Questo per due
+ordini di ragioni e obiettivi: da una parte, quello riguardante un
+risparmio economico, poiché ricordo che negli anni
+l'Amministrazione regionale ha speso svariati milioni di euro per
+acquistare le licenze da Microsoft. In generale anche per un
+approccio diverso nella gestione dell'informatica, poiché questi
+sistemi aperti prevedono degli aggiornamenti e comunque delle
+modificazioni nell'approccio con una partecipazione diretta degli
+utenti. Peraltro esistono sia in Italia che in Europa delle reti
+per sostenere reti di amministrazioni pubbliche (Comuni e Province
+in Italia) per permettere un più facile utilizzo e conoscenza
+nell'ambito di questo settore.
+Come dicevo, la migrazione è in atto in molte Regioni. Per anni
+mi sono occupato di questo aspetto sollecitando l'Amministrazione
+regionale ad intraprendere questa via e negli ultimi anni, in
+particolare dal 2015, avevo proposto una mozione, approvata
+all'unanimità, con la quale si è realizzato uno studio relativo ai
+vantaggi e agli oneri di questa possibilità di passaggio ad un
+sistema open source. Sono delle migrazioni complesse dal punto di
+vista organizzativo e tecnico, non è un'attività banale che va
+fatta con il tempo e certamente non va improvvisata. Da questo
+punto di vista, questo studio, che era stato realizzato da INVA nel
+2015 - era poi stata assunta una deliberazione da parte della
+Giunta come linee guida per una migrazione dell'Amministrazione
+regionale nel mondo open source -, era uno studio serio, nel quale
+venivano illustrate anche le tempistiche, i vantaggi e le
+difficoltà, perché vi sono anche delle difficoltà in questa scelta.
+Il progetto era inizialmente partito in via sperimentale su alcuni
+Assessorati, in una fase successiva si era ripresa la strada
+tracciata dallo studio di Inva partendo da un avvio più ampio che
+coinvolgesse tutte le strutture dell'Amministrazione regionale e a
+questo punto questa interpellanza era l'occasione per capire a che
+punto siamo e quando la Regione Valle d'Aosta migrerà totalmente
+verso i sistemi open source. Potrebbe essere al momento ancora la
+prima Regione a farlo, poiché altre Regioni stanno iniziando, ma
+nessuna ha completato questo percorso. A mio avviso, sarebbe
+importante che questo venisse fatto e fatto in tempi brevi, come
+sollecito da anni, per le ragioni che illustravo in precedenza.
+Président -
+La parole au Président de la Région pour la
+réponse.
+Viérin (UVP) -
+Je remercie le collègue Bertin pour avoir
+abordé de nouveau ce sujet dont on a déjà parlé durant cette
+législature. C'est une question des années passées et j'ai essayé
+de reconstruire un peu son évolution.
+Le Département de l'innovation et de l'agenda numérique, que,
+par ailleurs, nous avons reconstitué, communique que par rapport
+aux dispositions de la délibération 179 de 2016, en mai 2016 le
+Gouvernement régional de l'époque a décidé de concentrer les
+activités en question sur quelques structures pilotes. Cela en vue
+de bien évaluer les impacts de cette migration sur les outils et
+sur les documents existants et de permettre au personnel de prendre
+progressivement connaissance des solutions
+open source
+, de
+se familiariser avec celles-ci et d'acquérir les compétences
+nécessaires. Trois départements pilotes ont été sélectionnés sur la
+base des types d'outils utilisés et des catégories d'usagers
+concernées, ainsi que des rapports avec l'extérieur, y compris au
+niveau transnational: il s'agit du Département du personnel, du
+Département des politiques structurelles et des affaires
+européennes et de l'ancien Département du territoire et de
+l'environnement - donc ces trois départements ont été sélectionnés.
+En 2017 les activités suivantes ont été réalisées: relevé des
+besoins en formation (août-septembre 2017) et des criticités des
+logiciels et des documents (novembre-décembre 2017) auprès de tous
+les employés de l'Administration régionale; réunion d'information
+avec les dirigeants et les coordinateurs de l'Administration
+régionale (23 juillet 2017) à la bibliothèque régionale, on me
+signale, par ailleurs, que vous aviez aussi participé à cette
+rencontre. Encore en 2017 ont démarré et ont été presque terminées
+les activités de nouvelle conception et de réécriture des logiciels
+de gestion des dossiers des personnes porteuses de handicap et du
+système informatique
+Atti
+pour la gestion des actes des
+dirigeants, afin de les rendre compatibles avec la suite
+LibreOffice. La conversion des documents actuellement utilisés au
+quotidien par les bureaux a, par la suite, été effectuée avec les
+départements pilotes, les trois départements. Le département
+communique aussi que d'ici la fin d'avril 2018 il est prévu de
+finaliser les analyses des données collectées grâce aux relevés et
+de livrer le document final reportant les résultats obtenus. Avril
+2018 donc livraison du document final sur la base duquel il sera
+possible de définir le positionnement global ainsi que les
+modalités et les dates des activités de migration ultérieures.
+Pour ce qui est de la deuxième question, c'est-à-dire quelle
+sont les intentions du Gouvernement régional, une fois arrivé le
+document final, l'intention est d'acquérir tous les éléments
+d'analyse nécessaires afin qu'il soit possible d'adopter les
+décisions définitives concernant les modes et le calendrier de la
+migration à LibreOffice, qui prendra quand même quelques mois selon
+les évaluations du département en question.
+Président -
+La parole au collègue Bertin pour la
+réplique.
+Bertin (CC-MOUV) -
+Ringrazio per l'illustrazione di
+quanto fatto sinora, tra l'altro, l'ho fatto anch'io in premessa,
+ma probabilmente non ci siamo ascoltati, per cui un giusto
+approfondimento di quanto già detto... A parte questo, come
+sottolineava, alcuni passi importanti sono stati fatti, purtroppo
+la tempistica si sta allungando rispetto a quanto si poteva
+immaginare nel 2015 soprattutto dopo lo studio realizzato da
+Finaosta per questa migrazione. Non saremo - temo - la prima
+Regione in Italia a realizzare e concludere la migrazione verso
+sistemi
+open source
+. Da quanto ho capito, a fine aprile, o
+molto più probabilmente con la prossima legislatura, la decisione
+finale verrà presa in merito a questo
+dossier
+. Mi auguro che
+si persegua rapidamente quanto anche previsto dalla mozione
+approvata all'unanimità nel 2015 che avevo presentato e che la
+Regione Valle d'Aosta diventi, come molte altre Regioni, una delle
+prime a migrare su questi sistemi, un risparmio notevole in termini
+economici. Spesso si parla di
+spending review
+, questo è un
+modo per risparmiare. Oltre che un modo per risparmiare, come
+dicevo in precedenza, è anche un modo diverso di approcciare queste
+questioni con il coinvolgimento degli utenti, nel caso specifico
+degli utilizzatori e i dipendenti regionali. Certamente non è
+un'attività semplice, ma va fatta e va fatta in tempi brevi. In
+Europa tutti lo stanno facendo e credo che dovremmo anche noi fare
+in fretta e farlo nel modo migliore. Purtroppo mi sto rendendo
+conto... si aspetterà la fine della legislatura e l'inizio della
+prossima per prendere su questo una decisione definitiva
+soprattutto relativa ai tempi, vedremo.

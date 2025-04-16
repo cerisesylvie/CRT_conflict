@@ -1,0 +1,232 @@
+Consiglio Regionale della Valle d'Aosta - Oggetto del Consiglio n. 2043 del 12 luglio 2006 - Resoconto
+Vai al contenuto principale
+Oggetti del Consiglio
+Invia
+Stampa
+Documenti
+Verbale
+Resoconto
+Collegamenti
+Iter atto
+Classificazione
+AMMINISTRAZIONE REGIONALE
+Ordinamento degli uffici e del personale
+Precedente
+Successivo
+Resoconto integrale del dibattito dell'aula. I documenti allegati sono reperibili nel link "iter atto".
+Oggetto del Consiglio n. 2043 del 12 luglio 2006 - Resoconto
+OGGETTO N. 2043/XII - Eliminazioni nella pubblica
+amministrazione di posizioni di monopolio nell'ambito dei sistemi
+operativi informatici. (Interpellanza)
+Interpellanza
+Ricordato il quasi monopolio di Microsoft nel software
+installato negli elaboratori elettronici personali in dotazione ad
+amministrazioni pubbliche, imprese e privati di tutto il mondo,
+soprattutto in materia di programmi di sistema, tipo serie Windows,
+o nei pacchetti di produttività d'ufficio, con il programma Office
+tanto da aver provocato numerosi interventi dell'Unione europea
+contro tale abuso di posizione, che in parte hanno portato alla
+condanna di Microsoft ed in parte sono ancora in attesa di giudizio
+alla Corte europea;
+Preso atto che nel libero mondo dei programmi sorgenti liberi
+si possono provare ottimi sistemi operativi, come Linux, oppure
+programmi di produttività d'ufficio altrettanto performanti, come
+Open Office, che sono diffusamente adottati anche nel nostro Paese
+da imprenditori privati e pubbliche amministrazioni;
+Constatato che il costo delle licenze non solo è molto per la
+nostra amministrazione regionale, per l'elevato numero di licenze
+attive, ma tende di anno in anno ad aumentare, mentre l'utilizzo
+dei programmi open source sarebbe sostanzialmente gratuito e quindi
+l'ampio risparmio economico sarebbe ridotto solo nei primi tempi di
+adozione dei programmi free ware per la necessità di formazione del
+personale che li utilizza, anche perché vi sono ampie similitudini
+con i programmi Microsoft;
+i sottoscritti Consiglieri regionali
+Interpellano
+il Governo regionale per conoscere:
+1) se sia comunque intenzione di operare un censimento per
+conoscere i sistemi operativi utilizzati nell'amministrazione e
+negli enti da essa dipendenti, nonché i principali pacchetti
+operativi utilizzati;
+2) se vi sia l'intenzione di operare dei tagli nei costi
+dell'informatizzazione propria e dagli enti ad essa dipendenti,
+utilizzando i programmi open source;
+3) se si voglia comunque operare in sintonia con le norme
+comunitarie che proibiscono le posizioni di privilegio e quindi
+comunque indirizzare le proprie scelte in tema informatico verso
+differenti produttori di software, sia nel caso di sistemi
+operativi che di applicativi generalisti.
+F.to: Ferraris - Sandri
+Président
+- La parole au Conseiller Sandri.
+Sandri (GV-DS-PSE)
+- L'illustrazione è abbastanza
+semplice: partiamo da una serie di valutazioni che sono state fatte
+un po' da tutti coloro che utilizzano questi strumenti informatici
+nuovi, cioè che esiste uno strapotere di "Microsoft", tant'è vero
+che il suo Presidente si è perfino permesso di dire:
+"sono
+talmente ricco che smetto di fare il Presidente di "Microsoft" e mi
+do alla beneficenza!"
+... e ci si rivolge verso strumenti che
+sono alternativi. Il più famoso è il sistema informativo "Linux",
+che è stato inventato da un ragazzetto di un'università finlandese,
+oppure un altro strumento è "Open Office", che è stato prodotto
+dalla rete e che viene aggiornato da società, ma sempre mantenendo
+queste caratteristiche di programmi di utilità generalista
+assolutamente disponibili gratuitamente sulla rete. Questo tipo di
+impostazione non solo recepisce quello che è un profondo valore in
+cui crede la Comunità europea: quello della libera concorrenza e
+libera circolazione delle merci e dei prodotti dell'intelligenza
+all'interno della Comunità, senza posizioni di predominio, tant'è
+vero che l'Unione europea più volte si è rivolta alle istituzioni
+politiche per chiedere ed ottenere la condanna di "Microsoft" da
+questo punto di vista.
+Esiste un secondo tema che è quello dei costi; ovviamente, non
+dovendo pagare a "Microsoft" le sue salatissime "royalties"
+,
+è possibile fare dei grossi risparmi. Si voleva capire quindi se
+c'era una coscienza di che tipo di "software" esiste
+nell'Amministrazione regionale, perché abbiamo anche qualche dubbio
+che vi sia un po' di confusione, probabilmente a furia di arrivi in
+tempi diversi... probabilmente non abbiamo gli stessi sistemi
+operativi o gli stessi programmi... secondo: se c'è l'intenzione di
+andare in tale direzione, quindi avere un'informatizzazione a costi
+decisamente inferiori e comunque di differenziare per quanto più
+possibile, in un'ottica di ottimizzazione, i fornitori in modo da
+contrastare queste posizioni dominanti che attualmente
+esistono.
+Président
+- La parole à l'Assesseur au budget, aux
+finances, à la programmation et aux participations régionales,
+Marguerettaz.
+Marguerettaz (UV)
+- In relazione all'interpellanza in
+oggetto, si ritiene doveroso richiamare alcune osservazioni di
+inquadramento generale sul tema "Open Source" già in parte esposte
+nella risposta all'interpellanza del 9 novembre 2005 del collega
+Lanièce. Il costo di un prodotto è costituito da svariati elementi,
+di cui il costo della licenza è una parte. Se si considera il ciclo
+di vita di un prodotto, si rileva che i costi di gestione e di
+manutenzione dello stesso tendono a superare nel tempo il costo di
+acquisto e questo sia nel caso ci si trovi di fronte a un prodotto
+sottoposto a "royalties", sia per un prodotto "Open Source"
+nominalmente gratuito. I fattori di costo che vengono analizzati
+sono molteplici: a titolo di esempio si evidenzia l'installazione
+del prodotto, la compatibilità con i sistemi operativi in uso, la
+necessità di formare il personale sull'utilizzo del prodotto, la
+riconversione degli archivi e delle applicazioni esistenti, la
+gestione della sicurezza. Gli studi di mercato indicano che nel
+caso di aziende dotate di sistemi informatici complessi e con un
+numero elevato di utenti, come è il caso dell'Amministrazione
+regionale, il costo di acquisto di una licenza d'uso costituisce
+circa il 10% del costo globale del sistema. Se l'attrattiva del
+"software Open Source" risiede nei contenuti costi di acquisto
+delle licenze ed aggiornamento delle stesse - in taluni casi
+gratuiti -, la scelta della loro introduzione in realtà va vista
+valutando un ulteriore importantissimo aspetto: la garanzia della
+continuità del "business", cioè che il sistema informatico sia in
+grado di poter evolvere anche in presenza di mutate scelte
+tecnologiche di base e di variate logiche di "business" che nel
+tempo possono presentarsi. Volendo cercare dei riferimenti sulle
+scelte fatte da altre organizzazioni in campo mondiale, ragionando
+in termini di penetrazione di prodotto, mentre è significativa la
+presenza di "software Open Source" nel settore dei "server" con
+grandi tassi di crescita è sostanzialmente poco significativa
+quella nel settore dei "personal computer" con ritmi di crescita
+modesti, localizzati per lo più nel settore domestico. È lecito
+quindi affermare che ben poche amministrazioni pubbliche utilizzano
+oggi prodotti "Open Source" installati sui "personal computer" dei
+funzionari ed in particolare la "suite Open Office". Per
+completezza informativa va altresì detto che, così come riportato
+in occasione della precedente interrogazione, test effettuati dai
+tecnici del DSI sulla "suite Open Office" versione "2.0" hanno dato
+esito favorevole evidenziando una buona affidabilità del
+prodotto.
+Fatta questa introduzione, cerchiamo di dare una risposta ai tre
+quesiti. Per il primo si precisa che il Dipartimento Servizi
+informativi, conformemente all'articolo 22 della legge regionale n.
+12, mantiene costantemente aggiornato l'inventario dei beni
+informatici, di conseguenza è nota e disponibile a richiesta la
+consistenza dei sistemi operativi utilizzati nell'Amministrazione,
+nonché quella di tutti i pacchetti operativi utilizzati e
+acquistati dal Dipartimento stesso.
+Riguardo al secondo quesito, si evidenzia la costante azione del
+Dipartimento volta ad operare riduzioni nelle spese correnti legate
+all'"ICT"; tale logica contempla anche l'utilizzo di prodotti di
+tipo "Open Source" laddove tale scelta sia perseguibile nella
+garanzia della continuità di "business". In relazione a questo si
+porta a conoscenza dell'importante investimento effettuato dalla
+Regione nel riposizionare su piattaforme "Open Source" i sistemi
+informativi della contabilità finanziaria, degli invalidi civili e
+dell'agricoltura e zootecnia, passando dall'attuale piattaforma
+proprietaria "IBM - VSE" a una piattaforma "Open Source" basata su
+ambiente "Linux". Tale scelta permetterà un contenimento dei costi
+di gestione dell'ordine del 30% annuo al netto degli investimenti
+di migrazione.
+Infine, per quanto attiene il terzo quesito, il Dipartimento
+conforma la propria azione nel massimo rispetto delle normative
+vigenti comunitarie e nazionali e anche di quelle citate
+nell'interpellanza. Tale azione è stata condotta in largo anticipo
+rispetto alle suddette normative, in quanto già in fase di impianto
+di sistema informativo regionale sono state scelte, mantenute ed
+evolute soluzioni tecnologiche di produttori diversi da
+"Microsoft". Si citano le soluzioni "Novel" attualmente declinate
+in logica "Open Source" per i "file" e i "printer server", in
+alternativa al prodotto "Windows 2003 server", e "IBM" per la posta
+elettronica in alternativa alla soluzione "Microsoft Exchange". Si
+ribadisce la necessità di valutare in ogni caso il costo globale
+dell'introduzione di un prodotto all'interno di un sistema
+informatico; questo aspetto è richiamato dalla direttiva del 19
+dicembre 2003 sullo sviluppo ed utilizzazione dei programmi
+informatici da parte delle pubbliche amministrazioni.
+Concluderei, sperando di aver dato una risposta, con una
+proposta al collega Sandri. Sulla base di queste note appare chiaro
+che l'assioma "Open Source"-codice gratuito è un po' fuorviante,
+non solo, ma appare evidente che l'"Open Source"
+analizzato
+compiutamente nelle sue diverse segmentazioni presenta una
+complessità tale da meritare un approfondimento specifico. Al fine
+di fornire il giusto livello di informazione si propone un incontro
+di inquadramento da richiedere insieme al Dipartimento Sistema
+informatico della Regione, da effettuarsi in sede diversa e in data
+da definire. Alla luce dei test tecnici effettuati, che
+evidenziando un buon livello di affidabilità raggiunto dalla "suite
+Open Office 2.0", considerata la sensibilità dimostrata dal
+Consiglio regionale - come testimoniano le due interpellanze che
+nel tempo sono state presentate -, si propone una fase sperimentale
+finalizzata all'ottenimento di valutazioni ergonomiche - mi rivolgo
+anche al Presidente del Consiglio - di facilità d'uso e di "effort"
+formativo, da effettuarsi sui componenti del Consiglio e sotto il
+coordinamento del DSI per l'applicazione di questi prodotti "Open
+Source".
+Président
+- La parole au Conseiller Sandri.
+Sandri (GV-DS-PSE)
+- Apprezzo le parole dell'Assessore,
+anche se "scherza con il fuoco" e con il fuoco ci si brucia, nel
+senso che tutto carino quello che è stato detto, mi sembra che vi
+sia intanto una presa di coscienza di questo problema, si è
+evidenziato un risparmio di oltre il 30%, ma credo si sia
+sottaciuto un dato da cui noi - mi riferisco anche al collega
+Lanièce - partiamo: che grazie al Presidente del Consiglio e alla
+Presidenza del Consiglio noi Consiglieri già questo lo facciamo,
+perché tale interpellanza viene fuori dal fatto che noi già da mesi
+abbiamo avuto a disposizione da parte del Servizio informatico
+della Presidenza del Consiglio questo tipo di strumenti, abbiamo
+scoperto che è molto più affidabile del "Word processor" di
+"Microsoft", nel senso che, quando si va a fare la correzione
+ortografica, con "Word" ti si impianta il computer, con "Open
+Office" mai, quindi abbiamo già testimoniato questo. Le rinvio
+quindi la provocazione dicendo che forse, se la Giunta fosse stata
+a livello del Consiglio, non saremmo arrivati a questa
+interpellanza. Prendo atto che state recuperando il tempo perso e
+non posso che felicitarmi della cosa. Infine la ringrazio per la
+fornitura di quella relazione-inventario di quanto c'è.
+Informativa cookies
+Consiglio Regionale della Valle d'Aosta © 2025
+Questo sito utilizza cookies propri e di terze parti. Continuando ad usare questo sito, acconsenti all'utilizzo di questa tecnologia.
+Consulta la nostra
+informativa
+per maggiori informazioni e per istruzioni su come disattivare i cookies.
+OK

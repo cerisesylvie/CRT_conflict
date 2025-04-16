@@ -1,0 +1,256 @@
+Classificazione
+INFORMAZIONE
+Radiotelecomunicazioni
+
+
+
+Oggetto del Consiglio n. 3250 del 23 gennaio 2008 - Resoconto
+OGGETTO N. 3250/XII - Interrogazione: "Disfunzioni nel
+funzionamento tecnico del digitale terrestre".
+Interrogazione
+Constatato che dalla prima settimana di gennaio sui tre
+canali di Mediaset del Digitale Terrestre appare la scritta "Le
+trasmissioni proseguono su un'altra frequenza. Per continuare a
+vedere questo canale risintonizza il tuo decoder effettuando la
+re-installazione di tutta la lista canali";
+Considerato che, soprattutto per le persone anziane o che
+hanno poca dimestichezza con le nuove tecnologie, la
+risintonizzazione dei canali rappresenta un indubbio disagio o
+ancor peggio un ulteriore esborso di denaro per l'intervento di un
+tecnico;
+Ritenuto necessario approfondire oltre agli aspetti tecnici
+anche quelli legati agli obblighi, che un qualsiasi fornitore di
+servizi deve rispettare, secondo un codice di comportamento che
+ogni soggetto interessato dovrebbe aver sottoscritto a garanzia
+dell'utenza;
+Appreso inoltre che i decoder, a detta dei tecnici, devono
+obbligatoriamente restare in standby 24 ore su 24 per poter
+ricevere automaticamente gli aggiornamenti che, pare, siano
+effettuati durante le ore notturne, con un evidente e poco
+sostenibile spreco di energia e un ulteriore aggravio di spesa
+sulla bolletta elettrica;
+i sottoscritti Consiglieri regionali
+Interrogano
+l'Assessore competente per sapere:
+1) se i gestori del digitale terrestre possono in qualsiasi
+momento e senza preavviso rimodulare i canali e se esistono, negli
+accordi di fornitura del servizio, delle clausole a garanzia degli
+utenti;
+2) quali motivazioni vengono fornite dai gestori per
+giustificare questi cambiamenti;
+3) quali contromisure può mettere in campo l'Amministrazione
+regionale per evitare, o quanto meno ridurre, il disagio degli
+utenti;
+4) se è tecnicamente possibile evitare, per ovvie ragioni di
+sostenibilità, lo standby degli apparecchi decoder.
+F.to: Venturella - Squarzino Secondina - Bortot
+Presidente
+- La parola all'Assessore al bilancio,
+finanze, programmazione e partecipazioni regionali,
+Marguerettaz.
+Marguerettaz (UV)
+- Intanto voglio ringraziare il collega
+Venturella, non tanto per l'interrogazione, ma per il tono - lo
+dico senza ironia - e per le finalità: sono finalità che ritengo
+assolutamente corrette perché evidenziano dei problemi senza
+demonizzare e senza fare della demagogia. Effettivamente il caso
+che è stato presentato è un caso che ha destato la stessa
+preoccupazione nel collega Venturella e nel sottoscritto, tanto che
+in data 9 gennaio il sottoscritto si è premurato di mandare una
+comunicazione al Ministero delle comunicazioni, all'Associazione
+DGTVi, al Presidente del CORECOM, in cui lamentavo non tanto la
+legittimità della decisione, che è legittima, ma le modalità che
+erano state adottate.
+Nella mia comunicazione del 9 gennaio scrivo:
+"il 1° gennaio
+2008 la RAI ha deciso di chiudere le trasmissioni di RAI utile su
+tutto il territorio nazionale e, nella notte del 7-8 gennaio,
+"Elettronica industriale" ha riorganizzato i 3 Mux da lei gestiti,
+muovendo i canali di 15 trasmissioni irradiate sul territorio
+secondo lo schema sotto riportato"
+. Là ci sono 3 Mux dove sono
+state fatte le modifiche. In questa mail che ho inoltrato al
+Ministero preciso che:
+"queste due operazioni avvengono in un
+momento in cui la popolazione sta metabolizzando lo switch-off di
+RAI 2 e RETE 4, modificando le proprie abitudini di fruizione del
+mezzo televisivo e confrontandosi con un nuovo strumento aggiuntivo
+qual è il decoder. La totale assenza di comunicazione preventiva
+alla cittadinanza in merito al cambiamento dei canali, attuato al
+conseguente obbligo per il telespettatore di risintonizzazione del
+decoder, ha generato una nuova confusione fra gli utenti e
+suscitato ulteriori sentimenti di avversione e sconforto. Nei
+confronti dell'Amministrazione nessuno degli operatori interessati
+ha provveduto a comunicare indicazioni di sorta. Mi auspico, per il
+futuro, che tutte le azioni relative alla TV digitale in Val
+d'Aosta siano condotte con lo stesso spirito di collaborazione che
+fino a ieri ha animato il protocollo d'intesa, siglato sempre nel
+pieno rispetto delle rispettive autonomie aziendali e
+istituzionali".
+Questo lo avevo inoltrato il 9 gennaio.
+Successivamente ho ricevuto da parte dell'Associazione DGTVi una
+memoria in cui si dice:
+"In relazione all'interrogazione..."
+- che ho inoltrato agli organi competenti -
+"sul comportamento
+delle emittenti, in particolare di Mediaset, che hanno effettuato
+in data 8 gennaio il trasferimento, le inoltro alcuni elementi
+tecnici"
+(poi le lascio questa memoria). Non vi è dubbio che lo
+spostamento di un canale da un Mux ad un altro crea dei disagi
+all'utente, in particolare per le diversità di funzionamento dei
+decoder presenti sul mercato; infatti alcuni modelli di decoder, in
+particolare i più recenti, procedono ad una sintonizzazione
+automatica della lista canali, mentre altri decoder meno
+performanti o da più tempo presenti nelle abitazioni o sul mercato,
+non effettuano...
+(interruzione della Consigliera Squarzino Secondina, fuori
+microfono)
+... mi preoccupo sempre quando la collega Squarzino si agita...
+non effettuano una sintonizzazione automatica e quindi richiedono
+un intervento manuale da parte dell'utente. La sintonizzazione
+manuale è senza dubbio un'attività che può creare problemi di un
+utente con poca dimestichezza con la tecnologia o di un utente
+anziano. Il trasferimento di canali su nuove frequenze è stato
+effettuato nella piena legittimità da parte degli emittenti e
+dell'operatore di rete, e nel rispetto degli obblighi informativi
+qualora dovuti, ed è stato effettuato per migliorare l'efficienza
+del sistema e aumentare la complessiva offerta di canali, con un
+evidente arricchimento dell'offerta a vantaggio dell'utente. Per
+quanto riguarda l'informativa agli utenti, le modalità tecniche con
+cui gli aggiornamenti dei decoder sono stati effettuati,
+congruentemente con situazioni simili già verificatisi in passato,
+sono state adottate tutte le misure possibili per alleviare
+possibili disturbi. Qui si parla della comunicazione "ex post",
+dove sul video si informa che le trasmissioni proseguono su
+un'altra frequenza e che per continuare a vedere quel canale
+occorre sintonizzare il decoder, effettuando la reinstallazione di
+tutta la lista dei canali.
+Informazioni di maggior dettaglio per le modalità di effettuare
+la risintonizzazione dei canali sui decoder non sono praticabili,
+stante le diverse modalità di funzionamento degli apparecchi.
+Inoltre la necessità di posizionare il decoder in standby - che era
+un'altra domanda - è dovuta al fatto che diversamente lo stesso non
+potrebbe ricevere le necessarie informazioni per procedere
+successivamente all'aggiornamento. Il segnale di aggiornamento
+viene quindi trasmesso in orari notturni per non incidere sulla
+normale programmazione, essendo la capacità trasmissiva
+probabilmente completamente occupata dai programmi durante il
+giorno.
+Rispetto al discorso dello standby, questa è la risposta
+tecnica; effettivamente c'è un assorbimento di energia, quindi
+convengo, ma non credo che possiamo né io, né lei, modificare
+questo aspetto, anche se concordo con lei. Sicuramente questo
+discorso ha dei problemi... volevo solo sottolineare che i problemi
+non ci sono solo sulla TV digitale; abbiamo avuto 4 giorni in cui
+le trasmissioni di Mediaset non erano ricevibili né sul digitale,
+né sull'analogico. Allora, lei, collega Squarzino, che si agita
+tanto, deve sapere questo: le televisioni commerciali agiscono con
+una logica commerciale; noi, per quanto chiassosi e intelligenti e
+primi della classe, siamo 120mila e posso dirle tranquillamente che
+l'interesse di aggiornare, di intervenire sugli apparati è
+modesto.
+Oggi, al di là di tutte le considerazioni che state facendo,
+portando avanti attività... non dico di boicottaggio, perché non è
+giusto, ma di procurato allarme, abbiamo Mercedes Bresso, Governo
+di Centro-Sinistra con "Rifondazione" al governo, che ha siglato
+per le Province di Cuneo e di Alessandria un accordo... là ci sono
+milioni di abitanti... amici della RAI mi hanno detto che stanno
+concentrando i finanziamenti - che dovevano essere dati alla nostra
+Regione - lì, perché c'è maggior interesse dal punto di vista
+numerico. Per una volta che la tecnologia poteva arrivare prima e
+meglio in Valle, riusciamo, con la nostra litigiosità e la nostra
+voglia non di migliorare, perché ho dato atto al Consigliere
+Venturella che un'interrogazione in questo modo è un'interrogazione
+corretta, in quanto solleva un problema, non demonizza, ma con la
+voglia di demonizzare tutto alla fine facciamo... non il danno di
+Marguerettaz - cosa che la fa sorridere! - ma... facciamo il danno
+di una comunità! Rispetto a questo, se le altre Regioni che si
+stanno accodando ci passeranno davanti, ancora una volta riusciremo
+a perdere un'occasione...
+Bortot
+(fuori microfono) - ... mica colpa nostra...
+Marguerettaz (UV)
+- ... No, sto dicendo non colpa vostra,
+ognuno si prenda i suoi meriti e i suoi demeriti! Allora, se uno
+pone un problema e cerca di migliorare, credo che sia corretto... e
+io mi faccio carico delle critiche che mi vengono fatte, ma nel
+momento in cui si dice: "no, questo non doveva essere fatto",
+questo è un pasticcio, quando altri poi andranno avanti perché il
+mondo va lì, dico che "forse" potevate avere un comportamento
+diverso! Ma poi voi avete contribuito in minima parte, perché a
+livello nazionale la polemica sulla televisione digitale credo la
+dica lunga! Le stesse cose che diceva il Ministro Gentiloni ieri,
+non sono le cose che dice Gentiloni oggi!
+Ancora una cosa volevo dire - ne approfitto, collega Venturella
+- per un'informazione sulla dichiarazione dei redditi. C'è una
+dichiarazione, che mi ha fatto presente un'associazione di
+consumatori... sembra che per il "730" non sia detraibile
+l'acquisto di una televisione digitale. Abbiamo fatto gli
+aggiornamenti, il Ministero delle finanze darà apposita
+comunicazione che anche i Valdostani che hanno comprato una
+televisione digitale hanno diritto a tutti i benefici, così come
+coloro che vivono al di fuori della Valle d'Aosta, ma nel
+territorio nazionale. C'è quindi un'interpretazione errata
+dell'Agenzia delle entrate, in cui diceva che la detrazione
+sull'acquisto della televisione digitale in Valle d'Aosta e in
+Sardegna non si applicava, perché avevano già il contributo del
+decoder. È un errore, è stato risolto grazie alla segnalazione
+dell'Associazione dei consumatori e al sig. Giornetti che fa parte
+di un centro di assistenza fiscale sindacale, e grazie
+all'intervento dei miei collaboratori.
+Presidente
+- la parola al Consigliere Segretario
+Venturella.
+Venturella (Arc-VA)
+- I primi 30 secondi del suo
+intervento mi hanno lasciato un po' basito, perché è la prima volta
+che lei, Assessore, ci ringrazia, quindi avevo già deciso di non
+intervenire; però, quello che ha detto dopo non mi è piaciuto e con
+questo esprimo una mia opinione personalissima.
+Il passaggio al digitale terrestre dal punto di vista della
+propagazione delle onde elettromagnetiche rispetto alla televisione
+analogica ha un impatto sull'ambiente notevolmente migliore, questo
+bisogna dircelo e lo abbiamo sempre detto. Quello che volevamo
+sollevare erano due tipi di problemi. Il primo, poiché l'ho vissuto
+personalmente rispetto ad una vicina di casa, da un certo punto in
+poi, mi pare il giorno dopo l'Epifania, i canali di Mediaset non
+sono più stati... a parte che poteva essere una soddisfazione
+personale non vedere più i canali di Berlusconi, quindi era una
+vittoria e speravo che fosse definitiva, invece no, cioè era una
+soddisfazione non fare più vedere in Valle d'Aosta i canali di
+Berlusconi, Lattanzi naturalmente è contrario... il problema però è
+questo. Quando si è aderito in maniera entusiasta al progetto del
+digitale terrestre, si è considerato che soprattutto le persone
+anziane o le persone che hanno poca dimestichezza con questi
+apparati, sarebbero state ancora di più in balìa rispetto a questi
+cambiamenti? Per gli anziani, ad esempio, la riorganizzazione dei
+canali che lei ha chiamato "Mux"... che penso raggruppino alcuni
+canali, ha significato un esborso ulteriore, perché hanno chiamato
+il tecnico, non riuscendo a farlo! Alcuni tecnici... so per certo
+che non se la sono sentita di prendere il diritto di chiamata, ma
+altri, giustamente, hanno detto: "mi chiamano 20 persone al giorno
+e io devo pur guadagnare!".
+Noi volevamo appuntare l'attenzione del Consiglio su questo: il
+progetto digitale terrestre in Valle, con tutti i suoi problemi che
+non voglio ora approfondire, perché non è questa la sede saranno
+oggetto eventualmente di un'altra iniziativa, provoca il ritorno ad
+una condizione più svantaggiosa per cui alcune categorie di persone
+sono in completa balìa di queste riorganizzazioni per migliorare il
+canale, e... intanto chi paga? Non la Regione, ma gli utenti,
+soprattutto quelli che sono in condizioni economiche
+sfavorevoli.
+Sul fatto dello standby, lo sa, hanno fatto uno studio in
+Inghilterra, tutti gli apparecchi in standby, non solo per i
+decoder, ma anche per i computer, consumano energia elettrica, uno
+spreco incredibile! Questo deve essere il nostro obiettivo: puntare
+non tanto sulla costruzione di nuove centrali - fra l'altro
+arrivano adesso alcuni che vogliono costruire di nuovo le centrali
+nucleari -, ma puntare alla riduzione degli sprechi; chiaramente il
+decoder del digitale terrestre va in direzione opposta, cioè
+secondo noi era indispensabile puntare l'attenzione su queste
+problematiche che si aggiungono alle altre. Del fatto poi che forse
+la "Provincia Granda" ci superi, ascolti, non ci affibbi una così
+grande potenza come qualcuno ogni tanto ci attribuisce, per cui
+noi, "Verdi", siamo stati responsabili anche dell'alluvione del
+2000!

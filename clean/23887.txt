@@ -1,0 +1,1560 @@
+Classificazione
+INFORMAZIONE
+Sistema informativo
+
+
+
+Oggetto del Consiglio n. 2891 del 12 luglio 2007 - Resoconto
+OGGETTO N. 2891/XII - Approvazione del Piano pluriennale
+2007-2009 per lo sviluppo del sistema informativo regionale, di cui
+alla legge regionale 12 luglio 1996, n. 16.
+Il Consiglio
+Richiamata la legge regionale 12 luglio 1996, n. 16, recante
+norme per la "Programmazione, organizzazione e gestione del sistema
+informativo regionale. Ulteriori modificazioni alla legge regionale
+17 agosto 1987, n. 81 (Costituzione di una Società per azioni nel
+settore dello sviluppo dell'informatica), già modificata dalla
+legge regionale 1° luglio 1994, n. 32. Abrogazione di
+norme.";
+Ricordato come l'articolo 1 (Piano pluriennale) della
+predetta legge preveda al suo comma 1) che sia sottoposto ad
+approvazione del Consiglio regionale un piano pluriennale volto sia
+allo sviluppo, alla modernizzazione ed alla diffusione degli
+strumenti, delle tecnologie telematiche e dei sistemi informativi
+dell'Amministrazione regionale, sia all'intervento regionale nel
+settore dell'informatica avente particolare riguardo allo sviluppo
+ed alla realizzazione di una rete di collegamenti informatici
+interessante l'intera Amministrazione regionale ed aperta alle
+interrelazioni con gli altri Enti pubblici territoriali valdostani
+e con le amministrazioni dello Stato;
+Richiamata la deliberazione della Giunta regionale n. 3308
+del 10 novembre 2006 concernente l'approvazione delle linee guida
+per l'elaborazione del piano pluriennale in argomento, nonché gli
+obiettivi che lo stesso dovrà perseguire;
+Rammentato che la predetta deliberazione:
+- dava mandato all'Assessore al Bilancio, Finanze,
+Programmazione e Partecipazioni regionali di avviare la stesura del
+piano pluriennale per il triennio 2007-2009,
+- stabiliva che la stesura del piano dovesse avvenire, con il
+coinvolgimento di tutti gli Assessorati regionali, da parte di un
+gruppo di lavoro formato da rappresentanti del Dipartimento Sistema
+Informativo, da rappresentanti degli enti operanti sul territorio
+regionale e della partecipata INVA S.p.a., soggetti già individuati
+nell'ambito del "Gruppo Guida" previsto dall'Accordo regionale in
+materia di innovazione e sviluppo delle tecnologie informatiche e
+telematiche nella Regione Valle d'Aosta di cui alla deliberazione
+della Giunta regionale n. 4565 del 10 dicembre 2004, Gruppo
+costituito con decreto dell'Assessore al Bilancio, Finanze,
+Programmazione e Partecipazioni regionali n. 1 del 1° marzo 2005,
+prot. n. 6042/ASS;
+Preso atto che il gruppo di lavoro in questione ha concluso
+il suo compito e ha prodotto l'allegato piano pluriennale;
+Precisato che il periodo di tempo cui il piano in questione
+si riferisce è esteso al triennio 2007-2009 e che,
+finanziariamente, lo stesso corrisponde al relativo bilancio di
+previsione triennale della Regione;
+Vista la legge regionale 12 luglio 1996, n. 16 e, in
+particolare, l'articolo 1 della stessa (Piano pluriennale);
+Viste le motivazioni ed i contenuti del piano pluriennale di
+cui trattasi;
+Richiamata la deliberazione della Giunta regionale n. 4223 in
+data 29 dicembre 2006 concernente l'approvazione del bilancio di
+gestione per il triennio 2007/2009, con attribuzione alle strutture
+dirigenziali di quote di bilancio e degli obiettivi gestionali
+correlati e di disposizioni applicative;
+Visto il parere favorevole rilasciato dal Coordinatore del
+Dipartimento sistema informativo, ai sensi del combinato disposto
+degli articoli 13, comma 1, lettera e) e 59, comma 2, della legge
+regionale 23 ottobre 1995, n. 45, sulla legittimità della presente
+deliberazione;
+Visto il parere della II Commissione consiliare permanente e
+con gli emendamenti della Commissione stessa;
+Visto il parere del Consiglio Permanente degli Enti
+Locali;
+Delibera
+1) di approvare l'allegato piano pluriennale 2007-2009, per
+lo sviluppo, la modernizzazione e la diffusione degli strumenti,
+delle tecnologie telematiche e dei sistemi informativi
+dell'Amministrazione regionale nonché per l'intervento regionale
+nel settore dell'informatica avente particolare riguardo allo
+sviluppo ed alla realizzazione di una rete di collegamenti
+informatici interessante l'intera Amministrazione regionale ed
+aperta alle interrelazioni con gli altri Enti pubblici territoriali
+valdostani e con le amministrazioni dello Stato;
+2) di dare atto che tale piano pluriennale costituisce parte
+integrante della presente deliberazione.
+Allegato
+(Omissis)
+Président
+- La parole à l'Assesseur au budget, aux
+finances, à la programmation et aux participations régionales,
+Marguerettaz.
+Marguerettaz (UV)
+- Direi che oggi viene presentato al
+Consiglio regionale il Piano triennale 2007-2009
+sull'"e-government" e sulla società dell'informazione in Valle
+d'Aosta. Su questo tema credo che ci debba essere un'attenzione
+particolare da parte del Consiglio, perché abbiamo un punto
+decisamente importante...
+(interruzione della Consigliera Squarzino Secondina, fuori
+microfono)
+... credo che un documento così importante che merita una
+discussione... ritengo possa valere la pena concentrare la nostra
+attenzione sulle cose che vengono dette piuttosto che sul conteggio
+dei numeri. Al di là di questo aspetto, che banalizza la politica,
+amerei con voi condividere alcuni ragionamenti. Anzitutto, quando
+si presenta un piano triennale, quando questo si inserisce
+all'interno di una procedura consolidata, si cerca di valutare
+quello che è stato fatto nei piani triennali precedenti, si cerca
+di fare una valutazione sulle esperienze passate in modo da poter
+cogliere le positività, piuttosto che le critiche rispetto a
+un'azione passata. Rispetto a questo tema, il passato credo abbia
+dato degli elementi di forte novità: il piano triennale precedente
+ha cercato di valorizzare sicuramente le attività che vengono fatte
+nell'ambito del sistema regionale, ma è stato fatto uno sforzo
+notevole per creare un sistema, definito regionale, dove gli attori
+erano, da un lato, la Regione, ma unitamente ad essa abbiamo
+parlato di enti locali, di azienda sanitaria, del sistema
+produttivo cercando di coinvolgere l'ente che rappresenta tutte le
+categorie ossia la Camera di commercio, come pure l'Università.
+Creando alcuni momenti di condivisione abbiamo finalmente fatto
+decollare un progetto che per anni era negli intendimenti, ma mai
+aveva avuto una sua concretizzazione: la rete delle pubbliche
+amministrazioni, cosiddetta "RUPAR", e con una certa soddisfazione
+nell'ambito del piano precedente abbiamo fatto decollare quello che
+abbiano denominato "Partout", un sistema che ha coinvolto tutti gli
+enti locali, tutti i Comuni sono collegati ed emanazioni dei Comuni
+hanno già un concreto beneficio.
+Rispetto a questo tema, tuttavia, non di sola connettività o di
+sole strutture dobbiamo parlare, che sicuramente sono necessarie,
+ma utilizzando dei termini matematici... condizione necessaria ma
+non sufficiente, perché l'innovazione non consiste solo in
+tecnologia o in uso di tecnologie, ma è anche e soprattutto una
+questione culturale, perché se, da un lato, abbiamo la necessità di
+avere banda; dall'altro, dobbiamo avere tutto un sistema e tutta
+una cultura che converge sull'innovazione. È questo lo sforzo che
+deve fare la pubblica amministrazione, l'Amministrazione regionale
+e tutti quanti ed ecco qual è l'"incipit" per il nuovo piano
+2007-2009: dobbiamo definire gli obiettivi, i contenuti, i
+processi, i tempi, l'assetto organizzativo del percorso di sviluppo
+di prodotti e servizi. Questo in una logica che non è una logica
+egoistica e isolata, ma in una logica europea e italiana, in una
+logica di un mondo globalizzato. Abbiamo come riferimenti quelli
+che ho declinato precedentemente, ossia il contesto regionale,
+quello nazionale ed europeo, il contesto mondiale, ma ogni contesto
+ha dei punti di riferimento. Non è che oggi ci avviciniamo a un
+piano triennale in un contesto che non ha riferimenti; ogni
+contesto ha dei riferimenti importantissimi, quindi quello che oggi
+andiamo a proporvi è un progetto coerente con gli indirizzi
+europei, con gli indirizzi nazionali e con l'attività che è stata
+fatta negli anni passati a livello regionale. È un piano triennale
+molto ambizioso, dove la qualità dei dirigenti dell'Amministrazione
+regionale e la qualità dei nostri collaboratori e dei consulenti ha
+dato modo di proporvi un documento di alto profilo.
+I ragionamenti che sottendono a questo piano triennale sono
+sostanzialmente 3: l'inclusione, l'innovazione e ricerca e
+l'"internal market". Il primo tema, quello dell'inclusione, è
+assolutamente importante, oggi dobbiamo cercare di fare tutti gli
+sforzi possibili per includere e quindi evitare che questa
+innovazione escluda qualcuno da questo processo. Abbiamo da
+valorizzare la partecipazione e quindi è una questione di
+democrazia, abbiamo da costruire una logica di servizi pubblici che
+diventano accessibili nell'ambito della rete, abbiamo una logica di
+pari opportunità, dando il senso più ampio alle pari opportunità:
+oggi, quando parliamo di pari opportunità, evochiamo probabilmente
+le pari opportunità fra generi. Rispetto a questo tema, il concetto
+di pari opportunità credo possa essere molto più ampio: le pari
+opportunità non hanno tali vincoli, ma sono da definirsi come un
+obiettivo per tutte le scelte. Rispetto a questo, parliamo degli
+abitanti che vivono nelle realtà cittadine di fondovalle, realtà
+marginali, abbiamo un ragionamento di pari opportunità rispetto
+all'età. Oggi come oggi, vi sono i dati significativi che sarebbe
+bene prendere a riferimento. Sopra i 60 anni probabilmente solo il
+3% della popolazione è nella condizione di utilizzare i sistemi
+innovativi e, se non facciamo tutti gli sforzi possibili per
+includere una fetta importantissima della popolazione, fra qualche
+anno le decadi più numerose saranno quelle superiore ai 70 e agli
+80 anni; quindi immaginatevi se non ci poniamo come obiettivo
+quello di includere questa componente così importante della
+popolazione. Rispetto a questo, bisogna "fare sistema" ed è con
+particolare orgoglio che anche in tale campo valorizziamo delle
+attività che sono state fatte a regia regionale, con Agenzia del
+lavoro, "Projet formation" abbiamo rilasciato pochi giorni fa 120
+patenti europee informatiche e una gran parte di queste patenti
+europee erano rilasciate a persone con più di 40 anni, persone che
+hanno voluto rimettersi in gioco e intraprendere un percorso
+migliorativo, mossi da un'ambizione personale. Nel contempo, se è
+vero che muovono la loro professionalità con degli intendimenti che
+sono personali, costituiscono una ricchezza per un'amministrazione
+e per una comunità e anche su questo tema vorrei rimarcare
+l'organicità non solo dei corsi di cultura generale, ma metodo e
+sistema con delle qualificazioni, in modo da avere la spendibilità
+di quel percorso fatto. Ho voluto ringraziare personalmente tali
+persone per aver fatto questo tipo di percorso. Nell'ambito
+dell'inclusione dobbiamo prendere a riferimento anche la
+formazione: tutti gli sforzi che vengono fatti per dare degli
+strumenti diffusi su tutto il territorio, che possano nella logica
+delle pari opportunità dare delle possibilità a tutti, dobbiamo
+avere un atteggiamento positivo. In questa logica, nel valorizzare
+la convergenza di varie piattaforme, noi, oggi come oggi, vogliamo
+valorizzare la comunicazione intesa come trasmissioni televisive,
+come banda per l'accesso ai servizi informatici, come comunicazione
+su telefonia fissa e mobile. Possiamo anche parlare a questo
+riguardo di formazione, purché collegata alla tecnologia, quindi
+parliamo di "e-learning", ossia attività formative che possono
+essere fatte in modo delocalizzato sul territorio; quindi tutti gli
+sforzi possibili per far convergere su questo nobile obiettivo che
+è l'inclusione.
+L'altro ragionamento che voglio farvi è sull'innovazione e
+ricerca, intese come possibilità di una comunità di sviluppare
+professionalità, competenze che diventino motivo di sviluppo
+socio-economico, che diventino stimolo al mercato, che valorizzino
+le tecnologie come fattore abilitante di crescita. L'innovazione e
+ricerca quindi sistematica nell'ambito delle attività
+dell'Amministrazione.
+Il concetto dell'"internal market" è un qualcosa legato alla
+valorizzazione del mercato: creare occasioni di lavoro, creare
+delle specializzazioni nel settore "ICT", l'interazione e
+l'integrazione con l'impresa e quindi "ICT" come fattore stimolante
+per il mercato.
+Questi non sono concetti teorici, ma sono molto pratici. Non
+possiamo disconoscere che in tale globalizzazione avere
+un'attenzione particolare sull'innovazione vuol dire avere
+un'attenzione particolare su uno dei fattori di sviluppo più
+importanti.
+Definita la visione politica, il piano triennale si sofferma sui
+fabbisogni e vi è un'attività di verifica e di approfondimento sui
+fabbisogni dell'Amministrazione regionale rappresentata dalla
+Presidenza, dagli Assessorati, ma è rappresentata anche dal
+Consiglio regionale, che ha una sua autonomia, che ha una sua
+programmazione... ma Consiglio regionale che ha partecipato
+organicamente alla stesura del piano, ha partecipato alle riunioni,
+al gruppo guida...
+(interruzione del Consigliere Sandri, fuori
+microfono)
+... Consigliere Sandri, quando interverrà, dirà, se poi vuole
+fare un'interpellanza, le porterò i verbali delle riunioni dove il
+piano è stato analizzato e valicato.
+Rispetto a questo tema, i fabbisogni della pubblica
+amministrazione non si sono limitati al comparto regionale, ma si
+sono estesi a tutti quegli enti che hanno partecipato a "Partout",
+quindi, rispetto a questo, già in passato abbiamo avuto modo di
+sottoscrivere un accordo con tutti i soggetti che aderiscono a
+"Partout" e che valorizzano tale sistema. Nell'ambito dei
+fabbisogni abbiamo cercato di verificare le esigenze dei cittadini
+e le esigenze delle imprese. Rispetto a tali fabbisogni, abbiamo
+dovuto capire quali potevano essere gli strumenti per dare una
+risposta a questi fabbisogni, abbiamo dovuto definire le linee
+guida e gli indirizzi di natura politica e tecnologica,
+un'organizzazione, un governo e metodologie e non ultimo la
+verifica delle fonti di finanziamento e il controllo economico
+dell'attività, perché non possiamo non prendere in seria
+considerazione gli sforzi di natura economica. È proprio su questo
+argomento che vorrei porre la vostra attenzione: la Valle d'Aosta è
+una Regione che, dal punto di vista commerciale, forse ha
+un'appetibilità modesta dal punto di vista numerico, non
+qualitativo, perché mettetela come volete, ma il mercato è
+rappresentato da 120mila abitanti. Ora 120mila abitanti, seppure
+con una popolazione fluttuante più elevata, diventa meno appetibile
+probabilmente di realtà metropolitane con milioni di abitanti. È
+proprio per questo motivo che, rispetto ad altre realtà, abbiamo
+un'infrastrutturazione minore, lo vedete su qualsiasi argomento. La
+banda larga gli operatori l'hanno valorizzata sull'asse centrale e
+su piccole aree periferiche, il sistema televisivo anche quello
+pubblico si regge su importanti finanziamenti fatti dagli enti
+locali valdostani; se non vi fossero decine e decine di ripetitori
+pagati dalle comunità montane, metà della Valle d'Aosta sarebbe al
+buio, in quanto territorio non come popolazione. Ricordo a tutti
+che metà del territorio, in virtù di quegli investimenti degli enti
+locali, comunque ha un'offerta televisiva e di informazione
+mortificata rispetto all'offerta che hanno gli abitanti di Aosta e
+gli abitanti del fondovalle: questo credo sia un problema di
+democrazia e non possiamo non tenerne conto, forse è più semplice
+polemizzare che dare una risposta. Io, nella logica delle pari
+opportunità, così care a tante persone, dico che anche gli abitanti
+delle vallate hanno diritto ad avere le stesse informazioni che
+hanno coloro che vivono ad Aosta e in fondovalle. Rispetto a questo
+tema, credo che il Consiglio e il Governo regionale debbano fare
+tutti gli sforzi per far sì che una televisione libera e non a
+pagamento... collega Sandri, come vede, vado con la sua filosofia,
+ma è la filosofia dell'Amministrazione regionale e quella del
+Ministero attuale, ma devo dire la verità, collega Sandri, vorrei
+serenamente fare un confronto con lei per capire qual è l'elemento
+di discontinuità su questo tema fra il Governo precedente e
+l'attuale. Sicuramente vi sono sempre delle differenze, ma devo
+dire che mi trovo benissimo con l'attuale Ministero dove vi sono
+delle persone molto responsabili, il Ministro Gentiloni ha
+dimostrato una grande attenzione su questo tema, il dott. Fiori,
+che è un alto responsabile, ha mostrato un'attenzione eccezionale e
+credo che vi possano essere degli ottimi risultati.
+Non vorrei tediarvi troppo, ma tale mia passione è dovuta al
+fatto che questo è un argomento molto importante e su tale tema
+vorrei fare anche un approfondimento nell'ambito della pubblica
+amministrazione su alcuni temi che ritengo siano indispensabili.
+Come Amministrazione regionale spendiamo molto, ma dobbiamo
+assicurare un maggiore sforzo per ottenere dei risultati ancora più
+elevati rispetto agli investimenti che facciamo, lo dico perché vi
+sono alcuni temi che meritano di essere messi in evidenza. Prima di
+tutto la condivisione. Da un lato, confrontandomi con tutti i
+servizi vedo un'attenzione importante da parte dei vari
+responsabili, ma hanno soprattutto una logica individualistica,
+ossia cercare di risolvere il proprio problema, ma si preoccupano
+relativamente poco di mettere la loro soluzione a disposizione del
+sistema, vi è un po' una logica protezionista. Voi capite bene che
+bisogna invece fare un passo avanti, bisogna considerarci una
+famiglia, una realtà che merita di valorizzare degli investimenti
+che possano essere messi a fattore comune, bisogna quindi cercare
+di investire su alcuni processi. Abbiamo il problema
+dell'archiviazione dei documenti, sempre più dobbiamo andare su
+delle attività che mettono in rete tutto, in rete deve esserci
+un'attenzione particolare nell'individuare delle procedure che
+alleggeriscano il carico cartaceo. Nel dire che sulla rete deve
+esserci tutto dico che non deve essere disponibile a tutti, ma deve
+essere disponibile solo a chi ha competenze e titolo per quel tipo
+di accesso. Qui tocco l'altro argomento: quello
+dell'identificazione, che va di pari passo con la sicurezza, quindi
+concentrarci su questi 2 "assets" che sono assolutamente
+importanti. Se facciamo questo tipo di ragionamento, porteremo la
+pubblica amministrazione ad essere quel fattore abilitante, quel
+fattore di competizione, quell'attore di un progresso e di uno
+sviluppo regionale.
+L'altro giorno abbiamo firmato insieme al Piemonte e alla
+Liguria con gli Assessori all'innovazione un importante protocollo,
+e qui tocco un altro argomento, perché nella discussione qualcuno
+ha sollevato un problema dicendo: "perché la pubblica
+amministrazione non fa come ha fatto il sistema bancario?". Il
+sistema bancario ha rivoluzionato tutte le sue procedure, ha fatto
+delle aggregazioni e delle fusioni, ha creato delle strutture molto
+competitive, ha rivoluzionato drasticamente il suo iter. In modo
+arguto e intelligente l'Assessore della Liguria ha detto:
+"sì, è
+vero, le banche hanno fatto un passo molto importante, ma per fare
+questo hanno mandato a casa migliaia di persone, perché una fetta
+importante di lavoratori non era adeguata; rispetto a questo tema,
+non c'era né formazione, né altro, di conseguenza ha incentivato
+l'esodo di migliaia di persone che non erano in grado di
+adeguarsi"
+. Ora questo è un qualcosa su cui dobbiamo ragionare.
+Non credo che la pubblica amministrazione possa fare come hanno
+fatto le banche, ma se è vero questo, è vero che non possiamo
+rimanere ancorati a degli stereotipi che ormai non sono più
+attuali. Qualcuno di voi avrà avuto modo di vedere come è stata
+presentata la "500" qualche giorno fa; nessuna azienda qualche anno
+fa avrebbe presentato la "500" in questo modo. La "FIAT",
+nonostante fosse l'interprete della tradizione industriale
+italiana, non è più la "FIAT" di una volta, ha invertito
+drasticamente la rotta e si è proposta per essere competitiva in
+modo diverso rispetto a prima. La domanda che vi pongo è: la
+pubblica amministrazione potrà proporsi oggi come si proponeva anni
+fa? Può essere attuale una pubblica amministrazione che non segue
+queste tendenze? La risposta credo sia abbastanza scontata e
+l'innovazione e questo processo che ci obbliga a rivedere la nostra
+organizzazione credo possa essere la chiave di lettura per avere
+una pubblica amministrazione sempre più performante e competitiva.
+La soluzione è stimolare le intelligenze esistenti in Valle d'Aosta
+e al tempo stesso non chiuderci e questo lo dico con serenità,
+perché non siamo chiusi, ma stiamo collaborando con il "sistema
+Italia", con il CNIPA, con il Piemonte e la Liguria, con i quali
+abbiamo firmato questo protocollo alcuni giorni fa, ma al tempo
+stesso abbiamo firmato protocolli con altri Regioni del nord, come
+il Friuli Venezia Giulia, con cui c'è uno scambio costante di
+esperienze, con dei dirigenti dell'Amministrazione regionale che
+sono andati a verificare quello che è stato fatto in quella
+Regione... e, dall'altro, siamo aperti, ma nella condizione di dare
+qualcosa agli altri. Anche lì con un po' di orgoglio devo dire che
+abbiamo avuto un numero importante di Regioni che sono venute a
+vedere quello che è stato fatto in Valle d'Aosta sul digitale
+terrestre.
+Abbiamo avuto il Piemonte, la Basilicata, la Provincia di
+Trento... e tutte queste Regioni, dopo essere venute in Valle
+d'Aosta, hanno presentato un'istanza al Ministero di aderire al
+progetto "All digital" e ricordo che la denominazione "Valle
+d'Aosta all digital" è da "copyright", perché è nata in Valle
+d'Aosta e, rispetto a questo, abbiamo tanto da imparare, ma anche
+qualcosa da mettere a disposizione. Spero che da tale discussione
+emergano delle valutazioni interessanti, faremo tesoro delle cose
+che ci verranno dette e spero di fare insieme a voi tale scommessa,
+che è una scommessa fondamentale per il futuro della Valle
+d'Aosta.
+Si dà atto che dalle ore 9,41 presiede il Vicepresidente
+Tibaldi.
+Presidente
+- Apriamo la discussione generale.
+La parola alla Consigliera Squarzino Secondina.
+Squarzino (Arc-VA)
+- Volevo solo, fra parentesi,
+all'inizio del mio intervento ricordare che, se era mia intenzione
+richiamare il Presidente del Consiglio a fare particolarmente
+vigilanza sul numero legale, non era per un'azione formale, ma
+perché osservavo che un documento così importante viene discusso
+con un'aula nuova. Dato che non volevo mettermi a contare e volevo
+ascoltare con attenzione, avevo richiesto al Presidente del
+Consiglio di vigilare su questo aspetto.
+Credo che l'Assessore Marguerettaz conosca benissimo qual è la
+differenza fra essere membro di una maggioranza o membro di
+un'opposizione e che sia troppo intelligente per non sapere che
+ogni realtà ha aspetti positivi e negativi. Giustamente chi propone
+un progetto sottolinea gli aspetti positivi, chi invece non
+condivide quella realtà - per tanti motivi: perché non è collocato
+in quel progetto politico, perché non ne ha condiviso
+l'elaborazione... - è chiamato anche ad individuare le criticità,
+con onestà intellettuale, come sempre, Assessore. Chiedo quindi
+pari opportunità fra maggioranza ed opposizione, pari rispetto e
+dignità fra maggioranza ed opposizione, visto che lei, vuole
+estendere questo concetto di pari opportunità, lo condivido e
+quindi lo estendo al massimo.
+Detto questo, come già avevamo detto in Commissione, sia qui di
+fronte a un piano triennale 2007-2009 elaborato dal Dipartimento
+sistema informativo, un lavoro che a nostro avviso è fatto bene,
+l'ho detto in Commissione, lo ridico adesso, ossia veramente si
+legge dietro a queste pagine un grosso lavoro di riflessione, di
+approfondimento, di rapporti con tutto il mondo dei nuovi sistemi
+applicativi e delle nuove tecnologie, per cui effettivamente qui
+c'è un grosso lavoro. Vi è anche la capacità di mettere insieme una
+serie di elementi secondo delle finalità, secondo degli obiettivi
+condivisibili. Secondo aspetto positivo: si tratta di un piano
+regionale che prende in esame tutte le varie realtà della Regione,
+non solo quelle a livello più pubblico: Comune, Regione, Comunità
+montana, Consiglio, Camera di commercio, enti e strutture
+associative, ospedaliere, enti parco, turismo, università,
+biblioteca, ma anche le imprese, il mondo esterno
+all'Amministrazione regionale, con l'obiettivo di "fare sistema
+Valle d'Aosta". Credo che questo sia un obiettivo condivisibile, un
+obiettivo che aiuta questa Regione a fare un passo avanti rispetto
+al proprio sviluppo. Riconosciamo tali positività e siamo ben
+contenti che tali professionalità siano presenti all'interno della
+nostra Amministrazione.
+Siamo convinti anche che l'utilizzazione dei sistemi, ma anche
+della cultura innovativa che vi è dietro ai sistemi informatici può
+far fare un passo in avanti a tutta la Valle d'Aosta. Il piano è un
+tentativo di delineare quanto si potrebbe fare per avvicinarsi
+sempre più a questo riguardo: analizza le situazioni esistenti,
+analizza i bisogni, analizza le varie tappe, cerca di vedere quello
+di cui c'è bisogno e individua cosa bisogna fare. Mi spiego con
+degli esempi. Parlando del sistema scuola, dice: "... qui bisogna
+assolutamente favorire un interscambio dei dati fra le varie
+scuole, la Sovrintendenza agli studi, l'Università, l'Agenzia
+regionale del lavoro...", quindi prevede come progetto il
+potenziamento di infrastrutture di connettività delle istituzioni
+scolastiche e l'evoluzione tecnologica secondo un modello proprio.
+Così pure vi è l'esigenza da parte delle biblioteche comunali di
+essere collegate alle biblioteche regionali, per cui è previsto
+questo collegamento. Faccio degli esempi minimi per non affrontare
+tutte le questioni più ampie. Vi è anche nel Progetto "Partout"
+l'esigenza di collegare fra di loro tutti i dati anagrafici dei
+Comuni e questo va bene, un piano con tanti progetti, un piano con
+notevoli risorse, siamo al 2% del bilancio - ricordava l'Assessore
+in Commissione -, siamo di fronte a una previsione di 77 milioni di
+euro in 3 anni, è una cifra notevole, è una cifra con cui si pensa
+di intervenire nelle infrastrutture ferroviarie, tanto per dare
+l'idea dell'ampiezza. È chiaro che, se lo confrontiamo con le
+strade, è un altro discorso, ma è veramente un impegno notevole che
+ha senso fare se poi produce innovazione.
+Qui cominciamo ad avere alcuni dubbi, qui arriva la parte
+critica, nel senso che vi è un punto debole e il punto debole è un
+"gap" culturale dell'amministrazione fortissimo, non del
+Dipartimento sistema informativo, come abbiamo detto prima, è un
+nucleo di persone e di competenze, non entro qui nel merito, perché
+non è questo il momento di dire se sarebbe stato più utile avere
+tali competenze tutte interne all'Amministrazione o qui solo alcune
+risorse che poi utilizzano competenze e risorse esterne, ma il
+punto debole è proprio questa assenza culturale
+nell'Amministrazione: la cultura dell'innovazione. È la struttura
+stessa che è così, tant'è che anche i piani precedenti avevano
+delle affermazioni dell'importanza degli strumenti informatici
+all'interno dell'Amministrazione, ma di fatto non sono riusciti a
+smuovere granché, dobbiamo dircelo, ma perché? Perché erano state
+viste queste introduzioni come strumenti e giustamente nella
+relazione si insiste sul fatto che non bisogna pensare a strumenti,
+ma a processi; finora sono stati vissuti più come strumenti e
+diciamo che purtroppo in alcuni casi sono ancora vissuti come
+strumenti anche adesso. Se vediamo alcuni progetti proprio in
+questo piano triennale, che dovrebbe innovare e cambiare
+l'Amministrazione, vediamo che in alcune situazioni il problema è
+definire modelli e procedure conformi alle vigenti disposizioni in
+materia, ma non ci si chiede tutte tali procedure come si
+inseriscono in tutto il resto del contesto, ossia qui l'obiettivo
+rimane ancora: uso lo strumento informatico per essere più aderente
+alla legge. Questo è un esempio, adesso vedremo se le banche dati
+con cui si è voluto realizzare la modifica della gestione del
+sistema nomine per il sistema incarichi, che era nel progetto
+2006... vediamo se effettivamente sono state fatte tali banche dati
+solo per rispondere all'esigenza del servizio dell'ufficio o anche
+per rispondere all'esigenza degli utenti. Qui non me ne voglia
+l'Assessore, non è lui l'interessato, ma, quando ho chiesto un
+elenco di consulenti secondo una serie di parametri, mi è stato
+dato l'elenco secondo solo il criterio temporale e non secondo
+altri parametri. Vuol dire allora che queste banche dati sono fatte
+in modo non intelligente, ma solo limitato all'uso che
+quell'ufficio intende fare. È questo quello che voglio dire quando
+ribadisco che finora non dappertutto, ma in molti casi è stato
+vissuto come strumento. Lo vediamo anche nel rapporto con gli altri
+enti, qui in modo molto chiaro anche il piano dice nel momento in
+cui voglio individuare il rapporto fra Amministrazione regionale e
+gli altri enti... si dice che finora
+"agli enti locali viene
+richiesto un gran numero di dati dalle diverse strutture
+dell'Amministrazione, per scopi diversi, spesso non pianificati,
+che richiedono frequenza e granularità talvolta differenti,
+talvolta similari, creando un sovraccarico notevole..."
+e qui
+siamo finora... ma il "finora" comprende anche gli ultimi 3 anni
+del precedente piano. Anche nei collegamenti con gli enti quindi la
+logica è sempre prevalente... quella dell'ufficio, che esigenze ha
+il singolo ufficio, la singola procedura, il singolo funzionario e
+vuole lo strumento per passare dal manuale all'informatico, è un
+po' questo.
+Anche lo stesso "Partout" è il tentativo di trasformare quello
+che era il modello chiuso di "RUPAR" a un modello più aperto, per
+dire che tutta la cultura dell'Amministrazione verso l'informatica
+è stata indirizzata alla consapevolezza che questo fosse uno
+strumento per fare prima, ma non tanto altro di più, mentre
+dovrebbe essere un processo, lei lo ha ricordato. Il processo vuol
+dire ripensare in modo nuovo a tutto il lavoro che si sta facendo,
+ripensare la logica di quello che si sta facendo, ma qui torniamo
+al punto di partenza: se la logica che ho è che voglio che si
+realizzi bene la mia procedura, lei capisce che anche tale
+ripensamento non serve a niente e questo è l'elemento debole,
+perché? Perché, quando andiamo a vedere tutta la serie di
+interventi che sono previsti per la pubblica amministrazione,
+allora non è un elenco pedissequo, penso sia utile: Presidenza
+della Regione, vi è tutto un elenco, poi conclude come punto di
+attenzione dicendo che bisogna riorganizzare i processi interni e
+si precisa che l'utilizzo degli strumenti a disposizione implica
+una riorganizzazione dei processi interni; Assessorato
+dell'agricoltura: anche qui implica la riorganizzazione dei
+processi interni; Assessorato delle attività produttive:
+riorganizzazione processi interni; Assessorato del bilancio:
+riorganizzazione dei processi interni; Assessorato della cultura:
+diciamo che ha solo un modello centralizzato di organizzazione,
+sembra mettersi un po' da parte, quindi qui non capisco bene;
+l'Assessorato della sanità si preoccupa solo di definire modelli e
+procedure secondo la legge, ma non ha neanche accolto questa idea
+della riorganizzazione; Assessorato del territorio:
+riorganizzazione processi interni; Assessorato del turismo: anche
+qui non vi è questa consapevolezza di dover riorganizzare i
+processi interni, forse sono già tutti organizzati, non lo so.
+Questo per dire che o si passa attraverso una riorganizzazione dei
+processi interni e del modo con cui ci si organizza, oppure tutto
+questo è solo un libro di buone intenzioni e fra 3 anni saremo di
+nuovo al punto di partenza. La stessa cosa vale anche con
+l'attività che viene fatta con gli altri enti esterni alla Regione,
+anche per questa attività, che viene descritta... lo stesso
+"Partout"... viene detto con molta chiarezza... tutti questi
+progetti... e sono diverse pagine... conclude dicendo:
+"necessità di una forte collaborazione, cooperazione e
+condivisione interistituzionale nella definizione dei risultati da
+perseguire e nella realizzazione degli interventi e progetti
+necessari al loro perseguimento"
+. Ancora:
+"lo sviluppo del
+portale Partout richiede una forte rappresentanza ed adesione al
+modello... al fine di costruire un sistema di utilità...",
+quindi una grande collaborazione. Queste però, che sono
+affermazioni importanti, rimangono - è l'elemento debole che
+vogliamo sottolineare - solo come delle affermazioni di principio,
+perché non vedo né in questo momento nell'Amministrazione - mi
+riferisco a chi governa - e nei suoi comportamenti, né nelle
+indicazioni presenti nel piano degli elementi che ci facciano
+"scattare" e ci facciano passare da una situazione all'altra.
+Già ieri ricordavo con una battuta che, nel momento in cui la
+Regione vuole valutare l'operato dei propri dirigenti, l'elemento
+dell'innovazione viene all'interno di 100 punti calcolato 5 punti
+(5%): questo vuol dire che la stessa Amministrazione non considera
+importante tale elemento. Ha poi detto: "sì, collaboratori...
+addirittura un collaboratore può arrivare a 10% nel calcolo del
+proprio salario di incentivo se applica una delle tante procedure
+innovative proposte". Lei capisce che con tale ritmo negli uffici
+una procedura all'anno mi sembra poco, credo che qui richieda agli
+uffici più di 3 procedure all'anno per attuare questo progetto
+triennale, Assessore!
+Ancora: vi è un elemento di debolezza, in questo caso politica,
+che il piano individua. Quando a pagina 9 si fa la sintesi sugli
+interventi precedenti rivolti all'Amministrazione regionale, si
+dice: "sì, in alcuni casi abbiamo fatto anche cose migliori
+rispetto alle aspettative" e l'esempio è sempre e solo uno: i
+medici di medicina generale sul territorio e va bene. Si dice poi:
+"a fronte del risultato generale è importante evidenziare che
+alcuni risultati sono stati penalizzati o comunque fortemente
+condizionati da fattori esterni al contesto gestionale
+dell'Amministrazione"
+, ossia al contesto del Dipartimento...
+Servizio tecnologico e informatico che gestisce tutto, perché?
+Perché qui variano... variazioni nell'ambito della Giunta regionale
+e qui aggiungo: non solo variazioni nell'ambito della Giunta
+regionale, che è cambiamento di Governo, non è cambiare un
+Assessore rispetto a un altro, ma è il cambiamento dei dirigenti.
+Quando facciamo delle osservazioni in questo Consiglio sembra che
+abbiamo un'attenzione ai dirigenti chissà poi perché: perché è un
+nostro tema caro, abbiamo presentato anche delle leggi per
+riformare questo... e invece è perché sono la struttura portante
+dell'Amministrazione. Non si può pensare che una struttura di
+dirigenti la si possa cambiare come si vuole, ossia qui un nuovo
+Assessore arriva, cambia a cascata una serie di dirigenti, ma non
+solo, all'interno dello stesso dipartimento vi sono ancora dei
+cambiamenti continui, vi sono 2 temi che ricorrono abitualmente
+nelle deliberazioni settimanali: consulenze e collaboratori
+esterni, cambiamenti nella struttura dirigenziale. Qui si dice...
+ma è vero... se con il continuo cambiamento di dirigenti, dettato
+da esigenze che possono essere legittime - rapporto fiduciario,
+necessità di governare e di poter contare -, si svuota, si
+indebolisce la struttura portante dell'Amministrazione, che è
+l'apparato dirigenziale con i propri progetti e con tutto il lavoro
+che si sta facendo, si indebolisce di fatto questo che è un
+processo di innovazione: questo c'è ancora e su questo non vi è
+nessun elemento di cambiamento.
+Ancora: posso capire tutto, però anche la descrizione del
+processo che dovrebbe attivare e presiedere a tutta l'attuazione
+del piano è molto chiara, ma vi è un elemento fondamentale che non
+viene indicato, perché non vi è politicamente la volontà di farlo,
+o non si capisce l'importanza di doverlo fare, o si vuole demandare
+a una struttura un compito che non è suo: ossia chi presiede tutto
+questo processo, chi presiede nell'Amministrazione regionale la
+volontà di rivedere le procedure, l'amministrazione? Tutte quelle
+cose che abbiamo detto nei vari Assessorati, lei crede che fra 3
+anni saranno fatte? Ma no! Credo che ogni Assessorato continuerà a
+fare quello che ha fatto, un pezzettino per volta, adotterà quella
+tecnologia che è più utile per soddisfare un aspetto e in questo
+caso direi che l'Assessore al turismo è stato il più chiaro, ha
+detto: "abbiamo una serie di esigenze molto importanti..." - e le
+ha elencate - "... non sentiamo l'esigenza di rivederci come
+struttura perché per noi così va bene". Può darsi che abbia ragione
+come Assessorato, ma si tratta di pensare nella logica della
+qualità innovativa dell'intera struttura amministrativa qual è
+l'interesse maggiore, chi pensa a queste cose, chi lo presiede.
+Adesso l'unica struttura dell'Amministrazione regionale che ha
+questa consapevolezza è il Dipartimento sistema informativo, ma è
+un dipartimento all'interno di un grande Assessorato che non ha
+competenze sull'organizzazione e sui dirigenti, non è compito suo!
+Vedete allora che qui non è realistico questo piano, non ha le
+"gambe" per potersi realizzare.
+Per tutto quello che è il rapporto con l'esterno, ben ricordava
+prima l'Assessore le imprese, il mondo esterno, i progetti... ma
+gli imprenditori quante volte ce lo dicono, sono loro i primi a
+chiederci di cambiare le procedure, di rendere più agevole il
+tutto, sono loro che ci chiedono la ferrovia, la banda larga, sono
+loro e noi per adattarci lo facciamo. Noi dall'interno non abbiamo
+nessuna volontà politica, mi dispiace riconoscerlo, perché non vi
+sono gli strumenti che consentono di fare questo salto di qualità.
+Certo che non è il caso di far fuori il personale, chi lo ha mai
+detto? È possibile ripensare in modo diverso l'utilizzo del
+personale, in un progetto più ampio, ma certo! So che l'innovazione
+fa sì che di fatto io abbia un esubero reale - dico un numero a
+caso - di 100-200 persone che non mi servono più, ma allora mi
+preoccupo di verificare come riutilizzarle, come reinserirle. Non
+devo appesantire tutta la struttura e il processo innovativo solo
+perché ho alcune persone da sistemare, ma dove siamo mai?
+Ho già concluso, perché le cose più importanti le ho già
+dette.
+Si dà atto che dalle ore 10,19 riassume la presidenza il
+Presidente Perron.
+Presidente
+- La parola al Consigliere Sandri.
+Sandri (GV-DS-PSE)
+- La società dell'informazione fa dei
+grandi passi avanti, oggi mi funziona anche il microfono, quindi
+non posso che essere soddisfatto del miglioramento
+tecnologico...
+Stiamo parlando di un argomento molto importante, credo che
+questa sia una delle grandi scommesse su cui la Valle d'Aosta si
+gioca il benessere futuro ed è una scommessa anche rilevante,
+perché significa la "ferrovia dell'informazione", l'"aeroporto
+della comunicazione", insomma queste infrastrutture che fanno di
+una regione una regione competitiva, fanno di una comunità una
+comunità competitiva, oppure ne decretano il suo indebolimento.
+Qui bisogna essere molto chiari. Nel "pacchetto", come sempre
+quando i piani triennali sono molto pieni di parole inglesi, quando
+ci vai a fare un po' di analisi attenta, ti rendi conto che non c'è
+dentro niente. Esiste tutta una serie di buoni propositi e di
+organizzazione di lavoro, di cronoprogrammi, di identificazione di
+obiettivi che apparentemente sono molto condivisibili, ma appena si
+va "a metterci il naso", ci si rende conto che sono "fumo negli
+occhi" per coprire il problema vero: il problema vero è che vi sono
+80 milioni di euro di torta da giocarsi su questa cosa e la cosa
+importante è che si lascino libere le mani al manovratore affinché
+possa fare quello che vuole senza nessun controllo e, quando ci si
+mette un bel po' di parole inglesi, ti sei dato un po' di "lustro"
+e non hai fatto capire niente a nessuno! Abbiamo cercato di
+superare la cortina fumogena messa su tale cosa e siamo andati a
+"fare un po' di pulci" e la "pulce" principale è questa - è stata
+detta dalla collega Squarzino e condivido pienamente -: diciamo che
+il "sistema Partout" è "Partout" tranne in Via Piave 1. Noi avremo
+che tutta l'Amministrazione regionale è tutta in linea e i
+Consiglieri regionali dovranno continuare per avere i dati, carta e
+penna, a chiedere in base all'articolo 116 del Regolamento di poter
+fare il loro lavoro. Questo è vergognoso, tale piano triennale che
+interessa gli Assessorati, i Comuni, l'Università, eccetera, si è
+dimenticato di un organismo, quello che dovrebbe essere il suo
+proprio controllo, perché non volete avere il controllo! A tale
+piano triennale noi voteremo contro finché non sarà data al
+Consigliere regionale la possibilità di essere "on line" su tutte
+le banche dati della Regione! I Consiglieri regionali, nello
+spirito dell'articolo 116, che è stato fatto quando c'era la carta
+e la penna, devono potere in tempo reale avere accesso alle
+informazioni, non è possibile che, per avere dei dati presenti
+sulla banca dati dell'Amministrazione regionale a disposizione dei
+dirigenti, che li vedono sul "monitor" in pochi centesimi di
+secondo, debbano perdere 30 giorni per poter avere le risposte!
+Questa è una vergogna! "Partout" è un sistema chiuso sotto il
+controllo dell'Amministrazione regionale, anzi forse è il controllo
+dell'Amministrazione regionale sugli enti locali e su questo non ho
+avuto modo di andare ad approfondire la questione, ma sarebbe da
+divertirsi, perché rientra in quella logica di controllo del
+territorio cara a una certa forza politica. Credo che questo sia il
+primo passo per vedere se avete voglia di confrontarvi con la
+realtà e con chi la pensa diversamente da voi, oppure se avete
+paura di essere controllati, di verificare le cose che fate perché
+è meglio non vederle, sapendo che "ne fate di cotte e di
+crude".
+Vi è poi una serie di dati che dimostrano la mancanza di
+capacità di valutare i pesi; l'enfasi che è stata data alla tivù
+digitale è pari solo all'enfasi che è stata data dal Presidente del
+Consiglio alla televisione ai gruppi consiliari. I Capigruppo del
+Consiglio regionale sono stati omaggiati dal Presidente del
+Consiglio di un televisore con un videoregistratore a cassette, una
+roba che non si trovano neanche più le cassette... comunque è
+talmente importante per l'Amministrazione regionale la tivù
+digitale che ovviamente lì sopra il digitale non c'è! Ho fatto una
+verifica l'altro giorno, devo dire: non preoccupatevi, non andate a
+comprarli, tanto sono tutti spenti questi televisori e non li ha
+mai utilizzati nessuno. Ricordo una volta sola di aver visto
+nell'ufficio di un altro Capogruppo, che stava guardando il "Tour
+de France" un paio di anni fa... ma è l'unica volta che mi ricordo
+siano stati utilizzati, ma è evidente che questo corrisponde al
+peso della tivù digitale. La tivù digitale, che è stata il grande
+fiore all'occhiello di cui ci avete riempito le tasche "a tutto
+spiano" un anno e mezzo fa, intanto non ha portato niente; come
+avevamo detto, i canali francesi che avremmo dovuto avere per
+sviluppare la nostra francofonia non si sono visti, mi dicono che
+invece fuori valle nel digitale terrestre esistono, non esistono in
+Valle d'Aosta: non ho capito se è un'autonomia al contrario... ma
+va bene... "France 24", così si chiama la televisione che esiste in
+altre parti d'Italia e in Valle d'Aosta non c'è. La cosa buffa è
+vedere il canale dell'Amministrazione regionale sul digitale
+terrestre, perché emerge immediatamente una notizia: che il nostro
+Presidente della Regione si chiama con un nome e un cognome, è nato
+in una determinata data, ha conseguito una determinata laurea e fa
+il giornalista; questa è la novità dell'informazione, questa è la
+tivù digitale. Vi è un dato, tornando a questioni più serie, che
+dimostra che, da quando c'è la tivù digitale in Valle d'Aosta, per
+fortuna la gente guarda meno la televisione. Questo è stato un
+successo dell'Assessore Marguerettaz, quindi credo che gli dobbiamo
+dare merito di aver inflazionato talmente tanto questo strumento
+che nessuno ne può più e preferisce dedicarsi ad altre cose.
+Vi sono altre 3 questioni, molto rapidamente anche se si
+dovrebbe poter stare su questo testo da 80 milioni di euro molto
+più approfonditamente, allora la prima e la seconda questione che
+volevo sviluppare riguardano gli strumenti. Qui ci si "riempie la
+bocca" del fatto che vogliamo difendere la montagna, le valli
+laterali, chi è abbarbicato in questi luoghi difficili a difendere
+la propria identità, la propria cultura, la propria economia, il
+proprio diritto di fare una vita dignitosa come qualunque
+cittadino, quindi di avere la pari opportunità di poter vivere sul
+territorio; dopodiché viene spacciato come grande passo in avanti
+una convenzione con "Telecom" della banda larga a 640 KB, andate a
+chiedere a qualunque ragazzino di 16-17 anni che scarica musica e
+vi dirà che 640 KB è la tecnologia dell'altro ieri, non di oggi. Se
+facciamo un piano triennale che dovrebbe portare all'eccellenza
+tutta questa situazione, dovremmo cominciare a pensare che tutto il
+territorio della Valle d'Aosta dovrebbe avere 20 MB e non 640 KB!
+Questo è, dal punto di vista della banda larga, l'ammissione di un
+fallimento, perché non solo non vi è oggi la banda larga in
+moltissimi Comuni della Valle d'Aosta, ma non vi è neppure la
+prospettiva che vi sia, perché la banda larga a 640 KB sicuramente
+nei prossimi 2 - 3 anni sarà totalmente fuori mercato e avremo
+fatto uno sforzo con una roba che... non c'è niente.
+Non sto a parlare poi del "Wi-Fi", per fortuna che in Valle
+d'Aosta vi sono dei Comuni che si sono dati una mossa, perché, se
+aspettavamo l'Amministrazione regionale, eravamo ancora lì. Il
+famoso "WiMAX"... non ho trovato la parola qui dentro, forse mi è
+sfuggita, ma sicuramente non ha una rilevanza significativa in
+questo piano triennale il mitico "WiMAX", eppure ne aveva parlato
+più volte in Consiglio regionale. Se tutto questo è un piano per
+irrobustire il potere di controllo della Regione e il potere di
+accentrare a livello regionale nel DSI una serie di possibilità di
+informazione, lo si dica, è una scelta politica, ma non spacciamolo
+come qualcosa che rende le cose più facili ai cittadini!
+Vi sono ancora 2 questioni: una è quella della lingua; sono
+rimasto colpito a pagina 12 di questo nuovo bilinguismo
+franco-inglese, che non credo faccia parte dello Statuto della
+Valle d'Aosta: vi è il sistema della Mediateca del BREL che viene
+identificato come "Bureau régional ethnology et linguistique", è
+interessante questa cosa, credo sia un'apertura verso l'inglese che
+deve essere apprezzata. Ve ne sono anche altre, ma le evitiamo,
+questa era la più divertente, perché un problema non risolto da
+tale piano è il problema della lingua. Il piano è in italo-inglese,
+vi sono un sacco di espressioni: "call center", "customer care", ma
+ce n'era una in particolare, uno schemino a pagina 43 in cui non si
+scrive impresa o "entreprise", ma una "enterprise" che fa più fine,
+poi "citizen", che sono i cittadini, "e-government", ossia non è
+che si poteva fare una cosa in italiano o in francese, ma bisognava
+farlo in inglese. Sulla lingua allora - e lo dimostra la confusione
+di tale piano triennale - non si è fatta una scelta; tutte queste
+informazioni saranno in italiano, in francese, in tutte e 2 le
+lingue, saranno in inglese, saranno in tutte e 3 le lingue? Questo
+è importante capire. È un passaggio non da ridere! Sono riflessioni
+fondamentali, perché un costo è fare una cosa in una lingua, un
+altro costo è fare un intervento in 2 o 3 lingue e ancora che
+spendibilità ha un sito in italiano e in francese; un sito in
+italiano, francese e inglese; oppure in inglese con parti tradotte
+in italiano e in francese? Su questo non si dice niente, vorremmo
+sapere come sarà organizzata tale tipo di informazione. Presumo in
+italiano, perché, fra l'altro, sarà interessante capire se questo
+testo, dopo che sarà approvato in Consiglio regionale, sarà
+tradotto in francese, perché, come tutti gli atti del Consiglio,
+dovrebbe essere bilingue. Questo problema allora lo dobbiamo una
+volta o l'altra affrontare, faccio una riflessione sopra? Oppure
+prendiamo la scorciatoia dell'inglese per risolvere il problema? È
+un problema che oggi in Svizzera è all'ordine del giorno, perché i
+cantoni vogliono mettere al posto che la seconda lingua nazionale
+l'inglese come lingua obbligatoria, la Confederazione è arroccata
+alle 4 lingue madri della Svizzera, però almeno ne discutono, qui
+non se ne può discutere, mi piacerebbe sapere qual è la lingua
+veicolare e qui non c'è scritto.
+Infine il punto sui giovani e la formazione. Tutto questo è
+molto bello, probabilmente spenderemo soldi a fare rete, a comprare
+"computer" di altissimo livello, ma come giustamente ha accennato
+all'inizio l'Assessore... ed è l'unica parte che ho veramente
+apprezzato sul fatto che c'è nella nostra Regione una popolazione
+che è vuole confrontarsi con questi nuovi strumenti e vuole
+diventare "alfabeta" in tutto ciò... ma cosa c'è qui dentro per
+"alfabetizzare" i nostri giovani? Li avete visti i "computer" che
+ci sono nelle scuole? Credo che abbiano ancora il "DOS Olivetti":
+l'"Oli-DOS"... "MS-DOS" è arrivato dopo, prima c'era "Oli-DOS"
+dell'"Olivetti", poi è arrivato "Microsoft" di "IBM" con
+l'"MS-DOS"... sono già "MS-DOS"...
+Credo che qui si debbano fare delle riflessioni di tutt'altro
+genere, ai giovani valdostani a un certo punto della loro vita, che
+sia 10 o 12, io non sono esperto in pedagogia... bisogna garantire
+a tutti non solo di avere a scuola la possibilità di avere
+l'accesso all'informatica e alla conoscenza informatica e di sapere
+come funziona un "computer", ma di averlo anche a casa per poterci
+lavorare come tutti gli altri ragazzi, perché questo fa
+l'uguaglianza fra cittadini, le pari opportunità di poter competere
+nella vita! Ma se uno a 14-15 anni non ha il computer e il suo
+vicino ce l'ha, è già sfavorito, ha già perso metà delle "gare"
+della sua vita! Su tali cose qui non c'è una parola, questo invece
+sarebbe uno di quegli argomenti fondamentali per andare ad
+intervenire davvero sulle nuove generazioni... e allora dobbiamo
+andare a "prenderle" nei luoghi di lavoro, se lavorano a 15 anni,
+nelle scuole se sono a scuola a 15 anni, bisogna intervenire
+drasticamente affinché tutti abbiano le stesse possibilità. Devo
+dire che il "Governo Berlusconi" almeno su questo un tentativo lo
+aveva fatto: il "bonus" per l'acquisto del "computer", qui non c'è
+niente di tutto questo, ma allora si fa un grande "Partout", un
+grande servizio aperto... dopodiché non si dà alla gente la
+possibilità di accedervi, forse allora il problema è il contrario:
+è dare alla gente la possibilità di accedere e poi vedere come
+modificare quello che è l'accesso.
+Tutte queste motivazioni ci portano a dire che vi è una chiusura
+in una logica di palazzo all'interno dell'Amministrazione regionale
+e delle logiche all'interno del DSI, che sono logiche da tecnici,
+ma non possono essere accettate come logiche da politici. Se
+vogliamo vincere le grandi sfide, che sono le sfide del fatto che
+il Consiglio regionale possa fare il proprio dovere, se vogliamo
+vincere la sfida che l'informazione deve essere libera e pubblica,
+se vogliamo mettere la banda larga a disposizione della popolazione
+e tutti gli altri mezzi di comunicazione moderni come "Wi-Fi",
+"WiMAX", se vogliamo davvero evitare la "babele" delle lingue ed
+essere efficaci nell'informazione scegliendo un mezzo veicolare
+principale e che sia detto quale sia, inglese, francese o italiano
+a me poco importa... ma tutto l'aumentare... questo comporta un
+costo inaccettabile dal punto di vista funzionale e finché non si
+capirà che, attraverso la scuola e l'informatizzazione, l'avvio
+delle opportunità ai ragazzi di poter accedere a questo mondo, si
+vanno a risolvere i problemi sociali, perché i problemi
+dell'immigrazione, dell'integrazione, della possibilità di
+mantenere vivi i nostri paesi alpini passano dal fatto che ogni
+ragazzo abbia un "computer"... tutto questo non c'è e noi non
+possiamo neanche pensare a un voto di astensione... questo è un
+piano triennale che deve essere completamente riscritto e prima
+verrà riscritto meglio sarà!
+Presidente
+- La parola al Vicepresidente Tibaldi.
+Tibaldi (CdL)
+- Anche noi vogliamo fare alcune
+considerazioni su tale piano, che peraltro quest'anno ci giunge in
+forma rilegata e con 175 pagine dense di informazioni, di
+prospetti, di dati, sui quali in linea generale vi sono delle
+condivisioni, perché il processo di informatizzazione, di
+alfabetizzazione, di connessione e di integrazione che riguarda
+tutti i soggetti pubblici e privati della nostra Regione non può
+non essere condiviso. È d'altronde una "chance" che si deve dare a
+questa Regione per diventare più competitiva, anche perché di
+presupposti per la competitività ne ha ben pochi: non è che siamo
+collegati nel centro della Pianura padana o nel centro di qualche
+zona particolarmente attrattiva da un punto di vista
+economico-culturale, ma siamo piuttosto ai margini e ci stiamo
+marginalizzando sempre più rispetto ad altri contesti economici e
+questa rete ha una sua importanza.
+Dobbiamo però fare delle riflessioni, che sono anche più attente
+sul contenuto di questo piano. Partiamo dalla fine e la fine è
+quella che si dedica alle risorse: 77 milioni di euro nel triennio
+2007-2009, un incremento del 21% rispetto al triennio precedente,
+un'attenzione in termini finanziari che questa Giunta ha dedicato
+all'argomento decisamente importante. Risorse stanziate per una
+cifra di 20-25 milioni annui, risorse che nell'ordine di questa
+grandezza vengono stanziate dal 1996, anno in cui venne prevista
+con legge l'informatizzazione della pubblica Amministrazione
+regionale, e che hanno permesso di cumulare una quantità di denaro
+investito in tale direzione tutt'altro che indifferente. A distanza
+di questo tempo possiamo tracciare un bilancio consuntivo di quello
+che è stato fatto, un bilancio non così felice come le espressioni
+che troviamo scritte in tale documento. Con gli stanziamenti
+effettuati, Assessore, a fronte degli interventi che avete
+programmato e in parte realizzato, vi è da dire che il dato di
+semplificazione della pubblica amministrazione nei rapporti con il
+cittadino e con le imprese non si è ancora raggiunto, è ancora
+distante. Informatizziamo a suon di milioni di euro la pubblica
+amministrazione regionale e la pubblica amministrazione
+territoriale, ma i cittadini e le imprese hanno ancora difficoltà
+nell'accedere ai dati e nell'ottenere servizi in tempi più rapidi:
+questo è il dato fondamentale. Possiamo citare un esempio: quello
+dello Sportello dell'imprenditoria richiesto da anni, ogni volta
+che vi riunite con i maggiorenti dell'industria valdostana vi viene
+ribadito: "abbiamo bisogno di infrastrutture, non solo logistiche,
+ma anche telematiche", ma questo sportello si è concretizzato
+attraverso gruppi di lavoro, persone, tecnici, esperti che si sono
+riuniti alcune volte, che hanno creato un sito "on line" che dà
+alcune informazioni - le quali possono essere rinvenute anche sul
+sito della Regione dove ci sono le attività produttive - e, di
+fatto, è un duplicato di quello già esistente, ma lì il progetto
+era di tutt'altra natura. In altre Regioni lo Sportello
+dell'imprenditoria significa a chi si vuole cimentare nel settore
+imprenditoriale o a chi vuole ottenere servizi e agevolazioni nello
+stesso settore con una digitazione sulla tastiera e con un invio
+inoltrare una pratica e avere una risposta in un congruo termine.
+Oggi questo per noi è ancora fantascienza, esiste solo nelle
+intenzioni che sono state dette in quest'aula o scritte anche in
+tale piano ma, di fatto, non lo avete traguardato, da questo punto
+di vista la distanza fra pubblica amministrazione e imprese e anche
+cittadini è ancora enorme.
+Lo stesso vale anche per gli interventi che sono rivolti al
+territorio, è giusto dire che dobbiamo integrare l'azione di
+diversi soggetti pubblici in virtù delle loro attribuzioni
+istituzionali: Comuni, Comunità montane, enti di diverso tipo non
+territoriali, enti pubblici, Regione, devono essere interconnessi
+attraverso un sistema virtuoso che acceleri le loro comunicazioni,
+ma anche qui abbiamo 74 Comuni, 10 Comunità montane, altrettante
+AIAT e la Regione che non parlano lo stesso linguaggio informatico.
+C'è chi si è strutturato con un sistema, chi ne ha acquistato un
+altro, "hardware" e "software", e l'interconnessione è ancora una
+"babele" di linguaggi, che difficilmente riescono a colloquiare fra
+di loro. Anche questo è un "nervo" scoperto degli interventi che il
+Piano triennale del sistema informativo regionale non ha ancora
+risolto.
+Va bene firmare il protocollo di Bard come avete fatto l'altro
+giorno con alcune Regioni, come pure il protocollo con "Telecom",
+l'accordo che entro il 2009 dovrebbe vederci inseriti nella banda
+larga, effettivamente una banda larga di media velocità, perché
+oggi la banda larga più veloce è quella con la quale si possono
+scaricare dei "MB" più consistenti dalla rete; ma si possono
+siglare intese, protocolli a livello formale e in tavoli più o meno
+importanti, ma quel che conta alla fine è la rete vera e propria.
+Una rete in fibre ottiche doveva già esistere dal 1990, vennero
+investiti 15 miliardi di lire all'epoca, ma quella dorsale di
+fondovalle ci pare inutilizzata e quello era un investimento
+innovativo da implementare, invece è stato sotterrato e archiviato.
+Adesso ci si propone con l'accordo con "Telecom" di arrivare entro
+il 2009 a tale banda larga, ma con quale vantaggio? Finora sappiamo
+che le connessioni sono ancora molto lente in una Regione come la
+nostra e questo è un fattore di disagio in quel volume della
+competitività nel quale vogliamo esserci per essere veramente
+promettenti a favore di imprese e di soggetti che potrebbero
+potenzialmente investire nella nostra Regione. È un fattore di
+criticità che ancora stiamo scontando.
+Sul "Wi-MAX" di cui si è parlato, a cui il "Governo Prodi" ha
+dato via libera anche con le concessioni che adesso dovrebbero
+essere quanto prima rilasciate, la Regione aveva fatto un
+esperimento pilota ad Ayas, l'Assessore Marguerettaz ne fu
+testimone, perché con "fastweb" vi fu una prova di connessione
+attraverso l'etere, ma è una prova che sembra che anche lì si sia
+esaurita con quell'evento e che non abbia avuto alcun
+seguito...
+(interruzione dell'Assessore Marguerettaz, fuori
+microfono)
+... come faccio a dirlo? Lo dico perché non ci risulta seguito,
+se così non è, ci dia una risposta. Non ci risulta, da quel momento
+lì in cui è stato canonizzato a livello televisivo e giornalistico,
+perché serviva per avere una rilevanza mediatica, che da lì vi
+siano state delle progressioni, se poi lei sarà in grado di
+fornirci elementi in merito, gliene saremo grati. Sul piano non si
+fa cenno a delle progressioni in merito. Vi sono dei tentativi che
+bene o male sono agli onori della cronaca, ma sono tentativi che
+finora non hanno dato risposte alle impellenti richieste degli
+operatori privati e dei cittadini che risiedono nella nostra
+Regione.
+Un argomento sul quale torniamo volentieri è il mercato privato,
+che è stato praticamente annullato, perché il sistema informativo
+pubblico ha marginalizzato qualsiasi motivo di intraprendenza che
+potesse venire da operatori privati nel settore. Oggi sono una
+specie in via di estinzione, se non addirittura degli estinti,
+potremmo magari visitarli un domani nel museo e dire: "ecco lui
+faceva l'operatore informatico, ha tentato di mettere in piedi
+l'impresa informatica in Valle d'Aosta". Oggi tutto è stato
+assorbito da questa formula tentacolare che ha prende il nome di
+"INVA" e che è sotto l'egida della politica regionale, perché
+altrimenti non potremmo avere alcun servizio: questa è stata una
+scelta politica voluta nel 1996, dal 1996 in avanti la Regione ha
+deciso che doveva diventare il "dominus" incontrastato del settore
+informatico e telematico in Valle e quindi controllare qualunque
+processo di alfabetizzazione, di telematizzazione, di televisione,
+di comunicazione, di accesso e anche di intervento tecnico, perché
+ormai "INVA" e le sue società satelliti hanno tale controllo
+tentacolare del mercato. Gli operatori di questo settore li
+troveremo esposti in qualche museo delle cere per testimoniare che
+loro ci hanno provato, peccato che sono stati schiacciati da una
+logica non di mercato, ma di anti-mercato che pervade la nostra
+Regione non solo in questo settore, ma in tale settore è stato
+particolarmente emblematico ciò che è accaduto negli ultimi 12
+anni.
+Il digitale terrestre, anche questo è un esperimento, che noi la
+esortiamo, Assessore, a circoscriverlo ad Aosta e ai suoi 16
+Comuni, perché è stato messo in piedi dal "Governo Berlusconi" su
+volontà previste precedentemente a quel Governo, perché si risale
+al 2000, quando c'era il "Governo Amato", poi Berlusconi ne ha dato
+attuazione e anche un'accelerazione inopportuna. Sono state scelte
+alcune zone d'Italia - Sardegna e Valle d'Aosta - per questa
+sperimentazione territoriale, ma, visti anche qui i risultati,
+speriamo che tale sperimentazione venga circoscritta a quei pochi
+Comuni che ci hanno creduto, ma oggi quanti utilizzano il digitale
+e quanti invece preferiscono il satellitare? Anche perché dei 2
+mercati, delle 2 tecnologie probabilmente il satellitare sarà
+quello che alla lunga avrà la dominanza sul digitale. Il digitale è
+servito solo per creare una complicazione onerosa agli utenti,
+anche se vi sono stati dei contributi pubblici per installare i
+"decoder", ma di fatto gli stessi cittadini, che ne sono
+potenzialmente i fruitori, non solo non lo usano, ma non ne hanno
+colto un gran beneficio.
+Queste sono le considerazioni che le riproponiamo, non è la
+prima volta; ogni volta che si propone il piano triennale o
+accadimenti applicativi di tale piano, come lei sostiene con le sue
+solite argomentazioni la bontà del piano, noi diciamo che questo
+piano non è che non sia buono perché l'indirizzo è quello del
+potenziamento, il problema è che i risultati non sono confortanti o
+non sono nell'ordine di grandezza che tutti ci aspettavamo
+nonostante le risorse disponibili. A farne le spese di questi
+risultati mancati in buona parte ne sono non solo le imprese e i
+cittadini, ma anche la stessa pubblica amministrazione, che,
+nonostante la monumentale disponibilità finanziaria e le risorse
+professionali che sono collocate in tutti gli enti pubblici
+valdostani, non è in grado di dare delle risposte così efficaci e
+tempestive a coloro che si approcciano in rapporti con la pubblica
+amministrazione. Per queste motivazioni non voteremo favorevolmente
+tale piano e ci asterremo.
+Presidente
+- La parola al Consigliere Ferraris.
+Ferraris (PPD-VDA)
+- Sembra quasi dagli interventi che si
+sono succeduti che il tema relativo al Piano triennale del sistema
+informativo sia appannaggio dell'opposizione. Credo però che anche
+all'interno dell'opposizione vi siano toni e modi diversi di
+valutare le cose. Non vorrei parafrasare Veltroni, ma nel momento
+in cui, in riferimento a certe posizioni sull'ambiente, diceva che
+alcune forze politiche sono in grado solo di dire dei "no", mentre
+qualche volta sarebbe opportuno dire dei "sì"... mi rifaccio a
+questo tipo di approccio, non sottovalutando quelli che sono
+aspetti negativi e limiti che ci sono sicuramente nel piano
+triennale che stiamo esaminando, ma tenendo conto dell'insieme,
+perché credo che ciascun gruppo consiliare debba avere la capacità
+non di focalizzare su un unico aspetto la positività - la
+maggioranza - o la negatività - l'opposizione -, ma cercare di fare
+un bilancio razionale delle cose. Nella sua introduzione
+l'Assessore Marguerettaz ha avuto dei toni quasi veltroniani: pari
+opportunità, inclusione, innovazione, ricerca; qualche volta non
+riconoscevamo Aurelio...
+Al di là della celia, credo che un approccio che metta al centro
+i cittadini, le imprese e la pubblica amministrazione diventi uno
+strumento in questo contesto... effigiato anche con termini
+inglesi, va bene, se usiamo anche un po' di inglese, credo non sia
+male, già lo si utilizza nella scuola primaria e secondaria come
+lingua di insegnamento, non vedo perché qualche documento che lo
+riporta nel Consiglio regionale debba essere criticato... ma dicevo
+che il fatto di voler affrontare in termini di programmazione e
+soprattutto come conseguenza della programmazione anche di
+monitoraggio e valutazione dei risultati non possa che avere un
+giudizio positivo, così come il fatto di voler collegare - e
+guardate che in questa Regione vi è sempre molta timidezza sotto
+tale aspetto - a una rete nazionale ed europea, in altri settori
+queste cose non le facciamo. Se penso al discorso dei Confidi,
+vediamo che hanno costituito un Confidi fra Piemonte e Liguria, non
+voglio entrare nel merito di questo ragionamento, ma noi abbiamo
+avuto difficoltà a fare un unico Confidi regionale e sicuramente
+non si parla di collegamenti con l'esterno. Nel momento in cui si
+va in questa direzione quindi non può che esserci una nostra
+posizione positiva.
+Non voglio giudicare questo piano con degli "arrière-pensées",
+ma lo giudico per quello che è scritto; se poi l'Amministrazione
+non lo applica, cambierà il tipo di giudizio, ma il tipo di
+impostazione è condivisibile. Viene enfatizzato un dato - credo sia
+un dato vero -, che è comunque uno dei fattori di crescita
+fondamentali... noi non abbiamo più le risorse naturali se non
+legate a quelle risorse naturali della Valle che possono essere
+valorizzate nel turismo, ma altre risorse naturali ad eccezione di
+quella collegata all'industria idroelettrica... non sono più questi
+gli elementi di attrattività di un territorio: l'elemento di
+attrattività di un territorio è la capacità di innovazione, quindi
+questo si aggiunge a quelle che possono essere nostre ricchezze
+naturali e, se questo è, credo che su questa strada si debba andare
+senza timidezze. La nostra Regione è piccola, ma, proprio per
+questo, tale limite può essere trasformato in opportunità, nel
+senso che sperimentare su 120mila abitanti ha dei costi e delle
+possibilità di monitoraggio diverse rispetto a quanto accade su
+scala più grande.
+Sento solo criticare il digitale terrestre ed è vero, per vedere
+il dibattito fra Sarkozy e Ségolène bisognava uscire dal digitale,
+per dire che sui canali francesi c'è ritardo, ma credo sia
+incontestabile il fatto che con il digitale terrestre vi sia stato
+un aumento dell'offerta e anche del servizio e che il digitale
+terrestre costa meno di quanto non costi il collegamento al
+satellite. Un cittadino poi può scegliere di seguire questa strada,
+nulla vieta di poterlo fare, ma, nel momento in cui si parla di
+pari opportunità e di inclusione, bisogna cercare di offrire dei
+mezzi che siano dal punto di vista economico alla portata di tutti.
+Credo debbano essere fatti ulteriori passi avanti sul piano
+dell'infrastrutturazione e della banda larga; la banda larga così
+com'è oggi presenta dei limiti, su questa strada bisogna andare
+senza timidezze. Già in passato la Regione con il collegamento a
+"Topix" aveva fatto dei passi avanti in tale direzione, oggi
+dobbiamo, proprio perché abbiamo una particolare realtà morfologica
+e geografica, puntare in modo deciso su questo e questo non può
+avvenire nella nostra Regione se non c'è un forte impegno pubblico.
+Con questo non si vuole dire che il privato non deve fare la sua
+parte, ma, proprio per i nostri numeri e le nostre dimensioni,
+credo che, se si vuole essere all'avanguardia, il privato deve
+supplire il pubblico laddove il pubblico non trova una redditività
+nel tipo di iniziativa; dopodiché non dobbiamo sostituirci al
+privato e fare tutto pubblico, ma bisogna sapere che in determinate
+situazioni... se vogliamo avere la banda larga a Rhêmes, non ci
+sarà mai nessun gestore nazionale che ce la porta nelle dimensioni
+in cui riteniamo sia opportuno. Credo sia importante quell'aspetto
+che viene sottolineato, anche se mai a sufficienza, relativamente
+all'alfabetizzazione, che riguarda sì gli studenti, la pubblica
+amministrazione e le categorie professionali, ma ritengo debba
+essere fatto uno sforzo enorme per quanto riguarda il ruolo della
+pubblica amministrazione e degli amministratori, che svolgono un
+ruolo di guida all'interno della pubblica amministrazione.
+Citava prima il collega Tibaldi il discorso dello Sportello
+unico. La legge istitutiva è del 2003 e nel 2005 a fatica è partito
+lo Sportello unico ad Aosta, a giugno sono partiti 20 Comuni, a
+settembre ne partiranno altri 20; a fronte di tempi di tale genere
+- ma non voglio imputare le colpe agli amministratori che hanno
+gestito questa cosa, altrimenti potrei essere responsabilizzato io
+in tale vicenda -, emerge che non vi è in una parte dei nostri
+amministratori la consapevolezza che questo è un elemento
+fondamentale di competitività del sistema, è visto come una cosa a
+margine e questo non possiamo permettercelo.
+Accanto al fatto di cercare di ampliare la possibilità di
+accesso all'informatica, il discorso di avere una maggiore facilità
+per i giovani all'acquisto del "computer" è fondamentale, credo che
+questa Regione abbia avuto una lungimiranza in passato quando ha
+dato a tutti gli studenti libri gratis, era uno strumento
+fondamentale di alfabetizzazione, oggi l'alfabetizzazione passa
+anche per altri strumenti... questo è un limite del piano, ma tale
+consapevolezza e le premesse che ci sono nel piano stesso
+dovrebbero portarci ad assumere iniziative in questa direzione,
+perché è proprio sulle nuove generazioni che ci giochiamo le
+possibilità competitive della Regione. È vera una cosa: sì, le
+nuove tecnologie informatiche tendono a una riduzione
+dell'occupazione, però è anche vero che nella riduzione
+dell'occupazione delle banche incidono i processi di fusione, che
+hanno determinato forti eccedenze di personale. Quando in una città
+come Aosta abbiamo 2 filiali sulla stessa piazza forse qualche
+problema di eccedenza c'è, semmai nella pubblica amministrazione
+l'introduzione delle tecnologie informatiche ha creato una
+ridondanza delle strutture, piuttosto che andare verso una loro
+semplificazione, per cui direi che l'analisi è stata un po'
+superficiale.
+Proprio perché volevo fare una valutazione degli aspetti
+positivi e degli aspetti negativi, noi abbiamo anche la necessità,
+per quanto riguarda il braccio operativo che si occupa di
+informatica nella nostra Regione, che gli amministratori di tale
+società vengano scelti non per logica di affiliazione politica, ma
+per capacità e "curricula" e, purtroppo, vedo che questa è una
+tendenza che non solo in "INVA", ma anche in altre società
+nell'ultimo periodo è invalsa. Si preferisce ammettere ad
+amministrare una società chi ha un ottimo "curriculum politico" e
+con questo non voglio escludere i politici dalla possibilità di
+accedere alle cariche in società della Regione, ma credo che una
+congruenza fra i "curricula" e i compiti che devono essere svolti
+siano importanti, perché, siccome i piani marciano con le gambe
+delle persone, è importante avere persone che siano in grado di far
+sì che le cose scritte in documenti che possono essere condivisi -
+e qui annuncio il voto positivo del mio gruppo al piano -,
+successivamente si realizzino.
+Presidente
+- La parola al Consigliere Salzone.
+Salzone (SA)
+- Sarò molto più breve dei miei colleghi,
+anche perché, come forza di maggioranza, il piano lo abbiamo già
+condiviso e discusso in Commissione, è stato seguito dal collega
+Stacchetti che oggi non c'è e che mi ha delegato a dare un giudizio
+positivo su tutto il piano triennale.
+È indubbio che stiamo discutendo un piano che ha una grande
+importanza per il nostro sistema socio-economico, il Piano
+triennale per l'innovazione tecnologica rappresenta infatti
+l'insieme fra la visione politica regionale e gli indirizzi
+nazionali ed europei e lo "stato dell'arte" delle tecnologie della
+comunicazione. L'importanza del momento determina l'obiettivo
+programmatico del processo di innovazione, che coinvolge l'intero
+comparto pubblico, ma anche tutto il sistema socio-economico
+valdostano. Un plauso secondo noi va in modo particolare alla
+struttura competente della Regione, che, insieme agli altri
+operatori di altri enti come "INVA", ha prodotto un ottimo lavoro
+condiviso dalla maggioranza degli addetti. Sottolineiamo pure
+l'importanza del risultato, che è frutto di un iter che ha
+funzionato, dove le linee guida della Giunta, finalizzate al
+raggiungimento degli obiettivi, hanno trovato un risultato di
+eccellenza. Questo piano, che rappresenta un processo di
+innovazione di rilevante importanza, ha tutti gli strumenti per
+poter progredire ulteriormente in tale settore. Vi sono ovviamente
+altri settori che devono essere incrementati, come il discorso
+delle fibre ottiche o della banda larga, ma l'impostazione del
+piano ci colloca in una posizione che ci fa ulteriormente sperare
+per il futuro. Per questi motivi diamo un giudizio positivo sul
+piano presentato dall'Assessore Marguerettaz.
+Presidente
+- La parola al Consigliere Ottoz.
+Ottoz (UV)
+- Sono emersi negli interventi 2 aspetti: uno
+è il fatto che il piano riguarda soprattutto l'azione di
+proseguimento dell'informatizzazione della pubblica amministrazione
+e una serie di istanze rivolte invece a problemi di tipo generale,
+in parte soprattutto sul versante educativo ed su quello
+infrastrutturale della banda larga in Valle. Il piano, dal punto di
+vista di quanto si prefigge di realizzare e programma per la
+pubblica amministrazione, è assolutamente condivisibile, vorrei
+però sottolineare come, data la condizione nella quale si muove
+"INVA" di monopolio sostanziale del mercato, sarebbe stato forse
+più interessante avere anche una parte che fosse destinata
+all'illustrazione dei metodi di controllo di gestione e di
+controllo dei costi all'interno di "INVA" per i servizi che
+fornisce, ossia se è giusto che la Regione si doti di una società
+che abbia la missione di perfezionare e portare a termine
+l'informatizzazione della Regione stessa, è giusto che, essendo
+della Regione, tale società sia sottratta in gran parte ai
+meccanismi di concorrenza, ma è altrettanto giusto che siano
+inseriti dei meccanismi di controllo dei costi e di gestione che
+garantiscano che questi servizi vengano forniti a un prezzo
+comparabile a quelli che sarebbero i prezzi di mercato, una "issue"
+- uso questa parola per l'amico Sandri, che non ama le parole
+inglesi - che è venuta d'attualità e della quale si è parlato in
+passato per altre questioni.
+Per quanto riguarda il problema evocato da più parti - e che
+condivido - della necessità di potenziare e diffondere sul 100% del
+territorio valdostano la banda larga, non mi limiterei all'aspetto
+altresì importante dei giovani, del "digital divide", del fatto che
+entriamo o siamo entrati nella civiltà dell'accesso, transitando
+non ancora del tutto dalla civiltà del possesso, perché siamo
+ancora attaccati alle nostre cose, e quindi che sarebbe assai utile
+che i nostri ragazzi potessero avere accesso alle tecnologie che
+permettono di meglio perfezionare oggi la loro educazione. Vi è
+anche un altro aspetto: oggi probabilmente in una Regione come la
+nostra, che vive di gran parte di turismo, che ha delle forti
+istanze di natura ambientalistica dovute alla necessità di
+conservare un ambiente difficile, nella quale quindi i problemi
+ambientali sono importanti e dove perciò tendenzialmente si
+dovrebbe potenziare maggiormente l'aspetto economico dei servizi in
+quanto meno inquinanti della produzione. L'infrastruttura regina è
+l'infrastruttura della banda larga. "Il problema..." - diceva una
+canzone - "... è l'ampiezza della banda", non della "banda
+Bassotti", ma l'ampiezza della banda a disposizione, quindi la
+possibilità che tutta la popolazione possa disporre di una quantità
+sufficiente di "band sharing" per potersi "affacciare" sul sistema.
+Questo è importante perché, come le autostrade sono infrastrutture
+per i trasporti, le infrastrutture per le comunicazioni sono quelle
+che, qualora la Regione decidesse di fare un investimento per il
+sistema e non per il cliente, quindi che non abbia un ritorno, ma
+che sia veramente una potenza dell'"hardware", come si dice in
+informatica, potremmo sì fornire a tutte le aziende, microaziende,
+in particolare quelle dei servizi che di comunicazioni vivono, un
+sistema ideale all'interno del sistema economico dell'Italia del
+nord per quello che riguarda i servizi. Potremmo provare a favorire
+lo spostamento progressivo del tipo di produzioni, del tipo di
+insediamenti, del tipo di aziende che vengono ad installarsi in
+Valle. Immaginiamo la Valle d'Aosta come una sorta di grande parco
+industriale, come ad esempio quello che c'è a Taiwan, ve ne sono a
+Singapore, dove la prima cosa che ti dicono è: "ti diamo l'ufficio
+e ti diamo 20 MB di banda a disposizione". Questo fa parte
+dell'affitto, è una potenza dell'"hardware", perché il fatto di
+considerare l'infrastruttura... come la prima infrastruttura che
+serve a tutti - serve agli alberghi perché devono comunicare, serve
+alle aziende che si vogliono insediare, serve ai giovani che devono
+studiare, serve all'amministrazione che deve gestire, serve alle
+amministrazioni che devono mettersi in rete - sarebbe un'opera
+meritoria e utile, potrebbe essere un investimento di portata
+sociale ed economica importante. Mi auguro che in futuro sia
+possibile ipotizzare di realizzarlo, promuovendo un dibattito da
+effettuarsi in questa sede o in Commissione, che definisca quali
+sono i requisiti che la Regione chiede, per realizzare la sua
+politica alla sua azienda "INVA", che si occupa di realizzare
+servizi di infrastrutturazione, e non sia la Regione a ricevere da
+"INVA" le proposte su quello che potrebbe utilmente fare per essere
+una migliore Regione. Teniamo in mano lo scettro del primato della
+politica e chiediamo soprattutto che sia inserito dal prossimo
+piano, o che ci si dedichi in Commissione anche su questo tema, un
+"volet" che riguardi il controllo dei costi di gestione dei servizi
+che fornisce "INVA", in modo che siano comparabili come costi a
+quelli di mercato. Sappiamo tutti che il monopolio presenta i suoi
+rischi e la concorrenza non sempre piace al Consigliere Bortot, ma
+forse in questo caso gli piacerebbe.
+Presidente
+- Non ci sono altri interventi, dichiaro
+chiusa la discussione generale.
+La parola all'Assessore al bilancio, finanze, programmazione e
+partecipazioni regionali, Marguerettaz.
+Marguerettaz (UV)
+- Devo fare un breve intervento per
+ringraziare anzitutto tutti coloro che sono intervenuti, tutti
+indistintamente, perché credo che tutti abbiano contribuito in modo
+responsabile nel dare una loro lettura al documento. Ringrazio
+anche il Consigliere Sandri, che è un po' isolato nella sua
+solitudine, con il suo gruppo, perché mi conforta questa voce
+isolata rispetto a tutte le altre voci, non tanto perché le altre
+voci non abbiano avuto modo di fare critiche, ma perché hanno
+dimostrato un lavoro serio e corretto, hanno avuto modo di
+condividere e di criticare. Nella sua verve di criticare il collega
+Sandri non ha detto nulla, si è limitato a fare degli appunti
+grammaticali, piuttosto che linguistici. Devo dire che, se questo è
+un segnale rispetto all'attività, credo che tale piano sia da
+considerarsi un buon piano. Probabilmente non lo ha neanche letto,
+perché tutta la parte dell'inclusione è proprio una parte che parla
+di formazione, che parla di un processo che coinvolge tutte le
+varie classi di popolazione, probabilmente nelle scuole non ci è
+andato, perché nella più parte delle scuole vi sono sistemi e in
+molte situazioni vi sono degli strumenti che sono di eccellenza. Il
+collega Ferraris ricordava "Topix", non lo ha evocato, ma vi è il
+Progetto "Vinces", che aveva coinvolto una serie di scuole con
+delle attività. Probabilmente quindi è in un momento di
+disorientamento totale. La lingua dell'informatica è l'inglese e
+molte volte non hai altre possibilità che individuare, dopodiché vi
+sono dei refusi; se vogliamo giudicare il piano in base al refuso
+di una parola scritta in inglese o in francese, credo che stiamo
+scrivendo una delle pagine più ridicole del Consiglio regionale
+come pure il discorso sulle cassette, non cassette...
+Mentre apprezzo molto tutto il discorso, devo farle un
+apprezzamento, collega Squarzino, non sono qui a dare voti, ma per
+una volta ho riconosciuto in lei un'onestà intellettuale
+interessante, devo dire che, se potrò condividere un caffè, lo farò
+molto volentieri, perché siamo riusciti a fare un ragionamento di
+questo tipo... c'è un discorso che è la seconda pagina, qui abbiamo
+scritto delle belle cose, bisogna vedere se tali cose funzionano,
+ma questo è il vero dibattito che abbiamo la necessità di fare, ma,
+dal punto di vista politico, è trasversale, perché lo "spoil
+system" è una cosa buona... è una cosa cattiva... quando si
+sostituisce il generale... speciale.. è una cosa legittima,
+opportuna... e lì questo tipo di discorso ci porta lontano... io ci
+sto nel fare tale tipo di ragionamento... Quando ho parlato di
+un'azione trasversale culturale... lo abbiamo detto in modo molto
+onesto, quando a pagina 9 abbiamo detto i cambiamenti della
+Giunta... lei ne ha dato una lettura, io dico che, rispetto a
+questi cambiamenti, sono state cambiate le organizzazioni e
+strutture che erano da una parte sono passate dall'altra, anche
+senza modificare le persone, perché - e qui voglio ringraziare i
+miei dirigenti per l'attività svolta - è vero che a volte hanno una
+certa rigidità ma, oggi come oggi, tutta una serie di modifiche dal
+punto di vista logistico impongono dei lavori incredibili, perché
+voi non potete aprire un ufficio senza dare un collegamento
+telefonico e senza avere un collegamento dati. Da questo punto di
+vista, ogni modifica comporta delle riorganizzazioni sensibili, è
+come se in un ufficio mancasse l'energia elettrica, è un gesto
+ormai automatico: tu entri in un ufficio e accendi la luce e, se
+non c'è l'energia elettrica, viene fuori il finimondo ed è la cosa
+parallela che possiamo dire su tali sistemi. Dal punto di vista del
+metodo, per ogni attività abbiamo cercato - ed è stato ricordato
+anche lì - di mettere in evidenza i punti di attenzione, quindi
+abbiamo cercato di dare un criterio di valutazione rispetto a
+quanto dichiarato affinché questo non fosse semplicemente il libro
+dei sogni.
+Dal punto di vista delle risorse, collega Tibaldi, è vero
+l'aumento del 20%, ma siamo a percentuali ancora modeste rispetto
+ad un tema che è stato ricordato da tutti come elemento
+qualificante. Vi è una certa consapevolezza e avrei gradito sotto
+tale aspetto lo sforzo di regolamentare, perché non è che oggi sono
+nati i 74 Comuni o le 8 Comunità montane... vi è un lento processo
+di organizzazione. Non è allora che vogliamo anche su questo
+argomento fare un ragionamento dove il linguaggio è un linguaggio
+identico, perché c'è la cooperazione applicativa, dobbiamo lasciare
+la libertà a ogni singolo ente; l'importante è che ogni linguaggio
+e ogni piattaforma sia in grado di comunicare con l'altra, quindi
+non possiamo immaginare in una logica dittatoriale di imporre, ma
+dobbiamo imporre delle regole che permettano di far dialogare i
+sistemi, quindi non pretendiamo di obbligare, collega Tibaldi, ma
+dobbiamo dare delle chiavi di lettura.
+Qualcuno ha ricordato la velocità, la banda; probabilmente siete
+fuori strada, perché la gran parte dei Comuni ha i 4 MB e così,
+come qualcuno ama fare il parallelo, non è che abbiamo delle
+autostrade per collegare tutti i Comuni, ma le autostrade hanno una
+necessità di traffico su certi tratti autostradali, sul resto
+abbiamo un percorso di un certo tipo. Non solo.
+Il collega Sandri, se partecipasse di più ai lavori del
+Consiglio regionale... non del Consiglio, dove gli fanno i titoli
+sui giornali, ma ai lavori di Commissione, avrebbe potuto fare un
+minimo di approfondimento... e in quella occasione, oltre a parlare
+del protocollo con "Telecom" - che è un protocollo non oneroso, con
+un certo tipo di impegno, dove dall'altra parte ci impegniamo a
+valorizzare i servizi -, avrebbe potuto verificare che abbiamo un
+progetto fatto con finanze europee che si chiama "Alcotra", che è
+in corso, dove abbiamo un'attività di "Wi-Fi" a valorizzare, in più
+abbiamo il POR "Competitività regionale, asse 3, ICT", che
+infrastrutturerà il più possibile in fibra per superare i limiti
+della banda. Con "Alcotra" valorizziamo il "Wi-Fi", ma sappiamo che
+con i processi di fibra sono introdotti dei processi che danno
+maggiore... questi all'interno dell'APQ che è stato sottoscritto
+con lo Stato, APQ che vede il coinvolgimento diretto del CNIPA e
+del MEF (del Ministero dell'economia)... rispetto a questo, ci
+poniamo tale problema e cerchiamo di dare delle risposte.
+Il collega Ottoz ci dà delle indicazioni, sul controllo di
+gestione sono assolutamente d'accordo; lei sa, collega Ottoz, che
+oggi abbiamo fatto un certo percorso, l'"INVA" è stata totalmente
+acquisita da soggetti pubblici, in particolare dall'Amministrazione
+regionale che è controllante in modo importante, ovviamente
+nell'ambito delle attività in "house" c'è un aspetto che si chiama
+controllo analogo, quindi deve esserci il controllo analogo
+all'interno della pubblica amministrazione. È intendimento - e
+colgo l'invito del collega Ottoz in questo senso - di avere un
+confronto in Commissione su tale argomento sui criteri che ci
+daremo come azionisti e come Consiglio di amministrazione di "INVA"
+sul controllo analogo a quello della pubblica amministrazione,
+quindi il monitoraggio dei costi è un rapporto che è comparabile
+fra qualità del servizio e costi.
+Rispetto alle considerazioni che fa il collega Ferraris, non era
+mia intenzione essere veltroniano ma, se Veltroni dice delle cose
+giuste, non ho motivo per non dirle; ovviamente Veltroni è più
+importante, ma questa attenzione credo sia un patrimonio comune,
+per cui mi trovo in perfetta sintonia.
+Forse mi sono spiegato male quando parlavo delle banche e del
+licenziamento, è vero che ho omesso di dire una cosa diversa: c'è
+un licenziamento e un'assunzione di persone giovani, quindi sono
+stati agevolati degli esodi e nel contempo vi sono stati degli
+assunti. Oggi l'età media dei dipendenti di banca è scesa
+drasticamente, dopodiché è innegabile che il progetto di fusione
+abbia creato degli esuberi, ma adesso non parlavo di quegli
+esuberi, ma del rinnovamento della forza lavoro. Certe inerzie
+della pubblica amministrazione quindi sono dovute ad una certa
+resistenza da parte degli addetti, basti dire che anche noi
+dobbiamo investire in posta elettronica certificata, dobbiamo dare
+corpo al codice digitale della pubblica amministrazione, dove
+abbiamo degli obblighi; quindi stiamo reagendo, ma molto
+lentamente. Il Consiglio regionale ha partecipato compiutamente con
+dei suoi dirigenti che hanno partecipato al gruppo guida, quindi
+rimando al mittente il fatto di non aver preso in considerazione,
+anzi con il Presidente Perron abbiamo avuto una serie di scambi
+fattivi.
+Rispetto a questo percorso, nel prendere atto delle valutazioni
+che sono state fatte, che non riconosco come critiche distruttive,
+ma come stimolo per ritrovarci con dei dati puntuali, ringrazio di
+nuovo tutti, in particolare la dott.ssa Zublena, che è il
+Coordinatore del dipartimento, che ci mette veramente una passione
+e una competenza superiore alla media. Ringrazio gli altri
+dirigenti che seguono con entusiasmo questi nostri progetti e spero
+che tale mio entusiasmo possa coinvolgere altri colleghi di
+maggioranza e di minoranza... pari opportunità, come diceva la
+collega Squarzino, per far progredire la nostra Valle.
+Presidente
+- La parola alla Consigliera Squarzino
+Secondina, per dichiarazione di voto.
+Squarzino (Arc-VA)
+- Qui credo che siamo chiamati a dare
+un giudizio di tipo politico e non tecnico, chiaramente, nel senso
+che non stiamo valutando l'opera di dirigenti, riconosciamo queste
+capacità ma, a nostro avviso, è un giudizio politico sulla capacità
+di tale Governo di governare l'intera operazione e soprattutto
+l'innovazione nella pubblica amministrazione. Su questo ho molto
+insistito nel mio intervento, nel senso che non vedo nel piano le
+condizioni affinché l'innovazione, che deve essere il cuore di
+tutto, possa avvenire nell'Amministrazione regionale. Il nostro
+voto quindi non solo non è di adesione, ma è un voto decisamente
+contrario per l'assenza di una volontà politica che metta gli
+strumenti reali per un cambiamento. Qui si ha l'impressione che il
+politico demandi al tecnico l'innovazione, mentre io credo che
+tocchi al politico mettere anzitutto gli strumenti, perché dal
+politico deve partire una volontà chiara e deve darsi strumenti
+affinché questa volontà si realizzi e diventi il motore.
+Un'innovazione così importante non può essere lasciata solo in mano
+a dirigenti bravissimi, ma che senza un "input" politico, di
+strumenti non riescono a lavorare e la loro azione viene
+vanificata. Il nostro dubbio è che quegli interventi finanziari
+così consistenti servano sicuramente per nuove tecnologie e sistemi
+informativi, quindi per cambiare in alcuni casi, completare in
+altri l'"hardware" e il "software", ma senza che vi sia il governo
+politico dell'intero processo innovativo.
+Si dà atto che dalle ore 11,36 presiede il Vicepresidente
+Lanièce.
+Presidente
+- La parola al Consigliere Sandri, per
+dichiarazione di voto.
+Sandri (GV-DS-PSE)
+- Non posso che associarmi ai
+ringraziamenti a chi ha predisposto il piano dal punto di vista
+tecnico, non ovviamente a chi lo ha presentato dal punto di vista
+politico, perché è un piano che, dal punto di vista tecnico, è
+inappuntabile, dal punto di vista contenutistico-politico, manca
+qualunque tipo di indirizzo. La reazione un po' scomposta e
+aggressiva dell'Assessore Marguerettaz, come sempre, cerca di
+coprire un vuoto di risposte che non era in grado e non poteva
+dare, e dov'è che non ha risposto? Non ha risposto su dei dati
+fondamentali, ad esempio quello che l'informatizzazione,
+l'"e-government", tutto quanto di bello ci sarà in questo piano
+sarà "Partout", tranne in Via Piave 1. Su questo dato, purtroppo,
+non abbiamo avuto nessun tipo di risposta, a noi farebbe piacere
+che, al di là della politica proseguita come guerra proseguita con
+altri mezzi, si facesse una riflessione - qui invito anche il
+Presidente pro tempore dell'Assemblea a farsene interprete in
+Ufficio di Presidenza - e sarebbe indispensabile che i Consiglieri
+regionali potessero avere accesso alla banca dati della Regione,
+ovviamente non ai procedimenti in itinere, ma ad avere un accesso
+diretto alla banca dati della Regione, perché non è possibile che
+per qualunque deliberazione si perdano settimane e mesi per poter
+avere dei dati, per poter avere dei dati sul casinò o sugli appalti
+è una fatica improba e questo non è un fatto di democrazia; qui non
+abbiamo avuto risposte.
+Su altro abbiamo avuto risposte che dire deboli è dire poco.
+Quando l'Assessore Marguerettaz cita che le autostrade sono solo in
+fondovalle... quindi facciamo un paragone, anche se a
+Rhêmes-Notre-Dame viaggiano a 640 KB chi se ne frega, va bene
+così... è esattamente il contrario, proprio perché chi abita in
+fondovalle ha questo vantaggio di avere l'autostrada e visto che
+l'autostrada non la si può fare per ovvie compatibilità ambientali,
+che almeno a Rhêmes-Notre-Dame arrivi l'autostrada
+dell'informatica! La si può far arrivare con le onde radio, con la
+fibra... è questo il bello della società dell'informatica, perché
+rende il territorio, indipendentemente dall'altitudine, dalla
+distanza, dalla complessità dell'orografia, tutto uguale dal punto
+di vista della geografia dell'informatica, si è tutti su
+"internet".
+Se non partecipo così attivamente... mi farebbe piacere
+l'Assessore che mi confortasse su quante Commissioni devo passare
+al giorno per rientrare nella sufficienza delle sue particolari
+considerazioni, così cercherò di arrivare almeno a 6 -, non dico a
+6, però ho l'abitudine di ascoltare la gente per strada e anche in
+quest'aula. Mentre si stava discutendo di queste cose, ho
+incontrato una persona che si occupa di informatica e ho chiesto:
+ma lei a casa quanto ha? "Ho 56 KB" e lei oggi ha portato come
+grande successo il fatto che si sta parlando di 4 MB. Se lei va su
+una qualunque postazione "internet", schiaccia "Telecom", "Alice" e
+queste cose qui, vedrà che le "offerte business" oggi in Italia
+sono a 20 MB, non c'è neanche più l'offerta a 4 MB per le aziende.
+Noi allora diamo per scontato che siamo già indietro, che
+arriveremo forse a dare queste cose. È su tali cose qui che ci si
+misura, non sugli apprezzamenti qualitativi, ma su quelli
+quantitativi, sui dati concreti.
+Confermando il voto negativo che avevamo preventivato
+nell'intervento precedente, le assicuro una particolare attenzione
+del nostro gruppo sulla pagina 173 del piano: quella dell'analisi e
+del finanziamento. Bisognerà avere una particolare attenzione,
+perché è anche sulla tempistica e sulla modalità di attuazione
+degli investimenti che si capirà che tipo di Governo ha oggi la
+Valle d'Aosta e questo può darsi che sia qualcosa che gli elettori
+e le elettrici valdostane l'anno prossimo abbiano piacere di
+conoscere.
+Si dà atto che dalle ore 11,44 riassume la presidenza il
+Presidente Perron.
+Presidente
+- Pongo in votazione il piano in oggetto:
+Consiglieri presenti: 28
+Votanti: 26
+Favorevoli: 22
+Contrari: 4
+Astenuti: 2 (Lattanzi, Tibaldi)
+Il Consiglio approva.

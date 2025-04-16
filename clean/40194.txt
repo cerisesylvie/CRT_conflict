@@ -1,0 +1,128 @@
+Classificazione
+AMBIENTE
+Inquinamento
+
+
+
+Oggetto del Consiglio n. 3055 del 5 dicembre 2017 - Resoconto
+OGGETTO N. 3055/XIV - Interrogazione: "Notizie sull'eventuale
+registrazione di valori anomali di rutenio-106".
+Farcoz (Président) -
+Point n° 12 à l'ordre du jour. Pour
+la réponse, la parole à l'assesseur Guichardaz.
+Guichardaz (PD-SIN.VDA) -
+Non è mia consuetudine leggere
+tal quali le note che ci inviano le strutture per aiutarci negli
+aspetti tecnici, ma stavolta preferisco proprio leggere la nota
+informativa elaborata dagli uffici del dipartimento Ambiente - che
+tra l'altro ringrazio - visti i tecnicismi che richiede la
+risposta. In ogni caso, se poi lo desidera, le posso far inviare la
+risposta scritta.
+L'ordinamento operativo presso ISPRA della rete RESORAD del
+sistema nazionale per la protezione dell'ambiente ha segnalato il 2
+ottobre la rilevazione della presenza di rutenio-106 nel
+particolato atmosferico, da parte del Centro regionale di
+radioprotezione ARPA Lombardia. I dati forniti dai servizi di
+radiometria ambientale di altre ARPA, nei giorni successivi, hanno
+riportato livelli di rutenio-106 da alcuni millibecquerel/metro
+cubo, fino a qualche decina di millibecquerel/metro cubo nelle
+regioni del Nordest. Questi valori di concentrazione non sono
+rilevanti dal punto di vista radiologico. La dose a essi connessa è
+dell'ordine di centomila volte inferiori a quella richiedente
+misure di protezione per la popolazione. La presenza, sia pure in
+tracce sul territorio italiano, di rutenio-106 segnala comunque
+l'occorrenza di un evento anomalo, localizzabile nell'Est europeo,
+considerata la distribuzione dei valori di concentrazione rilevati
+su scala continentale.
+L'assenza di rilevazione anomala di altri radionuclidi
+artificiali, ha consentito di escludere come causa un incidente a
+impianti di potenza per la produzione di energia nucleare o
+l'esplosione di ordigni bellici. Il rutenio-105 si genera, infatti,
+in tali processi come prodotto di fissione dell'uranio-235 sempre
+insieme ad altri radionuclidi. Il rutenio-106 è peraltro utilizzato
+anche per usi radioterapici e in campo spaziale come pila nucleare
+su satelliti artificiali. Esistono pertanto impianti di produzione
+per tale radionuclide e sono in circolazione sorgenti specifiche. A
+questi livelli pare ragionevolmente riconducibile un evento
+incidentale, causa delle emissioni in atmosfera di solo
+rutenio-106.
+In Valle d'Aosta ARPA VdA, nell'ambito della rete nazionale
+RESORAD effettua stabilmente il monitoraggio radiometrico del
+particolato atmosferico, con campionamento in continuo presso la
+propria sede di Saint-Christophe. Vengono prelevati settimanalmente
+due filtri: uno dopo tre e l'altro dopo quattro giorni consecutivi
+e continui di campionamento. I rilievi condotti dall'area operativa
+radioattività ambientale dell'ARPA, secondo il protocollo
+standard
+descritto, non hanno segnalato presenza rilevabile
+di rutenio-106. Le concentrazioni sono sempre risultate inferiori
+alla minima attività rilevabile dell'ordine del
+millibecquerel/metro cubo. L'analisi gamma spettrometrica del
+filtro, in grado di rilevare e identificare selettivamente la
+presenza di radionuclidi gamma-emettitori, viene condotta quattro
+ore dopo il prelievo del filtro, per permettere un primo
+significativo decadimento dei radionuclidi naturali a vita breve e
+accrescere in tal modo la sensibilità della rilevazione di
+eventuali radionuclidi artificiali. La misura dura quattro ore. Il
+rutenio-106 viene rilevato dall'emissione gamma del rodio-106 da
+esso generato e con esso in equilibrio. Viene anche misurata sui
+medesimi filtri l'attività
+alfa
+totale e
+beta
+totale.
+Il filtro viene posto in misura cinque giorni dopo il prelievo per
+la stessa ragione sopradescritta e il conteggio dura dieci ore.
+Queste misure riguardano la radioattività totale presente nel
+particolato raccolto sul filtro e non sono in grado di identificare
+e quantificare selettivamente la presenza di singoli
+radionuclidi.
+A seguito della comunicazione pervenuta il 2 ottobre, si sono
+effettuati campionamenti su periodi abbreviati: ventiquattro ore
+(2, 3, 10) e quarantotto ore (3, 5, 10). Le analisi gamma
+spettrometriche successivamente effettuate non hanno evidenziato
+presenza di rutenio-106 al di sopra delle minime attività
+rilevabili con la procedura sopradescritta (qualche
+millibecquerel/metro cubo).
+Per accrescere ulteriormente la sensibilità del rilievo, a
+distanza di due settimane dal prelievo (tempo necessario per
+permettere un quasi completo decadimento dei radionuclidi naturali
+a vita breve presenti sul particolato, i cosiddetti figli del radon
+e del thoron, si è proceduto a un secondo conteggio gamma
+spettrometrico protratto per ventiquattro ore su filtro campionato
+il 2 e 3 ottobre. In questo modo è stata possibile la
+determinazione positiva di tracce di rutenio-106 nella misura di un
+millibecquerel/metro cubo, dato in linea con tutti gli altri
+rilievi e pienamente confermante la non rilevanza locale
+dell'evento dal punto di vista radio protezionistico.
+A livello nazionale, a partire dal 9 ottobre non si sono più
+riscontrate tracce di rutenio-106, essendo le misure ritornate al
+di sotto dei limiti di rilevabilità in tutti i siti di monitoraggio
+delle ARPA facenti parte della rete nazionale. A seguito della
+recente comunicazione da parte di organi ufficiali della Russia del
+rilevamento nell'aria tra fine settembre e inizio ottobre 2017
+negli Urali meridionali al confine con il Kazakistan di
+concentrazione di rutenio-106 molto superiori rispetto al fondo
+naturale, senza peraltro specificarne l'origine, e del rilievo a
+esso dato da diversi organi di stampa nazionale, si è provveduto a
+effettuare una segnalazione sul sito dell'agenzia dei rilievi
+effettuati e dell'assenza di situazioni di rischio. Potrà ricavarlo
+lei personalmente, andando sul sito dell'ARPA. Il monitoraggio
+radiometrico sistematico condotto in stretto coordinamento dalle
+agenzie del sistema nazionale di protezione dell'ambiente sulle
+diverse matrici ambientali, permette l'accurata rilevazione e
+l'adeguata valutazione dei livelli di radioattività presenti
+nell'ambiente.
+Président -
+Pour la réplique, la parole au collègue
+Padovani.
+Padovani (GM) -
+Ringrazio l'Assessore per la risposta. Mi
+sarebbe molto utile ricevere via email il testo, anche perché il
+tema ovviamente non è semplicissimo. Però era notizia apparsa su
+tutti i maggiori organi di stampa nazionale e mi sembrava
+importante capire se anche nella nostra regione fossero state
+rilevate queste sostanze nell'aria. Registro che non sono state
+rilevate, però se mi può inviare via email la risposta, giusto per
+rileggerla e capirla un po' meglio, perché il tema è davvero non
+semplice.

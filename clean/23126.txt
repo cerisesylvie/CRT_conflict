@@ -1,0 +1,411 @@
+Classificazione
+INFORMAZIONE
+Sistema informativo
+
+
+
+Oggetto del Consiglio n. 2400 del 10 gennaio 2007 - Resoconto
+OGGETTO N. 2400/XII - Piano regionale triennale nel settore
+dell'informatica. (Interpellanza)
+Interpellanza
+Premesso che
+§
+è in fase di elaborazione il piano regionale triennale
+2007-2009 nel settore dell'informatica;
+§
+nel bilancio previsionale della Regione Valle d'Aosta per
+l'anno 2007 figurano oltre 20 milioni € nei programmi di
+informatizzazione, distribuiti nei seguenti capitoli di
+spesa:
+- manutenzione e gestione del sistema informativo regionale
+(6.885.000 €);
+- realizzazione, manutenzione e gestione del Sistema
+Informativo Territoriale regionale (920.000 €);
+- informatizzazione degli Assessorati, dei servizi e degli
+uffici della Regione ed adeguamento tecnologico delle sedi degli
+stessi (7.821.000 €);
+- progetti e sperimentazioni in ambito informatico e
+telematico (4.810.000 €);
+§
+gran parte di queste risorse risulta essere assorbita da
+INVA, società partecipata dalla Regione, la quale ricopre un ruolo
+pressoché monopolistico nell'esecuzione dei servizi
+anzidetti;
+ciò premesso, i sottoscritti Consiglieri regionali
+Interpellano
+l'Assessore delegato per sapere:
+1) quali sono, oltre ad INVA, gli altri soggetti coinvolti
+nella progettazione e nella realizzazione dei servizi di cui in
+premessa;
+2) quali sono le risorse impegnate dalla Regione nel primo
+decennio di attuazione della Legge regionale 12 luglio 1996, n. 12
+(sviluppo del sistema informativo regionale) e a quanto ammontano i
+corrispettivi pagati a INVA nel periodo medesimo, in virtù degli
+incarichi ad essa conferiti e delle convenzioni con essa
+stipulate;
+3) qual è stato, dal 1996 ad oggi, l'incremento degli
+occupati (con rapporto di lavoro subordinato o con contratti
+diversi) presso INVA;
+4) se, vista la ridefinizione del piano triennale, è
+intenzione dell'Amministrazione regionale consentire una più vasta
+partecipazione di imprese private operanti nel settore informatico
+alla fornitura dei servizi di cui in premessa.
+F.to: Tibaldi - Lattanzi - Frassy
+Presidente
+- La parola al Consigliere Tibaldi.
+Tibaldi (CdL)
+- Questa interpellanza vuole focalizzare
+l'attenzione su alcuni aspetti di "INVA", la società informatica a
+partecipazione regionale che presto diventerà a totale
+partecipazione pubblica, che ha acquisito in questi anni
+un'importanza notevole sotto diversi profili.
+Il primo profilo che vogliamo mettere in evidenza è quello
+finanziario e nella premessa dell'interpellanza abbiamo dato voce
+ad alcuni capitoli di spesa previsti nel bilancio 2007 della
+Regione, la cui somma arriva fino a circa 20 milioni di euro per
+quanto riguarda l'informatizzazione in generale del sistema
+regionale, del sistema territoriale regionale, degli Assessorati,
+dei servizi, degli uffici della Regione, nonché alcuni progetti e
+sperimentazioni in questo campo. Sono 20 milioni di euro che
+rappresentano una cifra considerevole, la maggior parte dei quali
+risulta essere assorbita da "INVA".
+Vorremmo capire dalla Regione, al di là dei rinnovi periodici
+che ci sono stati, non ultimo quello di dicembre, di una
+convenzione fra Regione e "INVA" che vede questo soggetto
+societario come tributario di importanti compiti in questo ambito,
+alcuni dati ovvero in questi 10 anni dal 1996 ad oggi quanto "INVA"
+ha assorbito in termini finanziari, quali sono le risorse che la
+Regione ha erogato a "INVA" per la realizzazione di questi servizi.
+Sappiamo che "INVA" non ha solo assorbito in termini finanziari
+dalla Regione, ma ha anche accresciuto il suo organico, non
+sappiamo oggi quale sia il numero degli occupati, siano essi con
+contratto di lavoro subordinato o con contratti diversi, ma ci
+risulta che le dimensioni occupazionali di "INVA" siano diventate
+importanti. L'incremento di questa società pubblica vede, d'altro
+lato, un progressivo depauperamento del mercato privato, società
+che negli anni della sperimentazione informatica e telematica in
+Valle d'Aosta sono sorte, poco alla volta si sono assottigliate
+come numero e hanno ridotto la loro importanza. Riteniamo che qui
+ci sia una responsabilità di "INVA" e di chi ha voluto portare
+"INVA" a questi livelli.
+Vorremmo quindi capire quali sono le intenzioni della Regione,
+oltre a una mera proroga dei contratti di informatizzazione, se -
+visto che entro fine mese deve essere ridefinito il piano triennale
+- è intenzione dell'Amministrazione consentire una più vasta
+partecipazione di imprese private a questo settore, altrimenti se
+si va avanti di questo passo "INVA" diventa un monopolista del
+mercato e in Valle per il privato non c'è più spazio. Abbiamo
+raccolto alcuni dati, ma prima di esporli vorremmo sentire
+dall'Assessore determinate risposte, possibilmente puntuali ai
+nostri quesiti. Ci riserviamo di intervenire in sede di
+replica.
+Si dà atto che dalle ore 18,21 riassume la presidenza il
+Presidente Perron.
+Presidente
+- La parola all'Assessore al bilancio,
+finanze, programmazione e partecipazioni regionali,
+Marguerettaz.
+Marguerettaz (UV)
+- Spero di essere puntuale e di dare
+risposta alle domande del collega Tibaldi.
+Il collega Tibaldi nel presentare l'interpellanza ha spiegato
+una serie di premesse che hanno messo in evidenza alcuni capitoli
+di bilancio, che hanno definito un certo insieme, ma cercando di
+seguire il percorso logico non tanto dei quesiti che ha posto nella
+presentazione, quanto rispetto a quelle che sono state poste, primo
+quesito: quali sono, oltre ad "INVA", gli altri soggetti coinvolti
+nella progettazione e nella realizzazione dei servizi di cui in
+premessa, anzitutto volevo circostanziare, perché "INVA", perché
+l'individuazione di "INVA", non è avulsa da un contesto
+normativo.
+L'individuazione della società "INVA" quale strumento per la
+realizzazione del piano pluriennale si evince dalla legge regionale
+n. 81/1987, che è la legge istitutiva di "INVA", costituzione di
+una s.p.a. nel settore dello sviluppo dell'informatica, modificata
+il 12 luglio 1996 con la promozione di quel tipo di attività
+specifica che opera nel settore dello sviluppo dell'informatica.
+L'articolo 3 della legge regionale n. 81/1987 prevedeva:
+"INVA
+ha, come esclusiva finalità sociale, la realizzazione e la gestione
+del sistema informativo regionale nell'ambito del piano pluriennale
+e secondo le indicazioni previste nel piano operativo annuale
+approvato dalla Giunta regionale"
+; quindi il legislatore nel
+1987, così come nella legge regionale n. 16/1996, che prevede
+all'articolo 2 strumenti per la realizzazione del piano
+pluriennale, sempre per la realizzazione del piano pluriennale di
+cui all'articolo 1 con le modalità indicate dalla Regione,
+stabilisce:
+"si avvale di apposita società a partecipazione
+mista di capitale della Regione"
+; questo è quindi un quadro
+deciso dal legislatore.
+Relativamente al 2007, perché lei pone la domanda in
+prospettiva, citando i capitoli del 2007... cosa posso rispondere?
+Ha prorogato il Governo regionale con deliberazione n. 3997/2006 la
+validità della convenzione quadro sottoscritta con "INVA" in
+materia di realizzazione e gestione del sistema informatico
+regionale, quindi in virtù del quadro legislativo presente avevamo
+dato applicazione con delle convenzioni che abbiamo novellato per
+il 2007. Oltre a "INVA" saranno coinvolte, nelle attività di
+progettazione e realizzazione dei servizi, le società fornitrici di
+servizi su infrastrutture o prodotti proprietari - "Telecom",
+"Microsoft", "Insiel" - già individuate con precedenti
+provvedimenti; ci saranno le società per la fornitura di beni e
+servizi, individuate nell'ambito delle convenzioni "Consip" -
+ricordo che abbiamo questo tipo di riferimento - e le società con
+specifiche competenze di dominio applicativo di competenza
+tecnologica, individuate nel rispetto della normativa in atto per
+la fornitura di beni e servizi della pubblica amministrazione; e
+questo a maggior ragione nel momento in cui diciamo che "INVA"
+diventerà una società strumentale, con la logica dell'"in house
+providing" e con controllo analogo, quindi tutti coloro che
+verranno selezionati dalla Regione direttamente o da "INVA",
+dovranno essere selezionati con le logiche che sono proprie della
+pubblica amministrazione. È chiaro che, in questo come negli altri
+settori, auspichiamo che siano coinvolte le società locali
+valdostane, ma ci ritorno.
+Seconda domanda: qui è stato fatto un "distinguo", quindi ho 2
+versioni, ma non è un problema...
+"a quanto ammontano i
+corrispettivi pagati a INVA nel periodo medesimo"
+; allora, se i
+capitoli si riferiscono a tutti i pagamenti di "INVA" o i pagamenti
+di "INVA" solo di quei capitoli che lei ha citato, perché ci sono
+anche dei servizi che vengono richiesti dagli altri Assessorati per
+altre attività che però individuano sempre "INVA", per cui non
+necessariamente ci sono solo questi 3 capitoli che poi diventano
+utili per dei corrispettivi ad "INVA". Rispetto alle risorse
+complessive impegnate riferite all'insieme di tutti i capitoli
+facenti parte dell'obiettivo programmatico 2.1.5, programmi di
+informatizzazione di interesse regionale, abbiamo nel periodo
+1996-2006 che il totale delle risorse impegnate è di 140.387.078,50
+euro e i corrispettivi pagati a "INVA" sono 78.969.501 euro; se, al
+contrario, dovessimo prendere solo i capitoli che lei ha indicato
+nelle premesse, il valore assoluto è leggermente inferiore, ma le
+proporzioni sono simili perché su 119.743.171 "INVA" ne ha
+beneficiato nella misura di 67.707.000 euro (53-54%).
+Il punto 3:
+"qual è stato, dal 1996 ad oggi, l'incremento
+degli occupati (con rapporto di lavoro subordinato o con contratti
+diversi) presso INVA"
+... anche qui, credo che per suo interesse
+abbia indicato "INVA", ma volesse avere un'indicazione più ampia
+rispetto a "INVA", perché questa ha 2 società controllate che sono
+"INVA.SIT" e "INVA Consulting", quindi mi sono permesso di
+interpretare il suo pensiero, cioè l'aspetto più complessivo.
+L'incremento del personale occupato è stato di 199 unità, passando
+dalle 12 del 1996 alle attuali 211, così suddivise: 99 a tempo
+indeterminato, 60 a tempo indeterminato legati a commessa, 52 a
+tempo determinato. Mi permetto di fare qui il ragionamento da lei
+fatto, cioè "INVA" ha avuto una crescita importante e sicuramente
+la sua preoccupazione è condivisa, quella di far sì che "INVA" non
+fagociti tutte le iniziative, però le faccio una riflessione. Oggi
+come oggi, la pubblica amministrazione non può scegliere il proprio
+interlocutore, ma deve seguire delle procedure per la selezione di
+questi soggetti, allora o sono soggetti che sono fortemente
+strutturati, che sono fortemente articolati con risorse
+economico-finanziarie e tecniche molto performanti o non sono
+selezionati. Banalmente - con la collega Squarzino - ci siamo già
+soffermati su alcuni ragionamenti che riguardano le imprese di
+pulizie. Nell'ambito di queste attività non abbiamo più un'impresa
+di pulizie valdostana; abbiamo fatto sicuramente quello che a voi
+va bene, ci affidiamo al mercato, ma il mercato è crudele e non
+sempre favorisce le imprese locali, perché le imprese locali che
+hanno i requisiti per essere competitivi e fare delle offerte di un
+certo tipo, potrebbero essere non in condizioni di partecipare agli
+appalti. Ecco perché dobbiamo fare di tutto perché il sistema
+locale cresca, ma dobbiamo fare attenzione a criminalizzare e a
+demonizzare un'entità che è vero che è cresciuta nel tempo, ma che
+si pone come interlocutore per prendere delle commesse che
+potrebbero essere affidate a soggetti molto strutturati, tanto che
+se ci confrontiamo con il sistema nazionale vediamo questo tipo di
+discorso. Sono d'accordo nel dire che "INVA" deve fare mercato, ma
+può essere un soggetto che mantiene occupazione in Valle d'Aosta,
+perché 211 unità sono tutte unità valdostane che lavorano: questo
+ovviamente è un ragionamento fatto solo su "INVA", ma gli addetti
+di "INVA" sono anche quelli dell'indotto, quindi credo che anche
+una parte importante di queste commesse siano state affidate, con
+la logica della subfornitura, ad imprese locali, permettendo a
+queste ultime, a loro volta, di avere un certo sviluppo. Ribadisco:
+sono assolutamente d'accordo a fare qualsiasi riflessione per far
+sì che il sistema cresca, ma dobbiamo tener conto che ci sono degli
+standard che potrebbero mettere fuori gioco la nostra
+polverizzazione, ma questo ragionamento lo vediamo in tutti i
+settori, ne parlavamo con il collega Cerise nell'edilizia, come
+anche in altri ambienti, facciamo attenzione a demonizzare tutto,
+per perfezionare sicuramente c'è spazio.
+Quarta domanda:
+"se, vista la ridefinizione del piano
+triennale, è intenzione dell'Amministrazione regionale consentire
+una più vasta partecipazione di imprese private operanti nel
+settore informatico alla fornitura dei servizi di cui in
+premessa"
+... la risposta è "sì", ma le voglio, anche qui, fare
+un ragionamento. Nell'ambito del piano triennale la volta scorsa
+già lo abbiamo fatto e lo abbiamo fatto anche stavolta, abbiamo
+coinvolto tutta la comunità valdostana, cioè sul piano triennale
+abbiamo coinvolto tutta la componente pubblica: Amministrazione
+regionale, Consiglio regionale, Consorzio degli enti locali, Comune
+di Aosta, USL, e anche altri soggetti, fra cui la Camera di
+commercio interprete principe del sistema privato, che dovrebbe
+essere il momento di trasmissione del pensiero della strategia
+dell'Amministrazione regionale a tutto il sistema delle imprese,
+l'università, la preparazione. Ecco in cosa concretamente si è
+esplicitata l'azione dell'Amministrazione regionale: dare
+trasparenza al progetto strategico per far sì che chi ha le
+competenze e le risorse possa attrezzarsi per interfacciare queste
+opportunità.
+Lei ha fatto bene a ricordare l'importanza di questi capitoli,
+che danno una dimensione dello sforzo finanziario, ma che devono
+anche essere delle indicazioni alle imprese affinché si organizzino
+e si strutturino; quindi non solo è nostra intenzione, ma lo stiamo
+facendo e cerchiamo di dare la massima visibilità ai nostri
+obiettivi e alle nostre attività, perché tutti coloro che sono
+nella condizione si facciano avanti e nell'ambito delle regole
+della pubblica amministrazione si mettano in condizione di essere
+selezionati.
+Presidente
+- La parola al Consigliere Tibaldi.
+Tibaldi (CdL)
+- Mi permetto, Assessore, nel ringraziarla
+per i dati forniti, di fare alcune osservazioni, che sono doverose,
+anche perché questo settore è quanto mai importante per superare il
+divario tecnologico che ci separa da altre Regioni e che vuole che
+la nostra Regione, in termini di enti pubblici, ma anche di
+operatori privati, sia sempre più aggiornata, affinché non subiamo
+questo "gap".
+Per venire ai dati, i numeri che lei ha fornito evidenziano
+un'evoluzione importante in termini dimensionali del soggetto
+"INVA" che assorbe la maggioranza assoluta delle risorse stanziate
+nel programma di informatizzazione e che ha visto un incremento di
+199 unità passando da 12 a 211 in 10 anni nell'ambito del suo
+organico inteso in senso complessivo (la ringrazio della
+precisazione perché si parla della "holding INVA" che contiene
+anche "INVA.SIT" e "INVA Consulting"). I dati sono quelli ufficiali
+forniti da lei. Lei ha poi introdotto delle riflessioni richieste
+soprattutto dalla quarta domanda, perché siamo in una fase
+importante di ridefinizione di un piano; quando c'è un piano che
+viene ridefinito, si individuano strategie, percorsi e obiettivi,
+si vuole capire se ci sono delle variazioni in corso d'opera. Lei
+dice che "INVA" da società mista diventa società "in house", di
+conseguenza si consolida un certo rapporto fiduciario con l'ente;
+con il disimpegno di "Telecom" e l'acquisizione di Regione delle
+rispettive quote "INVA" sarà un'altra società pubblica dove la
+Regione ha la quota predominante.
+È vero quello che lei dice, che 211 persone lavorano e
+percepiscono dei compensi professionali e questa costituisce una
+risposta non solo economica, ma anche in termini sociali, perché il
+ragionamento è condivisibile ed inoppugnabile. Lo stesso si può
+dire della Casa da gioco di Saint-Vincent, però bisogna anche
+guardare in un'ottica aziendalistica la questione, in quanto se
+ragionassimo che tutte le società sono degli ammortizzatori
+sociali, la Regione potrebbe acquistare le quote di tutte le
+società private presenti in Valle e delle ditte esistenti e si
+annulla il mercato, allora la Regione diventa il dissipatore di
+risorse pubbliche a favore del mantenimento di livelli
+occupazionali fino a dove è possibile. A questa crescita di "INVA"
+quante imprese privati hanno dovuto capitolare in questi 10 anni?
+Lei sa che c'è stato un momento in cui si espande un mercato -
+siamo negli anni '90 -, di fronte ad una concorrenza spietata molte
+imprese hanno dovuto lasciar perdere il mercato, quindi da un lato
+"INVA" ha dato occupazione, ma dall'altro molti piccoli o medi
+imprenditori hanno dovuto cedere il passo e con essi l'occupazione
+che lavorava presso queste imprese. Il dato non è rinvenibile oggi,
+ma se uno facesse una ricerca analitica approfondita vedrebbe che
+forse il contrappeso è ancora più gravoso, quanti dipendenti nel
+settore privato sono stati licenziati a scapito di una "INVA" che
+ha assorbito occupazione.
+Seconda riflessione: "INVA" è una società "in house" che
+collabora anche con imprese private; pensiamo che se "INVA" dovrà
+avere questa natura, se nel 1987 è nata come società mista e aveva
+un rapporto prioritario con la Regione, nel 2007 il rapporto
+diventerà esclusivo e totalitario con la Regione, che sarà
+costretta a chiedere forniture e servizi professionali solo a
+"INVA"... dove finisce allora il resto del mercato? Viene
+cancellato! Perché piuttosto, pur mantenendo la fisionomia della
+società "in house", "INVA" non consente subforniture ad altri
+soggetti privati? Non ci pare che le subforniture siano di elevata
+quantità da parte dei soggetti privati che operano in Regione nei
+confronti di "INVA", perché ho fatto fare alla segreteria del
+nostro ufficio - che ringrazio - una piccola rassegna di
+deliberazioni adottate dal 2003, da quando la Giunta si è
+insediata, ad arrivare ad oggi, la quantità di denaro per soluzioni
+informatiche e prestazioni professionali a vario titolo in questo
+triennio a favore di soggetti privati o professionisti è risibile,
+tutti i soldi quindi vanno in una unica direzione: "INVA".
+Non vogliamo criticare l'operato di "INVA" sotto un profilo
+professionale, ma vogliamo sottolineare che questa crescita abnorme
+ha fagocitato il mercato, lo ha letteralmente "divorato" in tutte
+le sue dimensioni. Allora se condividiamo quello che lei aveva
+detto, rispondendo prima ad una interpellanza di un altro gruppo
+consiliare, che è inammissibile che queste 211 persone entrino a
+far parte del comparto unico... ma è altrettanto folle pensare che,
+oggi... non so quante persone in quest'aula si cimenterebbero con
+un'attività imprenditoriale privata nel settore informatico,
+telematico, telefonico! Il collega Ottoz ha ceduto in tempi non
+sospetti, ha capitalizzato intelligentemente la sua quota, ma oggi
+è impossibile, in Valle d'Aosta, entrare in un mercato che è, di
+fatto, monopolio pubblico!
+Il mercato è crudele, diceva giustamente l'Assessore, perché fa
+una selezione naturale dei soggetti che sono capaci a rimanerci, ma
+è ancora più crudele se un concorrente è "ingrassato" a dismisura
+con soldi pubblici e questo concorrente in Regione si chiama
+"INVA"! Ed è un concorrente che attraverso le procedure della
+convenzione permette anche l'elusione dei concorsi pubblici, perché
+gente è stata reclutata in "INVA" attraverso delle forniture di
+prestazione professionale che hanno eluso le norme concorsuali
+pubbliche e le norme vigenti in materia di intermediazione del
+lavoro. "INVA" è diventata una sorta di "mostro" che, oltre a
+"divorarsi" il mercato, condiziona l'attività istituzionale della
+Regione!
+Noi chiediamo, visto che lei è il "dominus" di questa situazione
+e ha voce in capitolo per intervenire, che nella ridefinizione del
+piano triennale si tengano in considerazione quelle che sono anche
+le sue preoccupazioni. In 10 anni questo soggetto è diventato il
+colosso del mercato locale; vediamo di fare in modo, visto che sta
+per diventare società "in house", che non faccia sparire del tutto
+quel poco di privato che esiste in Valle d'Aosta, portando avanti
+un'attività ormai esclusiva che ormai "INVA" svolgerà nei confronti
+della Regione e di altre enti pubblici. Lei dice che avete
+coinvolto tutta la comunità valdostana, mi ha citato una pletora di
+enti pubblici, la Camera di commercio - che peraltro è istituita da
+un anno - e l'università, ma i soggetti privati... li avete
+coinvolti? Tramite la Camera di commercio, va bene, ma li avete
+coinvolti adesso...
+(interruzione dell'Assessore Marguerettaz, fuori
+microfono)
+... sì, rappresenta un'impresa che peraltro è una delle poche, è
+un elemento, Assessore, nell'ambito di un tavolo composto da tutti
+elementi pubblici. Lei capisce che già solo il rapporto del
+pubblico è preponderante nel confronto del privato in questo tavolo
+di concertazione. Prendete in considerazione seriamente questo
+aspetto, altrimenti non potete lamentarvi che non c'è
+imprenditorialità in Valle, se questa viene limitata da un'attività
+invasiva della Regione!
+Presidente
+- La parola al Consigliere Ottoz, per fatto
+personale.
+Ottoz (UV)
+- Sono stato chiamato in causa e credo che,
+così come il collega Venturella non conosce bene le questioni della
+"Banca Mediolanum", il collega Tibaldi non conosce bene le
+questioni di "INVA"... qui, nessuno monetizzò, né si trattava di
+una posizione mia, io ero solo l'amministratore del Consorzio di 5
+aziende valdostane che assieme partecipavano, con una quota del
+20%, a "INVA" per - mi rifaccio a quello che ha detto l'Assessore -
+fiancheggiare la Regione che aveva il 40, in modo da poter
+influenzare la maggioranza della società, e fummo richiesti di
+cedere la nostra quota "a valore di libro", quindi nessuno
+monetizzò niente, nel senso che la valutazione avrebbe potuto
+essere ben diversa, perché erano cambiate le condizioni al
+contorno. Era più performante per l'Amministrazione poter avere la
+maggioranza pubblica della società. Fu ceduta una quota, di questo
+20%, una parte andò alla Regione e un'altra al Comune di Aosta; non
+si trattò di una monetizzazione furba per uscire al momento
+giusto... si trattò solo di permettere che la società potesse avere
+un buon destino, come poi ha avuto. Nessuno portò a casa nessun
+plusvalore, anzi, la valutazione "a valore di libro" era
+probabilmente assai inferiore alla valutazione della società,
+qualora fosse stata fatta con le tecniche usuali con cui si
+valutano le cessioni di quota.

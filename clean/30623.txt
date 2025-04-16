@@ -1,0 +1,462 @@
+Classificazione
+ASSISTENZA SANITARIA E OSPEDALIERA
+INFORMAZIONE
+Sistema informativo
+
+
+
+Oggetto del Consiglio n. 333 del 28 gennaio 2009 - Resoconto
+OGGETTO N. 333/XIII - Interpellanza: "Intendimenti per il
+miglioramento della funzionalità dei sistemi informativi sanitari e
+sociali".
+Interpellanza
+Premesso che tra gli obiettivi del Piano regionale per la
+salute e il benessere sociale 2006-2008 figura l'estensione della
+rete dei sistemi informativi sanitari e sociali;
+Constatato che l'interconnessione e l'interoperabilità delle
+strutture sanitarie e sociali nonché l'interscambio di dati tra le
+medesime e tra esse e gli utenti non ha ancora raggiunto livelli
+performanti, nonostante lo stanziamento di importanti risorse
+finanziarie;
+ciò premesso, il sottoscritto Consigliere regionale
+Interpella
+il Presidente della Regione e/o l'Assessore delegato per
+sapere:
+1) mediante quali strumenti e modalità vengono effettuate la
+ricognizione e il monitoraggio della funzionalità dei sistemi di
+cui in Premessa e il conseguente soddisfacimento delle esigenze
+degli operatori sanitari e sociali nonché degli utenti;
+2) se, in relazione all'argomento citato, per il triennio
+2009-2011 sono confermati gli obiettivi indicati nel Piano
+2006-2008;
+3) quali sono le risorse complessivamente stanziate per il
+2009 e per il triennio 2009-2011 finalizzate al conseguimento
+dell'obiettivo di cui in Premessa;
+4) quali sono gli intendimenti per migliorare la funzionalità
+dei sistemi informativi sanitari e sociali in Valle
+d'Aosta.
+F.to: Tibaldi
+Presidente
+-
+La parola al Consigliere Segretario
+Tibaldi.
+Tibaldi (PdL)
+- Grazie, Presidente. Abbiamo sfogliato nei
+giorni scorsi, giusto per avere una memoria più fresca
+sull'argomento, il piano salute e benessere sociale 2006-2008,
+relativo a un triennio che è già scaduto ma che, come atto formale
+e sostanziale, questo piano rimane in vigore, perché siamo nelle
+more di rinnovarlo e riapprovarne un altro su base triennale. La
+ragione di questo ritorno: a vedere quali sono gli obiettivi
+principali di questo piano ci è stata fornita da una serie di
+disagi patiti dall'utenza, uno dei quali è stato anche oggetto di
+recenti iniziative discusse in quest'aula stamani, mi riferisco al
+disservizio del trasporto dei disabili in valle. Questo perché?
+Perché la Regione ha investito in questi anni notevoli risorse
+finanziarie per avviare e poi sviluppare e potenziare tutto quello
+che è il sistema di informatizzazione, di pubblica amministrazione
+digitale, che va dai tribunali alle scuole, passando attraverso la
+sanità e i servizi sociali. L'obiettivo 26 di questo piano della
+salute fa riferimento all'estensione della rete dei sistemi
+informativi sanitari e sociali regionali, al fine di favorire
+l'accesso ai servizi da parte del cittadino e di sostenere i
+processi di programmazione e controllo delle risorse umane,
+economiche e tecnologiche in ambito sanitario e sociale. È una
+fraseologia importante, che è fra l'altro suffragata da diverse
+pagine di spiegazione, che stanno a significare che la valle nel
+triennio appena scaduto ha investito risorse per ottenere
+determinati obiettivi, fra i quali questo.
+Parlando, leggendo i giornali - torno al discorso del
+disservizio del trasporto dei disabili -, ascoltando le ragioni
+degli utenti disabili, le risposte della Regione e le osservazioni
+che fa anche il gestore del servizio, vado a leggere questo piano e
+vedo che si dice: a partire dal 2003 dovrebbe aver avuto inizio la
+sperimentazione di un sistema informativo di gestione anagrafica di
+base dell'assistenza sociale in ambito regionale. Il sistema
+informativo di cui trattasi consentirà di disporre di informazioni
+uniformi ai certificati sui cittadini fruitori dei servizi sociali,
+dalla prima infanzia alla famiglia, alle persone disabili e
+anziane, consentendo agli operatori del settore (mi viene in mente
+la Go Green e associati) di garantire una più approfondita
+conoscenza del fabbisogno di benessere sociale espresso da parte
+della popolazione e conseguentemente una più appropriata e
+immediata risposta da parte dell'Amministrazione regionale e degli
+altri erogatori di servizi. Questa è una frase che dice molto,
+anche se coniugata a quanto ha appena detto l'Assessore
+Marguerettaz in relazione al trasporto dei disabili, ovvero che il
+problema di base è conoscere quali sono i soggetti destinatari dei
+servizi e quali sono le loro rispettive esigenze. La polemica è
+montata nei confronti di questa società; per carità non siamo qui a
+prendere le difese di ufficio di nessuno, perché è giusto che i
+disabili abbiano il trattamento che la Regione ha previsto con
+servizi e finanziamenti ad hoc, però ci chiediamo: la sanità
+valdostana questa risposta l'ha data? Se l'ha data, non ci dovrebbe
+essere stato il disservizio dei giorni scorsi.
+Ecco che questo è un problema che deve essere affrontato,
+risolto e rimosso, e questo è un obiettivo del piano. Un piano vuol
+dire un programma definito approvato da questo Consiglio, proposto
+dalla Giunta e dall'allora Assessore Fosson, che è tuttora vigente
+anche se temporalmente scaduto, ma viste le risorse investite anche
+nel solco di quello che si sta facendo a livello nazionale, e
+abbiamo apprezzato Brunetta e Berlusconi che dicono: possiamo con
+il programma
+e-government
+2012 tagliare del 25 percento gli
+oneri derivanti dall'Amministrazione, perché la carta non può
+sommergere tutto e tutti. Oggi si vive di carta: prima si muove la
+carta e poi si realizza qualche obiettivo, si va dal sociale
+all'economico, al culturale, eccetera. Visto che questo programma
+ambizioso di
+e-gov
+, lanciato da Lucio Stanca, Ministro
+dell'educazione nel 2005, che trovava un epigono in valle
+nell'Assessore Marguerettaz, che ha sempre avuto le risorse
+disponibili, che le ha cedute pro quota anche alla sanità
+valdostana.
+Come mai oggi la Val d'Aosta si trova in ritardo rispetto a
+questa programmazione e a questa informatizzazione? Ho citato
+questo esempio, ma posso citarne un altro che ho scoperto nei
+giorni scorsi: abbiamo un computer in ogni ufficio della pubblica
+amministrazione e anche della sanità valdostana; ho saputo che ci
+rivolgiamo a una società di Firenze con un programma acquistato o
+gestito da questa società per avere i dati relativi alle analisi
+che ogni singolo cittadino può fare presso l'USL o l'ospedale
+(analisi del sangue, delle urine, eccetera) e questo programma
+gestito da una società fiorentina, il cui server si trova ad
+Avellino e non è sempre funzionante, è difficilmente accessibile
+dagli stessi medici di base che più da vicino conoscono i
+fabbisogni in termini farmacologici e medici e i nostri
+malanni.
+Questo programma, chiamato Millewin, non è neppure
+interfacciabile e non è in questo momento interfacciato con il
+programma dell'ospedale, c'è una difficoltà di comunicazione in
+termini telematici, informatici, tecnologici, ma questo è un
+esempio che l'Assessore sicuramente conosce meglio di me.
+Ho citato due esempi: disservizio del trasporto dei disabili e
+questo, per dare un poco di concretezza a quelle parole aride che
+si possono evincere dalla lettura di un'interpellanza così come
+formulata, ma che ha dei contenuti specifici (ne ho citati due, ma
+ce ne saranno anche altri).
+Non abbiamo raggiunto ancora livelli performanti, abbiamo le
+potenzialità e le risorse e ci permettiamo di formulare a lei,
+Assessore, queste domande. La prima, mediante quali strumenti e
+modalità vengono effettuate la ricognizione e il monitoraggio della
+funzionalità dei sistemi di cui in premessa, cioè del piano
+2006-2008, e il conseguente soddisfacimento delle esigenze degli
+operatori sanitari e sociali, nonché degli utenti. Ho sentito
+utenti, compresi anche i disabili, ho sentito operatori sanitari,
+quindi anche medici di famiglia e persone dell'ospedale, ho avuto
+purtroppo la necessità di rivolgermi ad ambienti sanitari in questo
+ultimo periodo, quindi ho colto informazioni che sono servite ad
+illuminare le mie conoscenze, che non possono essere infinite e
+quindi man mano ho alimentato le mie conoscenze acquisendo queste
+informazioni.
+È pertanto necessario sapere - secondo quesito - se in relazione
+all'argomento citato, per il triennio 2009-2011, quello che abbiamo
+iniziato ma che dovrà essere soddisfatto con un nuovo piano
+aggiornato, sono confermati o meglio potenziati gli obiettivi
+indicati nel Piano 2006-2008. Quali sono le risorse
+complessivamente stanziate per il 2009 e per il triennio 2009-2011
+finalizzate al conseguimento dell'obiettivo di informatizzazione
+della sanità valdostana, anche perché questo dato non siamo
+riusciti a coglierlo facilmente dal bilancio che è disaggregato in
+capitoli non immediatamente intelligibili, quindi glielo chiediamo
+come domanda diretta attraverso questa interpellanza. Quarta
+domanda, la più importante, quali sono gli intendimenti suoi e
+della Giunta per migliorare la funzionalità dei sistemi informativi
+sanitari e sociali in Valle d'Aosta.
+Presidente
+- La parola all'Assessore alla sanità, salute
+e politiche sociali, Albert Lanièce.
+Lanièce A.
+- Grazie, Presidente. Grazie per avere la
+possibilità di illustrare ancora una volta l'aspetto
+dell'informatizzazione del sistema sanitario, che è uno dei punti
+fondamentali.
+Prima di tutto vorrei solo smentire categoricamente quanto è
+stato detto sul sistema Millewin che conosco bene e di cui mi ero
+dotato già nel 2002 prima ancora che l'Azienda USL lo consegnasse a
+tutti i medici di famiglia: è il migliore che c'è in Italia. Allora
+ne esistevano due o tre, e Millewin ha dimostrato nettamente di
+essere quello che risponde meglio...
+(interruzione del Consigliere Segretario Tibaldi, fuori
+microfono)
+...lo dico io. Dopo di che l'affermazione che tramite Millewin
+non c'è l'interfaccia, è falso. Bisogna solo stare attenti a chi si
+chiedono informazioni, perché tutti i giorni i medici scaricano i
+dati del laboratorio, i referti radiologici ed ecografici, tutti i
+giorni vengono inviati i dati delle vaccinazioni dai medici di
+famiglia all'Azienda. Questa è dunque un'affermazione che non
+corrisponde al vero.
+Per quanto riguarda il piano socio-sanitario in particolare,
+l'obiettivo 26 che è stato citato (volevo saltare alcune parti che
+sono state oggetto di interpellanza del collega Rigo, ma vista la
+pertinenza della interpellanza ripeterò alcuni punti importanti)
+individua al punto a) l'estensione della rete dei sistemi formativi
+sanitari e sociali regionali al fine di favorire l'accesso ai
+servizi da parte del cittadino e attività di comunicazione, e al
+punto b), definisce lo sviluppo della rete di sistemi informativi
+sanitari e sociali regionali, al fine di sostenere i processi di
+programmazione e di controllo delle risorse umane, economiche e
+tecnologiche in ambito socio sanitario. Quindi lo sviluppo di
+sistemi informativi regionali avviene a livello regionale verso il
+piano triennale e il cosiddetto PAO (Piano Annuale Operativo) che
+tiene conto degli obiettivi del piano per la salute e delle linee
+guida emanate a livello del governo nazionale e dal tavolo della
+sanità elettronica, che vede la partecipazione dello Stato e delle
+Regioni.
+Per quanto riguarda il monitoraggio, la Regione, una volta
+sperimentati e resi operativi i sistemi informativi regionali,
+procede a monitorare la funzionalità degli stessi con opportuni
+indicatori di verifica e direttamente con i fruitori, operatori
+socio-sanitari, utilizzatori, di conseguenza con gli utenti. Si
+cita ad esempio il sistema della cartella sociale che ha visto
+coinvolte nelle sperimentazioni, nella manutenzione, nel processo
+di evoluzione del sistema le assistenti sociali regionali e
+comunali. Lo stesso meccanismo è stato adottato per gli altri
+sistemi informativi, come quello già citato in altri interventi di
+integrazione della cartella clinica fra medici di medicina generale
+e pediatri di libera scelta e sistema informativo aziendale, con
+l'obiettivo, da un lato di garantire completezza e continuità
+assistenziale ai cittadini che esprimono un bisogno di salute e
+dall'altro creare i presupposti tecnologici e culturali per attuare
+una semplificazione dei processi di servizi nell'ambito del
+servizio sanitario regionale.
+Per quanto riguarda le azioni previste dal piano vigente, che
+rimane in vigore fino alla approvazione del prossimo, si rileva che
+in merito alle attività è stato realizzato quanto segue:
+l'adeguamento delle infrastrutture telematiche, il "Partout", il
+Sistema Pubblico di Connettività SPC è stato quasi completamente
+concluso nel corso del 2008, in particolare sono state collegate le
+linee veloci nelle principali sedi territoriali della Regione e
+dell'USL. La diffusione della tessera sanitaria è molto capillare,
+con bassissime percentuali di soggetti non tesserati. Il
+monitoraggio della distribuzione delle prescrizioni trasmesse al
+medico di medicina generale è effettuato elettronicamente dal
+portale TS. Nel corso del 2008 è stata ultimata la predisposizione
+della cartella sociale informatizzata, che raggiunge tutte le
+assistenti sociali regionali del Comune di Aosta e nel 2009 si
+potrà lavorare a pieno regime, monitorando le informazioni raccolte
+e proseguendo l'integrazione con gli altri sistemi informativi
+regionali.
+L'estensione del progetto di collegamento dei medici di medicina
+generale e dei pediatri di libera scelta con l'Azienda è in corso,
+da un lato con l'avvenuta presentazione del progetto per la
+trasmissione al MEF dei dati delle ricette e delle certificazioni
+per malattia, come previsto dal decreto legislativo 26 marzo 2008,
+e dall'altro il progetto triennale già avviato dall'azienda, che
+prevede condivisione fra i medici e i pediatri appartenenti alla
+stessa associazione, il gruppo delle informazioni dei loro pazienti
+e realizzazione di una vera e propria medicina territoriale di
+rete. Questo vuol dire che i medici che fanno gruppo sono collegati
+fra loro e, in caso di mancanza di un medico, i dati sono visibili
+dagli altri medici che sostituiscono. Questo è un aspetto non
+secondario.
+Trasferimento delle informazioni reputate essenziali fra i
+medici e i pediatri verso l'Azienda USL: tale implementazione
+permetterà ai medici ospedalieri di disporre dei dati clinici
+acquisiti nel tempo dai medici di famiglia e di realizzare di fatto
+la continuità assistenziale (
+patient summary
+).
+L'acquisizione elettronica dei dati prescrittivi inseriti dai
+medici di medicina generale e pediatri di libera scelta
+nell'applicativo gestionale sanitario di trasferimento all'Azienda:
+questa attività viene svolta al fine di agevolare e velocizzare i
+successivi flussi di accettazione delle richieste da parte del
+personale USL, ad esempio CUP, e di riconoscere fin da subito e in
+modo univoco il paziente senza dover reinserire sul sistema
+centrale le prestazioni richieste. Tale implementazione permetterà
+di fatto di diminuire il tempo di attesa dei pazienti in fase di
+accettazione.
+In relazione al punto b) dell'obiettivo si precisa che
+l'adozione della firma digitale e i sistemi di autenticazione
+sicura sono in corso di sperimentazione, è previsto fra l'altro il
+progetto di sperimentazione di prescrizione elettronica. Priorità
+dell'Assessorato e dell'Azienda è la raccolta, controllo e
+monitoraggio dei dati relativi alle prestazioni residenziali e
+domiciliari che saranno implementati nell'ambito dell'attuazione
+del progetto Mazzoni del sistema sanitario nazionale.
+Prosegue l'integrazione dei servizi informativi aziendali in
+particolare fra la piattaforma aziendale radiologia, emergenza e
+urgenza e territorio, in previsione della realizzazione nel
+prossimo triennio di un vero e proprio fascicolo sanitario
+elettronico. Questo è un elemento importante.
+Nel biennio 2007-2008 sono stati implementati: il sistema per la
+gestione e il monitoraggio della formazione continua del personale
+sanitario, il registro regionale degli stabilimenti di produzione,
+conservazione e vendita degli alimenti; nel biennio 2008-2009 è in
+corso l'estensione del sistema informativo per la gestione delle
+graduatorie regionali anche per i medici veterinari e per gli
+specialisti ambulatoriali e il consolidamento degli strumenti di
+supporto alle decisioni. Nel 2009 sarà importante realizzare i
+sistemi informativi IRSE; è stata prodotta la prenotazione
+esecutiva e di assistenza economica.
+Si rileva inoltre che nel prossimo triennio è previsto l'avvio
+di una serie di iniziative, per favorire la diffusione e l'uso di
+servizi a banda larga sul territorio e favorire di conseguenza
+l'accesso ai servizi da parte dei cittadini, cofinanziate dal Fondo
+Aree Sottoutilizzate per la realizzazione dei seguenti servizi: la
+teleassistenza, volta a favorire l'assistenza del paziente
+attraverso il telemonitoraggio di parametri clinici sia a domicilio
+sia soprattutto nelle microcomunità; l'accesso alla cartella
+radiologica, referti e immagini via Internet, con l'obiettivo di
+garantire al cittadino l'accesso alla propria cartella radiologica
+elettronica consultabile da qualsiasi struttura del sistema
+sanitario fornito di un accesso via Internet. Già adesso da casa
+propria il cittadino può accedere ai referti radiologici ed
+ecografici da circa due anni. La trasmissione immagini: il progetto
+si pone di creare una rete di esecuzioni e trasmissioni in tempo
+reale, archiviazione di riprese attraverso videocamere mobili e
+fisse che permettono la valutazione continua da parte di un centro
+risponditore qualificato, 118, centrale unica, della scena dove
+operano i soccorritori al fine di meglio rispondere alle necessità
+organizzative.
+Il progetto
+e-refuge
+permette di predisporre e di dotare
+i rifugi alpini della Valle d'Aosta di un sistema di trasmissione
+di dati di immagine, computer, webcam, correlato da una minima
+dotazione tecnologica sanitaria standardizzata in linea, che
+permette la trasmissione in tempo reale ad un centro risponditore
+qualificato, come il pronto soccorso cardiologia UTIC.
+Il telelavoro, refertazione domiciliare, la trasmissione scheda
+soccorso: il progetto si pone di creare una rete che permetta
+l'esecuzione informatizzata della scheda di soccorso e la sua
+contemporanea archiviazione. Tale progetto consente inoltre di
+sperimentare l'efficacia e l'utilizzo della banda larga in
+condizioni di mobilità.
+Per quanto riguarda il punto 3 dell'interpellanza e cioè
+"quali sono le risorse complessivamente stanziate per il
+2009"
+, rispondo confermando che le risorse stanziate
+dall'Azienda nel 2009 sono pari a un milione di euro per il
+triennio 2009-2011, complessivamente quindi 3,4 milioni nel
+triennio. Ad esse si aggiungono le risorse stanziate per il 2009
+del bilancio di previsione della Direzione di sistemi informativi
+di circa 820.000 euro, così suddivise: 520.000 euro per la voce
+degli sviluppi in ambito informatico, 300.000 euro per la voce dei
+progetti speciali di informatizzazione; ulteriori risorse al
+momento non quantificabili nel dettaglio, essendo ancora in corso
+la fase negoziale con le strutture ministeriali competenti,
+potranno essere rese disponibili dallo Stato nell'ambito della
+programmazione FAS (Fondo Aree Sottoutilizzate) per il periodo
+2007-2013.
+Per l'ultimo punto, essendo un settore innovativo, si ritiene
+necessario continuare a monitorare, eventualmente inserendo sistemi
+di rilevazione sempre più performanti, la funzionalità di sistemi
+informativi attraverso il coinvolgimento degli operatori di
+settore, con l'obiettivo principale di garantire la soddisfazione
+dell'utente in termini di semplificazione ed efficacia dei servizi.
+Dovrebbe partire in via sperimentale dalla nostra regione - che è
+stata individuata dal governo - il progetto di ricetta elettronica,
+che permetterà di far sparire la ricetta cartacea rossa.
+Presidente
+-
+La parola al Consigliere Segretario
+Tibaldi.
+Tibaldi (PdL)
+- Se devo essere sincero, ho ascoltato una
+risposta molto burocratica. Mi aspettavo più passione nel
+partecipare a questo processo, al conseguimento di questo
+obiettivo. Una risposta burocratica che tutto sommato è frutto di
+un'elaborazione tecnica e, traducendo in parole semplici alcuni
+concetti e alcuni termini che lei ci ha proposto in quest'aula, si
+può dire con una certa obiettività che il piano 2006-2008 era
+decisamente più ambizioso e che la Regione e l'USL in questo
+triennio hanno effettuato molte implementazioni, ma le risultanze e
+gli obiettivi devono ancora venire. Se lei, Assessore, fa il
+parallelo fra quello di cui ha dato lettura e quello che era
+scritto nelle 7 pagine dell'obiettivo 26, si rende conto forse che
+ci sono delle lacune, perché più di qualcosa manca. L'anagrafe
+assistiti, il sistema informativo radiologico: le diamo ragione,
+abbiamo acceduto anche noi ai vantaggi del poter conoscere un
+referto radiologico e vedere le immagini in tempo breve, ma per
+l'interfaccia dei vari sistemi informatici, cioè se parlano
+linguaggi diversi e se le singole strutture, oppure organi o
+componenti di questa galassia che è il servizio sanitario regionale
+non riescono ad utilizzare la stessa forma di comunicazione, è
+naturale che il meccanismo si inceppi. Noi dobbiamo rimuovere
+anzitutto questi limiti, perché lei dice: il Millewin è il sistema
+migliore e la medicina territoriale di base funziona, ma se parla
+con un suo collega medico di famiglia si rende conto che la sua
+opinione non è condivisa così ampiamente. Anzi, ci sono difficoltà
+a ragionare con un sistema che dipende da una società fiorentina,
+che ha un server ad Avellino, e questo è un paradosso se pensiamo
+che abbiamo una società
+in house
+che si chiama In.Va. che
+cosa "qualche euro" l'anno e che ha delle risorse professionali, e
+noi dobbiamo correre dietro Firenze, Avellino e altre parti
+d'Italia. Rispettiamo le professionalità nobili che ci sono anche
+fuori dalla nostra regione, ma a questo punto viene spontaneo
+chiedersi: a cosa serve una società
+in house
+pagata e
+strapagata se poi il sistema non viene implementato, magari non
+viene completato in maniera ottimale?
+I disservizi per gli utenti sono sorti all'indomani del
+Capodanno, perché questo è stato l'esempio - e nell'obiettivo 26
+c'è scritto - che l'anagrafe regionale delle persone disabili e
+delle relative esigenze, che si chiama ARDI in codice, è un
+obiettivo della nostra Regione e della sanità valdostana, del suo
+assessorato! Se il sistema ha fatto fiasco, ci saranno
+indubbiamente delle responsabilità - ma ripeto non vogliamo
+toglierle noi in capo all'operatore, che è subentrato con un certo
+affanno perché il 12 dicembre gli è stato affidato l'appalto -
+anche da parte della Regione Valle d'Aosta, che doveva dire
+all'operatore: questa è l'anagrafe, questi sono gli utenti che devi
+servire e queste sono le loro esigenze, adesso sbrogliati e cerca
+di garantire un servizio efficiente!
+Ma questo è l'esempio attuale, lampante, e questa è la buccia di
+banana che ha fatto cascare una programmazione infarcita di belle
+parole: digitalizzazione, telematizzazione, accesso immediato
+dell'utenza ai servizi, ma qui (parlo anche all'Assessore ai
+trasporti, perché sua è la competenza) non c'è stata neppure una
+interconnessione fra i due assessorati trasporti e sanità! Da tempo
+si dice che il trasporto dei disabili dipende dall'Assessore ai
+trasporti: va bene, però l'aspetto sociale forse fa fede al
+dicastero della sanità. Parlatevi, consegnatevi i documenti e i
+dati, altrimenti una regione ricca, organizzata, che è in testa per
+qualità della vita (lo abbiamo visto recentemente su una classifica
+del Sole 24Ore), scivola su queste piccolezze che poi si traducono
+in disagi per centinaia di persone che sono disabili.
+Abbiamo anche letto che sono stati riconosciuti i premi di
+produttività ai manager dell'USL, e questo va bene, ma i premi di
+produttività devono essere fondati su una valutazione concreta e
+sistemica degli obiettivi che sono stati conferiti: noi premiamo
+dei manager se hanno raggiunto gli obiettivi. È stato raggiunto
+l'obiettivo 26? A nostro avviso non completamente. E ne abbiamo
+preso uno del piano, ci siamo soffermati su questo, perché c'era
+un'attualità del problema.
+Lei cita la cartella sociale, dicendo che è stato conseguito ad
+Aosta come obiettivo nel 2008, però ha detto che nel 2009 anche gli
+altri comuni avranno la cartella sociale; da un punto di vista
+temporale siamo in ritardo. La cartella sociale ci impedisce quindi
+di avere un'anagrafe completa di tutte le esigenze del territorio
+valdostano: solo il comune di Aosta è stato completato nel
+2008.
+La medicina territoriale di rete, lei dice funziona; senza
+dubbio funzionerà meglio che in altre province e regioni italiane,
+specie se guardiamo oltre una certa latitudine, però i nostri
+presupposti e le nostre potenzialità impongono a noi amministratori
+di conseguire questi obiettivi con una semplicità più comoda,
+perché se abbiamo le risorse (anche quelle professionali, ripeto,
+abbiamo INVA) non vediamo per quale motivo dobbiamo essere in
+deficit di efficienza nel servizio socio sanitario e
+assistenziale.
+Cerchiamo di onorare i primati che ci hanno attribuito: la
+qualità della vita. Cerchiamo di onorare le risorse che i
+contribuenti ci permettono di spendere nella digitalizzazione della
+pubblica amministrazione, cerchiamo di metterci in linea con delle
+direttive nazionali, che altre Regioni non hanno le possibilità per
+conseguire così facilmente. Dematerializziamo (come si dice adesso)
+la pubblica amministrazione: meno carta, più servizi, più
+interconnettività con Internet. Questo non solo per tagliare la
+spesa del 25 percento, come dice il governo Berlusconi, ma per
+rendere più efficienti i servizi. Crediamo, Assessore, che lei
+avendo la competenza in materia medica possa essere più sensibile
+anche di noi su questa materia, per far sì che nel triennio
+2009-2011 non solo venga aggiornato il piano, ma vengano conseguiti
+quegli obiettivi che nel triennio appena concluso purtroppo (lei lo
+ha dimostrato con la sua risposta) non sono stati raggiunti.

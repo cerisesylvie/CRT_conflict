@@ -1,0 +1,213 @@
+Classificazione
+ASSISTENZA SANITARIA E OSPEDALIERA
+Servizio di emergenza sanitaria (118)
+
+
+
+Oggetto del Consiglio n. 921 del 16 dicembre 2009 - Resoconto
+OGGETTO N. 921/XIII - Interrogazione: "Realizzazione degli
+adeguamenti delle strutture della centrale unica di
+soccorso".
+Interrogazione
+Premesso chela Giunta regionale, attraverso la delibera n.
+3240 del 20 novembre, ha approvato lo stanziamento di 1 milione e
+460 mila euro per l'adeguamento delle strutture della centrale
+unica di soccorso, in risposta alle esigenze tecnico-informatiche
+sopravvenute in questi primi mesi di attività;
+Verificato che per la fornitura e l'installazione dei nuovi
+servizi complementari di adeguamento la Giunta intende affidare
+l'incarico attraverso procedura negoziata con le imprese Telecom
+Italia Spa e Insiel Mercato Spa, le stesse che hanno effettuato la
+progettazione, la fornitura e la messa in opera del sistema
+informatico e di comunicazione per la gestione dei servizi di
+soccorso;
+Considerato che, a seguito di tale nuovo intervento, il costo
+per l'attivazione della Centrale unica di soccorso, per la sola
+parte informatica e telematica, ammonta a oltre 4 milioni di
+euro;
+i sottoscritti Consiglieri regionali
+Interrogano
+il Presidente della Regione per sapere:
+1) per quale data è presumibile la definitiva realizzazione
+degli adeguamenti di cui sopra;
+2) se le carenze strutturali riscontrate in questi mesi hanno
+causato problemi nel funzionamento della centrale;
+3) se la Giunta prevede ulteriori costi per quanto riguarda
+la parte informatica e della comunicazione nel futuro;
+4) in quali tempi sono previste le migrazioni dei vari enti
+coinvolti nella centrale unica di soccorso.
+F.to: Zucchi - Lattanzi
+Presidente
+- La parola all'Assessore alla sanità, salute
+e politiche sociali, Albert Lanièce.
+Lanièce A.
+- Grazie, Presidente.
+Riguardo al primo quesito,
+"per quale data è presumibile la
+definitiva realizzazione degli adeguamenti..."
+della centrale
+unica del soccorso, gli interventi previsti dalla deliberazione n.
+3240 del 20 novembre 2009, recante "Approvazione di ulteriori
+interventi per l'ampliamento, il servizio di gestione e di
+manutenzione della centrale unica per le chiamate di soccorso,
+mediante procedura negoziata senza pubblicazione di bando", si
+possono suddividere in due grandi tematiche: interventi di
+ampliamento del sistema della centrale unica del soccorso,
+interventi di tipo strutturale. Questi interventi riguardano
+essenzialmente la fornitura, l'installazione, la configurazione e
+il collaudo di un fax server base per la centrale di backup, la
+fornitura, l'installazione, la configurazione e il collaudo di una
+postazione amministrativa collegata alla centrale unica del
+soccorso per la gestione delle attività relative ai servizi con
+elicotteri utilizzati per operazioni di emergenza, eliambulanza,
+ricerca e soccorso. Per questi interventi di ampliamento del
+sistema il costo è pari a 71.985 euro, IVA esclusa e dovrebbero
+concludersi entro i primi mesi del 2010.
+La seconda tematica riguarda l'affido del servizio complementare
+di assistenza tecnica personalizzato della centrale unica del
+soccorso. Tale intervento è finalizzato all'affido del servizio
+complementare di assistenza tecnica per la centrale unica del
+soccorso, operativa dal giorno 14 dicembre, quindi da ieri, ed
+integrativo rispetto a quanto già previsto dalla garanzia del
+contratto iniziale e consiste essenzialmente nelle seguenti
+attività aggiuntive: presenza di un tecnico dedicato presso la
+centrale unica del soccorso con una copertura oraria giornaliera di
+8 ore su base settimanale, 7 giorni su 7; assistenza attiva 24 ore
+al giorno, 7 giorni su 7, per 365 giorni all'anno; livelli di
+servizio tecnico personalizzati differenziati sulle singole
+componenti del sistema e sulle gravità dei malfunzionamenti;
+monitoraggio dei livelli di servizio e aggiornamento della
+piattaforma tecnologica; assistenza e manutenzione delle componenti
+informatiche; manutenzione preventiva del sistema e assistenza e
+manutenzione del software; aggiornamento del sistema informatico.
+Il costo previsto per questo affido è di 1.155.010 euro per un
+periodo di 19 mesi, fino alla scadenza della garanzia base
+contrattuale.
+Il secondo quesito:
+"se le carenze strutturali riscontrate in
+questi mesi hanno causato problemi nel funzionamento della
+centrale"
+... non sono state riscontrate carenze strutturali da
+condizionare il sistema. Si sono verificati dei malfunzionamenti
+dovuti proprio alla fase di avviamento del sistema ed alla
+complessità della centrale unica immediatamente eliminati. Gli
+interventi programmati non previsti nel contratto originario della
+centrale unica sono pertanto finalizzati alla completa ridondanza e
+sostituibilità delle due centrali operative, primaria e backup, in
+caso di avaria o guasti bloccanti su di una delle due centrali,
+nonché ad automatizzare il flusso di gestione della flotta degli
+interventi effettuati dagli elicotteri della protezione civile.
+Terzo quesito:
+"se la Giunta prevede ulteriori costi per
+quanto riguarda la parte informatica e della comunicazione nel
+futuro"
+... stante la caratteristica di forte prevalenza
+tecnologica della centrale sono prevedibili ulteriori interventi
+sul sistema informatico e di comunicazione, volti ad implementare
+nuove tecnologie da utilizzarsi nel corso degli eventi di soccorso.
+Gli interventi previsti nel corso dei prossimi anni riguardano
+essenzialmente la configurazione finale della centrale unica del
+soccorso con l'eventuale possibile attivazione del numero unico di
+emergenza 112. Come sapete, il numero unico di emergenza 112 è il
+numero dell'emergenza presente nei paesi europei. In questo senso,
+l'Italia sta pagando una multa di circa 100.000 euro al giorno nei
+confronti della Comunità europea perché non ha ancora attivato il
+sistema 112. Naturalmente su questo aspetto siamo in attesa dei
+passi del Governo.
+Per quanto riguarda
+"in quali tempi sono previste le
+migrazioni dei vari enti coinvolti della centrale unica di
+soccorso"
+, come sapete dal 24 agosto 2009 è avvenuta la
+migrazione dei seguenti enti: Protezione civile, Corpo forestale
+della Valle d'Aosta e Soccorso alpino. Da oggi alle ore 10 è
+programmata la migrazione del 118 e nei primi mesi del prossimo
+anno si completerà l'ingresso degli enti coinvolti con l'arrivo dei
+Vigili del fuoco. Quindi da stamattina, a partire dalle ore 10,
+avviene la migrazione del 118. Sono già stati diramati dei
+comunicati e articoli sui giornali per avvisare la popolazione che
+se, nella giornata di oggi, ci fossero dei problemi nel momento in
+cui viene chiamato il 118, bisogna rivolgersi al 112, risponderanno
+i Carabinieri e dirotteranno subito la chiamata, solo per questa
+mattina. Con la migrazione del 118 si completa quasi tutta la
+grossa componente relativa alle chiamate, perché si stima che l'85
+percento circa delle chiamate saranno a carattere sanitario. Quindi
+con oggi migra la parte più importante della centrale unica, che è
+la parte sanitaria. Come ho detto prima, nei primi mesi del 2010 ci
+sarà la migrazione del 115 e anche dei Vigili del fuoco.
+Presidente
+- La parola al Consigliere Zucchi.
+Zucchi (PdL)
+- Dall'inizio della legislatura questa è la
+nostra terza iniziativa sull'argomento. Fra l'altro mi sorprendo,
+oggi, visto che sono stati rinviati quasi tutti i punti all'ordine
+del giorno, che a rispondere - non me ne voglia l'Assessore - nelle
+precedenti iniziative sia stato il Presidente della Regione stesso
+a rispondermi e oggi sia lei, anche se posso immaginare che questo
+tipo di attività molto importante... che ricordo essere stato
+ufficializzato nella scorsa legislatura, e nella giornata di oggi
+prendiamo atto che sono state effettuate le migrazioni della parte
+più importante, quindi è una notizia che apprendiamo oggi e che non
+conoscevamo... che il 118 si sia trasferito e che si sia unito alla
+Protezione civile, al Corpo forestale e al Soccorso alpino, e che,
+con oggi, almeno la parte che è stata da lei definita
+"preponderante" sia confluita in questa centrale unica. Centrale
+unica che ricordo essere stata amplificata in pompa magna ben due
+anni fa con il precedente Governo, ma che non è ancora stata
+completata, perché se è vero che dalle risposte... che ho fatto
+anche fatica a percepire, perché nel brusio dell'aula non ho ben
+sentito tutte le risposte ai quesiti che sono stati posti
+nell'interrogazione... ci sono ancora dei tempi di attesa per
+quanto riguarda l'affluenza dei Vigili del fuoco che dovrebbero
+essere previsti con il 2010.
+Allora, non vorrei essere costretto a portare una nuova
+iniziativa nel 2010 per vedere di verificare se ci sono ulteriori
+procedure, che mi sembra siano state molto difficili in questo
+periodo di tempo, perché con i mezzi - e sono stati tanti -
+economici che sono stati profusi, in quanto si tratta di oltre
+4.000.000 di euro, arrivare ancora dopo tutto questo tempo di test,
+di collaudi e di varie prove che immagino siano state effettuate,
+mi riferisco soprattutto a quelli che sono definiti "tempi di
+intervento", immagino la rispondenza dei tempi, la velocità per
+ottemperare agli standard minimi previsti dai regolamenti e dalle
+leggi per rispondere soprattutto alle chiamate di soccorso, credo
+che il tempo e i mezzi tecnici che sono stati messi a disposizione
+con lauti finanziamenti da parte della Regione, potevano essere
+ritenuti necessari per giungere definitivamente al completamento di
+questa centrale, che è da tanto tempo che è stata ufficializzata,
+ma ancora stenta a decollare.
+Non vorremmo ribadire sempre i nostri concetti, ma siamo
+costretti a farlo: in questa Regione, anche le cose che tutto
+sommato sembrano essere alla portata del mondo privato in tempi
+molto più celeri, quando si tratta di affrontarle dal punto di
+vista pubblico si va sempre a delle lungaggini, a delle proroghe
+che sembrano non avere mai fine!
+Ci auguriamo che questa sia veramente l'ultima iniziativa e che
+nel gennaio 2010 ci possa essere finalmente il completamento di
+questa opera, altrimenti veramente saremmo costretti non solo di
+nuovo ad intervenire per sollecitare la Giunta, che immagino lo
+abbia fatto, perché credo che questa situazione abbia comportato un
+certo grado di nervosismo o di attività da parte della Giunta,
+poiché non credo che anche da parte vostra sia accettabile che
+tutto questo tempo sia necessario per fare dei collaudi e che
+sempre si debba assistere a questioni tecniche che non vanno.
+Questa è un'operazione molto importante, la cui efficienza è
+direttamente proporzionale ai servizi che i cittadini si attendono,
+sono cose molto delicate; speriamo che soprattutto con lo
+switch
+off
+che mi sembra sia avvenuto oggi, tutto sia stato compiuto
+nei minimi dettagli nei vari test, affinché non ci siano delle
+disfunzioni o anomalie da registrare, perché in questo caso,
+parlando di emergenza pubblica, non vorremmo mai che nello
+switch off
+che è stato effettuato oggi ci fossero, come
+contro altare, dei disservizi da cui dipende anche la vita delle
+persone. Se non altro lo
+switch off
+di oggi nell'emergenza
+sanitaria che sia stato fatto
+cum grano salis
+e che non ci
+siano delle disfunzioni da dover registrare in questo lasso di
+tempo, altrimenti sarebbe molto, ma molto, grave!

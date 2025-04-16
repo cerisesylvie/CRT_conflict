@@ -1,0 +1,199 @@
+Consiglio Regionale della Valle d'Aosta - Oggetto del Consiglio n. 2368 del 21 dicembre 2006 - Resoconto
+Vai al contenuto principale
+Oggetti del Consiglio
+Invia
+Stampa
+Documenti
+Verbale
+Resoconto
+Collegamenti
+Iter atto
+Classificazione
+LAVORO
+Politica del lavoro
+Precedente
+Successivo
+Resoconto integrale del dibattito dell'aula. I documenti allegati sono reperibili nel link "iter atto".
+Oggetto del Consiglio n. 2368 del 21 dicembre 2006 - Resoconto
+OGGETTO N. 2368/XII - Ritiro della mozione: "Accessibilità
+alla piattaforma informatica per le procedure in materia di
+apprendistato".
+Mozione
+Premesso che:
+- La Regione nel regolamentare agli adempimenti obbligatori
+per la gestione dei rapporti di lavoro con qualifica di apprendista
+ha previsto l'uso esclusivo di un protocollo informatico su di un
+sito dedicato gestito dall'Agenzia del Lavoro;
+- Tale piattaforma informatica risulta compatibile soltanto
+con il "software proprietario" della Microsoft, ignorando
+completamente - il sempre più diffuso - sistema operativo libero e
+gratuito Linux;
+- la direttiva sul "riuso" prevede per l'accessibilità ai
+documenti della P.A. almeno un formato aperto, alfine di consentire
+l'indipendenza da specifici "software proprietari";
+Rilevato che l'attuale impostazione di tale piattaforma
+informatica costituisce - in violazione delle norme nazionali ed
+europee, oltreché dell'ampia giurisprudenza, in materia di
+concorrenza - una posizione di monopolio a favore di Microsoft,
+obbligando le aziende ad utilizzare questo software per poter
+adempiere ad un obbligo normativo;
+Il Consiglio regionale della Valle d'Aosta
+Impegna
+la Giunta regionale a rendere accessibile entro 30 giorni
+anche ai software cosiddetti open source la piattaforma informatica
+inerente le procedure obbligatorie in materia di apprendistato e a
+prevedere per ogni futura gestione telematica di servizi attivati
+dall'Amministrazione regionale l'uso di protocolli di comunicazione
+compatibili ai "sistemi non proprietari".
+F.to: Frassy - Tibaldi - Lattanzi
+Presidente
+- La parola al Consigliere Frassy.
+Frassy (CdL)
+- Questa mozione nasce da una problematica
+che - direi - di politico ha poco, ed è una mozione che potremmo
+definire "squisitamente tecnica", nel senso di andare incontro alle
+esigenze di coloro che hanno necessità di fruire dei servizi o,
+meglio, le procedure che vengono attivate tramite Web.
+Abbiamo constatato che, dando applicazione alle norme
+conseguenti al decreto legislativo attuativo della "legge Biagi" in
+materia di apprendistato, l'Amministrazione regionale ha
+predisposto una piattaforma informatica che è stata messa "online"
+ed è obbligatoria per tutte le aziende che abbiano apprendisti, per
+poter espletare la procedura di registrazione degli adempimenti
+necessari e obbligatori per effettuare la formazione prevista dalla
+"legge Biagi". Abbiamo riscontrato come questa piattaforma abbia un
+difetto di comunicazione, ovvero la piattaforma è completamente
+gestibile solo con un determinato "software", che è il "software"
+della "Microsoft", mentre con altri "software", in particolare con
+i cosiddetti "sistemi operativi liberi e gratuiti" a cui fa
+riferimento tutto il mondo "Linux", non è possibile espletare le
+procedure previste dalle normative regionali. Considerando che su
+tutta questa materia ci sono una serie di direttive europee e anche
+una serie di decreti ministeriali, in particolare con il Ministero
+dell'innovazione tecnologica, che aveva visto attivarsi l'allora
+Ministro Lucio Stanca in uno sforzo di informatizzazione...
+(il Presidente richiama l'aula al silenzio)
+... anche perché su questo aspetto il Consiglio è chiamato ad
+esprimere un voto, è un aspetto poco politico, ma proprio per
+questo forse meriterebbe di essere capito nella sua essenza: quella
+di andare incontro alle esigenze delle aziende che, in base
+all'attuale piattaforma, hanno l'obbligo di usare un determinato
+sistema operativo. È un po' come se noi, nell'andare ad aprire
+un'autostrada, decidessimo che su quella autostrada ci possono
+andare solo quelli che hanno le auto "FIAT"... sicuramente
+sarebbero contenti i signori della "FIAT", probabilmente un po'
+meno tutti gli altri produttori e soprattutto tutti coloro che
+hanno altri automezzi, perché per percorrere quella strada
+dovrebbero cambiare l'automezzo!
+Chiediamo solo che si renda accessibile... abbiamo individuato
+un termine di 30 giorni perché è un problema reale, nel senso che è
+da molto tempo che le aziende hanno l'obbligo di interagire con
+questa piattaforma, perciò pensiamo che andare a modificare le
+possibilità di accesso anche per "software liberi" siano procedure
+facilmente gestibili in questo lasso di tempo individuato. Trenta
+giorni non sono però l'elemento centrale della richiesta contenuta
+nella mozione, perché se anziché 30 dovessero essere 65,
+sicuramente non cambia la sostanza; quello che però vorremmo
+passasse come concetto che l'Amministrazione d'ora in avanti, ogni
+qualvolta attiva delle procedure non facoltative, ma obbligatorie -
+e qui, siamo in questa situazione -, attivi delle procedure
+facilmente intercomunicabili con i vari sistemi operativi e non
+delle procedure che obblighino l'utente finale ad adeguarsi ad un
+determinato "software". Penso che sia un discorso non solo di
+rispetto delle norme della concorrenza, non solo del rispetto
+dell'utenza, ma sia un concetto di civiltà informatica: attivare
+delle piattaforme, cioè, che siano fruibili da quelli che sono i
+maggiori "software" in essere.
+Ritengo che il problema sia stato sintetizzato in maniera chiara
+nella mozione, l'ho solo ricordato per quanti non avessero avuto
+modo di leggere il testo o potessero avere qualche dubbio sulla
+sintesi del testo. Mi auguro che la discussione che seguirà possa
+recepire la nostra istanza.
+Presidente
+- La parola all'Assessore al bilancio,
+finanze, programmazione e partecipazioni regionali,
+Marguerettaz.
+Marguerettaz (UV)
+- Vorrei intervenire per esplicitare
+che quanto detto dal collega Frassy e quanto è abbozzato
+all'interno della mozione non è in contrasto con quanto viene fatto
+e con il pensiero del Governo e delle strutture, però mi tocca
+riprendere il ragionamento fatto dal collega Frassy per condividere
+con lui il pensiero che questa è una materia abbastanza tecnica e
+che merita un approfondimento e un confronto che non è politico, ma
+strettamente tecnico-operativo, fermo restando che c'è una
+condivisione di fondo sulla necessità di avere dei sistemi
+aperti.
+Nel condividere questo, nei 30 giorni non si capisce alla fine
+cosa si vuole, nel senso che se c'è un riposizionamento del sistema
+apprendistato sul sistema operativo "Linux", è un'operazione
+costosissima e non abbiamo i soldi. Se l'obiettivo è renderlo
+accessibile da "browser liberi", questa è un'operazione possibile
+con dei costi anche contenuti, il problema diventano "i 30 giorni".
+C'è un'altra soluzione: quella di rendere disponibili i formati
+documentabili su piattaforme aperte, quindi ancora una cosa
+diversa.
+Allora, se il collega Frassy è d'accordo, chiederei... non so se
+è la IV Commissione che si occupa del tema, ma di convocare i
+tecnici, perché mi trovo nella difficoltà di dare delle indicazioni
+in aula su temi così specificatamente tecnici, che rischiano di
+portarci lontano. Condivido l'impostazione, quindi ci possiamo
+attivare per fare questo mestiere, ma un confronto con i tecnici
+che ci permettono di circoscrivere questo ragionamento è un
+percorso più opportuno, per cui vi chiederei la disponibilità ad
+affrontare questo tema nel più breve tempo possibile, ad esempio da
+qui alla fine dell'anno o alla prima settimana dell'anno, in
+commissione, in modo da poterci confrontare e in modo da avere
+anche subito dai tecnici alcune proiezioni, sia temporali, sia di
+costi.
+Presidente
+- La parola al Consigliere Venturella.
+Venturella (Arc-VA)
+- Credo che la mozione dei colleghi
+di "Forza Italia" abbia una sua ragion d'essere, sia interessante,
+perché ha individuato uno specifico tema sul quale lavorare l'"open
+source"; ho provato a collegarmi sia su piattaforma "open" che su
+piattaforma "Microsoft" e "Internet", hanno tutte e 2 aperto e mi
+sono anche registrato come utente. Vorrei capire però il secondo
+passaggio: richiede la documentazione, ad esempio l'elenco completo
+delle aziende oppure l'elenco completo con dossiers attivi, sia da
+piattaforma "Microsoft" che da piattaforma "open", c'era scritto
+"no documents found", cioè non vi sono documenti e mi hanno
+bloccato comunque; vorrei capire dal collega Frassy se ha provato,
+e in che modo, perché credo che occorra un approfondimento anche in
+commissione.
+Siamo favorevolissimi a questa impostazione, credo che la
+mozione non chieda la luna, ma sia ragionevole, forse si può
+rivedere il tempo di 30 giorni, ma credo che l'argomento sia da
+approfondire. Naturalmente chi più di noi, anche come "forma
+mentis", è disponibile a lavorare, perché non tutte le
+applicazioni, ma alcune applicazioni siano su piattaforma
+"open"...
+Presidente
+- La parola al Consigliere Frassy.
+Frassy (CdL)
+- Prendo atto delle buone volontà
+dell'Assessore Marguerettaz, sul presupposto che la questione,
+essendo eminentemente tecnica come già avevo evidenziato nella mia
+breve illustrazione, può essere meglio sviscerata in
+commissione.
+L'invito che faccio, e all'Assessore e al Presidente della IV
+Commissione, che so che è stato oggetto di qualche "tirata
+d'orecchie" non più tardi della giornata di ieri, è a prendere in
+considerazione questo problema con sollecitudine, perché è un
+problema aperto, è un problema con il quale si devono confrontare
+da un paio di mesi a questa parte le aziende, perciò sarebbe
+opportuno che, se non sono i 30 giorni, siano i 45 o i 50 giorni,
+ma si arrivi a definire un percorso che renda accessibile in un
+rispetto dell'utenza queste piattaforme obbligatorie.
+Ritiriamo la mozione con questo intendimento.
+Presidente
+- La mozione è ritirata.
+Il Consiglio prende atto, concordando.
+Informativa cookies
+Consiglio Regionale della Valle d'Aosta © 2025
+Questo sito utilizza cookies propri e di terze parti. Continuando ad usare questo sito, acconsenti all'utilizzo di questa tecnologia.
+Consulta la nostra
+informativa
+per maggiori informazioni e per istruzioni su come disattivare i cookies.
+OK

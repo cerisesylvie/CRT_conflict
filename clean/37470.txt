@@ -1,0 +1,243 @@
+Classificazione
+AMMINISTRAZIONE REGIONALE
+INFORMAZIONE
+Sistema informativo
+
+
+
+Oggetto del Consiglio n. 1230 del 20 maggio 2015 - Resoconto
+OGGETTO N. 1230/XIV - Interpellanza: "Eventuale utilizzo da
+parte dell'Amministrazione regionale dei programmi informatici
+"Open Source"".
+Presidente
+- Per l'illustrazione, la parola al
+Consigliere Bertin.
+Bertin (ALPE) -
+Grazie Presidente.
+L'utilizzo dei sistemi
+Open Source
+da parte
+dell'Amministrazione regionale è un argomento di cui mi sono
+occupato in diverse occasioni, anche in tempi non recenti. In
+effetti, periodicamente, presento un'interpellanza o
+un'interrogazione per fare il punto sulla situazione dell'utilizzo,
+appunto, dell'
+Open Source
+da parte dell'Amministrazione
+regionale. La Regione nel 2010 spendeva in licenze informatiche
+circa 1.370.000 euro, di questi quasi 500 mila euro per i soli
+prodotti Microsoft, nel 2012 la situazione purtroppo rimaneva
+sostanzialmente invariata. Troppo poco, a mio avviso, si è fatto
+per l'utilizzo del
+software
+libero. Come dicevo, ho
+presentato diverse iniziative per favorire una maggiore diffusione
+delle soluzioni a sorgente aperta,
+Open Source
+appunto, nel
+settore pubblico. Un argomento al quale attribuisco personalmente
+una certa importanza non solo dal punto di vista del risparmio
+delle risorse pubbliche, anche se di questi tempi, evidentemente,
+di tagli e di
+spending review
+è un fatto molto importante,
+anche perché questi sistemi aperti e gratuiti che vengono
+implementati con la partecipazione degli utenti sono più
+interessanti per la collettività per gli sviluppi che possono dare
+anche soltanto alla crescita della diffusione dell'informatica;
+insomma, preferisco i sistemi aperti e gratuiti a quelli chiusi e
+proprietari. Al di là di quello che preferisco io, è un'indicazione
+generale, si tratta di un'indicazione generale che viene fornita in
+questa materia a livello soprattutto degli obiettivi di risparmio
+sia a livello europeo che statale. Ricordo il famoso decreto
+sviluppo del 2012, nel quale si invitavano le pubbliche
+amministrazioni a tenere in considerazione
+l'Open Source
+e a
+valutare l'utilizzo di queste e soltanto nel qual caso non
+potessero essere utilizzati i
+software
+liberi si poteva
+ricorrere a programmi proprietari, nel senso che andava fatta
+preventivamente una comparazione, anche il codice
+dell'Amministrazione digitale del 2005 tendeva a favorire
+l'utilizzo di queste tecnologie. La stessa Agenda digitale, della
+quale sentiamo spesso parlare, della quale abbiamo sentito parlare
+anche per quanto riguarda la Valle d'Aosta qualche tempo fa in un
+convegno all'università, fornisce indicazioni in questo senso. In
+questi anni l'Amministrazione qualcosa ha fatto: mi riferisco al
+sistema utilizzato per la catalogazione nella biblioteca regionale
+e altre piccole...possiamo chiamarle sperimentazioni. A mio avviso,
+è troppo poco, pertanto ho presentato l'ennesima interrogazione
+sull'argomento per sapere a che punto siamo e quali sono gli
+obiettivi futuri. Grazie.
+Presidente -
+Per la risposta, la parola al Presidente
+Rollandin.
+Rollandin (UV) -
+Oui, merci Président.
+Je remercie le collègue qui avec compétence a voulu rappeler ce
+qui s'est passé pendant ces années, surtout l'effort qu'on a fait
+pour essayer d'aller dans la direction qu'il souhaite aussi avec
+cette interpellation.
+Je viens aux réponses ponctuelles sur les trois points. Pour ce
+qui est du premier point:
+"a quanto ammonta la spesa
+dell'Amministrazione per l'acquisto..."
+, et cetera, la dépense
+globale pour l'achat des licences d'utilisation des logiciels,
+ainsi que pour le fonctionnement des postes de travail, y compris
+les services d'entretien et assistance, a été en 2014 d'environ un
+million et 150 mille euros, IVA incluse, soit un montant inférieur
+à celui des années précédentes, comme vous l'avez rappelé. La
+partie de cette somme relative aux licences d'utilisation des
+produits
+Microsoft
+s'élève, toujours en 2014, à environ
+375.000 euros, une somme de 22 pour cent inférieure à celle
+déboursée en 2012 et de 14 pour cent inférieure à celle de
+2013.
+Pour ce qui est de la deuxième question:
+"sul totale di
+postazioni lavorative presenti nell'Amministrazione regionale,
+quante di queste attualmente utilizzano Microsoft Office e il
+relativo costo"
+, les 2.200 postes de travail de
+l'Administration régionale utilisent tous
+Microsoft Office
+,
+à l'exception de 28 postes de la Bibliothèque régionale, comme vous
+l'avez déjà dit - et vous le savez -, dans le cadre de laquelle un
+projet a été mis en œuvre en vue de
+l'utilisation justement de
+LibreOffice
+et qui utilisent donc
+exclusivement des logiciels libres. Pour ce qui est du montant
+total relatif aux licences d'utilisation des produits
+Microsoft
+, la négociation préalable à la signature du
+contrat pour la période 2014-2016 a permis de ramener pratiquement
+à zéro le poids financier du paquet
+Microsoft Office
+et ce
+jusqu'à la fin de l'année 2016, dans la mesure où le nouveau
+contrat ne prévoit ni l'achat de nouvelles versions successives à
+Microsoft Office 2013
+, ni celui de nouvelles licences.
+"Se intende sviluppare il passaggio dal sistema attualmente
+utilizzato al sistema Open Source e, in caso affermativo, in quali
+tempi e risparmi"
+: pour ce qui est de cette question,
+l'Administration régionale est en train d'introduire le
+LibreOffice
+progressivement sur tous les postes de travail:
+c'est pourquoi au moment du passage à
+Windows 7
+la suite
+LibreOffice
+a été installée sur les postes de travail. Elle
+donc est déjà disponible sur la plupart des ordinateurs régionaux.
+Par ailleurs, le plan de formation 2015 des fonctionnaires
+régionaux propose également un cours consacré à l'utilisation du
+produit
+LibreOffice
+. L'Administration confirme donc qu'elle
+a l'intention de cesser progressivement d'utiliser
+Microsoft
+Office
+d'ici 2017, ce qui lui permettra, comme elle l'a déjà
+fait au cours des années 2014-2016, d'économiser de l'ordre de
+210.000 euros par an, même s'il faudra tenir compte des problèmes
+inhérents au système utilisé jusqu'à présent à savoir: la
+conversion des documents et des feuilles de calcul dans les formats
+natifs de
+LibreOffice
+, ainsi que l'indispensable parcours de
+formation du personnel régional à l'utilisation des logiciels
+libres; le fait est qu'il est impossible pour
+LibreOffice
+d'exécuter bon nombre des fonctions des bases de données élaborées
+sous format
+Microsoft Access
+, que les fonctionnaires de la
+Région utilisent, comme je viens de dire, énormément; l'adaptation
+d'applications complexes qui intègrent des automatismes basés sur
+des produits
+Microsoft
+, comme je le rappelle, sera justement
+le changement qui ira être présenté dans les délais que je viens de
+vous dire. Je crois donc qu'on partage le parcours qui va dans
+cette direction tout en étant impossible de faire un changement
+radical et surtout tout de suite, mais il faut qu'il y ait la
+possibilité de faire ce parcours ensemble pour le fonctionnement et
+l'apprentissage de la part des fonctionnaires de ce nouveau système
+LibreOffice
+. Merci.
+Si dà atto che dalle ore 10,45 assume la presidenza il
+Vicepresidente Rosset.
+Rosset (Président) -
+Pour la réplique, la parole au
+Conseiller Bertin.
+Bertin (ALPE) -
+Grazie Presidente.
+Ringrazio per la risposta, poi le chiederò la documentazione,
+anche perché mi sono un po' perso nei discorsi della sua risposta.
+Spesso ci si chiede dove si può risparmiare, soprattutto in questi
+tempi, come dicevo, di
+spending review
+e di tagli. Questo è
+un settore nel quale si può e si deve risparmiare, ancora oggi
+spendiamo più di un milione di euro in licenze: un milione di euro
+all'anno in licenze informatiche. L'utilizzo di
+software
+liberi è un'occasione di risparmio e per il momento si è fatto
+ancora troppo poco. Dal 2008, da quando presento interrogazioni su
+quest'argomento, abbiamo ridotto francamente...sì, un po', ma in
+modo poco significativo, molto di più andava fatto e molto di più
+bisogna fare. Manca un progetto a medio e lungo termine per la
+migrazione dai sistemi proprietari a quelli
+Open Source
+, un
+programma con delle tempistiche certe e relativi risparmi,
+progettare un passaggio, progettare la migrazione da questo sistema
+all'altro, si tratta di risparmiare denaro pubblico e non solo. Non
+può essere trascurato, anche soltanto per l'aspetto del risparmio,
+come si è detto, perché poi si va a tagliare alla sanità, alla
+scuola dicendo che non si può fare altrimenti. Microsoft, Bill
+Gates, va avanti anche senza i soldi dell'Amministrazione regionale
+e lì possiamo e dobbiamo tagliare. I
+software
+liberi sono
+compatibili, performanti, stabili, personalmente li utilizzo spesso
+e funzionano, non ci sono controindicazioni all'utilizzo. Stiamo
+perdendo tempo, Presidente, intanto in Europa
+l'Open Source
+è ampiamente adottato dalle istituzioni pubbliche e anche in Italia
+molte amministrazioni lo utilizzano in modo sistematico come base
+dei loro programmi informatici: per esempio, l'85 percento dei
+Comuni della Provincia di Bolzano si basano su
+software
+liberi, il 70 percento di quelli toscani, questo per rimanere in
+Italia. In Europa intere Regioni come la Baviera hanno progetti di
+migrazione da un sistema proprietario a quello libero, la stessa
+Gendarmerie
+francese sta migrando su questo sistema, tanto
+per dire che anche dal punto di vista della sicurezza non ci sono
+grandi problemi, per non parlare delle Regioni spagnole, delle
+comunità autonome e di tante altre realtà in Europa, che vanno
+tutte rapidamente in questa direzione, perché c'è un risparmio
+facilmente realizzabile in tempi brevi. Insomma, l'Europa tutta,
+tutte le istituzioni si stanno muovendo e in Valle d'Aosta siamo
+ancora indietro, distanti da quello che avremmo potuto e da quello
+che dovremmo fare. Una situazione che va affrontata, probabilmente
+presenterò anche una risoluzione in questo senso, perché non si può
+continuare a non avere un progetto e a spendere un milione di euro
+all'anno in licenze informatiche. Il risparmio va programmato e va
+programmato in fretta. Non ci siamo, insomma. Grazie.
+Presidente
+- Grazie Consigliere Bertin. Prima di
+proseguire con i lavori, porto a conoscenza dell'Assemblea che sono
+stati depositati sull'ulteriore nuovo testo delle commissioni del
+DL n. 56 gli emendamenti che chiederei di consegnare, nonché la
+relazione del Consigliere Follien sul DL n. 54. Proseguiamo i
+lavori, punto 10 all'ordine del giorno.

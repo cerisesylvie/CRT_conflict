@@ -1,0 +1,154 @@
+Classificazione
+ASSISTENZA SANITARIA E OSPEDALIERA
+Azienda Regionale Sanitaria - U.S.L.
+
+
+
+Oggetto del Consiglio n. 3052 del 5 dicembre 2017 - Resoconto
+OGGETTO N. 3052/XIV - Interrogazione: "Individuazione di
+modalità più snelle per l'accesso al Fascicolo sanitario
+elettronico".
+Rosset (Presidente) -
+Punto n. 9 all'ordine del giorno.
+Per la risposta, ha chiesto la parola l'assessore Bertschy, ne ha
+facoltà.
+Bertschy (UVP) -
+Il collega Cognetta pone l'accento su un
+tema che è particolarmente sentito dagli utilizzatori del fascicolo
+sanitario, che per fortuna sono tanti - abbiamo raggiunto più del
+50 percento di adesioni al fascicolo - che però in certe situazioni
+si scontra con le difficoltà che il fascicolo pone per il suo
+utilizzo. Dividerei in due la risposta, condividendo in pieno la
+sollecitazione dell'interrogazione.
+Le attuali regole di sicurezza alla base dell'utilizzo del
+fascicolo, sono legate a norme che, assunte insieme al Garante
+della
+privacy
+e con gli accordi interregionali, sono fino a
+ora quelli che guidano l'utilizzo di uno strumento, che è sì di
+servizio, ma è anche uno strumento che porta ad avere la conoscenza
+dei dati sensibili. Il codice che viene definito "a tre fattori" è
+quello che attualmente regola questa situazione, e passare al
+livello più basso a oggi non è possibile. Quello che è possibile
+invece cercare di fare - evito una lunga premessa per dire da dove
+si è partiti e dove si è oggi, perché è importante capire cosa
+possiamo fare da oggi in avanti - nell'ottica di andare nella
+direzione che dice lei e che sottopone al Governo, è di
+semplificare ulteriormente l'accesso ai servizi e di ottemperare
+agli obblighi di legge. Nella prossima primavera l'accesso al FSE e
+agli altri servizi sarà progressivamente esteso alle credenziali
+del sistema pubblico di identità digitale SPID, ovvero il nuovo
+sistema di
+login
+nazionale che permette ai servizi
+on
+line
+un'unica identità digitale e da molteplici
+dispositivi.
+Soprattutto credo che interessi in particolar modo
+l'accessibilità al FSE da dispositivi mobili. È in corso da parte
+nostra un'attività di sviluppo di una
+App,
+prevista nella
+relazione di riprogrammazione, che abbiamo approvato con delibera
+il 7 agosto 2017: sviluppo di sistemi per la consultazione in
+mobilità. È attualmente in corso di realizzazione e la speranza è
+di giungere nel più breve tempo possibile a un suo primo
+utilizzo.
+Credo siano importanti i servizi, oltre le chiavi di accesso.
+Tra l'altro prevediamo nel prossimo periodo di fare un nuovo piano
+di comunicazione per spiegare i limiti di questa attuale
+situazione, ma allo stesso tempo spiegare come si possono comunque
+utilizzare questi servizi. Attraverso l'App vogliamo rendere
+disponibili i seguenti servizi: l'autenticazione con SPID, la
+consultazione di documenti sanitari presenti nel FSE, che potrà
+essere di referti di laboratorio, referti di radiologia, referti di
+anatomia patologica, lettere di dimissioni, verbali di pronto
+soccorso. La consultazione dei documenti consegnati on line potrà
+avvenire per la consultazione di esenzioni, consultazione delle
+vaccinazioni, consultazione del profilo sanitario elettronico
+prodotto dal proprio medico di famiglia, consultazione ricette
+farmaceutiche specialistiche dematerializzate e promemoria,
+consultazione prestazioni erogate, accesso al sistema di
+prenotazioni on line per la registrazione, consultazione e
+aggiornamento delle proprie prenotazioni.
+È un lavoro abbastanza ambizioso, sul quale abbiamo posto
+l'accento ancora negli scorsi giorni con alcune riunioni
+specifiche, totalmente finanziato e affidato a INVA che se ne sta
+occupando. È un lavoro che, una volta realizzato, dovrebbe porci in
+linea con chi già sta sperimentando questi servizi, con le regole
+di accesso che attualmente sono previste. Colgo anche l'occasione
+per dirle che in questi giorni è in attività il servizio
+Wi-Fi
+all'ospedale, che era stato sollecitato nei mesi
+scorsi in Consiglio regionale, quindi a breve verrà comunicato
+anche che è stato aggiunto questo servizio.
+Presidente -
+Per la replica, ha chiesto la parola il
+consigliere Cognetta, ne ha facoltà.
+Cognetta (M5S) -
+Assessore, in effetti - come giustamente
+ha ammesso lei - c'è qualche problemino, perché è vero che ci sono
+tre livelli che devono essere rispettati, però è anche vero che c'è
+modo e modo. Il fatto di utilizzare la
+security card
+che dà
+luogo a due codici, che poi devono essere immessi nel PC e così
+via, rende tutto piuttosto macchinoso, soprattutto per chi magari è
+un po' più in là con l'età e non ha molta dimestichezza con certi
+protocolli.
+L'esempio che le ho fatto io nell'interrogazione, di una
+App
+che già funziona in Toscana, come ha superato questo
+problema, pur mantenendo tutte le garanzie sulla
+privacy
+? Ci
+sono dei totem sparsi nelle loro diverse ASL, quindi da noi sarebbe
+nelle diverse sedi della USL, che emettono un
+QR Code
+, un
+codice che, letto attraverso la fotocamera del telefonino, essendo
+un codice univoco (viene espresso un codice diverso per ogni
+persona), attiva la App che si scarica nel telefono ed è fatta
+ad hoc
+per te. In sostanza, con una sola foto, quindi senza
+mettere assolutamente nulla, vieni praticamente introdotto
+all'interno del fascicolo sanitario elettronico, che contiene già
+tutta una serie di cose che si stanno sviluppando in INVA.
+Da qui l'interrogazione. Se esiste già un sistema collaudato,
+perché sono centinaia di migliaia di persone che lo utilizzano, e
+che contiene già questo passaggio, io chiedo - non lo chiedo a lei,
+ma magari lei lo riferisce a chi sta sviluppando - di non trovare
+strade nuove, ma di prendere quelle vecchie e sistemarle a uso e
+consumo della Valle d'Aosta. Magari risparmiamo qualche soldo, ma
+soprattutto superiamo quella fase di
+test
+che c'è ogni volta
+che dobbiamo creare una soluzione nuova. Ogni volta che si crea una
+soluzione nuova, poi c'è tutta una fase di messa a punto, appunto
+perché è una soluzione nuova e quindi non si sa se si trova subito
+quella giusta. Invece, se si prende qualcosa di già fatto e lo si
+modifica, si riesce a implementare il tutto in maniera molto più
+semplice e veloce.
+Io spero che presto supererete questo problema. Capisco che a
+livello nazionale c'è questo sistema che si chiama SPID - se ho
+capito bene - però ci sono sistemi anche molti più semplici, snelli
+e veloci, che in qualche modo mantengono le caratteristiche di
+riservatezza necessarie e obbligatorie per legge, ma al tempo
+stesso sono molto efficaci e semplici da sfruttare.
+L'ultima annotazione. Io credo che gli sforzi che sta facendo la
+USL siano abbastanza positivi. Il problema è che siamo ancora
+troppo legati - questa è una critica non verso di lei, ma in
+generale verso il sistema - a una soluzione sempre univoca:
+scegliamo sempre lo stesso
+partner
+. Non sempre questa è la
+soluzione migliore, Assessore. Di questo se ne deve rendere conto
+anche lei. A volte si può mettere in gara lo stesso partner con
+altri e magari trovare soluzioni più efficaci, più veloci e
+soprattutto meno costose.
+Presidente -
+Prima di proseguire con l'ordine del giorno,
+chiederei di consegnare all'aula le relazioni degli emendamenti
+depositati in merito ai disegni di legge n. 118, n. 120 e n.
+122.

@@ -1,0 +1,211 @@
+Consiglio Regionale della Valle d'Aosta - Oggetto del Consiglio n. 1294 del 11 giugno 2015 - Resoconto
+Vai al contenuto principale
+Oggetti del Consiglio
+Invia
+Stampa
+Documenti
+Verbale
+Resoconto
+Collegamenti
+Iter atto
+Classificazione
+AMMINISTRAZIONE REGIONALE
+INFORMAZIONE
+Sistema informativo
+Precedente
+Successivo
+Resoconto integrale del dibattito dell'aula. I documenti allegati sono reperibili nel link "iter atto".
+Oggetto del Consiglio n. 1294 del 11 giugno 2015 - Resoconto
+OGGETTO N. 1294/XIV - Approvazione di mozione: "Impegno per
+la migrazione degli attuali sistemi informatici
+dell'Amministrazione regionale verso i sistemi "Open
+Source".
+Presidente
+- Chi intende illustrare la mozione? La parola
+al collega Bertin.
+Bertin (ALPE)
+- Grazie Presidente.
+Questo è un argomento della migrazione dal sistema attuale agli
+Open Source
+che abbiamo avuto già occasione di discutere qui
+in Consiglio diverse volte. Personalmente ho presentato negli
+ultimi anni diverse interpellanze e interrogazioni che andavano,
+appunto, nella direzione di sollecitare un maggior utilizzo
+dell'
+Open Source
+nell'Amministrazione regionale, visto che
+di questo ci interessiamo. Molte amministrazioni pubbliche, in
+Italia come in Europa, utilizzano come sistema base
+l'Open
+Source
+, il che comporta dei significativi risparmi e bisogna
+dire che questo è un processo che è iniziato parecchio tempo fa e
+che sta dando dei buoni risultati a molte amministrazioni. Come la
+penso sull'
+Open Source
+ho già avuto occasione di dirlo, ma,
+al di là degli aspetti strettamente finanziari, credo sia un modo
+migliore e partecipativo di vedere l'informatica e gli sviluppi
+legati al
+web
+. Questa mozione pertanto va in quella
+direzione, anche in ragione del fatto che negli ultimi anni i
+risparmi dell'Amministrazione nelle licenze informatiche sono stati
+veramente poco significativi se pensiamo che nel 2010
+l'Amministrazione regionale spendeva 1 milione e 400 mila euro in
+licenze informatiche e che quattro anni dopo la riduzione del costo
+complessivo è di circa 200 mila euro. Il passaggio dal sistema
+attuale al sistema
+Open Source
+è comunque un
+passaggio...come si dice? una migrazione piuttosto complessa, che
+richiede evidentemente anche dei tempi non lunghi, ma medi, ma qui
+mi sembra, francamente, che ci stiamo prendendo un po' troppo
+lentamente...soprattutto se si fa il paragone con altre realtà. È
+per questo che questa volta, invece di un'interpellanza o
+un'interrogazione, abbiamo presentato questa mozione, che va
+proprio in quest'ottica di impegnare la presidenza della Regione
+nel realizzare nei prossimi sei mesi - ma il tempo, da questo punto
+di vista, è molto relativo -, avvalendosi dell'INVA, in quanto è
+una società
+in house
+che si occupa per suo statuto di questi
+aspetti informatici, uno studio tecnico ed economico sulla
+fattibilità e la tempistica ed economicità della migrazione dagli
+attuali sistemi informatici verso i sistemi
+Open Source
+. Non
+la faccio più lunga, perché, come ho detto, è un argomento che
+abbiamo trattato e di cui abbiamo già avuto occasione di parlare,
+mi fermo qui. Grazie.
+Presidente
+- Grazie collega Bertin. Siamo in discussione
+generale del punto 44. Chi intende prendere la parola? Non c'è
+nessuno che chiede la parola? Chiudiamo la discussione generale.
+Per la replica, la parola all'Assessore Marguerettaz.
+Marguerettaz (UV)
+- Grazie Presidente.
+Il collega Bertin porta all'attenzione dell'aula con questa
+mozione un tema che per sua stessa ammissione è stato già tante
+volte affrontato ed è un argomento che deve essere valutato, mi
+permetterà, senza un approccio ideologico, perché sicuramente
+l'Open Source
+è un tema che evoca la libertà, che evoca la
+soppressione di barriere di ingresso, che evoca la possibilità per
+tutti di fare tutto. In realtà, il collega Bertin è decisamente
+preparato su quest'argomento e sa che anche questo mondo è un mondo
+particolare, insomma, vi è una letteratura abbastanza diffusa da
+cui emerge che tutta una serie di piattaforme
+Open Source
+sono addirittura finanziate dalle stesse case di
+software
+,
+che ovviamente non lo fanno per fare beneficienza, ma hanno
+ovviamente delle necessità e hanno degli obiettivi.
+Una precisazione che fanno gli uffici, probabilmente c'è stato
+un
+misunderstanding
+nel precedente Consiglio, quando si
+parlava di 1 milione e 150 mila di spesa dell'Amministrazione
+regionale, questa spesa comprende sì l'acquisto delle licenze, ma
+comprende anche il costo per tutta l'attività informatica, ivi
+compresa la manutenzione e l'assistenza per le postazioni di
+lavoro. Rispetto quindi a quest'argomento e fatte queste dovute
+precisazioni, il Governo regionale, i servizi, sono nella
+condizione di poter tranquillamente aderire a questa mozione e si
+può aderire, si può votare questa mozione, perché diversi settori
+della Pubblica Amministrazione stanno già lavorando in tal senso,
+mi hanno fatto tutta una serie di esempi...qua, siccome c'è un
+argomento che ricorre sovente, che è quello delle biblioteche
+regionali...già nel 2013 è stata avviata una sperimentazione per
+l'uso della
+suite LibreOffice
+all'interno della biblioteca
+regionale, così come sono già stati avviati tutta una serie di
+studi per poter convertire tutta la documentazione, tutte le
+cartelle che sono a disposizione della pubblica amministrazione
+verso queste piattaforme
+Open Source
+. Nello specifico...noi,
+se vogliamo fare delle valutazioni dei prodotti
+Open Source
+di tipo tecnico, a livello di
+application server
+abbiamo dei
+prodotti che sono Linux, Jboss, Orchard, Alfresco e, rispetto ai
+database
+e
+server
+, MySQL, Postgre e via
+discorrendo...per cui torno a dire che è un argomento importante,
+sono stati già presi contatti con altre pubbliche amministrazioni,
+nello specifico il Comune di Torino, ed ecco perché, essendo nel
+solco dell'attività che stiamo svolgendo, possiamo votare
+tranquillamente questa mozione, perché è coerente con l'attività
+svolta.
+Presidente
+- Altri? La parola al collega Bertin.
+Bertin (ALPE)
+- Grazie Presidente.
+Evidentemente sono soddisfatto del fatto che si approvi la
+mozione in questione, anche perché sono anni che sollecito
+un'accelerazione di questo processo di migrazione da un sistema
+all'altro, che, come ho sottolineato, da questo punto di vista, al
+di là di quello che personalmente uno può pensare sull'
+Open
+Source
+, di fatto consente di risparmiare delle risorse
+significative per le pubbliche amministrazioni. Avevo già in
+passato sollecitato il fatto che sarebbe stato necessario
+creare...entrare in quelle reti di enti pubblici che stanno
+utilizzando questi sistemi a codice aperto, anche perché una delle
+problematiche è proprio quella poi dell'aggiornamento e della
+manutenzione di questi programmi, che all'interno di queste reti di
+Comuni, Province e Regioni che si stanno creando, che si sono già
+create nel tempo, possono permettere anche di risolvere i problemi
+ed essere più efficaci senza aumentare i costi. Il fatto che state
+finalmente collaborando con il Comune di Torino, a quanto pare...ma
+vi sollecito ad aumentare - esistono reti ormai costituite in
+Europa tra Enti pubblici che utilizzano questi sistemi - appunto la
+partecipazione in questo senso. L'importante è che questo studio da
+realizzare serva per accelerare i tempi, per avere una tempistica e
+anche per rendersi conto di quanto poi il risparmio è effettivo.
+Grazie.
+Presidente
+- Grazie. Prima di aprire la votazione vorrei
+solo fare una comunicazione di servizio. Ho fatto distribuire tre
+testi di risoluzioni, che sono state presentate alla Presidenza per
+l'iscrizione all'ordine del giorno. Passiamo ora alla
+votazione...no, ancora la parola al collega Donzel.
+Donzel (PD-SIN.VDA)
+- Per dichiarazione di voto e per
+ringraziare il collega Bertin della presentazione efficace rispetto
+a questo tema. Al di là della battuta dell'Assessore rispetto alle
+letture più o meno ideologiche, non so che cosa possa apparire più
+o meno ideologico, ma è certo che quello che richiamava anche il
+collega Bertin - come poi ha riconosciuto lo stesso Vicepresidente
+- è l'idea che, riuscendo ad attuare, ad utilizzare il
+software
+libero, come ad esempio è avvenuto per legge nella
+Regione Puglia, è possibile avere dei risparmi significativi di
+amministrazione e questa è una cosa di cui poi beneficiano tutti i
+cittadini. Dipenderà poi naturalmente dalle amministrazioni farne
+un utilizzo che abbia la sua ricaduta sulle fasce più deboli o
+sullo sviluppo dell'Amministrazione, del territorio in cui
+l'Amministrazione insiste. Dal nostro punto di vista, quindi è una
+strada che va percorsa fino in fondo.
+Presidente
+- Ringrazio il collega Donzel. Passiamo alla
+votazione del punto 44. La votazione è aperta. La votazione è
+chiusa.
+Presenti: 34
+Votanti: 34
+Favorevoli: 34
+Il Consiglio approva la mozione all'unanimità.
+Informativa cookies
+Consiglio Regionale della Valle d'Aosta © 2025
+Questo sito utilizza cookies propri e di terze parti. Continuando ad usare questo sito, acconsenti all'utilizzo di questa tecnologia.
+Consulta la nostra
+informativa
+per maggiori informazioni e per istruzioni su come disattivare i cookies.
+OK
